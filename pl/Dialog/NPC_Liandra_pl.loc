@@ -1,0 +1,104 @@
+Plh_51 { Dzisiaj będziemy walczyć na arenie. }
+
+Plh_35 { Jak mogę stać się tak silny jak ty? }
+
+Plh_8 { Mam trochę Rustmoss. Jesteś zainteresowany? }
+
+Plh_56 { Mam dla ciebie jeszcze trochę Rustmoss. }
+
+Plh_50 { Nemetońskie śmieci... Pokażę ci! }
+
+Plh_52 { Do zobaczenia na arenie! }
+
+Plh_53 { Nie mogę się doczekać walki. Upewnij się, że dobrze się przygotujesz i zapewnij mi rozrywkę. }
+
+Plh_54 { Kilian dobrze dba o swój lud. Zobaczmy, z jakiego materiału jesteś zrobiony. }
+
+Plh_57 { Zobaczmy to! }
+
+Plh_58 { Nie przejmuj się. }
+
+Plh_59 { Myślę, że dzięki temu walka będzie ciekawsza. }
+
+Plh_60 { Dobrze, pokażę ci. }
+
+Plh_25 { Czy wiesz coś o tym, który zawsze trenuje w Upper Quarter? }
+
+Plh_37 { *wzdycha* $GVAR:EVars_Liandra.AttributeCosts$ monet. }
+
+Plh_40 { Tyle monet?! }
+
+Plh_41 { Mam nadzieję, że warto. Tutaj. }
+
+Plh_42 { Nie mam aż tak wielu monet. }
+
+Plh_43 { Nie mogę wyszkolić każdego Hewera ot tak. Musisz mi za to zapłacić. }
+
+Plh_45 { Doskonale. Dotrzymam słowa. }
+
+Plh_44 { Nie oszukasz mnie. To nie wystarczy. }
+
+Plh_46 { Wróć, gdy będziesz miał monety. Muszę trenować. }
+
+Plh_4 { Czego chcesz? }
+
+Plh_6 { Aby Cię poznać. }
+
+Plh_5 { Hmm, czemu nie. Ale tak naprawdę moja reputacja powinna mnie wyprzedzać. Jestem Liandra. }
+
+Plh_48 { Powiedz, czy Boris cię przysłał? }
+
+Plh_9 { Nie, kim jest Boris? }
+
+Plh_67 { Kim jest Boris? }
+
+Plh_11 { Nie mam czasu przedstawiać Cię przypadkowym osobom... }
+
+Plh_66 { Cholera! Myślałem, że to on cię przysłał. Znajdziesz Borisa przy wejściu do obozu. }
+
+Plh_13 { Na koniec — znowu trochę dobrego! No to odpuść sobie. Muszę od razu iść na arenę. }
+
+Plh_14 { Co dzieje się na arenie? }
+
+Plh_17 { Co to ma wspólnego z Rustmoss? }
+
+Plh_20 { Proszę. To są monety $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$. }
+
+Plh_21 { Możesz mieć Rustmoss za darmo. }
+
+Plh_16 { Co się tam dzieje? Bitwy, oczywiście! Miejsce, w którym stajesz się nieśmiertelny! Pewnego dnia opowiedzą historie o Liandrze, wojowniczce. Legendzie w Drova. Kto wie — może kiedyś staniemy naprzeciwko siebie na arenie. }
+
+Plh_15 { Rustmoss pomaga większości ludzi się zrelaksować lub stać się bardziej towarzyskim. Ale na mnie działa inaczej. Staję się agresywny, silniejszy i mniej wrażliwy na ból. To jak sen — taki, który kończy się rozlewem krwi. Krwi innych. }
+
+Plh_18 { To brzmi — niezdrowo. Zwłaszcza dla wszystkich innych. }
+
+Plh_19 { Widzę to jako dar, który prowadzi mnie do chwały. Więc, masz jakiś czy nie? }
+
+Plh_22 { Oddaj to. Musi być tego warte dla mnie. A teraz spadaj — chyba że zamierzasz walczyć sam ze sobą. }
+
+Plh_23 { Ach, to jest mój rodzaj wsparcia! Poświęcę ci moje następne zwycięstwo! }
+
+Plh_65 { Nie do końca podoba mi się fakt, że mistrzem na arenie jest ktoś z Nemetonu, ale tak nie pozostanie. }
+
+Plh_64 { Cieszę się, że Ada nie jest już mistrzynią areny. Najwyższy czas. Dobra robota. }
+
+Plh_63 { Walczyłeś dobrze. Przypuszczalnie nie obijałeś się po prostu w Nemeton. }
+
+Plh_62 { Wygrałeś. Walczyłeś dzielnie. }
+
+Plh_26 { Masz na myśli Farlana? Nie jest człowiekiem wielu słów. Rozłożyłem tę Gra na tej samej arenie. Walczyłem jak bestia — prawdopodobnie mu zaimponowałem. }
+
+Plh_27 { Potem przyszedł i chciał ze mną walczyć. Mógł. Kiedy był w stanie znowu chodzić, zaczął bezlitośnie trenować. }
+
+Plh_28 { Wygląda na to, że spodziewa się rewanżu... }
+
+Plh_30 { Może mieć jednego. Będę go bić tyle razy, ile zechce. Może jakoś mu się to podoba... Ale przynajmniej ma determinację — coś, czego bardzo brakuje wszystkim tym marudom w Drova. }
+
+Plh_31 { Potrzebuję jego głosu. Ale on ignoruje moje gryzienie. }
+
+Plh_32 { Masz jakiś pomysł, jak mogę go do siebie przekonać? }
+
+Plh_33 { Hmm, może możesz z nim potrenować. To mogłoby go do ciebie przekonać. Ale musisz mieć coś na piłce. Może nie tak dużo jak ja, ale przynajmniej trochę. }
+
+Plh_34 { Skąd mam to wiedzieć? }
+

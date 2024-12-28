@@ -1,0 +1,44 @@
+Title { Krew i żelazo na arenie }
+
+Entry_00_Eugen { Eugen mówi mi, że mogę zdobyć chwałę i monety na arenie. Jeśli jesteś zainteresowany, mam się zgłosić do Antoniusa Proximusa. }
+
+Entry_00_Boris { Boris mówi mi, że mogę zdobyć chwałę i monety na arenie. Jeśli jesteś zainteresowany, mam się zgłosić do Antoniusa Proximusa. }
+
+Entry_00_Nemeton { W obozie Remnants jest arena. Jeśli chcę walczyć, powinienem zgłosić się do Angusa. }
+
+Entry_00_Nemeton_Start { Angus pozwoli mi walczyć na arenie dopiero po pokonaniu Kati i Festera. }
+
+Entry_00_Nemeton_Kati { Kati nie stanowiła dla mnie problemu. }
+
+Entry_00_Nemeton_Fester { Walczyłem bardziej zawzięcie niż Fester. Nie miał szans. }
+
+Entry_01_Nemeton { Mogę walczyć dla Nemetonu na arenie. Walki organizuje Antonius Proximus. Mam się do niego zgłosić, jeśli chcę walczyć. }
+
+Entry_01_A { Zanim pozwolono mi walczyć dla Proximusa na arenie, muszę mu udowodnić, że mam coś do piłki. Mam pokonać Moga. Zazwyczaj gdzieś trenuje. }
+
+Entry_01_AA { Proximus chce mnie jako wojownika. Po wieczornej walce mam się z nim spotkać poza areną. }
+
+Entry_01_B { Teraz należę do wojowników Proximusa. Mogę walczyć na arenie dopiero po pokonaniu Carima, Blaan i Dark. }
+
+Entry_02 { Dwuręczna broń Blaana nie miała wystarczającej mocy. Zwycięstwo było moje. }
+
+Entry_03 { Carima nie mogła się ukryć za swoją tarczą. Wygrałam. }
+
+Entry_04 { Pokonałem Moga. Powinienem powiedzieć Proximusowi. }
+
+Entry_05 { Pokonałem Darka. }
+
+Entry_07 { Nareszcie! Mogę walczyć na arenie — przed widzami! Mam walczyć z Ebru i zapłacić wpisowe Proximusowi. To $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ monet. }
+
+Entry_08 { Moje pierwsze zwycięstwo. I wszyscy to widzieli! Moim kolejnym przeciwnikiem jest Liandra. Powinienem się dobrze przygotować i zapłacić Proximusowi wpisowe. To $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ monet. }
+
+Entry_09 { Pokonałem Liandrę, a teraz mam zmierzyć się z Sinistrą. Jeszcze jeden przeciwnik, zanim rzucę wyzwanie mistrzowi areny. Proximus spodziewa się mojej opłaty wpisowej w wysokości $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ monet. }
+
+Entry_10 { Tłum wiwatował! W końcu — stanę do walki z Adą, mistrzynią areny. Dam radę. Proximus żąda opłat za wstęp w wysokości $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ monet za tę ostateczną bitwę. }
+
+Entry_11 { Jestem mistrzem areny i pokonałem Niepokonaną Adę. Teraz jestem na szczycie świata! }
+
+Entry_07_AcceptArenaFight { Zapłaciłem Proximusowi opłatę wstępu. Mam być na arenie następnego wieczoru o dziewiątej. }
+
+Entry_06_RepeatLose { Przegrałem i mam się zgłosić do Proximus na rewanż. }
+

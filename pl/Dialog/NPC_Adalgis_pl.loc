@@ -1,0 +1,156 @@
+Plh_42 { Po co ci te monety? Dlaczego to robisz? }
+
+Plh_41 { Eee, tak... Aleka? }
+
+Plh_43 { To nie twoja sprawa. }
+
+Plh_44 { Powiedz mi teraz, albo wyduszę to z ciebie pięścią. }
+
+Plh_46 { Chcę tylko wiedzieć, dlaczego okradacie Hewersów, którzy jadą do Pit. }
+
+Plh_47 { Hej, spokojnie. Nie chcemy żadnych kłopotów z tobą. }
+
+Plh_49 { *wzdycha* Tak naprawdę mieszkamy w górach. Ale nasza siostra Geli zachorowała. Poszliśmy do druida i... }
+
+Plh_50 { Hej, Adalgis, to tylko między nami. }
+
+Plh_52 { Kim jest Geli? }
+
+Plh_53 { Więc po prostu chcesz pomóc Geli? }
+
+Plh_55 { To nie twoja sprawa. Spadaj! }
+
+Plh_48 { Ci biedni Hewers! To śmieszne — oni to wybrali; CHCĄ być wykorzystywani. Tylko Jero i jego ludzie na tym skorzystali. }
+
+Plh_61 { Czy słaba kobieta w twoim namiocie jest twoją siostrą? }
+
+Plh_64 { *wzdycha* Geli jest bardzo chora. Nie wiemy, co ma. }
+
+Plh_65 { Poszliśmy do druida i dał nam przepis na miksturę leczniczą. Większość składników już mamy, ale... }
+
+Plh_88 { Dość już. To sprawa rodzinna. Zostawcie nas w spokoju. }
+
+Plh_89 { Nie będziemy już okradać żadnych Hewersów, macie nasze słowo. }
+
+Plh_91 { Trzymajcie się od nas z daleka. }
+
+Plh_68 { Mam to, czego szukałeś. }
+
+Plh_67 { C-co? Skąd o tym wiesz!? }
+
+Plh_69 { Nieważne skąd to mamy. Czy to naprawdę serce niedźwiedzia i ten dziwny lotos? }
+
+Plh_70 { Wszystko wygląda tak, jak opisał to druid. Szybko przygotuję... }
+
+Plh_71 { Powinno zadziałać! }
+
+Plh_92 { Daj mi to, zaniosę to Geli. }
+
+Plh_72 { Masz, Geli, to ci pomoże... }
+
+Plh_93 { Powoli. Wystarczy. }
+
+Plh_73 { Działa? Aleka? Geli? }
+
+Plh_94 { Ona to powstrzymuje, to dobry znak. Jak powiedział druid, jest spokojniejsza, a jej oddech zwalnia. }
+
+Plh_96 { Dziękuję. Myślę, że uratowałeś życie naszej siostrze. Gdyby nie ty... }
+
+Plh_97 { Co dokładnie ma Geli? }
+
+Plh_101 { Cieszę się, że mogłem pomóc. }
+
+Plh_98 { Zawsze była słabsza od innych. Nie miała dobrego dzieciństwa. Po prostu leżała w łóżku, tak jak teraz. }
+
+Plh_99 { Dlatego Aleka i ja chcieliśmy pokazać jej las. Wymknęliśmy się z nią. Nigdy nie widzieliśmy jej tak szczęśliwej. Nigdy wcześniej nie opuszczała wioski. }
+
+Plh_100 { Potem wszystko było mgliste i zawróciliśmy. Tak oto tu trafiliśmy. To nasza wina, że ​​ona tu jest. Chcieliśmy jej pomóc... }
+
+Plh_102 { Dziękuję... Nie mamy wiele, ale uratowałeś naszą siostrę, a dla mnie nie ma nic ważniejszego niż to. }
+
+Plh_103 { To jest symbol naszego plemienia. Ma starożytną moc. Wiele dla mnie znaczy i chcę, żebyś go miał. }
+
+Plh_104 { Dziękuję za wszystko. }
+
+Plh_105 { Dziękuję za talizman. Będę go dobrze strzegł. }
+
+Plh_106 { I dbaj także o siebie. }
+
+Plh_75 { Dobrze. Nie będziemy się już wygłupiać. }
+
+Plh_84 { Nie chcemy żadnych kłopotów. }
+
+Plh_87 { Już nam nie uciekniesz! }
+
+Plh_0 { Hej, nie widziałem wcześniej twojej twarzy. Gdzie idziesz? }
+
+Plh_10 { Idę do Pit. }
+
+Plh_11 { Po prostu się rozglądam. }
+
+Plh_12 { Muszę iść. }
+
+Plh_13 { W takim razie jesteś we właściwym miejscu, już prawie tam jesteś. Po prostu podążaj ścieżką. }
+
+Plh_16 { Dziękuję. Dobrze wiedzieć. }
+
+Plh_17 { Lepiej będzie, jak wrócę. }
+
+Plh_18 { Jeśli chcesz przejść tędy, będziesz musiał zapłacić nam $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ monet. Nie lubimy tego robić, ale potrzebujemy monet. Albo zapłacisz nam... }
+
+Plh_19 { Albo co? }
+
+Plh_21 { Oto monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$. }
+
+Plh_22 { Nie mam przy sobie wystarczającej ilości monet. }
+
+Plh_20 { Nic ci nie zapłacę. }
+
+Plh_24 { *marszczy brwi* Albo po prostu je weźmiemy. }
+
+Plh_40 { Dobrze, możesz przejść. Szybko odzyskasz monety w Pit. }
+
+Plh_25 { Spokojnie, sprawdzimy tylko, ile masz przy sobie monet, a potem zabierzemy Ci tyle, ile nam się należy. }
+
+Plh_26 { Nie waż się... }
+
+Plh_23 { Oczywiście, że możesz to zrobić, ale skoro już tu jesteś, będziemy potrzebować od Ciebie $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ monet. Albo nam zapłacisz... }
+
+Plh_14 { Więc bądź ostrożny. Niebezpieczeństwo czyha. Tutaj poluje grupa rozpruwaczy. Powinieneś kupić lepszy sprzęt. Możesz to zrobić w Pit. Po prostu kieruj się w tamtą stronę. }
+
+Plh_15 { Hej, zaczekaj. Jeśli będziesz szedł dalej tą drogą, dotrzesz do Pit. }
+
+Plh_107 { Geli czuje się lepiej — dzięki tobie. }
+
+Plh_6 { Hej, nie chcemy żadnych kłopotów. Wychodzimy stąd. Jasne? }
+
+Plh_7 { Opuść to miejsce. }
+
+Plh_8 { Już nas nie ma. Już nas nie zobaczysz. }
+
+Plh_4 { Wynoś się stąd. Zapłaciłeś i teraz możesz przejść. }
+
+Plh_28 { Wyjdź stąd. }
+
+Plh_29 { Nie ma tu dla ciebie miejsca. }
+
+Plh_38 { Do czego potrzebne są Ci monety? }
+
+Plh_30 { Nie możemy opuścić tego miejsca. Potrzebujemy monet. }
+
+Plh_32 { Co chcesz zrobić? }
+
+Plh_33 { Pokażę wam obojgu, że jestem silniejszy od każdego z was. }
+
+Plh_34 { Nie będziesz już więcej okradał Hewersów. }
+
+Plh_85 { Nieważne. }
+
+Plh_35 { Chciałbym to zobaczyć... }
+
+Plh_86 { No to w drogę. }
+
+Plh_39 { Nie bądź taki wścibski. Upewnij się, że robisz ślady. }
+
+Plh_9 { Hej, skończyliśmy. Czego jeszcze chcesz? }
+

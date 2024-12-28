@@ -1,0 +1,78 @@
+Title { Samouczki }
+
+IsTrader { Kupiec }
+
+Category_Basics { Podstawy }
+
+Category_Journal { Dziennik }
+
+Category_Combat { Walka }
+
+Category_Items { Rzeczy }
+
+Name_Movement { Ruch }
+
+Name_Perception_01 { Tryb śledztwa: Rozejrzyj się }
+
+Name_Perception_02 { Tryb śledztwa: odkryj }
+
+Name_Perception_03 { Tryb dochodzenia: Zbadaj }
+
+Name_Interact { Wzajemne oddziaływanie }
+
+Name_Stealing { Kradzież }
+
+Name_Crafting { Rzemiosło }
+
+Name_LevelUp { Wyrównywanie poziomów }
+
+Name_ChangeStance { Zmień postawę }
+
+Name_StatusEffects { Udręki }
+
+Name_UsedHealItem { Gojenie : zdrowienie }
+
+Name_Journal { Wpisy do dziennika }
+
+Name_FirstNote { Notatki }
+
+Name_FirstTreasure { Mapy skarbów }
+
+Name_Dodge { Unik }
+
+Name_SecondWeapon { Zmień broń }
+
+Name_Abilities_02 { Umiejętności }
+
+Name_BattleBuddies_Blocks { Blok }
+
+Name_BattleBuddies_Combos { Kombinacje }
+
+Name_BattleBuddies_GetFlow { Centrum }
+
+Name_BattleBuddies_Spell { Zaklęcia }
+
+Name_NeedMunition { Amunicja }
+
+Name_Secondaries { Akcje wolnej ręki }
+
+Name_PoiseBreak { Pozycja sportowa }
+
+Name_LookDirectionCombat { Linia widzenia w walce }
+
+Name_FirstHeal { Gojenie : zdrowienie }
+
+Name_FirstFood { Żywność }
+
+Name_FirstGoodFood { Bogate jedzenie }
+
+Name_FirstWeapon { Typy broni }
+
+Name_FirstRangeWeapon { Broń dystansowa }
+
+Name_FirstConsFlow { Zwoje }
+
+Name_FirstThrow { Materiały eksploatacyjne }
+
+Name_FistRecipe { Przepisy }
+

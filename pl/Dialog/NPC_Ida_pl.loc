@@ -1,0 +1,124 @@
+Plh_7 { Co tu robisz? }
+
+Plh_9 { Pracuję. }
+
+Plh_8 { Nie wyglądasz, jakbyś pracował. }
+
+Plh_12 { A ty nie wyglądasz na kogoś, kto powinien gadać bez sensu. }
+
+Plh_14 { Wypad stąd. Mam coś do zrobienia. }
+
+Plh_11 { Nad czym pracujesz? }
+
+Plh_13 { Nie twoja sprawa. }
+
+Plh_6 { Czego ode mnie chcesz? }
+
+Plh_65 { *ziewa* O, hej, ty. }
+
+Plh_62 { A jeśli nic więcej nie ma... Mam coś do przekazania. }
+
+Plh_16 { Hej, ty tam! Ręce precz od moich rzeczy! }
+
+Plh_17 { Twoje rzeczy? }
+
+Plh_21 { Czym jest rustroot? }
+
+Plh_20 { Nie widzę twojego nazwiska na żadnej z tych roślin. }
+
+Plh_18 { Dobrze, pójdę. }
+
+Plh_19 { Korzeń rdzy! }
+
+Plh_22 { *mruga* Skąd się wziąłeś? Rustroot to to, czego używamy do robienia Rustmoss. Wędzimy go. Żeby się zrelaksować. }
+
+Plh_23 { A to jest mój rdzawy korzeń! }
+
+Plh_24 { Zarezerwuję dla Ciebie ładną działkę na cmentarzu! }
+
+Plh_26 { Oddaj mi $GVAR:EVars_Ida.RustmossPicked$ łodygi rdzy, które ukradłeś! }
+
+Plh_27 { Dlaczego? Znalazłem je tutaj. }
+
+Plh_28 { Spokojnie. Weź to. (daj $GVAR:EVars_Ida.RustmossPicked$x łodyg rdzy) }
+
+Plh_29 { Zapomnij! Teraz należą do mnie. }
+
+Plh_30 { Ale ja je znalazłem pierwszy! Zaczynasz działać mi na nerwy... }
+
+Plh_31 { Bardzo rozsądne. Może jest jeszcze dla ciebie nadzieja. }
+
+Plh_32 { Do czego Ci to potrzebne? }
+
+Plh_50 { Gdzie mogę znaleźć Delani? }
+
+Plh_34 { Sprzedaję je Delani. Ona bardzo dobrze za nie płaci. }
+
+Plh_35 { Ale to tutaj należy do mnie, prawda? }
+
+Plh_51 { W Georgefarm. Ona pracuje dla niego. }
+
+Plh_52 { Nie słyszałeś tego ode mnie. }
+
+Plh_36 { Zrób to. A na przyszłość trzymaj ręce z daleka od mojego rustroot! }
+
+Plh_37 { *zgrzyta zębami* Cóż, prawdopodobnie nie nauczysz się tego w żaden inny sposób... }
+
+Plh_39 { Dam ci nauczkę. }
+
+Plh_40 { Zobaczymy. }
+
+Plh_25 { Nie tak szybko! Myślisz, że ujdzie ci na sucho MOJE rustroot? }
+
+Plh_41 { Hej! Nadal jesteś mi winien rustroot! }
+
+Plh_45 { Myślałem, że się zrozumieliśmy! Oddaj rustroot i wynoś się stąd! }
+
+Plh_49 { Nie jesteś taki głupi, na jakiego wyglądasz. Teraz pozwól mi pracować. }
+
+Plh_48 { *wzdycha* Cóż, jak mawiają: Kto żałuje rózgi, ten i dziecko rozpieszcza. }
+
+Plh_42 { Szukasz więcej kłopotów? Wynoś się stąd! To mój teren! }
+
+Plh_43 { *bez tchu* Ty... Ty mnie właśnie powaliłeś! }
+
+Plh_66 { Miejmy nadzieję, że wyciągnąłeś wnioski. }
+
+Plh_67 { Moja góra. Moje zasady. Mój rdzawy korzeń. }
+
+Plh_68 { Rób co chcesz. To coś tutaj i tak smakuje jak gówno! }
+
+Plh_69 { Więc. Kto jest właścicielem tej góry? }
+
+Plh_71 { Co-co? }
+
+Plh_73 { Słyszałeś mnie. Powiedz to. }
+
+Plh_78 { Zapomnij. Muszę iść. }
+
+Plh_72 { T-twoja góra. T-twoje zasady. T-twój r-rdzawy korzeń. }
+
+Plh_75 { To prawda. }
+
+Plh_76 { Dobrze powiedziane. A teraz wynoś się stąd. }
+
+Plh_77 { W-dobrze. }
+
+Plh_79 { Uff. *wyciera pot z czoła* }
+
+Plh_80 { *złapała oddech, gdy cię rozpoznała* Twoja góra. Twoje zasady. Twój rdzawy korzeń. }
+
+Plh_15 { Co teraz? }
+
+Plh_58 { Nie mam czasu, żeby znowu z tobą walczyć. Teraz jestem zajęty pracą dla Asmusa. }
+
+Plh_59 { Znowu ty... Teraz pracuję dla Asmusa. Tym razem nie będziesz grzebał w moich rzeczach. }
+
+Plh_60 { Nie mogę dalej gadać. Muszę zrobić dostawę. }
+
+Plh_63 { Nudzisz mnie na śmierć. *ziewa* }
+
+Plh_64 { Ktoś zajął się bandytami na moście. Nareszcie mogę znów ruszyć w drogę! }
+
+Plh_5 { Ty tam! Ręce precz! }
+

@@ -1,0 +1,22 @@
+ExpPoints { Punkty doświadczenia }
+
+Name_Strength { Wytrzymałość }
+
+Name_Mind { Umysł }
+
+Name_Dex { Zręczność }
+
+Name_Armor { Zbroja }
+
+Name_MagicResist { Odporność na magię }
+
+Learned { Uczony }
+
+LearnPoint { Punkt nauki }
+
+LearnPoints { Punkty edukacyjne }
+
+MaximumHealth { Maksymalne zdrowie }
+
+Name_Orientationpunkt { Baza skupienia }
+

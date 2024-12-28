@@ -1,0 +1,152 @@
+Plh_5 { Muszę zająć się jedzeniem. Porozmawiamy później. }
+
+Plh_15 { Jak się masz? Czy jesteś poważnie ranny? }
+
+Plh_69 { Hej, Bruna — co tu robisz? }
+
+Plh_50 { Musimy się wydostać. I, no tak, teraz! }
+
+Plh_112 { Hej, Bruna! Jak się dzisiaj masz? }
+
+Plh_114 { Miło, że pytasz $GVAR:EVars_Player.Name$ ... Czuję się już dobrze, mniej więcej. Nadal trochę boli, gdy się ruszam, ale jestem twardszy, niż wyglądam. }
+
+Plh_115 { Ałć, ach moje żebro... }
+
+Plh_116 { Idź powoli. Twoje ciało potrzebuje czasu, żeby się zagoić. }
+
+Plh_117 { Nie wydajesz mi się taki twardy. }
+
+Plh_118 { Masz rację... }
+
+Plh_119 { Odpocznę trochę. Lepiej weź się do roboty — może dziś naprawdę znajdziesz to, czego szukają. }
+
+Plh_14 { *jęczy* Ach... Ja... Ja jestem w porządku. Nic nie jest złamane — myślę. Proszę się nie martwić. }
+
+Plh_16 { Przepraszam, że nie mogłem być wcześniej. }
+
+Plh_18 { Odwdzięczę się Lanzo... }
+
+Plh_26 { *uśmiecha się* To nie twoja wina... }
+
+Plh_27 { Ja... Wolałbym to zrobić sam... }
+
+Plh_70 { *uśmiecha się* Miło cię widzieć. Wszystko jest teraz inne... Wyjechałam do Nemetonu — jestem wolna. I powinnam być szczęśliwa, ale... }
+
+Plh_72 { Ty i Dalin... Wy dwaj teraz pracujecie razem? }
+
+Plh_73 { Wszystko jest lepsze niż bycie uwięzionym w jaskini. }
+
+Plh_74 { Dalin powiedział, że możemy spróbować szczęścia w Nemeton. Czemu nie...? }
+
+Plh_75 { Dokładnie. Ja też wciąż muszę dojść do siebie po wszystkim — to była gehenna. Dzięki za wszystko. }
+
+Plh_29 { Dlaczego nie musisz iść do Pitu jak wszyscy inni? }
+
+Plh_34 { Jak się tu znalazłeś? }
+
+Plh_30 { Każą mi dbać o zapasy, mimo że znam się na kilofie o wiele lepiej niż niektórzy z tych słabeuszy. Ale przynajmniej tutaj nie jest niebezpiecznie. }
+
+Plh_120 { Jeśli Ty również potrzebujesz prowiantu, przyjdź do mnie po swojej zmianie. }
+
+Plh_46 { *wzdycha* To po prostu przeznaczenie. }
+
+Plh_47 { Jaki los? }
+
+Plh_36 { Wędrowałem po Red Moor z moim bratem Liamem. Nie mieliśmy już jedzenia, a wszędzie było pełno krwiożerczych much. A Liam, cóż... }
+
+Plh_37 { Broniliśmy się, a Liam włożył w to całą swoją siłę. Potem natknęliśmy się na tych mężczyzn tutaj. Pomogli nam... dali nam jedzenie... }
+
+Plh_38 { Myśleliśmy, że jesteśmy bezpieczni... }
+
+Plh_40 { Nie wydają się być do końca godni zaufania. }
+
+Plh_41 { To był błąd. }
+
+Plh_42 { Byliśmy u kresu sił i nie mieliśmy wyboru... }
+
+Plh_107 { Chcieli nas wciągnąć do tej jaskini. Byłem wyczerpany i nie mogłem już ustać. Wtedy Liam walczył ostatnim oddechem, krzycząc, że nie zamierza tego znieść... }
+
+Plh_43 { Radził sobie, ale było ich zbyt wielu... }
+
+Plh_108 { Był tak dobrym człowiekiem. Zawsze dbał o wszystkich. Stawał w obronie słabych... }
+
+Plh_121 { Robię to wszystko dla niego. Jego siła nie może zostać utracona dla tego świata. }
+
+Plh_44 { Tak. Ale było już za późno... }
+
+Plh_7 { *mruga* Nie pragnę niczego więcej, ale bez broni jesteśmy bezsilni... }
+
+Plh_52 { W magazynie jest trochę broni, ale Mali zawsze się tam kręci. }
+
+Plh_55 { Może możemy coś z tym zrobić. Powiedz Mali, że mój stan się pogorszył. Zajęła się mną wczoraj, więc prawdopodobnie zrobi to ponownie... i będzie rozproszona. }
+
+Plh_58 { Ale i tak będziesz musiał jakoś otworzyć drzwi... Nie mam klucza. }
+
+Plh_122 { Chcę się stąd wydostać... }
+
+Plh_12 { Więc... zadbałeś o jedzenie... }
+
+Plh_13 { Dzięki... }
+
+Plh_19 { Proszę... To jest Twoja dzisiejsza porcja. }
+
+Plh_99 { None }
+
+Plh_20 { Już drugi dzień. Wygląda na to, że zaczynasz się w tym orientować, co? Lepiej nie oddalaj się za bardzo od Hasso. W tych ruinach może być niebezpiecznie... }
+
+Plh_68 { *wdycha głęboko* *kaszel* }
+
+Plh_110 { Jak się masz, Bruno? }
+
+Plh_111 { Nigdy lepiej. Może trochę bólu i cierpienia, ale warto być znowu wolnym. Teraz potrzebuję trochę czasu dla siebie. Dzięki za wszystko, $GVAR:EVars_Player.Name$. }
+
+Plh_80 { Lanzo, co mam ugotować, jeśli nic nie przyniesiesz? Gulasz z kamieni i mchu? }
+
+Plh_81 { Gdyby to wypełniło mój żołądek, to bym to nawet wykończył. Ale ich żołądki nie są w stanie nic znieść. $GVAR:EVars_Player.Name$ zbierze dziś kilka pysznych grzybów. Może nawet dostaniesz trochę mięsa od digpiga. }
+
+Plh_106 { Mam nadzieję, że nie zemdlejesz. W przeciwnym razie będziemy musieli sięgnąć do naszych zapasów. A nikt tego nie chce robić. My zdecydowanie nie. }
+
+Plh_82 { Zbieranie grzybów jest niebezpieczne. Ktoś z was powinien to zrobić — nie mamy żadnej zbroi ani broni! }
+
+Plh_83 { Uważaj, Bruna. Lepiej zachowaj swoje rady dla siebie. $GVAR:EVars_Player.Name$ da sobie radę. Jeśli nie... to żadna strata. }
+
+Plh_84 { Przeklęty gnojek... Nienawidzę go... On CHCE, żebyśmy cierpieli! }
+
+Plh_85 { Na zewnątrz jest niebezpiecznie, więc uważaj. }
+
+Plh_87 { Dam sobie radę, nie martw się. }
+
+Plh_88 { Teraz jestem trochę przestraszony. }
+
+Plh_86 { Ostatnia wysłana tam osoba powiedziała to samo — tuż przed tym, jak rozpłynęła się w powietrzu. }
+
+Plh_90 { Poczekaj, mam tu coś, czego Lanzo nie znalazł... }
+
+Plh_89 { Zabierz to ze sobą. Może uratować ci tyłek, jeśli znajdziesz się w trudnej sytuacji. }
+
+Plh_93 { Miejmy nadzieję, że nie będę tego potrzebować... }
+
+Plh_92 { A co właściwie mam ci kupić? }
+
+Plh_94 { Ja też mam taką nadzieję... }
+
+Plh_95 { Przynieś mi $GVAR:BanditMineBrutus_Config.CountMushrooms$ pospolite grzyby. To powinno wystarczyć dla wszystkich. }
+
+Plh_96 { Mięso też byłoby świetne, ale nie warto ryzykować. Po prostu wróć w jednym kawałku. }
+
+Plh_97 { Po prostu udaj się do Koliny. Znajdziesz ją, gdy udasz się na południe od kwater sypialnych. Jest na warcie. }
+
+Plh_91 { Pozwól, że dam ci radę: weź tylko tyle, ile potrzebujesz, a potem od razu wróć. Bez zbędnego ryzyka. }
+
+Plh_123 { Cześć $GVAR:EVars_Player.Name$! Miło cię widzieć. }
+
+Plh_124 { Co tu robisz? }
+
+Plh_125 { Dalin została zapytana, czy chce dołączyć do wędrownych kupców. Szybko się zgodziła. }
+
+Plh_126 { Znudziło mi się kręcenie się poza Nemeton. Więc pomyślałem, że pójdę z tobą. Tak czy inaczej jest bezpieczniej, chociaż jedziemy tylko drogami. }
+
+Plh_128 { Cieszę się z twojego powodu. }
+
+Plh_127 { Dziękuję za wszystko. *uśmiecha się* }
+

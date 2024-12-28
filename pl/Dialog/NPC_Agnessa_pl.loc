@@ -1,0 +1,78 @@
+Teach_General { Czy możesz mnie czegoś nauczyć o górnictwie? }
+
+Plh_10 { O Twoim urazie... }
+
+Plh_59 { *uśmiecha się* Nie dojdziesz nigdzie, jeśli będziesz tak uderzać. Zawsze utrzymuj stały rytm, wtedy kamień się rozbije. W ten sposób spalisz też mniej energii. }
+
+Plh_62 { Zapamiętam to. }
+
+Plh_63 { Mam nadzieję, że ja też niedługo wrócę do pracy. Nie chcę tu być na darmo. }
+
+Plh_4 { Nie teraz. }
+
+Plh_0 { *mruczy do siebie, trzymając się za prawą rękę i mając szeroko otwarte usta* Znów wpakowałaś się w kłopoty, Agnesso... }
+
+Plh_43 { O. Hej. Dawno cię tu nie widziałam...? }
+
+Plh_26 { Kim jesteś? }
+
+Plh_32 { Agnessa. Byłam za głupia, żeby iść prosto i upadłam na twarz... A teraz siedzę tu jak idiotka i nie potrafię ciąć jak inni. A tu nic nie działa bez srebra... }
+
+Plh_25 { Czy jesteś poważnie ranny? }
+
+Plh_28 { Jak dokładnie to się stało? }
+
+Plh_27 { Wszystko w porządku. Po prostu Mursel nie powinien mnie tak widzieć... }
+
+Plh_29 { Moje ramię boli jak cholera. Mam nadzieję, że nie jest złamane ani nic... Wiem tylko, że za każdym razem, gdy próbuję ciąć, prawie mdleję z bólu. }
+
+Plh_64 { Ale MUSZĘ pracować! }
+
+Plh_60 { *trzyma się za prawą rękę* Kurczę, ból z każdym dniem jest coraz gorszy... }
+
+Plh_1 { Potrzebujesz pomocy? }
+
+Plh_34 { Może wkrótce będziesz mógł znów ciąć... }
+
+Plh_37 { Potrzebujesz lekarstwa czy czegoś? }
+
+Plh_3 { Nie zrozum mnie źle, ale i tak nie mogę dać ci nic w zamian za twoją pomoc... A wtedy będziesz chciał ode mnie jeszcze srebra... }
+
+Plh_31 { Kiedy się zraniłem, pożyczyłem srebro od Mursela, żeby kupić nowy sprzęt... Jeśli wkrótce nie spłacę długu, to się wścieknie... }
+
+Plh_36 { *uśmiecha się z bólu, wyciera ślinę* To tylko zadrapanie. Daj mi jeszcze jedną krótką przerwę, a potem będzie dobrze... }
+
+Plh_52 { *lekko jęczy* Ty też. }
+
+Plh_65 { Powodzenia w kopalniach! }
+
+Plh_40 { *bolesny jęk* Hej, ty. }
+
+Plh_11 { Shona powiedziała, że ​​grzyby shadeshroom mogą pomóc. (daj jej $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ grzybów shadeshroom) }
+
+Plh_12 { Mursel daje ci kilka dni na wyzdrowienie. Przedstawiłem kilka całkiem przekonujących argumentów. }
+
+Plh_42 { Uregulowałem twój dług wobec Mursel. }
+
+Plh_55 { Mam dla ciebie maść leczniczą. Pomoże. }
+
+Plh_14 { *zwęża oczy* Nie robisz tego z dobroci serca. Posłuchajmy. Czego chcesz w zamian? }
+
+Plh_53 { Nic. My Hewers musimy trzymać się razem. }
+
+Plh_54 { Myślisz, że nikt nie pomoże, nie oczekując niczego w zamian? }
+
+Plh_23 { Ja... ja dziękuję. Bóstwa musiały cię zainspirować. }
+
+Plh_57 { Aaaa, to dobrze. Już jest lepiej, widzę to. Niedługo będę mogła znowu pracować. }
+
+Plh_58 { Dziękuję. Nie mogę ci wiele dać, ale... }
+
+Plh_44 { Wiem coś o górnictwie, więc mógłbym pokazać ci kilka sztuczek z tego zawodu... }
+
+Plh_61 { Właściwie, to jest dokładnie to, co myślę. Przynajmniej wszyscy inni tak myślą. }
+
+Plh_18 { Co? Jakiego rodzaju argumenty? Znając Mursela, zakładam, że kłóciłeś się pięściami? Nieźle! }
+
+Plh_41 { CO?! Po prostu tak? Mimo że ledwo mnie znasz? To jest... bezinteresowne. Nikt tutaj tego nie robi. }
+

@@ -1,0 +1,10 @@
+Title { Zniszczone ściany }
+
+Entry_01 { Ktoś skrada się nocą po ulicach, szpecąc kamienie i mury. Za złapanie sprawcy przewidziano nagrodę w wysokości $GVAR:QuestVars_Graffiti_Config.Reward$ monet. }
+
+Entry_02 { Złapałem Adwina i wysłałem go do Gerdwina. Powinienem dostać tam swoją nagrodę. }
+
+Entry_03 { Adwin powstrzymuje oszpecanie, a w zamian kryję go z Gerdwinem. Powinienem dostać tam swoją nagrodę. }
+
+Entry_05 { Otrzymałem nagrodę. }
+

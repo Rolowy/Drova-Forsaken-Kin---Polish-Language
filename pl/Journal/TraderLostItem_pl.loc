@@ -1,0 +1,16 @@
+Title { Zgubiona torba }
+
+Entry_01 { Kupiec o imieniu Lobo zaproponował, że zabierze mnie do Nemetonu, jeśli przyniosę mu jego „torbę”. Wrzucił ją na wrzosowisko, w pobliżu kamienia granicznego w gaju jabłoniowym. }
+
+Entry_02 { Mam torbę. Lobo będzie zadowolony. }
+
+Entry_03 { Lobo był bardzo zadowolony. Zaproponował, że zabierze mnie do Nemetonu. }
+
+Entry_04 { W końcu jestem w Nemetonie. }
+
+Entry_06 { Nie potrzebuję już Lobo, żeby wejść do Nemetonu. }
+
+Entry_03_01 { Lobo nie przejmuje się stadem. Wszystko, czego chce, to czerwony ozdobny kamień w środku. Czy mam mu go dać? }
+
+Entry_03_Cancel { Pobiłem Lobo i teraz on nie chce mieć ze mną nic wspólnego. }
+

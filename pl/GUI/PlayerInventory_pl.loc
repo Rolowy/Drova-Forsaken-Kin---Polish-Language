@@ -1,0 +1,60 @@
+title_character_segment { Charakter }
+
+label_character_level { Poziom }
+
+tooltip_character_level { Wyświetla twój obecny poziom. Wskazuje jak silna jest twoja postać. }
+
+tooltip_character_faction { Wyświetla Twoją aktualną wierność. }
+
+tooltip_character_skillpoints { Możesz użyć punktów nauki, aby podnieść swoje wyniki umiejętności lub nauczyć się nowych talentów od nauczycieli. Każdy nowy poziom przyznaje ci <color=#55BD55>cztery</color> punkty nauki i <color=#55BD55>pięć</color> punktów zdrowia. }
+
+label_character_skillpoints { Punkty edukacyjne }
+
+tooltip_character_xp { Punkty doświadczenia zdobywasz zabijając przeciwników lub wykonując zadania. }
+
+label_attributes_hitpoints { Zdrowie }
+
+tooltip_attributes_hitpoints { Gdy twoje zdrowie spadnie do zera, twoja postać umiera. }
+
+tooltip_attributes_stamina { Wytrzymałość służy do blokowania, unikania ciosów i wykonywania silnych ataków. }
+
+label_attributes_stamina { Wytrwałość }
+
+tooltip_attributes_flow { Skupienie jest używane do umiejętności. Jest generowane przez zadawane obrażenia i zmniejsza się z czasem lub po otrzymaniu obrażeń. }
+
+label_attributes_flow { Centrum }
+
+tooltip_attributes_power { Sprawność jest sumą twoich atrybutów i stanowi warunek konieczny do władania niektórymi rodzajami broni. }
+
+tooltip_attributes_strength { Siła zwiększa zadawane przez ciebie obrażenia fizyczne o [WARTOŚĆ]. }
+
+tooltip_attributes_dexterity { Zręczność zwiększa szansę na trafienie krytyczne o [WARTOŚĆ]. Każde trafienie krytyczne powoduje krwawienie celu i — w zależności od rodzaju broni — zadaje dodatkowe obrażenia. }
+
+tooltip_attributes_mind { Umysł zwiększa twoje obrażenia magiczne o [WARTOŚĆ1] i twoje podstawowe skupienie o [WARTOŚĆ2]. }
+
+label_attributes_armor { Zbroja }
+
+tooltip_attributes_armor { Zmniejsza otrzymywane obrażenia fizyczne. }
+
+tooltip_attributes_magic_resistance { Zmniejsza otrzymywane obrażenia magiczne. }
+
+label_attributes_magic_resistance { Odporność na magię }
+
+title_equipment_segment { Sprzęt }
+
+title_directquickbar_segment { Bezpośredni pasek szybkiego dostępu }
+
+faction_none { Brak frakcji }
+
+faction_nemeton { Nemeton }
+
+faction_ruincamp { Pozostałości }
+
+title_ammo { Amunicja }
+
+totalFIghtingStrength { Dzielność }
+
+baseFightingStrength { Podstawowa sprawność }
+
+baseFightingStrengthDesc { Base Fighting Capacity to suma twoich wyników atrybutów bez dodatkowych bonusów za pomocą wyposażenia. Służy również jako warunek wstępny dla niektórych talentów. }
+

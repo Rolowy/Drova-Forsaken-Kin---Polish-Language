@@ -1,0 +1,10 @@
+draw { Rysować }
+
+delete { Usuwać }
+
+move { Przenosić }
+
+close { Zamknąć }
+
+confirm { Potwierdzać }
+

@@ -1,0 +1,458 @@
+Plh_28 { Co to za miejsce? }
+
+Plh_29 { Jak to możliwe, że most jest zniszczony? }
+
+Plh_30 { O jakich obozach mówisz? }
+
+Plh_34 { O pracownikach... }
+
+Plh_367 { Już nie zobaczysz tutaj złodzieja z magazynów. }
+
+Plh_371 { Nie udało mi się znaleźć żadnego złodzieja składzików. }
+
+Plh_264 { O Larei... }
+
+Plh_31 { Jesteśmy drwalami. Mamy pracować dla Nemetonu, ale odkąd most został zniszczony, kilku naszych pracowników przeszło do obozu Remnantów. }
+
+Plh_32 { Kilka dni temu miało miejsce trzęsienie ziemi, które spowodowało sporo szkód — szczególnie mostu. Jeśli nie będziemy mogli go wkrótce naprawić, nie otrzymamy żadnej pomocy od Nemetonu. Wtedy więcej ludzi porzuci nas dla Remnants... }
+
+Plh_33 { Nemeton i obóz Remnants to główne osady. Są arcywrogami. Ale jeśli nie chcesz dołączyć do żadnego z dwóch obozów, znajdziesz się zagubiony w Drova... }
+
+Plh_370 { Przychodzić. }
+
+Plh_138 { Nie teraz. }
+
+Plh_412 { Musimy ustalić, co robić dalej. }
+
+Plh_413 { O przywódcy stada Rozpruwaczy... }
+
+Plh_414 { Wszystko w porządku? }
+
+Plh_415 { *wzdycha* Nemeton już tu są, więc będzie lepiej. Robotnicy wracają. Wszystko wraca do normy. }
+
+Plh_416 { Udowodniłeś swoją wiarygodność. Dziękuję. }
+
+Plh_389 { *ciężko oddycha* Nie mogę w to uwierzyć. }
+
+Plh_391 { Co się stało? }
+
+Plh_392 { Wszystko w porządku? }
+
+Plh_393 { Ja... Nie wiem. Nagle z lasu dobiegły jakieś dźwięki. }
+
+Plh_394 { Już ci mówiłem: Złap te przeklęte bestie, bo szybko rosną. }
+
+Plh_395 { Czy to już wszystko? Czy nadchodzą kolejne? }
+
+Plh_398 { Myślę, że na razie jesteśmy bezpieczni. Wszystko jest ciche. }
+
+Plh_396 { Agilo dostał cios, ale wciąż żyje. Na szczęście $GVAR:EVars_Player.Name$ i Niala tam byli. W przeciwnym razie wszyscy byśmy umarli. }
+
+Plh_397 { Byłem tam z Colinem, ale on nie dotarł. *patrzy w ziemię* }
+
+Plh_399 { Czy ktoś jeszcze jest ranny? }
+
+Plh_400 { Widziałem ciało, gdy tu jechałem. }
+
+Plh_401 { Nie wszyscy przeżyli. }
+
+Plh_403 { Przepraszam, Cengiz. Jalina i Merlind... Oni są... }
+
+Plh_404 { None }
+
+Plh_405 { Musimy zabrać ich do Bóstw. Przynieść ich ciała. Pochowamy ich. }
+
+Plh_406 { Cengiz, musimy... }
+
+Plh_407 { Zrób po prostu to, co mówię! }
+
+Plh_408 { *kiwa głową* }
+
+Plh_409 { Cengiz, najpierw powinniśmy zająć się rannymi. }
+
+Plh_411 { Powiedziałem, zbierz ich ciała. Zamierzamy ich pochować. ZROZUMIAŁEŚ? }
+
+Plh_402 { Tak, myślę, że tak. }
+
+Plh_388 { Gdzieś tu jeszcze są jakieś brudne zwierzęta. Musimy je zabić. }
+
+Plh_265 { Wykończyłem przywódcę stada rozpruwaczy. }
+
+Plh_266 { *marszczy brwi* Co? Masz na myśli, że podeszłaś do rozpruwaczy całkiem sama i zabiłaś przywódcę stada? Czy dobrze to rozumiem? }
+
+Plh_268 { Tak, to było dokładnie takie proste. }
+
+Plh_269 { Wyszłam z tego z kilkoma zadrapaniami, ale dałam radę. }
+
+Plh_270 { Niewiarygodne! Teraz, gdy o tym wspomniałeś... nie słychać już wycia z zewnątrz. Jest w tobie więcej, niż widać na pierwszy rzut oka. Założę się, że te bestie rozszarpały cię na kawałki! }
+
+Plh_271 { Jesteś pełen niespodzianek. Mogliby wykorzystać takich ludzi jak ty w Nemeton. Weź te monety. Dzięki za zajęcie się sytuacją z ripperami. }
+
+Plh_272 { Myślisz, że potrzebują takich ludzi jak ja w Nemeton? }
+
+Plh_274 { Do zobaczenia. }
+
+Plh_273 { Oczywiście. Nie akceptują wszystkich, ale jeśli potrafisz rozwiązywać problemy, cóż, przyjmą cię z otwartymi ramionami. }
+
+Plh_275 { W końcu możemy spać spokojnie... Przeklęci łobuziaki... }
+
+Plh_390 { Wielu opuściło obóz. Pozostało tylko kilku. Trzymaliśmy się razem. Walczyliśmy razem. Niektórzy z nas polegli. }
+
+Plh_418 { Przygotowaliśmy Jalinę, Colina i Merlinda na przybycie Bóstw. }
+
+Plh_419 { Bóstwa przeniosą ich do innego życia. }
+
+Plh_420 { Walczyli dzielnie. Bóstwa zabiorą ich ze sobą. }
+
+Plh_421 { Most jest naprawiony. Ich śmierć nie poszła na marne. Nemeton są z nami i będą nas chronić. }
+
+Plh_422 { Przybyłem z Gerdwin i jestem odpowiedzialny za ochronę ciebie. Możesz na mnie polegać. }
+
+Plh_423 { Remnants również nam pomagali. Nie udałoby nam się bez $GVAR:EVars_Player.Name$. Przynajmniej nie żywi. To na pewno. }
+
+Plh_424 { Bez was nie udałoby się nam — dzięki za pomoc. Ale damy sobie radę. Nie potrzebujemy nikogo z Remnants. }
+
+Plh_426 { Wypijmy za Merlinda, Jalinę i Colina, abyśmy nigdy o nich nie zapomnieli. }
+
+Plh_431 { Do Jaliny. }
+
+Plh_432 { Do Colina. }
+
+Plh_428 { Do życia. }
+
+Plh_429 { Do poległych. }
+
+Plh_433 { Nigdy o Tobie nie zapomnimy. }
+
+Plh_425 { $GVAR:EVars_Player.Name$ również pomogło. Gerdwin powiedział, że wszystko jest tutaj w porządku. Ja trzymam fort. }
+
+Plh_4 { A jednak zastanawiam się... Dlaczego, w imię Bóstw, ziemia znów drży? Przez ciebie! }
+
+Plh_49 { Co?! O czym ty mówisz? }
+
+Plh_50 { Cześć. Pochodzę z — }
+
+Plh_51 { Jesteś tym biednym frajerem, którego Bóstwa złapały i zawlokły do ​​Drova! }
+
+Plh_55 { Nazywam się Cengiz. Drwale tu mieszkają. No, przynajmniej ci, którzy nie wyjechali. Przeklęci tchórze... }
+
+Plh_57 { Asmus powiedział, że mam ci złożyć raport. }
+
+Plh_58 { Masz dla mnie pracę? }
+
+Plh_59 { Asmus? I od razu się rozstał? Synu... }
+
+Plh_455 { Przynajmniej on cię przysłał. Potrzebujemy wszelkiej pomocy, jaką możemy tu uzyskać... }
+
+Plh_60 { Nie oszukuj się. Drova nie jest tym, co ci powiedziano... wkrótce się przekonasz. }
+
+Plh_454 { My, drwale, pracujemy dla Nemetonu. Zawsze musieliśmy walczyć, aby przezwyciężyć przeciwności. Teraz, gdy most został zniszczony, jesteśmy odcięci od naszych sojuszników. Wielu ludzi nas opuściło. }
+
+Plh_280 { Dlatego każdy, kto może włożyć w to wysiłek, jest tutaj mile widziany. }
+
+Plh_277 { Dokąd uciekają twoi ludzie? }
+
+Plh_139 { Co dokładnie tu robisz? }
+
+Plh_65 { Szukam drogi do Nemetonu... }
+
+Plh_278 { Do obozu Remnants. Jasne, jest w bardziej chronionym miejscu, ale jeśli do nich dołączysz, porzucisz wszelką nadzieję, że faktycznie uda nam się zamienić Drovę w Krainę Legend... }
+
+Plh_69 { Czy możesz mi powiedzieć coś więcej o obozie Remnants? }
+
+Plh_72 { I to wszystko tylko z powodu zniszczonego mostu? }
+
+Plh_70 { Czy mogę w czymś pomóc? }
+
+Plh_71 { Nemeton jest w rozsypce. Przewodzi mu Heiress of the Moor. Chce ona zamienić Drovę w Krainę Legend. Jej brat Jero nie jest przekonany, że to w ogóle możliwe. Chce się jakoś wydostać. Zabiera ze sobą kilka osób i zakłada obóz Remnants — tych zdrajców. }
+
+Plh_282 { Od tamtej pory dochodziło do starć między obozami. Obie strony walczyły o ludzi. My, drwale, jesteśmy trochę na uboczu, ale jesteśmy lojalni wobec Nemetona. A oni wiedzą, co w nas znaleźli. }
+
+Plh_140 { Most jest bezpośrednią drogą do Nemeton. To jedyny sposób, w jaki możemy dostarczać drewno i w razie potrzeby Nemeton może nam szybko pomóc. Ale teraz most jest nieużyteczny — fatalny moment. }
+
+Plh_73 { Teraz musimy się trzymać, dopóki most nie zostanie naprawiony. I miejmy nadzieję, że nie złapie nas nic z kłami lub pazurami. Blaan i Carima nie uchronią nas przed wszystkim... }
+
+Plh_66 { Jeśli nie zauważyłeś, jesteśmy drwalami. Dostarczamy Nemetonowi drewno. }
+
+Plh_281 { Ale odkąd trzęsienie ziemi zniszczyło most, nie jesteśmy już w stanie tego zrobić. A z kolei Nemeton również nie może nam pomóc. Teraz jesteśmy bezbronni. }
+
+Plh_67 { Znajdziesz to dość łatwo. Ale jeśli wyszedłeś z Gorge z tymi samymi pomysłami co inni... Cóż, powiedzmy po prostu, że to nie będzie Nemeton, którego się spodziewasz. }
+
+Plh_53 { — Wąwóz, widzę. Bóstwa wrzuciły cię tam. Przynajmniej wszystkie twoje kończyny są tam, gdzie ich miejsce. Witamy w Drova. }
+
+Plh_11 { Musimy naprawić most tak szybko, jak to możliwe. Przydałyby się nam wszystkie ręce, jakie tylko możemy dostać. Masz nawet dwie z nich! }
+
+Plh_141 { Nigdy wcześniej nie naprawiałem mostu... }
+
+Plh_142 { Jak mogę pomóc? }
+
+Plh_294 { Nic trudnego. Inni pokażą ci, co robić. }
+
+Plh_75 { Prawdopodobnie jesteś wyczerpany po podróży do Drova. Ale jeśli nadal chcesz nam pomóc, idź do Jendrika i Agilo. Powiedzą ci, gdzie jesteś potrzebny. }
+
+Plh_143 { Oboje są niezawodni — zdejmują ze mnie sporo obowiązków. I to dobrze, bo mam wystarczająco dużo zajęć... }
+
+Plh_14 { Co otrzymam w zamian za pomoc? }
+
+Plh_47 { Czy naprawdę potrzebujesz Nemetonu po swojej stronie? }
+
+Plh_144 { Zobaczę, co da się zrobić... }
+
+Plh_19 { Będziesz częścią społeczności. To właśnie dostaniesz. Dołącz lub zgub się. }
+
+Plh_283 { Wiem, że w Drova musisz uważać na numer jeden. Jeśli zrobiłeś swoją część, dostaniesz też coś w zamian. Gdzieś mam jeszcze stare ubrania robocze. Jeśli nam pomożesz, dam ci je. }
+
+Plh_147 { Powinny pasować i są lepsze niż nic. Łachmany, które nosisz, nie będą dobre. }
+
+Plh_48 { Nemeton potrzebuje naszego drewna, a my potrzebujemy ich wojowników. Bez wojowników robotnicy uciekają — jest tu zbyt niebezpiecznie. }
+
+Plh_284 { Potwory w tej okolicy stają się coraz bardziej bezczelne. Z południa nadciąga stado rozpruwaczy, zmierzając w naszą stronę. Ich wycie staje się coraz głośniejsze każdej nocy. Bez broni Nemetona sprawy mogą stać się trudne. }
+
+Plh_20 { Dobrze. Jeśli chcesz zebrać siły, niebieski namiot obok mojego jest wolny. Niestety, nie mamy zbyt wiele jedzenia, więc będziesz musiał radzić sobie sam. }
+
+Plh_285 { Nasza łowczyni Larea miała wrócić jakiś czas temu. Mam nadzieję, że nic jej się nie stało. Nie mogę jej teraz szukać. }
+
+Plh_22 { Gdzie mogę znaleźć Jendrika? }
+
+Plh_23 { Gdzie mogę znaleźć Agilo? }
+
+Plh_250 { Gdzie była Larea? }
+
+Plh_25 { Zwykle w pobliżu miejsca wyrębu. Na zachód stąd, gdzie leżą wszystkie kłody. Jeśli go tam nie ma, prawdopodobnie wycina drzewa. W tym przypadku znajdziesz go kręcącego się na północ od miejsca wyrębu. }
+
+Plh_26 { On zajmuje się gotowaniem. Ktoś musi to robić. Zazwyczaj po prostu miesza i wrzuca rzeczy razem, ale naprawdę nie chcę wiedzieć, co właściwie wrzuca. Tak naprawdę, on naprawdę nie umie gotować. }
+
+Plh_78 { *mruczy* Miejmy nadzieję, że nie sika do garnka. }
+
+Plh_249 { Poluje na szczury wodne w pobliżu. Nie może być daleko. }
+
+Plh_288 { Zwykle nie znika na tak długo... }
+
+Plh_27 { Daj znać, kiedy inni zaczną pracować nad mostem. }
+
+Plh_293 { Tak mi się podoba! Potrzebujemy ludzi, którzy naprawdę chcą się zaangażować! }
+
+Plh_194 { Gdzie mogę jeszcze znaleźć Jendrika? }
+
+Plh_35 { Jendrik i Agilo pracują nad mostem. }
+
+Plh_196 { Na miejscu wyrębu. Na zachód od obozu. Tam przetwarzają drewno z północy. Powinien się tam gdzieś kręcić. }
+
+Plh_39 { Świetnie! Miejmy nadzieję, że nie będą mieli na to złych zamiarów. Most musi zostać naprawiony tak szybko, jak to możliwe! }
+
+Plh_252 { *marszczy brwi* Więc... Dzięki za pomoc... Teraz mam tylko jeden mały problem... }
+
+Plh_253 { *mruczy* Obiecałam ci trochę ubrań roboczych... ale jakiś dupek wyczyścił mi szafkę! Najpierw znikają nasze zapasy, a teraz ktoś kradnie nawet W samym obozie! }
+
+Plh_254 { Nie obchodzi mnie to. Obiecałeś mi ubrania robocze. Chcę je. Teraz. }
+
+Plh_255 { Ach, nieważne. Jeśli ktoś je ukradł, po prostu zniknęły. }
+
+Plh_256 { Niewiarygodne! Wygląda na to, że tracisz kontrolę nad obozem. }
+
+Plh_257 { Co, myślisz, że mógłbym po prostu wyciągnąć trochę z tyłka? NIE MAM ŻADNYCH. To takie frustrujące, cholera. Jeśli uda mi się je odzyskać, dostaniesz je ty. }
+
+Plh_259 { Pozostaję wierny swemu słowu. Nie mam żadnych innych ubrań roboczych, ale możesz mieć trochę monet. Proszę bardzo. Możesz ich użyć, aby kupić trochę. }
+
+Plh_261 { Dobrze. (weź monety) }
+
+Plh_262 { Zachowaj monety. Twoje podziękowania wystarczą mi. }
+
+Plh_260 { Tam. Być może uda ci się kupić trochę zbroi w obozie Ocalałych. }
+
+Plh_450 { Teraz to tylko kwestia czasu, zanim most zostanie naprawiony. Niestety, za dużo czasu. Gdybyśmy mieli więcej ludzi, skończylibyśmy znacznie szybciej. Ale nie mamy. }
+
+Plh_199 { Czy mogę zrobić coś jeszcze? }
+
+Plh_201 { Najpierw trzeba naprawić most. To jest najważniejsze. Potem zobaczymy. }
+
+Plh_202 { Możesz nadal korzystać z namiotu. W tej chwili nikt inny go nie potrzebuje. Odpocznij tam. }
+
+Plh_198 { A jeśli pójdziesz do obozu Remnants, trzymaj się ścieżek. Potwory są dość agresywne. I obawiam się, że to się nie zmieni w najbliższym czasie... }
+
+Plh_258 { Naprawdę? Po prostu? To nie zdarza się często w Drova. Jestem ci winien. }
+
+Plh_295 { *mruczy* Wygląda na to. Nikomu nie można ufać w dzisiejszych czasach... }
+
+Plh_41 { Dobra robota. Obiecałem ci trochę ubrań roboczych, więc je dostaniesz. Mogą trochę pachnieć stęchlizną, ale to dla ciebie ledwie krok wstecz! }
+
+Plh_443 { Już odebrałeś swoją nagrodę. Myślę, że teraz jesteśmy kwita. }
+
+Plh_346 { Co tu się dzieje? Kto to jest? }
+
+Plh_299 { Twój złodziej z dołu magazynowego. Ale on chce pracować dla ciebie. }
+
+Plh_360 { To jest Owain. Szuka pracy. (ukryj informacje o kradzieży) }
+
+Plh_300 { Hej! Myślałem, że chcesz się za mną wstawić! }
+
+Plh_325 { Przyprowadziłeś mi złodzieja składzików i chcesz, żeby TERAZ dla mnie PRACOWAŁ?! }
+
+Plh_326 { Powinniśmy go powiesić! }
+
+Plh_327 { Whoa, daj mi szansę, Cengiz! Nie będę więcej dotykał twoich magazynów! }
+
+Plh_328 { *zgrzyta zębami* Grrrr. Gdybym nie potrzebował pracowników tak pilnie... }
+
+Plh_359 { Dobrze, to spróbujemy. Ale najpierw będziesz po prostu odrabiać dług za wszystko, co ukradłeś! W przeciwnym razie możesz się zgubić. }
+
+Plh_361 { *mruga* No dobrze. To sprawiedliwe. Od teraz możesz na mnie liczyć. }
+
+Plh_301 { Zobaczymy. Jutro możesz zostać wyrzucony z obozu przez Jendrika i jego siekierę. Będziemy cię obserwować. }
+
+Plh_354 { Możesz spać w jednym z namiotów przy wodzie. Jeśli ktoś będzie narzekał, po prostu powiedz, że cię przysłałem. }
+
+Plh_306 { Zgłoszę się do Jendrika. Dzięki, Cengiz. }
+
+Plh_308 { To dwie kolejne ręce do pracy. Naprawdę możemy skorzystać z każdej pomocy, jaką możemy uzyskać. }
+
+Plh_316 { Oto dla nowego pracownika, którego mi przyprowadziłeś. Więc nikt nie może twierdzić, że nie jestem wdzięczny. }
+
+Plh_362 { Mmm. Owain. Znam cię. Czy wiesz jak rąbać drewno? }
+
+Plh_363 { Umm, nie. Ale co tu wiedzieć? Machasz siekierą i rąbiesz drewno. Raz po raz. }
+
+Plh_364 { Bah! Jest w tym coś więcej. Jendrik może cię wszystkiego nauczyć. }
+
+Plh_365 { Możesz pracować ze mną. Za każdy dzień pracy dostaniesz kilka monet, posiłek i miejsce do spania. A jeśli nie będziesz w stanie, odejdziesz. }
+
+Plh_434 { Pasuje ci. Nie wyglądasz już CAŁKOWICIE kiepsko. *uśmiecha się* }
+
+Plh_435 { Hej! Masz na sobie MOJE ubrania... tuż przede mną? O czym ty do cholery myślisz? }
+
+Plh_436 { Zdejmij je natychmiast! Wtedy będę patrzył w inną stronę... }
+
+Plh_437 { No dobrze, proszę. (oddaje rękę) }
+
+Plh_438 { Zapomnij o tym. }
+
+Plh_440 { To jest lepsze. W Nemeton odcięliby ci rękę na miejscu, gdybyś nie dał kawałka monet. Ja robię rzeczy inaczej. }
+
+Plh_441 { Bądź użyteczny i zarób na ubrania. A potem je odzyskasz. }
+
+Plh_442 { Hmph. Nie jesteś lepszy od wszystkich innych dupków w Drova... Ale potrzebujesz ubrań. Nie chcesz chodzić i tak wyglądać. No cóż, odpuszczę to. }
+
+Plh_456 { Miło było Cię widzieć. }
+
+Plh_374 { Naprawdę ci się udało? Kto to był? }
+
+Plh_375 { To był ten Owain. }
+
+Plh_376 { Jakiś rozbójnik. }
+
+Plh_377 { Owain? Ten facet przyszedł do mnie jakiś czas temu w poszukiwaniu pracy. To było przed trzęsieniem ziemi. Odesłałem go, bo nikogo nie potrzebowaliśmy. Gdyby tylko wrócił, zamiast nas okradać... }
+
+Plh_379 { Co z nim zrobiłeś? }
+
+Plh_380 { Upewniłem się, że nie dopuści się kolejnej kradzieży w najbliższym czasie. }
+
+Plh_381 { Nie martw się tym. On nie wróci. }
+
+Plh_382 { *uśmiecha się z politowaniem* Więc dostał to na co zasłużył. }
+
+Plh_384 { Proszę, weź to. Dzięki tobie, to jeden ciężar z głowy. Dobra robota. }
+
+Plh_383 { Nie, jeśli ma jeszcze odrobinę rozsądku. }
+
+Plh_378 { Jakiś łajdak, który okrada zwykłych ludzi... }
+
+Plh_372 { Ty też nic nie znalazłeś? Do cholery. }
+
+Plh_373 { Jeśli złapię tego gościa, to skręcę mu kark... }
+
+Plh_207 { Agilo uważa, że ​​ktoś kradł rzeczy z magazynów? }
+
+Plh_203 { Tak, widziałem kogoś, kto się tam zakradał wieczorem, ale nie dotarłem tam wystarczająco szybko, żeby ich zidentyfikować. Wszyscy w obozie byli obecni, więc to był ktoś inny... }
+
+Plh_208 { Chciałbym dorwać tego brudnego złodzieja... }
+
+Plh_209 { Może ci się uda. Dostaniesz za to parę monet. }
+
+Plh_447 { Już przeszukałem wysoko i nisko. Daleko i szeroko. Nie znalazłem żadnego złodzieja składowiska. }
+
+Plh_212 { No to dobrze. Zrób z nim, co chcesz. Najważniejsze, że nic innego stąd nie zniknie. Prawdopodobnie znajdziesz je tylko w nocy. W ciągu dnia ich nie było — jak dotąd. }
+
+Plh_213 { Larea wróciła do obozu. }
+
+Plh_214 { Znalazłem Larę poza obozem... Ona... Ona nie żyje. }
+
+Plh_215 { Rozmawiałem z nią wcześniej, kiedy wróciła. Dobrze, że nie odleciała, w przeciwieństwie do niektórych innych. Oto mały dowód mojej wdzięczności. }
+
+Plh_219 { Mam nadzieję, że te kilka monet wystarczy za podziękowanie za wszystko, co zrobiłeś. Utrata Larei byłaby okropna. }
+
+Plh_216 { None }
+
+Plh_217 { Martwa? Larea? }
+
+Plh_218 { Nie, to niemożliwe... Nie... Co... Jak...? }
+
+Plh_222 { Została ugryziona przez rozpruwacza. Rana była zbyt poważna. }
+
+Plh_223 { Jej śmierć to moja wina... }
+
+Plh_224 { To był błąd. Agilo powiedział, że korzenie ziemi jej pomogą, ale ją zabiły. }
+
+Plh_225 { Przeklęci ripperzy! Stają się coraz bardziej niebezpieczni. Przez cały ten czas ostrzegałem wszystkich, ale oni zachowują się tak, jakby nie mieli żadnych zmartwień na świecie. Stado na południu również się zbliża... }
+
+Plh_241 { Ludzie odeszli. Most się zawalił. Larea nie żyje. Wszystko się rozpada. Larea... Cholera. Bez pomocy Nemetona wszyscy tak skończymy. }
+
+Plh_234 { Będziemy wspominać Lareę z szacunkiem. Jesteś uczciwą duszą. }
+
+Plh_235 { Przyjmij te monety jako wyraz wdzięczności... A gdy je wydasz, pomyśl o Larei. }
+
+Plh_226 { Twoja wina? Jak? }
+
+Plh_237 { Chciałem zabrać ją z powrotem do obozu drwali, ale ona odmówiła... }
+
+Plh_232 { Larea i jej przeklęty upór... Zawsze taka silna, taka odważna, nigdy nie pokazująca żadnej słabości... Cholera... }
+
+Plh_240 { Nie chciałem tego. }
+
+Plh_242 { Pomógłbym jej. To jej wina. }
+
+Plh_243 { *patrzy na ciebie surowo* }
+
+Plh_233 { Oboje musimy znieść ciężar śmierci Larei. }
+
+Plh_246 { Zniosę to. }
+
+Plh_245 { Co się wydarzyło, że musisz dźwigać ten ciężar? }
+
+Plh_228 { Oto dla ciebie. Powinno to ulżyć ci w ciężarze, przynajmniej na dzisiejszy wieczór. }
+
+Plh_247 { *nic nie mówi* }
+
+Plh_248 { Gdybyśmy kiedyś kiedyś wypili razem przyjacielski kufel miodu pitnego, opowiem ci o tym. Ale nie wcześniej. Wolę zająć się tym sam. }
+
+Plh_227 { Agilo? On nic nie wie o roślinach! }
+
+Plh_236 { Earthroot nie jest od razu trujący... Jeśli ostatecznie ją zabił, musiała być w kiepskim stanie. Na Bóstwa, mam nadzieję, że nie cierpiała... }
+
+Plh_81 { Szukam Kory. Powinna zająć się kilkoma kontuzjami. }
+
+Plh_98 { O kontuzji... }
+
+Plh_80 { Kora? Już jej tu nie ma. Niedługo po trzęsieniu ziemi ona i pozostali wyruszyli do obozu Remnants. }
+
+Plh_82 { Była naszą jedyną uzdrowicielką. Teraz mamy tylko Agilo, który zajmuje się urazami. Czasami robi więcej szkody niż pożytku, ale nie mamy nikogo innego... }
+
+Plh_83 { Załóżmy, że ugryzł mnie ripper. Co powinienem zrobić? }
+
+Plh_84 { Skąd mam wiedzieć? Jeśli nadal krwawi, to prawdopodobnie nie jest dobry znak. Najlepiej zapytać Agilo. Jest trochę bardziej zorientowany niż większość innych. }
+
+Plh_85 { Dlaczego w ogóle pytasz? Czy coś ci się stało? }
+
+Plh_89 { (kłamstwo) Po prostu jestem ciekaw. }
+
+Plh_90 { Pytam w imieniu przyjaciela. }
+
+Plh_91 { Znalazłem Lareę. Jest ranna. }
+
+Plh_92 { *wzrusza ramionami* Jak zawsze mówię: Dopóki nie odpadnie ci ręka, wciąż możesz rąbać drewno. }
+
+Plh_93 { Nie jesteś tu długo i prawie nikogo nie znasz. Powiedz mi prawdę. }
+
+Plh_94 { Larea? Hm. Nie zdziwiłbym się, gdyby się zraniła. Zawsze jest zdeterminowana, żeby postawić na swoim. Doskonale wie, że tutaj dbamy o siebie nawzajem... }
+
+Plh_95 { Powiedz jej, żeby wróciła do obozu. Zaopiekujemy się nią. Może cię posłucha. Ona przeważnie ignoruje nasze rady. }
+

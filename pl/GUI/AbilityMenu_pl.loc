@@ -1,0 +1,20 @@
+Title_MainSpells { Umiejętności }
+
+Title_ConsSpells { Zwoje zaklęć }
+
+header_physicalAbilities { Umiejętności }
+
+header_magicalAbilities { Zaklęcia }
+
+header_memory { Pamięć }
+
+Orientationpoint_Label { Podstawowy cel: }
+
+Orientationpointtooltip_Header { Baza skupienia }
+
+Orientationpointtooltip_Description { Z biegiem czasu Focus zregeneruje się do tego punktu. }
+
+MaxLeben { Maksymalne zdrowie }
+
+StaminaCosts { Koszt wytrzymałości }
+

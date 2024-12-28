@@ -1,0 +1,98 @@
+Plh_0 { O zadaniach... (nf) }
+
+Plh_1 { Czy wiesz coś o innych zadaniach? (nf) }
+
+Plh_3 { Zakończ rozmowę }
+
+Plh_8 { Hmm, nie. }
+
+Plh_57 { Już nam nie uciekniesz! }
+
+Plh_4 { Hej, tam! Ty, na ścieżce tam! Podróżujesz sam? CAŁKOWICIE sam? To odważne... Tutaj jest niebezpiecznie. }
+
+Plh_10 { Jadę do Nemetonu. }
+
+Plh_11 { Nie chcę żadnych kłopotów... }
+
+Plh_12 { To nie twoja sprawa. }
+
+Plh_15 { Ach, Nemeton. Jakież to niebezpieczne! Ktoś tam został ostatnio okradziony, prawda, Jimmy? }
+
+Plh_6 { *mruczy* Tak. Zostałem pobity na czarno i niebiesko. Ale słyszałem, że znowu chodzą... No cóż, utykają! }
+
+Plh_16 { Ale masz szczęście, że to my cię znaleźliśmy. Na pewno będziesz chciał naszej pomocy, żeby bezpiecznie dotrzeć do Nemetonu. }
+
+Plh_22 { Dziękuję, przyda mi się. }
+
+Plh_21 { Nie potrzebuję żadnej pomocy. }
+
+Plh_24 { To całkiem proste. Po prostu podążaj ścieżką, a dojdziesz do celu. }
+
+Plh_25 { *mruczy* Tak, po prostu podążaj ścieżką. }
+
+Plh_23 { Jesteśmy tu tylko po to, aby cię ostrzec i pomóc. Ponieważ w Red Moor czai się zły, zły stwór. Atakuje biednych i niewinnych ludzi — ludzi takich jak ty! }
+
+Plh_44 { *odchrząkuje* Zło, tak. Zło! }
+
+Plh_26 { Potrafi wyczuć monetę, to stworzenie. Im więcej ktoś nosi, tym bardziej staje się agresywne. }
+
+Plh_27 { To brzmi okropnie. Czy możesz mi jakoś pomóc?! }
+
+Plh_28 { Dobrze, że nie mam przy sobie żadnych monet. }
+
+Plh_29 { Heh? Mam w to uwierzyć? Nie ma takiego potwora. Daj mi przejść. }
+
+Plh_31 { Jest nas trzech. Potwór nie zaatakuje nas. Ty jednak, to już inna historia. My również zmierzamy teraz do Nemetonu. Daj nam swoje monety $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$, a gdy się tam spotkamy, zwrócimy ci je. }
+
+Plh_45 { Będziemy strzec twoich monet, jakby były naszymi własnymi! *szloch* }
+
+Plh_46 { Dokładnie. Jesteśmy wiarygodni i godni zaufania. Widzisz to, prawda? }
+
+Plh_34 { No dobrze... Wydaje mi się, że to najbezpieczniejsze rozwiązanie (przekazanie monet $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$). }
+
+Plh_35 { Skąd wiesz, że mam monety $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$? }
+
+Plh_36 { Nie mam przy sobie żadnych monet. }
+
+Plh_41 { Świetnie. Po prostu podążaj ścieżką, a w końcu dotrzesz do Nemetonu. Nadal robimy sobie tutaj krótką przerwę. Dogonimy cię o wschodzie słońca, a potem oddamy ci monety. Do zobaczenia później. I nie pozwól, aby cokolwiek cię rozdarło na strzępy. }
+
+Plh_42 { *mruczy* Dbaj o siebie! }
+
+Plh_43 { To nie są monety $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$. Przyjrzyj się bliżej... }
+
+Plh_60 { Przestań pieprzyć. }
+
+Plh_30 { Oto jedyna rzecz, która się tu wydarzy: oddacie te monety. Wiemy od Borisa, że ​​je macie. }
+
+Plh_39 { Jimmy po prostu ma nosa do tego. Nigdy się nie mylił. }
+
+Plh_40 { *jęczy* Nigdy! }
+
+Plh_47 { I tak wiemy, że masz przy sobie monety $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$. Bardzo się o ciebie martwimy, wiesz? To niebezpieczne! }
+
+Plh_32 { Co masz na myśli mówiąc, że nie ma monet? }
+
+Plh_37 { *wącha* Co? Prawie czuję ten zapach. Masz $GVAR:QuestVars_LucrativeBusiness_Config.PackagePrice$ monet. }
+
+Plh_38 { Jimmy zawsze wie, kiedy ktoś kłamie. Dlaczego kłamiesz nam? Chcemy tylko pomóc! }
+
+Plh_17 { Kłopoty? Nie będziesz miał żadnych. Samotne chodzenie tutaj może być bardzo niebezpieczne. }
+
+Plh_18 { Tu jest niebezpiecznie. Nazywam to wrzosowiskiem umarłych! }
+
+Plh_19 { Jakby to była nasza sprawa, ty mały gnojku. }
+
+Plh_20 { Uspokój się, Jimmy. Jestem pewien, że nie mieli złych intencji. Byłoby głupio się wściekać, jeśli chcesz iść sam na wrzosowisko. Równie dobrze możesz kopnąć niedźwiedzia. }
+
+Plh_48 { *pociera ramię* Dobra, wygrywasz... }
+
+Plh_52 { Skąd dowiedziałeś się o monetach? }
+
+Plh_54 { Po prostu gdzieś usłyszeliśmy... }
+
+Plh_56 { Dobrze, dobrze... *jęczy* }
+
+Plh_49 { Zróbcie ślady! Mamy to, czego chcieliśmy. }
+
+Plh_50 { Do zobaczenia w Nemeton. Będziemy czekać przy wejściu. }
+

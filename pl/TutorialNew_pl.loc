@@ -1,0 +1,4 @@
+LevelUp { Zdobyłeś poziom!<br>Za każdym razem, gdy zdobędziesz poziom, zostaniesz całkowicie uzdrowiony i zdobędziesz 4 punkty nauki.<br>Jeśli znajdziesz instruktora, możesz wykorzystać swoje punkty nauki, aby podnieść swoje wyniki umiejętności i nauczyć się nowego talentu.<br>Niektóre talenty, a nawet broń, wymagają sprawności.<br>Sprawność to suma wszystkich twoich wyników atrybutów. }
+
+FirstConsFlow { Znalazłeś zwój zaklęcia!<br>Użyj $INPUTANIM:OpenAbilities$, aby uzyskać dostęp do menu umiejętności.<br>Możesz tam wyposażyć się w zwój.<br>Zwoje zaklęcia są zużywane po użyciu.<br>Mogą się okazać bardzo pomocne, jeśli staniesz do walki ze szczególnie trudnym przeciwnikiem. }
+

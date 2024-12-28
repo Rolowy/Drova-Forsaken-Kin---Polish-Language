@@ -1,0 +1,94 @@
+EnterName { Wprowadź nazwę... }
+
+Body { Ciało }
+
+Visual { Wygląd }
+
+Souvenir { Pamiątka }
+
+SaveMode { Tryb gry }
+
+DefaultMode { Klasyczny }
+
+ImmersiveMode { Żelazo }
+
+StoryMode { Odkrywca }
+
+InsaneMode { Obłąkany }
+
+SkipIntro { Pomiń wstęp }
+
+Option_BodyType { Budowa ciała }
+
+Option_SkinColor { Kolor skóry }
+
+Option_Voice { Głos }
+
+Option_Hair { Fryzura }
+
+Option_HairColor { Kolor włosów }
+
+Option_Deco { Dekoracja }
+
+Option_Beard { Broda }
+
+Option_BeardColor { Kolor brody }
+
+Souvenir_Empty { Brak pamiątki }
+
+Souvenir_Empty_Tooltip { Tylko ty i twoje umiejętności. Masz wszystko, czego potrzebujesz. }
+
+Souvenir_Alchemy { Środki zaradcze }
+
+Souvenir_Alchemy_Tooltip { Jesteś dobrze przygotowany i zawsze masz przy sobie mały zapas lekarstw. }
+
+Souvenir_Money { Portmonetka na monety }
+
+Souvenir_Money_Tooltip { Nigdy nie wychodzisz z domu bez portmonetki. }
+
+Souvenir_Health { Pierścień Życia }
+
+Souvenir_Health_Tooltip { Ten pierścień jest przesiąknięty Esencją Życia. Możesz wytrzymać więcej obrażeń. }
+
+Souvenir_Thief { Wytrych }
+
+Souvenir_Thief_Tooltip { Szczęście sprzyja... cóż, temu, kto sam sobie stwarza okazje. }
+
+Souvenir_Strength { Pierścień Siły }
+
+Souvenir_Strength_Tooltip { Cenisz siłę fizyczną. Ten pierścień ci ją zapewnia. }
+
+GameMode_Normal_Tooltip { Polecane. Drova jest niebezpieczna. Uważaj, z kim zadzierasz! }
+
+GameMode_Immersive_Tooltip { Pościeliłeś łóżko i teraz musisz się w nim położyć. Masz tylko jeden zapis gry, a gra zostanie zapisana automatycznie. }
+
+InvalidName { Ta nazwa jest niedostępna! }
+
+HardcoreMode { Hardkorowy }
+
+GameMode_Hardcore_Tooltip { Ostateczne wyzwanie. Masz tylko jedno życie i jeden zapis gry. }
+
+UseKeyboard { Proszę wpisać swoje imię za pomocą klawiatury! }
+
+GameMode_Story_Tooltip { Zadajesz większe obrażenia i odnosisz mniejsze obrażenia. }
+
+Story_PopUp { Czy na pewno chcesz grać w Drova w trybie Explorer?<br><br>Zadasz więcej obrażeń i odniesiesz mniejsze obrażenia. W menu Opcje możesz dostosować wartości obrażeń i swobodnie przełączać tryby gry między Explorer i Classic.<br><br>Możesz zapisać i wczytać grę w dowolnym momencie. }
+
+Immersive_PopUp { Czy na pewno chcesz grać w Drovę w trybie Iron?<br><br>Będziesz miał tylko jeden zapis gry, a gra zostanie zapisana automatycznie po każdym dialogu, walce, wykonaniu zadania i podjęciu ważnych decyzji.<br><br>Po rozpoczęciu gry nie będziesz mógł już zmienić tego trybu. }
+
+Hardcore_PopUp { Czy na pewno chcesz grać w Drova w trybie Hardcore?<br><br>Będziesz miał tylko jeden zapis gry, a gra zostanie zapisana automatycznie po każdym dialogu, walce, postępie w zadaniach i ważnych decyzjach. Gdy twoja postać zginie, twój zapis gry zostanie usunięty.<br><br>Po rozpoczęciu gry nie możesz już zmienić tego trybu.<br><br>Największe wyzwanie. Tylko najzacieklejsi wojownicy w Drova opanują ten tryb. }
+
+SaveModePopUp_Title { Wybierz tryb zapisu }
+
+SaveModePopUp_Text_Default { Drova oferuje kilka opcji zapisywania gry.<br><br>W trybie klasycznym możesz tworzyć wiele zapisów gry i zapisywać je w dowolnym momencie.<br><br>Jeśli zdecydujesz się grać w trybie Iron, gra zostanie zapisana automatycznie. W tym trybie nie będziesz mógł zapisywać ręcznie.<br><br>Tryb Hardcore działa zasadniczo tak samo jak tryb Iron. Masz tylko jedną szansę na ukończenie gry w trybie Hardcore. Jeśli twoja postać zginie, wyzwanie się nie powiedzie; twój zapis gry zostanie zdegradowany do Iron. Będziesz mógł kontynuować tę grę, ale tylko w trybie Iron. Jeśli chcesz ukończyć grę w trybie „Hardcore”, musisz założyć nową postać.<br><br>Możesz obniżyć swój tryb zapisu w dowolnym momencie, korzystając z „Opcji”. }
+
+ChangeGameModeWarning { Czy na pewno chcesz wyjść z trybu Iron? Po wyjściu nie możesz ponownie aktywować tego trybu przez resztę rozgrywki. }
+
+Insane_Desc { Ostateczne wyzwanie! Nie polecam, jeśli grasz w Drova po raz pierwszy. }
+
+ChangeGameModeWarning_Hardcore { Czy na pewno chcesz wyjść z trybu Hardcore? Po wyjściu nie możesz ponownie aktywować tego trybu przez resztę rozgrywki. }
+
+Title_Insane_PopUp { Poziom trudności: Szalony }
+
+Desc_Insane_PopUp { Poziom trudności „Insane” stawia przed Tobą najodważniejsze wyzwanie w Drova do tej pory.<br><br>W tym trybie przeciwnicy są o wiele bardziej niebezpieczni — ich zachowanie, pozycja i liczba zostały zaktualizowane. Podczas gdy wyposażyliśmy niektóre stworzenia w nowe ataki, stworzyliśmy również zupełnie nowe warianty istniejących stworzeń, które władają nowymi atakami specjalnymi.<br><br>Ponadto otrzymasz o 30% więcej obrażeń i zadajesz o 20% mniej obrażeń — a jeśli to nadal nie jest wystarczająco trudne, możesz dodatkowo dostosować te liczby w menu Opcje.<br><br>Wprowadziliśmy również kilka drobnych zmian, aby ulepszyć ogólne wrażenia z rozgrywki — po prostu poczekaj!<br><br>Czy na pewno chcesz grać w trybie „Insane”? Po wybraniu tego trybu nie będziesz mógł go zmienić w trakcie rozgrywki. }
+

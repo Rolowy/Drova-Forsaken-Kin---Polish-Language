@@ -1,0 +1,34 @@
+Workbench { Stół warsztatowy }
+
+Furnace { Kwiaciarnia }
+
+Fireplace { Ognisko }
+
+Personal { Osobisty }
+
+Recipes { Przepisy }
+
+Title_Panel { Rzemiosło }
+
+Toggle_CraftableOnly { Wyświetlaj tylko przepisy możliwe do wytworzenia }
+
+Foldout_Throw { Narzędzia }
+
+Foldout_Ammo { Amunicja }
+
+Foldout_Trinkets { Biżuteria }
+
+Foldout_Food { Żywność }
+
+Foldout_Heal { Gojenie : zdrowienie }
+
+Foldout_Unsorted { Nieposortowane }
+
+Title_CraftingStation { Obszar roboczy }
+
+Prefix_RequiredWorkbench { Wymagany: }
+
+Foldout_Potion { Mikstury }
+
+Foldout_Crafting { Przetwarzanie }
+

@@ -1,0 +1,30 @@
+Plh_13 { Hej, $GVAR:EVars_Player.Name$, twoja kolej. Wejdź na arenę. }
+
+Plh_46 { To była walka! Z przyjemnością zobaczyłbym walki na arenie każdego dnia. Zawsze coś się dzieje między Marked Ones! }
+
+Plh_33 { Kim są Naznaczeni? }
+
+Plh_36 { Czy ja też mogę zostać wojownikiem? }
+
+Plh_35 { Są wojownikami Antoniusa Proximusa. Doświadczeni wojownicy areny, tylko najlepsi. }
+
+Plh_37 { *mierzy cię wzrokiem* Może, ale musiałbyś umieć dobrze walczyć. Proximus decyduje. }
+
+Plh_38 { Po walce z Bady i Gra, tutaj odbędą się kolejne walki. Jeśli się postarasz, będziesz miał szansę. }
+
+Plh_32 { W tej chwili jest specjalna walka między Badym i Gra. Następnie arena zostanie ponownie otwarta dla Marked Ones. }
+
+Plh_42 { Walka z $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ będzie zacięta. Ale uważaj. Ona wykorzystuje mgłę na swoją korzyść. I jest niepokonana. Zawsze bym na nią stawiał. }
+
+Plh_43 { Wygram. }
+
+Plh_41 { Widziałem $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ walczących wiele razy. Ona lubi walkę wręcz. Więc trzymaj ją na dystans. Dużo szczęścia. }
+
+Plh_44 { Ebru zawsze walczy ze swoimi ripperami. Pokonanie ich nie pomaga, ponieważ zawsze może ich sprowadzić z powrotem. Uderz Ebru prosto w pysk. }
+
+Plh_40 { Postawiłem na ciebie. Powodzenia dzisiaj przeciwko $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_31 { Słyszałem o tobie, $GVAR:EVars_Player.Name$. Wieść krąży o Marked Ones. Krew i żelazo! }
+
+Plh_30 { Jeśli chcesz walczyć na arenie, idź porozmawiać z Antoniusem Proximusem. On organizuje tam walki. }
+

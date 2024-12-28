@@ -1,0 +1,392 @@
+Plh_142 { Mógłbyś mi w czymś pomóc. }
+
+Plh_30 { O prosiętach... }
+
+Plh_104 { Roarke mówi, że powinno być czwarte prosię. }
+
+Plh_8 { Czy wiesz jak mogę porozmawiać z Bertine? }
+
+Plh_228 { Chyba teraz jestem jednym z Bonded. }
+
+Plh_226 { To prawda. I cieszę się, że do nas dołączyłeś. Może kiedyś znowu pomożesz mi z tym śmieciem. Albo, kto wie... }
+
+Plh_240 { Może masz talent, żeby zostać siewcą? }
+
+Plh_229 { Przyjaciele prosiaczków i potężnego dzika są moimi przyjaciółmi. Zawsze jesteście tu mile widziani. }
+
+Plh_148 { Co jest nie tak z Cay? }
+
+Plh_193 { Może moja iskra pomoże Cay? }
+
+Plh_187 { Olaf mówi, że powinienem zostawić Liesl u ciebie. }
+
+Plh_188 { Jasne, zajmę się Liesl. Ona może dotrzymać towarzystwa Cay i mnie. }
+
+Plh_140 { Nie teraz. }
+
+Plh_4 { Plh_4 }
+
+Plh_0 { Hm? Kim jesteś? Czy jesteś Wayward? Nigdy cię tu wcześniej nie widziałem, a ty też nie masz iskry. }
+
+Plh_1 { Co teraz? }
+
+Plh_2 { Dlaczego miałbym być nieposłuszny? }
+
+Plh_3 { Jestem $GVAR:EVars_Player.Name$. }
+
+Plh_5 { Twoja iskra! Każdy ją ma! }
+
+Plh_105 { Cóż, tak naprawdę muszę teraz iść do pracy. }
+
+Plh_6 { Nie, nie jesteś kapryśny, jesteś kapryśny. Ponieważ nie masz iskry. }
+
+Plh_7 { Pozdrowienia, $GVAR:EVars_Player.Name$. Rzadko się zdarza, żeby obcy przechodzili obok, wiesz. }
+
+Plh_47 { *zauważa cię, ale postanawia cię widocznie ignorować* }
+
+Plh_9 { Co tu robisz? }
+
+Plh_10 { Kim jesteś? }
+
+Plh_108 { Czy mogę w czymś pomóc? }
+
+Plh_110 { Co się dzieje z tymi prosiaczkami biegającymi tutaj? }
+
+Plh_111 { Dobrze, to już pójdę. }
+
+Plh_106 { Pracujący. }
+
+Plh_107 { Ktoś zajęty. }
+
+Plh_109 { NIE. }
+
+Plh_112 { Lubisz prosiaczki? *uśmiecha się nieśmiało* }
+
+Plh_230 { Są niesamowite. Dbam o nie. }
+
+Plh_195 { Spójrz na nich. Beze mnie nie przetrwaliby zbyt długo. }
+
+Plh_231 { Moje małe podopieczne. Matka je karmi, daje im siłę i nosi. Potężny Dzik obdarza swoją siłą Matkę. Krąg życia. }
+
+Plh_232 { Niesamowite... Nigdy bym nie pomyślał, że coś takiego może istnieć... }
+
+Plh_233 { Co, ten korzeń rodzi prosięta...? }
+
+Plh_234 { Jest wiele rzeczy na tym świecie, których nie jesteśmy w stanie sobie wyobrazić... Dopóki ich nie napotkamy. }
+
+Plh_57 { Nazywam się Taron. Jestem siewcą. Więc ja jestem odpowiedzialny za te małe łobuziaki. Teraz wiem już wszystko o tych prosiaczkach. }
+
+Plh_113 { Ty je hodujesz? }
+
+Plh_114 { Wygląda na to, że wiesz o tym sporo. }
+
+Plh_236 { Cóż, ściśle mówiąc, ja się nimi tylko opiekuję. To Matka je hoduje. }
+
+Plh_117 { Kiedyś też szło całkiem gładko. Prosiaczki stawały się większe i silniejsze, i prawie wszystkie dały radę. Aż Anatoli zauważył to zjawisko... }
+
+Plh_58 { Zjawa chaosu i śmierci. Matka jest skażona i osłabia moje prosiątko nasienie. A bez nasienia musimy bać się gniewu Potężnego Dzika. }
+
+Plh_196 { Diemo i ja robimy co możemy. Ale to nie jest takie proste... }
+
+Plh_118 { Kim jest ta zjawa? }
+
+Plh_119 { To zrezygnuj z prosiąt... }
+
+Plh_120 { Nie wiemy, czym jest ta zjawa ani skąd pochodzi. Ale zakłóca harmonię Lasu Pierwotnego i szkodzi nasieniu prosiaczka. }
+
+Plh_61 { Ponieważ Matka nie jest już w stanie karmić prosiaczków, gdy jest skażona, staram się je chronić. Las Pierwotny staje się coraz groźniejszy, a nasienie prosiąt słabsze. }
+
+Plh_123 { Czym jest Matka? }
+
+Plh_124 { Czy Matka ma coś wspólnego z tym korzeniem? }
+
+Plh_125 { Matka tworzy wszystkie korzenie dla nasion w Lesie Pierwotnym. A Potężny Dzik wypełnia Matkę i Las życiem. }
+
+Plh_136 { Jestem pewien, że zjawa splamiła Matkę. Diemo w to nie wierzy. Ale to ja opiekuję się prosiaczkiem, więc powinienem wiedzieć lepiej! }
+
+Plh_121 { Wygląda na to, że potrzebujesz pomocy. }
+
+Plh_122 { Może masz rację. }
+
+Plh_137 { Mówiłem! }
+
+Plh_126 { Po raz pierwszy słuchasz! Świetnie. }
+
+Plh_197 { Co?! Nie ma mowy! Musimy coś zrobić z tym zjawiskiem! }
+
+Plh_116 { *lekko się rumieni* Robię to już od jakiegoś czasu... }
+
+Plh_235 { Oczywiście. Należą do Matki. Bez swoich korzeni, i tak by ich już dawno nie było. }
+
+Plh_115 { Hmm. }
+
+Plh_139 { *nerwowo stukając stopami o ziemię* }
+
+Plh_138 { Gratulacje. Udało ci się jednak. Czy to już koniec? Nasiona nie są sadzone same z siebie. }
+
+Plh_48 { Powinniśmy poczekać, aż wszyscy tu będą. }
+
+Plh_128 { Dziękuję jeszcze raz za pomoc przy prosiaczkach. }
+
+Plh_227 { Mój przyjacielu prosiaku! Jak miło, że do mnie dołączyłeś. }
+
+Plh_147 { Moje małe pociechy... wszystkie zniknęły... }
+
+Plh_180 { Bea... Nea... Nikt z nich nie dał rady... }
+
+Plh_181 { *zauważa cię* To ty... }
+
+Plh_182 { Teraz nie mam czasu. Little Cay to jedyny szarżujący, jaki mi pozostał. Więc chcę spędzić z nim jak najwięcej czasu, póki jeszcze mogę. }
+
+Plh_179 { Spadaj. Nie chcę cię widzieć. }
+
+Plh_185 { Wszystko będzie dobrze, Cay. Taron jest tutaj. }
+
+Plh_49 { Skończyliśmy, moje kochanie. Bea, Nea, Lea, Rea — biegnijcie do lasu! }
+
+Plh_84 { *Prosiaczek spogląda na Tarona* }
+
+Plh_85 { Nie zachowuj się tak! Wszyscy doskonale wiecie, że musicie iść! }
+
+Plh_86 { *Prosiaczek patrzy na ciebie* }
+
+Plh_53 { (zwierzak) Dbaj o siebie, maleńka. }
+
+Plh_54 { A teraz uciekajcie. }
+
+Plh_87 { *Prosiaczek pozwala się pogłaskać, po czym zwraca się do pozostałych nowo przybyłych* }
+
+Plh_88 { Ja również będę za wami tęsknić... }
+
+Plh_91 { Nea, dasz radę! Wierzę w ciebie! }
+
+Plh_204 { *Szeroko otwartymi oczami wpatruje się w Tarona* }
+
+Plh_205 { Ja też będę za tobą tęsknić, Nea. }
+
+Plh_206 { Wiem, że to było trudne dla was wszystkich. Ale bieganie na wolności, na zewnątrz — to jest wasze miejsce. Razem z innymi dzikami. }
+
+Plh_207 { *Prosiaczek przechyla głowę, wyglądając na zdezorientowanego, jakby nie mógł zrozumieć.* }
+
+Plh_208 { Pewnego dnia zrozumiesz, co mam na myśli. Kiedy będziesz dużym, silnym dzikiem. Może spotkamy się ponownie! *patrzy na ciebie błagalnie* }
+
+Plh_209 { (Podejdź do niego i chwyć go za ramię) Nea da radę, Taron. Uwierz mi. }
+
+Plh_210 { Czas odpuścić, Taron. Prosiaczek będzie w porządku. }
+
+Plh_211 { Tak, masz rację... }
+
+Plh_213 { *Klękając, mocno przytula małego prosiaczka po raz ostatni, kołysząc go delikatnie w przód i w tył* Wszystko będzie dobrze, Nea. }
+
+Plh_214 { *Gdy ostrożnie odkłada prosiaczka, Nea uśmiecha się do niego pełna nadziei* }
+
+Plh_215 { A teraz idź. Wiem, że dasz radę! }
+
+Plh_216 { Chrum! Chrum! }
+
+Plh_92 { No i jesteśmy. Ruszają... }
+
+Plh_221 { A co z Cay? Nie pozwolisz mu odejść? }
+
+Plh_223 { Cay? Nie, zostanie z nami. Nie jest taki jak inne prosiaczki. Poza tym, nigdy nie opuściłby boku Birki. }
+
+Plh_245 { Co sprawia, że ​​Cay jest tak wyjątkowa? }
+
+Plh_246 { Rozumiem. }
+
+Plh_247 { Pewnego dnia, jestem pewien, że Birka chętnie o tym wszystkim opowie. Jest najlepszą przyjaciółką Cay. W każdym razie, Cay ma specjalną więź z Mighty Boar. }
+
+Plh_224 { Mam nadzieję, że miot będzie się rozwijał... }
+
+Plh_50 { To pierwszy miot, który wypuściłam odkąd Matka została skażona. Mam nadzieję, że przeżyją. }
+
+Plh_52 { My, ludzie, posiadamy wielką moc, ale często używamy jej do złych celów. Jeśli Mighty Boar ma nas zaakceptować, musimy okazać współczucie. }
+
+Plh_257 { Współczucie jest jedną z naszych cnót. Pamiętaj o tym, następnym razem, gdy będziesz rozmawiać z Diemo. *podnosi wzrok* }
+
+Plh_248 { Niech Potężny Dzik strzeże moich maluchów. }
+
+Plh_93 { Dziękuję, $GVAR:EVars_Player.Name$. }
+
+Plh_95 { Możesz być tu nowy, ale mi pomogłeś. Las zapamięta. Czas, żebym wrócił do Matki. Musi być sposób, żeby ją oczyścić... Musi być... }
+
+Plh_94 { Dziękuję, Wayward. }
+
+Plh_249 { Dziękuję, Wayward. }
+
+Plh_212 { Chwileczkę. }
+
+Plh_55 { *patrzy na ciebie żałośnie* Chrum, chrum! }
+
+Plh_145 { *spojrzał na ciebie zdezorientowanym, wyrzutującym wzrokiem, ale nie odpowiedział* }
+
+Plh_63 { Najnowsza partia nasion dla prosiąt jest słabsza niż zwykle. Roarke chciał zmieszać dla nich trochę wzbogaconej paszy. A ja muszę znaleźć najszybszy możliwy sposób na oczyszczenie Matki. }
+
+Plh_130 { Podsumowując, nie mam czasu, żeby porządnie zająć się prosiakami. Naprawdę boli, że to mówię, ale po prostu nie mogę robić wszystkiego na raz! Może mógłbyś mi pomóc? }
+
+Plh_134 { Wygląda na to, że to ja muszę się tym zająć! }
+
+Plh_64 { Kiedy ich znajdę, zobaczę, co da się zrobić. }
+
+Plh_24 { Jadę pomóc prosiaczkom! }
+
+Plh_65 { *puszcza oko* To byłoby niesamowite! }
+
+Plh_143 { Ale nam wszystkim skończyły się monety... Więc nie mam czym ci zapłacić... Mam nadzieję, że to nie problem. }
+
+Plh_144 { Mighty Boar i Forest Primeval pokażą swoją wdzięczność. Jestem tego pewien. }
+
+Plh_131 { Naprawdę chcesz mi pomóc? To byłoby naprawdę miłe z twojej strony. }
+
+Plh_251 { Maluchy muszą być głodne. Roarke pewnie już przygotował im trochę jedzenia. }
+
+Plh_26 { Stoi przy bulgoczącym kotle przy wejściu do obozu. Gdybyś mógł dostać od niego jedzenie, żeby nakarmić prosięta, byłoby to ogromną pomocą. }
+
+Plh_237 { Gdy już im to przyniesiesz, wróć do mnie. Zawsze będę tutaj z Matką. }
+
+Plh_220 { Och — nie musisz karmić Caya — nie jest częścią najnowszego miotu, tylko małym szczeniaczkiem, który nigdy nie odchodzi od Birki. Jest czymś naprawdę wyjątkowym. }
+
+Plh_250 { Cieszę się, że tak bardzo doceniasz prosiaczki. Naprawdę je cenimy, wiesz? *uśmiecha się* }
+
+Plh_29 { Więc... NAPRAWDĘ przydałaby mi się pomoc. Prosiaczki są dla nas niezwykle ważne. }
+
+Plh_31 { Nakarmiłam prosięta. }
+
+Plh_34 { No dobrze. Już niedługo będziemy mogli pozwolić im wszystkim zamieszkać w Forest Primeval. *bada wszystkie prosięta i liczy je jedno po drugim* OK, więc ty i ty... }
+
+Plh_41 { A gdzie jest Rea? }
+
+Plh_238 { Mały łobuziak. Czy mógłbyś ją też znaleźć i przyprowadzić tutaj? }
+
+Plh_81 { Rea jest bardzo figlarna. Pewnie gdzieś się ukrywa. Szukaj wszędzie! }
+
+Plh_133 { Do cholery! Zapomniałem ci powiedzieć, że musisz też nakarmić Reę. Zazwyczaj zostaje u mojego boku, a ja chciałem się nią zająć. Ale po prostu nie mam czasu... }
+
+Plh_43 { Wszystkie cztery prosięta już zjadły. }
+
+Plh_45 { Wszyscy moi szarżujący mają już pełne brzuchy. Chodźmy na skraj obozu i pożegnajmy ich. }
+
+Plh_241 { No to jedziemy. }
+
+Plh_242 { Taron... wyglądają na tak słabych. Jesteś pewien, że dadzą sobie radę sami? }
+
+Plh_103 { Chodźcie, maluchy! }
+
+Plh_244 { Fakt, że się o nich troszczysz, pokazuje mi, jaką jesteś dobrą osobą. Ale to oni będą musieli to zrobić. Matka tego chce. Zrobiliśmy dla nich wszystko, co mogliśmy. Teraz wszystko zależy od nich. }
+
+Plh_146 { *rumieni się* ... Ach, racja! Jak mogłam zapomnieć wspomnieć ci o Rea?! Wiesz, tak naprawdę chciałam się nią sama zająć. Dobrze, że poświęciłaś mi tyle uwagi. }
+
+Plh_11 { Co? Bertine? }
+
+Plh_239 { Nie, od śmierci Anatoliego, jest trochę — cóż, szalona. Po prostu siedzi albo krzyczy na ludzi. Albo robi obie te rzeczy naraz. }
+
+Plh_13 { Mimo wszystko musi być jakiś sposób, żeby do niej dotrzeć... }
+
+Plh_14 { Jestem dobry tylko ze zwierzętami. Ludzie są dziwni. Lepiej zapytaj Roarke'a. Jakoś dogaduje się ze wszystkimi. }
+
+Plh_15 { Mogę tylko powiedzieć, że Bertine zawsze patrzy na Cay. Jakby coś jej zrobił... Mała Cay... }
+
+Plh_150 { Gdybym tylko wiedział, co to jest, mógłbym mu pomóc! }
+
+Plh_151 { Próbowałem wszystkiego. Powinien być w świetnej formie. Ale on tu marnieje, bez odrobiny siły. }
+
+Plh_152 { *głaszcze go delikatnie* Biedny Cay. Chciałbym móc ci pomóc. }
+
+Plh_157 { Mighty Boar uratował Cay już raz. Ale teraz go nie ma. A wraz z nim Forest Primeval. }
+
+Plh_184 { Obawiam się, że koniec Cay jest bliski. Nie wiem, co jeszcze mogę zrobić. Musi być coś, co da mu nową siłę, coś od Mighty Boar. }
+
+Plh_160 { *Cay kładzie głowę na dłoni Tarona, dysząc płytko* }
+
+Plh_158 { Jestem tu dla ciebie, Cay. Wszystko będzie dobrze. }
+
+Plh_162 { Odnalazłeś swoją iskrę? }
+
+Plh_165 { *możesz poczuć jak twoja iskra reaguje na Cay'a — chce mu pomóc* }
+
+Plh_166 { ... Oczywiście! }
+
+Plh_167 { Cay ma szczególną więź z Forest Primeval! A twoja iskra to wszystko, co z niej pozostało! }
+
+Plh_168 { Może w ten sposób możesz pomóc Cay’owi?! Wydaje się, że czuje się lepiej, kiedy iskra jest u jego boku. }
+
+Plh_169 { Jeśli to pomoże Cayowi, to moja iskra będzie mu towarzyszyć. }
+
+Plh_170 { To moja iskra. Nikogo innego. }
+
+Plh_254 { No dobrze... Cay, proszę. Iskra da ci siłę. }
+
+Plh_252 { *Cay radośnie wstaje, gdy iskra leci w jego stronę* }
+
+Plh_255 { Chrum! Chrum! }
+
+Plh_171 { Nie widziałem Cay tak szczęśliwej, odkąd uciekliśmy z Puszczy Pierwotnej! }
+
+Plh_256 { Dzięki, $GVAR:EVars_Player.Name$! Nigdy tego nie zapomnę. I Cay na pewno też nie. *uśmiecha się* }
+
+Plh_172 { *do Cay* Widzisz, Cay? Wszystko będzie dobrze. Mówiłam ci. }
+
+Plh_174 { C-co? Przychodzisz tu, nasza ojczyzna zostaje zniszczona chwilę później, a ty nie ruszysz palcem, żeby pomóc Cay, chociaż mógłbyś?! }
+
+Plh_175 { Dobrze. Iskra powinna zostać po stronie Cay. }
+
+Plh_176 { Zapomnij. Iskra wybrała MNIE. Nie Cay. }
+
+Plh_177 { Jesteś bezdusznym zwierzęciem. Obrzydliwością. Spadaj! }
+
+Plh_67 { Jak udaje wam się przetrwać w tym ciemnym lesie? }
+
+Plh_71 { Co to jest Mighty Boar? }
+
+Plh_83 { Wszyscy wierzycie w coś, czego nawet nie widzieliście na oczy? }
+
+Plh_72 { Nasiona dla prosiąt... Co masz na myśli? }
+
+Plh_68 { Czy nie widzisz ubrania, które noszę? Iskry u mojego boku? W tym lesie mieszka Potężny Dzik, jedno z Bóstw. }
+
+Plh_198 { Przybrał postać dzika. Dlatego dostosowujemy się do jego zwyczajów i opiekujemy się prosiakami. Mamy nadzieję, że zaakceptuje nas jako część lasu. }
+
+Plh_69 { Świeże nasiona dla prosiąt również są częścią tego. Po wychowaniu prosiąt tutaj, wypuszczamy je do Forest Primeval, aby zadowolić Mighty Boar. }
+
+Plh_203 { Dlatego tak ważne jest odkrycie, w jaki sposób szybko oczyścić Matkę... }
+
+Plh_70 { Jedno z Bóstw. Potężna istota. Ten las jest jego domeną. }
+
+Plh_199 { Nazywamy go Mighty Boar, ponieważ zakładamy, że jest to jeden z tych kłach maruderów żyjących w lesie. Ale nikt go nigdy nie widział. }
+
+Plh_82 { Po tym, co przeżyliśmy, nikt z nas nie ma już wątpliwości. }
+
+Plh_200 { Jak myślisz, jak udało nam się tu przetrwać? Tylko dzięki Mighty Boar! }
+
+Plh_74 { Jestem siewcą. Kiedy prosięta rodzą się Matce, pozostają z nią. Potem ja się nimi opiekuję. }
+
+Plh_201 { Mniejsze prosięta nazywamy nasieniem prosiąt. }
+
+Plh_260 { Jestem tu, żeby cię ostrzec. Mój obóz chce złapać Mighty Boar! }
+
+Plh_259 { Zwykli ludzie nie są w stanie skrzywdzić Mighty Boar. Nie mam czasu na twoją gadkę — muszę zająć się nowym nasieniem. }
+
+Plh_261 { Chcesz złapać Mighty Boar? To brzmi szalenie. Jak to w ogóle ma działać? }
+
+Plh_262 { Och, twoja iskra jest dość silna! Nawet ja to wyczuwam! }
+
+Plh_263 { Nie wierzę! Wygląda na to, że twoja iskra uzdrowiła Cay na miejscu! }
+
+Plh_264 { Nie spodziewałem się tego. Ale twoja iskra i ty... macie bardzo silne połączenie. W tym wyczuwam Potężnego Dzika. }
+
+Plh_265 { Myślę, że możesz odzyskać swoją iskrę. Cay nie będzie jej już potrzebować. }
+
+Plh_266 { *eeeeek...* }
+
+Plh_267 { Och... twoja iskra... jest taka słaba... }
+
+Plh_268 { Siły Caya słabną... Myślę, że iskra utrzyma go przy życiu, ale to potrwa chwilę. }
+
+Plh_269 { Dziękuję, $GVAR:EVars_Player.Name$. Zrobiłeś, co mogłeś. Być może z czasem Cay znów będzie sobą... *delikatnie głaszcze małego prosiaczka* }
+
+Plh_271 { Spotkałem Reę, Beę, Leę i Neę. Są w porządku. }
+
+Plh_272 { Moje maleństwa. Udało im się. Mighty Boar wciąż ich chroni. Czuwa nad nimi. W nich Las Pierwotny żyje dalej. }
+
+Plh_273 { Dzięki, $GVAR:EVars_Player.Name$, za powiedzenie mi. W tych trudnych czasach tego potrzebowałem. *uśmiecha się* }
+

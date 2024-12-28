@@ -1,0 +1,107 @@
+director { Reżyser gry }
+
+game_design_lead { Główny projektant gier }
+
+game_design { Projektowanie gier }
+
+additional_game_design { Dodatkowy projekt gry }
+
+programming_lead { Lider programowania }
+
+programming { Programowanie }
+
+art_lead { Kierownictwo artystyczne }
+
+art { Sztuka }
+
+community { Wspólnota }
+
+sound_lead { Dźwięk i muzyka }
+
+organisation { Wsparcie i zaplecze }
+
+praktikanten { Praktykanci }
+
+freelancer { Zewnętrzni wykonawcy }
+
+musik { Muzyka }
+
+sound { Dźwięk }
+
+grafiken { Ilustracja }
+
+autor { Pismo }
+
+testers { Testerzy }
+
+publisher { Wydawca }
+
+spotlight { Reflektor pokładu 13 }
+
+spotlight_interns { Praktykanci }
+
+spotlight_productionBaby { Produkcja Baby }
+
+spotlight_deck13 { Pokład 13 }
+
+spotlight_deck13_interns { Praktykanci }
+
+spotlight_deck13_memory { Ku pamięci Felixa Rischbietera }
+
+pr_hound { Psiak PR }
+
+bxdxo { BXDXO }
+
+headline_Localization { Lokalizacja }
+
+loca_coordination { Koordynacja }
+
+loca_english_lead { Lider języka angielskiego }
+
+loca_english_translators { Tłumacze języka angielskiego }
+
+loca_english_proofreading { Korekta języka angielskiego }
+
+loca_french_localization { Lokalizacja francuska }
+
+loca_french_translators { Tłumacze języka francuskiego }
+
+special_thank_Grounding { Składamy szczególne podziękowania za założenie studia: }
+
+specia_thank { Specjalne podziękowania }
+
+tools { Narzędzia }
+
+voice { Talenty głosowe }
+
+thanks_family { Dziękujemy naszym rodzinom, przyjaciołom i partnerom za ciągłe wsparcie. Nigdy nie doszlibyśmy tak daleko bez was. }
+
+thanks_pb { Dziękuję Piranha Bytes za serię Gothic. Świetna gra, która wywarła trwały wpływ na nas wszystkich. }
+
+chris_wish { Moja kochana Sarah, dziękuję za wsparcie, gdy goniłam za moim szalonym marzeniem. Nie zawsze było łatwo, ale daliśmy radę!\nI spoczywaj w pokoju, babciu. Tęsknię za tobą. }
+
+gecko { Gecko! Dzięki za pomoc! Żelazna pięść na naszym Discordzie. }
+
+bady { Oto ty, Bady „Atilozz”! Mistrzu areny i wierny towarzyszu w rozwoju Drova. Byłeś tu od początku. }
+
+entwicklerWG { Dziękujemy wszystkim widzom, którzy śledzili nasz „Entwickler WG” na Twitchu. Nadal daliście nam siłę i motywację do pracy nad Drova. }
+
+lavapotion { Dziękujemy zespołowi Lavaoption za cenne wskazówki dotyczące projektowania naszego świata, gdy zaczynaliśmy pracę nad naszym projektem. }
+
+tinyroar { Pozdrowienia i podziękowania dla Tiny Roar za mnóstwo porad i skierowanie do nas Fabia! }
+
+Acagamics { Dzięki Acagamics, stowarzyszeniu studenckiemu naszego uniwersytetu, które nas zjednoczyło i zorganizowało wydarzenia i konkursy motywujące nas do rozwijania Drova. Bez was nie byłoby Drova! }
+
+finish_line { Ostatnie słowa są dla Ciebie. Dziękuję za grę w Drova. }
+
+special_thanks_support { Szczególne podziękowania za wsparcie w trakcie procesu rozwoju: }
+
+johannes_wish { Dziękuję Ci, Lea, za Twoje wsparcie i wspaniałą przyjaźń, mimo że musiałam trzy razy odwoływać nasze zaplanowane wakacje, bo pracowałam nad Drovą. }
+
+Fabio_wish { Dziękujemy czterem założycielom Just2D — Chrisowi, Johannesowi, Kai i Julianowi. Dzięki waszej odwadze, zaangażowaniu, odpowiedzialności i strukturze stworzyliście środowisko pracy, w którym możemy czuć się bezpiecznie nawet w trudnych czasach i spełniać nasze wspólne marzenie: tworzenie gier. }
+
+Gratulation_Insane { Ukończyłeś grę na poziomie Insanity, a niewielu osobom się to udaje.<br>Dla nas to największy komplement, że zainwestowałeś swój czas i pasję w Drova.<br><br>Nie możemy się doczekać kolejnych przygód z Tobą.<br><br>Zespół Just2D }
+
+Gratulation_Hardcore { Jedno życie i dobrze je wykorzystałeś.<br>Ukończenie Drovy bez popełnienia ani jednego błędu zasługuje na szacunek.<br>Dla nas największym komplementem jest to, że zainwestowałeś swój czas i pasję w Drovę.<br><br>Z niecierpliwością czekamy na kolejne przygody z Tobą.<br><br>Zespół Just2D }
+
+Gratulation_Both { Największe wyzwanie w Drova, poradziłeś sobie z nim!<br>Dla nas to największy komplement, że zainwestowałeś swój czas i pasję w Drova.<br><br>Czekamy na kolejne przygody z Tobą.<br><br>Zespół Just2D }

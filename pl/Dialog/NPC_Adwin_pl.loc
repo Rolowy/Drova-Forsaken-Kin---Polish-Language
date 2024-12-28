@@ -1,0 +1,102 @@
+Plh_66 { Słyszałem kłótnię. Jennifer powiedziała, że ​​skończyło ci się drewno? }
+
+Plh_72 { Czy mam ci przynieść drewno? }
+
+Plh_52 { Oto twoje drewno. (przekaż logi $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$) }
+
+Plh_67 { Zgadza się. No i co? }
+
+Plh_73 { Mogę to dla ciebie zdobyć. }
+
+Plh_68 { Naprawdę? Uratowałbyś mi tyłek. Junali jest strasznie wkurzony, bo wszystko przepadło... }
+
+Plh_69 { Właściwie Swenn powinien był przynieść nam logi $GVAR:QuestVars_WoodForAdwin_Config.AmountOfWoodRequired$. Ale czekamy już wieczność. }
+
+Plh_70 { Jeśli przyniesiesz nam trochę drewna, oczywiście zapłacę ci za nie. }
+
+Plh_53 { Nareszcie możemy kontynuować pracę. To też trochę uspokoi Junali. Była już dość zirytowana tym, że wszystko trwało tak długo. }
+
+Plh_54 { I Swenn po prostu oddał drewno, ot tak? }
+
+Plh_55 { Tak, potrzebował tylko kogoś, kto to przetransportuje. }
+
+Plh_56 { Nie byłem w Swenn's. Kupiłem sam. }
+
+Plh_57 { Leniwy pies, zmuszający innych do ciągnięcia, podczas gdy sam stoi i liczy monety. }
+
+Plh_59 { Naprawdę nam w tym pomogłeś. Oto dla ciebie. }
+
+Plh_60 { No dalej, bierz. Uczciwa praca, uczciwa płaca, tak po prostu. Jeśli pomagasz, dostajesz za to zapłatę. Tak to działa u nas, rzemieślników. }
+
+Plh_58 { Jesteś zdecydowanie bardziej wiarygodny niż kupcy tutaj. Ciągle jesteśmy z nimi w konflikcie... }
+
+Plh_11 { O co chodzi z kamieniami granicznymi? }
+
+Plh_16 { Gdzie ma znaleźć się kamień graniczny? }
+
+Plh_61 { Jak dokładnie działają te kamienie graniczne? }
+
+Plh_12 { Żyjemy w harmonii z Wielkim Krukiem i stawiamy mu kamienie graniczne. Zabezpieczamy jego terytorium, a w zamian pozwala nam tu żyć. }
+
+Plh_13 { Życie w harmonii z Bóstwem jest czymś bardzo wyjątkowym. Daj trochę, weź trochę. Jesteśmy jednością. }
+
+Plh_17 { Jeden kamień graniczny w gaju jabłoniowym nie spełnia już swojej funkcji. Kiedyś kwitła tam wieś. Teraz rozprzestrzenia się Czerwone Wrzosowisko. Tak karze nas Bóstwo... }
+
+Plh_19 { Kamienie graniczne Divinity muszą zostać zbudowane. W przeciwnym razie Drova nigdy nie stanie się Krainą Legend. }
+
+Plh_62 { Bóstwo lubi kamienie graniczne. Budujemy je, aby je zadowolić. Nemetonowie robią wszystko, aby pozostać w łaskach Bóstwa. }
+
+Plh_63 { Dlatego umieściliśmy te kamienie graniczne w okręgu wokół Nemetonu. Teraz wszystko tutaj kwitnie. Nic nie jest tak zniszczone jak w obozie Remnants. }
+
+Plh_64 { Bóstwo dziękuje nam za naszą służbę i w zamian obdarza nas tą żyzną ziemią. Ona coś dla nas robi. A my coś dla niej robimy. }
+
+Plh_6 { Miło widzieć tu nową twarz. Jestem Adwin. }
+
+Plh_7 { Jestem $GVAR:EVars_Player.Name$. Co tu robisz? }
+
+Plh_9 { Ustawiamy kamień graniczny, aby rozszerzyć strefę wpływów Wielkiego Kruka. Na pewno zauważyłeś te kamienie wokół Nemetonu? }
+
+Plh_21 { *zaskakuje się* Czego tu chcesz? }
+
+Plh_22 { Właśnie miałem cię o to samo zapytać. }
+
+Plh_26 { Czy to ty jesteś tym, który szpecił ściany? }
+
+Plh_24 { Chcę się tylko zrelaksować. Dużo do zrobienia, niewiele pracy. Ale... Co cię to obchodzi? Wynoś się stąd. }
+
+Plh_27 { Ten facet? To ja mówię prawdę o tym, co robią Nemeton! }
+
+Plh_28 { Spójrz na Las Pierwotny! Zabili Divinity. Kruk nie istnieje. Wszystko jest kłamstwem i zamierzam to ujawnić! }
+
+Plh_31 { Powiedz to Gerdwinowi. On cię szuka. }
+
+Plh_32 { Gerdwin? Ha! On nie rozumie, co Nemeton nam robią. Byłeś na wyprawie... Wiesz, co się stało! Ty też powinieneś wykrzyczeć prawdę i napisać ją na ścianach! }
+
+Plh_29 { Gerdwin uważa, że ​​dostaniesz to, na co zasługujesz. }
+
+Plh_39 { Albo pójdziesz teraz do Gerdwina, albo ja cię do niego zaprowadzę. }
+
+Plh_30 { Najlepiej będzie, jeśli przestaniesz to robić, a ja powiem Gerdwinowi, że sprawa została załatwiona. }
+
+Plh_37 { Właściwie masz rację. Daj mi ten pędzel. }
+
+Plh_38 { Ja? Zabiłeś Divinity, mówię to na głos i mam zostać za to ukarany. }
+
+Plh_40 { Prawda zostanie ujawniona. }
+
+Plh_41 { Zabieraj ode mnie swoje brudne łapy! Idę. }
+
+Plh_42 { Hm. Gerdwin nie okazał Kendrickowi litości. Dobra. Ustępuję. }
+
+Plh_51 { Mam nadzieję, że Remnants docenią, gdy ludzie mówią prawdę. Wychodzę stąd... }
+
+Plh_43 { Podoba mi się to! }
+
+Plh_44 { Wygląda ciekawie, ale... Czy Gerdwin naprawdę mnie szuka? }
+
+Plh_46 { Jest na tablicy ogłoszeń. }
+
+Plh_47 { Wtedy naprawdę mogę się cieszyć, że to TY mnie znalazłeś. Ale kto wie, co się wydarzy... }
+
+Plh_20 { *spogląda na ciebie* Czego chcesz? }
+

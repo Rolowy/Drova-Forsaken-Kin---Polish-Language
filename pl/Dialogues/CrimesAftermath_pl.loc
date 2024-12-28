@@ -1,0 +1,154 @@
+Plh_0 { Dla prawa i porządku. }
+
+Plh_11 { Złamałeś prawa Nemetonu. Będziesz za to odpowiadać. }
+
+Plh_36 { Daj mi [Waluta] monety, a ja wybaczę ci twoje występki. Dopóki nie oczyścię twojego imienia, nikt cię tutaj nie będzie miał. }
+
+Plh_23 { Weź te monety i odpuść mi moje winy. }
+
+Plh_10 { W imieniu Raven wybaczam twoje przewinienia. Powiem ludziom, że doszedłeś do rozsądku. }
+
+Plh_63 { Zejdź mi z oczu. Nie zapomnimy twoich wykroczeń tutaj. }
+
+Plh_12 { Jeśli nie możesz zapłacić, nic się nie stanie. Wróć, gdy będziesz mieć wystarczająco dużo monet — albo opuść Nemeton. }
+
+Plh_21 { Potężny Dzik ci nie ufa. }
+
+Plh_35 { Daj mi [walutę] jako znak zadośćuczynienia, a będę mógł ci wybaczyć to, co zrobiłeś. }
+
+Plh_1 { Chciałbym odpokutować za swoje zbrodnie. }
+
+Plh_20 { O, Potężny Dziku! Wybacz tej osobie jej przewinienia! Oczyść ich z ich błędów i pokaż im drogę! }
+
+Plh_64 { Zostajesz oczyszczony ze wszelkiej winy... }
+
+Plh_22 { Potężny Dzik obserwuje ciebie i twoje czyny. Wróć, gdy będziesz miał znak pokuty, a ja poproszę Dzika o przebaczenie. }
+
+Plh_3 { Nie masz za co odpokutować. Odejdź. }
+
+Plh_28 { Daj mi [Walutę] srebro, a zapomnimy o całej sprawie. }
+
+Plh_29 { Oto twoje srebro. }
+
+Plh_65 { Dobrze, twoje zbrodnie zostały wybaczone. }
+
+Plh_62 { Albo zdobądź srebro, albo spadaj. }
+
+Plh_9 { Wypluj monety [Waluta] albo się wynoś. }
+
+Atone_Crimes { Oto twoje monety. }
+
+Plh_13 { Nie mam ci nic do powiedzenia, dopóki nie zobaczę kilku monet. }
+
+Plh_42 { Skrzywdziłeś naszą społeczność. Tylko Diemo może ci to wybaczyć. }
+
+Plh_41 { Gerdwin zadecyduje o twoim losie. Dopóki nie powie mi, że jesteś oczyszczony, nie chcę mieć z tobą nic wspólnego. }
+
+Witnessed_Stealing_00 { Ukradłeś. Zejdź mi z oczu. }
+
+Witnessed_Stealing_01 { Nędzny złodzieju. Spadaj. }
+
+Witnessed_Stealing_02 { Zrezygnuj z tego, zanim zaczniesz brać coś innego. }
+
+Witnessed_Stealing_03 { Nie rozmawiam ze złodziejami. }
+
+Witnessed_Stealing_04 { Jeśli nie potrafisz trzymać rąk przy sobie, to nie mam ci nic do powiedzenia. }
+
+Plh_44 { Jeżeli coś nie należy do ciebie, trzymaj od tego ręce z daleka! }
+
+Plh_45 { Nigdy więcej nie próbuj mnie okraść! }
+
+Plh_52 { Zejdź mi z oczu, brudny złodzieju! }
+
+Witnessed_HoldingWeapon_00 { Chcesz znów wyciągnąć broń i narobić więcej kłopotów? Pokonaj to. }
+
+Witnessed_HoldingWeapon_01 { Nie chcę mieć nic wspólnego z kimś, kto tak nieostrożnie wymachuje bronią wszędzie. }
+
+Witnessed_HoldingWeapon_02 { Zejdź mi z oczu, zanim znów odważysz się wyciągnąć tę broń! }
+
+Witnessed_HoldingWeapon_03 { Jeszcze raz machnij mi bronią w twarz, a będziesz miał poważne kłopoty. }
+
+Witnessed_HoldingWeapon_04 { Lepiej nie wyciągaj po prostu tej cholernej broni. }
+
+Plh_51 { Schowaj broń! }
+
+Witnessed_Trespassing_00 { Zgub się, zanim znów zaczniesz wdzierać się do jakichkolwiek pomieszczeń. }
+
+Witnessed_Trespassing_01 { Nie rozmawiam z tobą. Myślisz, że ktoś taki jak ty jest po prostu wszędzie wpuszczany? }
+
+Witnessed_Lockpicking_02 { Spadaj, złodzieju. }
+
+Witnessed_Trespassing_03 { Zostaw mnie w spokoju. Nie chcę, żebyś wchodził wszędzie w okolicy. }
+
+Witnessed_Trespassing_04 { Nie wydobędziesz ze mnie ani słowa, dopóki nie przestaniesz wszędzie wtrącać się. }
+
+Plh_49 { Zniknij. Nie potrzebuję tu włamań. }
+
+Witnessed_Lockpicking_00 { Złamałeś zamek tak po prostu, ty przeklęty złodzieju! Wal się! }
+
+Witnessed_Lockpicking_01 { Zawsze otwierasz zamki, co? Spadaj, złodzieju. }
+
+Plh_30 { Lepiej spróbuj wyłamać zamki gdzie indziej. Albo nie daj się złapać. Wynoś się stąd. }
+
+Witnessed_Lockpicking_03 { Zostaw mnie w spokoju. Nie mam nic do powiedzenia komuś, kto chce mnie oszukać. }
+
+Witnessed_Lockpicking_04 { Nie chcę mieć nic wspólnego z wytrychami! }
+
+Plh_53 { Znowu otwierasz więcej zamków? Ty łajdaku, obserwuję cię. }
+
+Witnessed_Noise_00 { Obudziłeś mnie! Wynoś się! }
+
+Witnessed_Noise_01 { Następnym razem trzymaj gębę na kłódkę, kiedy będę spał obok ciebie. Spadaj. }
+
+Witnessed_Noise_02 { Ty awanturniku! Nie masz tu nic do roboty. }
+
+Witnessed_Noise_03 { Ktoś nie wie, kiedy zamknąć gębę. Oto wskazówka: kiedy ludzie śpią! Wynoś się! }
+
+Witnessed_Noise_04 { Ty cholerny niezdarny gnoju. Odbierasz mi sen. Wynoś się stąd. }
+
+Plh_54 { Odejdź, albo nie zmrużę oka! Znów! }
+
+Plh_55 { Wynoś się! Jeśli jest coś, czego nienawidzę, to to, gdy ludzie mnie budzą. }
+
+Plh_37 { Nie chcę mieć nic wspólnego z ludźmi, którzy łamią zasady. Gerdwin zadecyduje o twoim losie. }
+
+Plh_38 { Nie przestrzegałeś praw Nemetona. Zgłoś się do Gerdwina, jeśli chcesz naprawić sytuację. }
+
+Plh_39 { Nie chcę mieć nic wspólnego z takimi bandytami jak ty. Gerdwin cię osądzi. }
+
+Plh_40 { Tutaj obowiązują zasady. A ty je złamałeś. Zapłać swoją grzywnę Gerdwinowi. }
+
+Plh_56 { Nie powiem ci ani jednego słowa, dopóki nie zapłacisz Gerdwinowi kary za to, co zrobiłeś. }
+
+Plh_57 { Więc myślisz, że jesteś ponad prawem? Rozlicz swój dług z Gerdwinem albo wypieprzaj stąd. }
+
+Plh_26 { Rozpocząć bójkę, a potem uciec? To po prostu tchórzostwo. Wróciłeś tu, żeby się oddać? }
+
+Plh_31 { Ty tchórzu! Wycofałeś się zanim mogliśmy to załatwić. }
+
+Plh_32 { Gdybyś nie uciekł, wyglądałbyś o wiele gorzej. Wynoś się stąd! }
+
+Plh_33 { Myślałem, że chcesz się bić, ale potem się wycofałeś? Zostaw mnie w spokoju! }
+
+Plh_34 { Nie będę marnował na ciebie oddechu. Wszystko co robisz to uciekasz! }
+
+Witnessed_BlockingWay_00 { Stań mi na drodze jeszcze raz, a nie będę już miłym facetem. }
+
+Witnessed_BlockingWay_01 { Jeśli kiedykolwiek znów staniesz mi na drodze, pożałujesz. Ruszaj się! }
+
+Witnessed_BlockingWay_02 { Czy znów jesteś mi na drodze? Ruszaj w drogę! }
+
+Witnessed_BlockingWay_03 { Nie mogę już patrzeć na twoją gębę. Wynoś się stąd i nie wchodź mi w drogę! }
+
+Witnessed_BlockingWay_04 { Nie stój i nie blokuj drogi. Ruszaj się! }
+
+Plh_47 { Zejdź z drogi, bo sytuacja znów stanie się trudna. }
+
+Plh_27 { Myślałeś, że po prostu zniosę wszystko? A może jesteś tu, żeby przeprosić? }
+
+Plh_59 { Przeproś albo spadaj. }
+
+Plh_60 { Nie ustąpię, dopóki nie przeprosisz. }
+
+Plh_61 { Pokaż kilka monet albo uderz w cegły. Nie chcę mieć z tobą nic wspólnego. }
+

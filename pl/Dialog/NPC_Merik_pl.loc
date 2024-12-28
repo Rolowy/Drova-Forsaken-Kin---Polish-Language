@@ -1,0 +1,208 @@
+Plh_25 { Co do Twojej oferty na ten kilof... }
+
+Plh_29 { Kilof jest zepsuty... }
+
+Plh_1 { Czy masz coś, co wydaje mniej hałasu? }
+
+Plh_106 { Czy sprzedajesz coś oprócz Silver Smashera? }
+
+Plh_107 { Oczywiście! W Merik's dostaniesz wszystko, czego dusza twojego Hewera zapragnie! }
+
+Plh_98 { Pamiętaj: Jeśli twoje życie śmierdzi jak ściek, Merik jako Rzeźnik cię wesprze. }
+
+Plh_93 { Czy masz przypadkiem coś — coś wyjątkowego — na stanie? }
+
+Plh_94 { Ja? No cóż, tylko to, co tu widać. W końcu nie wolno mi sprzedawać niczego, czego chcę. *spogląda w lewo i prawo przez ramię* }
+
+Plh_95 { No cóż, w takim razie wydam moje srebro gdzie indziej... }
+
+Plh_96 { Dobrze. Dzięki w każdym razie. }
+
+Plh_97 { *ścisza głos* Ale oczywiście nie chcę też rozczarować ludzi i pozwolić im odejść z pustymi rękami. }
+
+Plh_99 { Dla ciebie mam kilka, eh, innych rzeczy. Po prostu spójrz bliżej. }
+
+Plh_4 { Nic teraz nie sprzedaję. Wróć dziś wieczorem. }
+
+Plh_81 { Hej. Jestem Merik, ale teraz jestem bardzo zajęty. Wpadnij do mojego stoiska później. Mogę ci wtedy coś sprzedać. }
+
+Plh_84 { Możesz użyć tego do rąbania kamienia, jakby był drewnem. Zaufaj mi! Rąbanie nigdy nie było lepsze! }
+
+Plh_85 { Hm. Naprawdę? }
+
+Plh_86 { Czy słyszę niedowierzanie? Możesz zaufać moim towarom! }
+
+Plh_87 { Dobrze, wezmę jedną z tych rzeczy. }
+
+Plh_88 { Chętnie! I przyjdź do mnie, jeśli potrzebujesz więcej sprzętu! }
+
+Plh_26 { No cóż, zmieniłeś zdanie? Silver Smasher niecierpliwie czeka, aż go użyjesz! }
+
+Plh_13 { Cholernie drogie... }
+
+Plh_15 { Co sprawia, że ​​Silver Smasher jest lepszy od konwencjonalnych kilofów? }
+
+Plh_18 { Silver Smasher to po prostu kolejny kilof w innym kolorze, prawda? }
+
+Plh_20 { Gdzie jest haczyk? }
+
+Plh_6 { Dobrze, wezmę kilof. (Zapłać $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ srebra) }
+
+Plh_28 { Dobrze, wezmę kilof. (Zapłać $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ srebra) }
+
+Plh_7 { Nie chcę. }
+
+Plh_22 { Nie, dziękuję. Już idę. (koniec rozmowy) }
+
+Plh_14 { Daj spokój, po prostu zrób matematykę. Będziesz potrzebował tylko połowę siły do ​​każdego ciosu, więc będziesz w stanie wyciąć dwa razy więcej srebra. Powinienem pobierać podwójną opłatę! }
+
+Plh_16 { Wszystko! Wszystko jest lepsze! Poprzedni model źle reagował na srebro, ale mamy to opanowane! }
+
+Plh_19 { Co? To wynik eonów badań. Co sugerujesz? *pojedyncza kropla potu spływa mu po czole* }
+
+Plh_21 { Nie sprzedaję żadnych połowów — tylko luki, hahaha! Może będziesz musiał się tu zadomowić... }
+
+Plh_112 { A to byłoby o wiele łatwiejsze z Silver Smasher! Ale wkrótce się o tym przekonasz. }
+
+Plh_8 { Mądry wybór! *szeroko się uśmiecha i pokazuje kawałek złota na jednym ze swoich zębów* }
+
+Plh_10 { Mamy umowę. *uśmiecha się* Miłego cięcia! }
+
+Plh_11 { Poczekaj, nie masz wystarczająco srebra! Wróć, kiedy będziesz mógł mi zapłacić. }
+
+Plh_27 { Słuchaj. Lubię cię, więc zrobię wyjątek. Zaproponuję ci ofertę na Silver Smasher. $GVAR:QuestVars_BluntHoe_Config.ReducedPriceForPickaxe$ srebro! }
+
+Plh_23 { *zgrzyta zębami* Dobra, najwyraźniej uważasz, że wiesz lepiej. Po prostu wróć tu na czworakach, po tym jak zapracowałeś się na śmierć i zmieniłeś zdanie. }
+
+Plh_89 { Ach, chyba nie mieliśmy dotąd przyjemności robić interesów! *szeroko się uśmiecha* }
+
+Plh_0 { Witaj na moim stoisku! Jestem Merik! Tutaj dostaniesz wszystko, czego zapragnie serce twojego Hewera! Nigdzie nie znajdziesz lepszej oferty — ani w Pit, ani nigdzie indziej w całej Drova! }
+
+Plh_117 { Tutaj w Pit nie przyjmujemy monet. Handlujemy towarami. }
+
+Plh_5 { Cóż, wyglądasz na silnego, ale czy cięcie nie jest męczące? Czy nie wyczerpuje twoich sił? Jest inny sposób! }
+
+Plh_90 { Użyj jednego z MOICH nowych i ulepszonych kilofów! *wyciąga kilof* }
+
+Plh_12 { Przedstawiam: SILVER SMASHER! Posiada ekstra utwardzoną końcówkę, która została magicznie pokryta pod pełnią księżyca. Rozbija srebro jak nóż masło! }
+
+Plh_114 { Jego rękojeść z drzewa nocnego idealnie leży w dłoni. Z Silver Smasher potrzebujesz tylko połowę wytrzymałości na każdy cios! Tyle samo pracy, ale dwa razy więcej srebra! }
+
+Plh_115 { Zapomnij o wczorajszym kilofie — zdobądź Silver Smasher! Dzisiaj! }
+
+Plh_91 { I tylko za jednorazową zniżkę $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ srebra! A za taką cenę poderżnę sobie gardło! No i co powiecie? }
+
+Plh_57 { Przepraszam, jestem teraz bardzo zajęty. Wrócę później, żeby ci coś sprzedać. }
+
+Plh_60 { Czy tu coś podkradasz? }
+
+Plh_61 { Muszę iść. }
+
+Plh_63 { Spadaj. To nie twoja sprawa. }
+
+Plh_65 { Levin byłby zainteresowany tym, co tu robisz... }
+
+Plh_66 { Co tu się dzieje? }
+
+Plh_108 { Chcesz kawałek mnie? Lepiej uważaj... }
+
+Plh_70 { *patrzy na Katsę* }
+
+Plh_71 { Upewniamy się, że Wy, Hewers, otrzymacie wystarczająco dużo sprzętu. Merik odbiera go tutaj i sprzedaje wam. }
+
+Plh_72 { Czyli przemycasz przedmioty do Pitu? }
+
+Plh_73 { Czy mogę w czymś pomóc? }
+
+Plh_109 { *patrzy na ciebie ponuro* Po prostu nie mieszaj się w to. }
+
+Plh_76 { *Kontynuuje pracę* }
+
+Plh_77 { Nikt nie musi wiedzieć, co tu robimy. Co powiesz na to, żebyś zamknął swoją mordę, a ja będę ci winien? }
+
+Plh_79 { Levinowi by się to nie spodobało. }
+
+Plh_78 { Nie zobaczę nic, zakładając, że ty też nic nie zobaczysz, kiedy następnym razem będę chciał wyjść. }
+
+Plh_68 { Zastanów się długo i dokładnie, co chcesz powiedzieć i komu... }
+
+Plh_80 { *uśmiecha się* Dobra, to umowa. Ale możesz wyjść za darmo TYLKO RAZ. A jeśli Levin dowie się, co widziałeś, będę wiedział, kto jest odpowiedzialny. }
+
+Plh_51 { Chyba mieliśmy małe nieporozumienie. Zacznijmy od nowa. *uśmiecha się* }
+
+Plh_50 { Ach. Moje ramię... }
+
+Plh_53 { Zadarłeś ze mną i teraz zapłacisz za to srebrem. }
+
+Plh_54 { Oddaj srebro albo zbiję cię na miazgę. }
+
+Plh_55 { *podnosi obie ręce* Hej, hej, spokojnie. Możemy to rozwiązać. Masz, weź to. }
+
+Plh_56 { Właściwie nie powinnam w ogóle robić z tobą interesów. Ale muszę też zarabiać na życie... }
+
+Plh_83 { Zabrałeś mi już wszystko, co miałem! }
+
+Plh_3 { Hej! Co tym razem będzie? }
+
+Plh_37 { Kilof znów zepsuty! }
+
+Plh_38 { Nie może być! Czy używasz go poprawnie? Nigdy wcześniej się to nie zdarzyło — przysięgam, nie mam pojęcia, co się tam dzieje! }
+
+Plh_31 { Może zrobiłem coś źle... }
+
+Plh_32 { Czy ty sobie ze mnie żartujesz? Oszukałeś mnie! }
+
+Plh_33 { Powinienem po prostu przywalić ci w twarz. (rozpocząć bójkę) }
+
+Plh_34 { Nie, nic złego się nie stało. Za jedyne $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$ srebra kupię ci nowy! Musisz go tylko poprawnie używać. }
+
+Plh_42 { Dobrze. Proszę. (Zapłać $GVAR:QuestVars_BluntHoe_Config.PriceForPickaxe$) }
+
+Plh_43 { Zapomnij o tym. }
+
+Plh_44 { Bardzo, bardzo dobrze. I tym razem nie trzymaj tego do góry nogami! }
+
+Plh_45 { Nie masz wystarczająco dużo srebra! }
+
+Plh_47 { Jak chcesz. Wielu moich klientów przysięga na Silver Smasher. Ale jeśli wolisz harować ciężej... }
+
+Plh_35 { Spokojnie. Cenię opinie moich klientów. Ale nie muszę przyjmować tego typu insynuacji bezkrytycznie. }
+
+Plh_39 { Twoje Smashery są cytrynami! }
+
+Plh_40 { Rozwiążmy to w inny sposób. Pięściami. (rozpocznij bójkę) }
+
+Plh_41 { Ty łajdaku. Po prostu zapomnij o tym. (koniec rozmowy) }
+
+Plh_46 { Musimy popracować nad naszymi relacjami biznesowymi. }
+
+Plh_113 { Co powiesz na zniżkę? Następnego Silver Smashera sprzedam ci za $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$ srebra. Oferta jednorazowa! }
+
+Plh_82 { Dobrze. Proszę. (Zapłać $GVAR:QuestVars_BluntHoe_Config.LowestPriceForPickaxe$) }
+
+Plh_48 { Naprawdę myślisz, że kupiłbym jeszcze jednego, ty łajdaku? Nauczę cię teraz manier. (zaczyna się bójka) }
+
+Plh_49 { O tak? To język, który rozumiem! }
+
+Plh_36 { Twój kilof zepsuł się niemal natychmiast! }
+
+Plh_30 { Niemożliwe! Czy trzymałeś go do góry nogami czy coś? Czy dobrze się nim opiekowałeś? Czy przycinałeś pod odpowiednim kątem? Te rzeczy wytrzymują całe życie! }
+
+Plh_2 { Hałas w Pit, co? Tak, cały ten wrzask może doprowadzić do szału. Na szczęście mam w magazynie ochronniki słuchu. }
+
+Plh_116 { To ochroni twoje uszy. I twoje nerwy. I nie kosztuje tak dużo! }
+
+Plh_24 { Pokaż mi swoje towary. }
+
+Plh_100 { Serce Hewera bije tu mocno! Kup, póki możesz! }
+
+Plh_101 { Kilof się zużył? Nie ma problemu! Przyjdź do Merika! }
+
+Plh_102 { Oszczędności, oszczędności, oszczędności! }
+
+Plh_103 { Dwa kilofy w cenie trzech! }
+
+Plh_104 { Stoisko Merika! Jest tylko jedno! Zapraszam! }
+
+Plh_111 { Kiedy życie Rzeźnika Cię przygnębia, przyjdź do Merika i odwróć swoją minę do góry nogami! }
+

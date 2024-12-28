@@ -1,0 +1,524 @@
+Plh_74 { O dostaniu się do obozu Ocalałych... }
+
+Plh_110 { Przyszedłem odebrać swoją dzienną wypłatę. }
+
+Plh_112 { Twoja dzisiejsza zapłata. Wróć jutro. }
+
+Plh_113 { Już dostałeś swoją wypłatę dzisiaj. Nie potrzebuję nikogo, żeby zrobić ze mnie głupca. }
+
+Plh_494 { Bez pracy nie ma zapłaty. Zrób coś, a potem znowu dostaniesz zapłatę. }
+
+Plh_434 { Czy możesz mnie wyszkolić? }
+
+Plh_119 { Levin wypowiadał się o tobie bardzo dobrze. On coś w tobie widzi. Tylko niewielu potrafi to zrobić. Mam nadzieję, że jego wiara nie jest nieuzasadniona... }
+
+Plh_432 { Mogę ci pokazać kilka sztuczek z mieczem. I jak stać się silniejszym i bardziej zręcznym. }
+
+Plh_433 { Ale ja uczę tylko Remnants. Nie nauczę cię niczego, dopóki nie dołączysz. }
+
+Plh_284 { Powinniśmy porozmawiać z Eugenem. }
+
+Plh_115 { Nie teraz. }
+
+Plh_134 { Uważaj. Jero czeka. }
+
+Plh_62 { Słyszałem, że byłeś w Deep Mine i uratowałeś życie Jendrze. Nieźle. A Levin napisał do mnie — zyskałeś potężnego przyjaciela. }
+
+Plh_63 { *uśmiecha się* Myślę, że moglibyśmy cię wykorzystać. Nadchodzi burza. Bitwa. Potrzebujemy każdej ręki. Zwłaszcza, gdy może władać mieczem. }
+
+Plh_227 { Być może już o mnie słyszeliście. Jestem Kilian i decyduję, kogo tu przyjmiemy do Remnantów. }
+
+Plh_64 { Co nadchodzi? }
+
+Plh_65 { Dlaczego miałbym chcieć dołączyć do Remnants? }
+
+Plh_66 { Walka będzie polegała na wydostaniu się z więzienia zwanego Drova. Jero pokazał nam drogę. To nie jest spokojny świat... }
+
+Plh_437 { ... ale raczej więzienie. I jesteśmy tu zamknięci. To nie jest świat, na jaki liczyliśmy. Musimy się stąd wydostać. }
+
+Plh_68 { Bóstwa nie przynoszą zbawienia. Nie wywyższają nas, byśmy byli sobie równi. Nie, one nas uciskają. Są naszymi kajdanami. }
+
+Plh_438 { Jero pokazuje nam drogę do naszego własnego świata i wkrótce nadejdzie nasz czas. Ale aby to osiągnąć, potrzebujemy odważnych, walecznych ludzi. Wojowników. Ludzi takich jak ty. }
+
+Plh_223 { Jeśli już się rozejrzeliście i nie jesteście przekonani do tego miejsca, nie będę was przekonywać. Oferujemy ochronę. Silną społeczność. }
+
+Plh_436 { I nade wszystko — wyjście z tego miejsca, tak opuszczonego przez Bóstwa, z tego — z tego miejsca zwanego Drova. }
+
+Plh_67 { Nie interesujesz mnie. Idź i wykuj trochę srebra. }
+
+Plh_116 { Witamy w Akademii! *szeptem* Za każdym razem, gdy tu wchodzę, dostaję gęsiej skórki. }
+
+Plh_361 { Możesz rozejrzeć się później. Najpierw musimy pójść do Jero, żebyś mógł mu zdać raport z wyprawy. }
+
+Plh_172 { Wróciłeś! Dowiedziałeś się czegoś? }
+
+Plh_173 { Tak. Mam wiele informacji o Divine Crystals. Informacje, które mogą nam pomóc. }
+
+Plh_377 { W końcu, dobre wieści. To może uratować nasz bekon. Musimy się spieszyć. Nemetonowie wiedzą, że jesteśmy w posiadaniu Mighty Boar. Zaatakowali, a ich zwiadowcy i wojownicy są wszędzie. }
+
+Plh_378 { Nie może minąć dużo czasu, zanim zaatakują nas bezpośrednio. Porozmawiaj z Jero, który jest z Manes. Szybko! }
+
+Plh_363 { No i co, zadziałało? Czy dostałeś swój kamień runiczny? }
+
+Plh_364 { Tak. Elnea to dla mnie stworzyła. }
+
+Plh_126 { Dobrze. Moc Mighty Boar spoczywa teraz w twoim kamieniu runicznym. My, starzy wojownicy, wciąż mamy kamienie runiczne Raven z Nemetonu. }
+
+Plh_451 { Z pomocą Potężnego Dzika wejdziemy teraz do Czerwonej Wieży. }
+
+Plh_397 { A Jero chce, żebyś był u jego boku. Wydaje się, że widzi w tobie wielki potencjał. }
+
+Plh_420 { Udowodniłeś swoją wartość. A w Czerwonej Wieży będziesz potrzebował odpowiedniej zbroi. Nie wiemy, co nas tam czeka. }
+
+Plh_396 { Możesz dostać lekką lub ciężką zbroję. A ponieważ masz już kamień runiczny, mogę ci również zaoferować zbroję naszych druidów. }
+
+Plh_369 { Jaka jest różnica? }
+
+Plh_366 { Chciałbym lekką zbroję. <br>(pancerz 92, odporność na magię 59, koszt wytrzymałości -30%) }
+
+Plh_367 { Chciałbym ciężką zbroję. <br>(pancerz 135, odporność na magię 65, obrażenia postawy -50%) }
+
+Plh_368 { Chciałbym magiczną zbroję. <br>(90 pancerza, 70 odporności na magię, obrażenia magiczne +20%, podstawowe skupienie +6) }
+
+Plh_370 { W lekkiej zbroi jesteś szybszy i możesz łatwiej unikać ciosów. Ciężka zbroja chroni cię w walce. Zbroja druida prawdopodobnie poprawi twoje duchowe połączenie. }
+
+Plh_421 { Z kamieniem runicznym i zbroją jesteś teraz jednym z wojowników Jero. Wszyscy cię rozpoznają jako takiego. Zasługujesz na to. }
+
+Plh_422 { W końcu dotrzemy do Czerwonej Wieży. }
+
+Plh_423 { Wszystko się udało. Jesteśmy gotowi! }
+
+Plh_399 { Teraz wejdziemy do Czerwonej Wieży. Z pomocą Mighty Boar wysadzimy wejście. }
+
+Plh_452 { Nie jestem pewien, czy mamy wystarczająco dużo... }
+
+Plh_453 { Spróbujemy. Zacznij wszystko przygotowywać, Manes. }
+
+Plh_400 { Co się stało?! Bariera nadal stoi! }
+
+Plh_464 { To nie może być prawdą... }
+
+Plh_465 { To... ja... }
+
+Plh_466 { MÓWIĆ! }
+
+Plh_467 { Poczułem moc trzech Bóstw, które zachowują magiczną moc Czerwonej Wieży. Zaklęcie ochronne jest zbyt silne. O wiele za silne. }
+
+Plh_468 { Jero, całe srebro w Drova nie wystarczy, aby zgromadzić aż tyle magicznej mocy. }
+
+Plh_469 { None }
+
+Plh_470 { Zaszliśmy już za daleko, żeby się teraz poddać... Musi być jakiś sposób! }
+
+Plh_404 { Ale czy gdyby Bóg był wolny, moglibyśmy wykorzystać całą Jego moc? }
+
+Plh_406 { Co teraz robimy? }
+
+Plh_405 { Prawdopodobnie. Ale wtedy nie moglibyśmy już tego kontrolować. A to naraża nas wszystkich na niebezpieczeństwo. }
+
+Plh_407 { Potrzebujemy o wiele więcej magicznej mocy. Więc potrzebujemy albo kolejnego Divinity, a wraz z nim ogromnej ilości srebra, albo Divine Crystals przesiąkniętych magiczną mocą. }
+
+Plh_408 { Złapanie kolejnego Divinity nie wchodzi w grę. Molvina nigdy by na to nie pozwoliła. Doprowadziłoby to do wojny z Nemetonem — którą przegralibyśmy. Pozostają Divine Crystals... }
+
+Plh_409 { Nie wiemy, czy jakieś Divine Crystals można jeszcze znaleźć w Drova, a co dopiero gdzie się znajdują. Jak dotąd mamy tylko jeden... }
+
+Plh_424 { Jest jeden, ale może być ich więcej. Musimy dowiedzieć się o nich więcej. Stanowią naszą jedyną szansę. }
+
+Plh_425 { W pismach wielokrotnie wspomina się o miejscu, w którym Bygones gromadzili swoją wiedzę. O wielkiej bibliotece. Jeśli jest jakieś miejsce, w którym możemy dowiedzieć się więcej o Divine Crystals, to jest to właśnie ta biblioteka. Musimy ją znaleźć. }
+
+Plh_477 { Manes, mówisz o tym miejscu od lat. Jeśli nie udało nam się go znaleźć do tej pory, to teraz raczej nie uda nam się. }
+
+Plh_478 { Kilian, co o tym myślisz? }
+
+Plh_410 { Od czasu do czasu rozmawiam z Reiją. Jest najlepszą Ruin Raider w Drova. Jeśli ktoś wie, gdzie może znajdować się Biblioteka, to ona. }
+
+Plh_479 { Zawsze potrafisz zaskoczyć, Kilian. Nie sądziłem, że Ruin Raiders w ogóle rozmawiali z kimś z frakcji. }
+
+Plh_480 { Przyjaciele są lepsi niż wrogowie. Przynajmniej Reija to rozumie. Omówię wszystko z $GVAR:EVars_Player.Name$. }
+
+Plh_411 { Nie zwlekaj zbyt długo. Musimy dowiedzieć się więcej o Divine Crystals tak szybko, jak to możliwe, zanim Nemeton nas zaatakuje... }
+
+Plh_476 { Zajmiemy się srebrem. Muszę przekazać Levinowi nowinę. }
+
+Plh_459 { $GVAR:EVars_Player.Name$, czy słyszałeś już o Ruin Raiders? }
+
+Plh_456 { Już jestem z nimi w kontakcie. }
+
+Plh_458 { Nie, nic mi to nie mówi. }
+
+Plh_481 { Słyszałem o nich, ale nic więcej. }
+
+Plh_457 { Czy nie jesteś pełen niespodzianek? W takim razie możesz już znać Reiję. }
+
+Plh_462 { Niełatwo ją złapać, ale często widywano ją w tawernie. Idź jej tam poszukać. }
+
+Plh_414 { Jak rozpoznać Reiję? }
+
+Plh_415 { Zrobię to. }
+
+Plh_416 { Będzie w tawernie. Rude włosy i surowy wyraz twarzy. Po prostu o nią zapytaj, a ją znajdziesz. }
+
+Plh_483 { Zapytaj ją, czy może zabrać cię do Biblioteki. Idź i opowiedz jej o kryształach. To ją zainteresuje. }
+
+Plh_484 { Zdecydowanie będziemy potrzebować jej pomocy. Jeśli będzie trzeba, powiedz jej, że będę jej winien wielką przysługę. }
+
+Plh_156 { Im więcej informacji znajdziesz w Bibliotece na temat Divine Crystals, tym lepiej. Gdzie możemy je znaleźć? Jak możemy je nasycić magiczną mocą? Jak możemy je wykorzystać? }
+
+Plh_157 { Czy nie mogłeś już tego sprawdzić w bibliotece? }
+
+Plh_158 { Kim są Ruin Raiders? }
+
+Plh_428 { Kiedy byliśmy częścią Nemeton, Ruin Raiders chcieli z nami współpracować. Ale Molvina zabroniła nam tego i od tamtej pory nie dogadujemy się — Remnants i Nemeton. }
+
+Plh_429 { Próbowałem nawiązać z nimi kontakt, ale to nie jest takie proste. Wtedy było ich dwóch, a teraz jest... nie mam pojęcia, w każdym razie kilku. Są skryti i fanatyczni. }
+
+Plh_161 { Są grabieżcami. Ruiny wciąż zawierają liczne nieodkryte komnaty, a te zawierają nie tylko skarby, ale także być może przedmioty o magicznych właściwościach. }
+
+Plh_374 { Może ich nie lubimy, ale czasami można z nimi robić interesy. Lepiej niż narażać się na niebezpieczeństwo w ruinach. }
+
+Plh_163 { Spotkaj się z Reiją w tawernie. Powiedz jej, że to ja cię przysłałem. }
+
+Plh_162 { Gdy tylko uzyskasz informacje o Boskich Kryształach, daj mi znać. }
+
+Plh_489 { Aha, teraz jesteś jednym z wojowników Jero, więc Bardok sprzeda ci lepszą broń. Po prostu wpadnij do jego domu. }
+
+Plh_460 { O nich też niewiele wiemy — tylko, że jest ich kilku i że mają kryjówkę gdzieś w Drova. Przeszukaj ruiny. }
+
+Plh_485 { Nie wiemy też, kto do nich należy. Nie współpracują z dużymi frakcjami. Reija jest wyjątkiem. Czasami wymieniam z nią informacje. }
+
+Plh_185 { Darwin, jest tu nowa osoba. $GVAR:EVars_Player.Name$ przyniósł kryształ. }
+
+Plh_228 { Kryształ? Hm. }
+
+Plh_229 { $GVAR:EVars_Player.Name$... Chodź tutaj. Powiedz mi, skąd wziąłeś ten kryształ? }
+
+Plh_446 { Druid dał mi to, gdy umierał. Przyszedłem z nim do Drova. }
+
+Plh_230 { Druid dał ci kryształ... Pozwól, że przyjrzę mu się bliżej. }
+
+Plh_232 { Dlaczego ten kryształ jest tak ważny dla druida? }
+
+Plh_231 { Co się dzieje z kryształem? }
+
+Plh_234 { Właśnie to muszę odkryć... }
+
+Plh_237 { Hmm... Ciekawa struktura — mrowi. Tak, niesamowite. To rzeczywiście kryształ Bygones. Już coś o tym czytałem. }
+
+Plh_238 { Dawne czasy? }
+
+Plh_239 { Czym więc dokładnie jest ten kryształ? }
+
+Plh_240 { Bygones, ci, którzy osiedlili się w Drova na długo przed nami. Zbudowali to, co dziś leży w ruinie. }
+
+Plh_241 { To właśnie oni po raz pierwszy dowiedzieli się, jak wykorzystać magiczną moc Bóstw. }
+
+Plh_447 { Pozwól mi spróbować czegoś... }
+
+Plh_243 { Próbuję użyć własnej magii na krysztale... }
+
+Plh_246 { Reaguje na moje zaklęcie! }
+
+Plh_247 { Czy to znaczy, że kamień ten jest w stanie dostrzec i zachować Twoją magiczną moc? }
+
+Plh_250 { Oczywiście. Ale jestem tylko człowiekiem — cała nasza magiczna moc jest niczym w porównaniu z Bóstwem. }
+
+Plh_251 { Niesamowite, co stworzyli Bygones. Nieożywiony przedmiot, który potrafi zachować magiczną moc? }
+
+Plh_448 { Co w tym takiego wyjątkowego? }
+
+Plh_449 { Zazwyczaj tylko istoty rozumne zawierają również magiczną moc. Uchwycenie jej w tym krysztale prawdopodobnie nie było łatwe. }
+
+Plh_492 { I co teraz z tym zrobimy? }
+
+Plh_252 { To ciekawy artefakt, ale obecnie brakuje nam środków, aby dalej studiować Bygones. Aby wejść do Czerwonej Wieży, potrzebujemy Divinity... }
+
+Plh_493 { ...i podejrzewamy, że jeden z nich znajduje się w Puszczy Pierwotnej. }
+
+Plh_253 { Las Pierwotny... }
+
+Plh_268 { Tylko Diemo zna ich sekret — jak udaje im się przetrwać pośród Czarnego Płomienia Pierwotnego Lasu. }
+
+Plh_279 { Idź do kupca Tristana w Headless Ripper Inn. To tawerna Olafa. Po prostu idź na południe od obozu Remnants. Wiemy, że Tristan wie, jak dostać się do Diemo. }
+
+Plh_274 { Już wiem, jak pokonać Czarny Płomień. }
+
+Plh_272 { Co? Już się dowiedziałeś? }
+
+Plh_450 { Trzymajcie oczy szeroko otwarte i uważajcie na Czarny Płomień. }
+
+Plh_491 { Zanotowałem różne umiejętności bojowe. Jeśli chcesz się czegoś nauczyć, mogę ci sprzedać kilka moich prac. }
+
+Plh_488 { Poświęciłem już wystarczająco dużo ludzi, próbując przeprowadzić ich przez Czarny Płomień. }
+
+Plh_254 { Czym jest Blackflame? }
+
+Plh_255 { Czym jest Las Pierwotny? }
+
+Plh_262 { Czego właściwie oczekujemy od Puszczy Pierwotnej? }
+
+Plh_256 { Wypala z ciebie życie, jeśli go dotkniesz. Nie wiemy dokładnie, czym one są. }
+
+Plh_257 { Diemo był jednym z nas... Dawno temu. Wszyscy należeliśmy do Nemetonu w tamtym czasie, więc on nas zna. }
+
+Plh_280 { Ale nie ty, $GVAR:EVars_Player.Name$. }
+
+Plh_259 { Czyli mam udać się do Puszczy Pierwotnej? }
+
+Plh_260 { Co mam zrobić? }
+
+Plh_261 { Twoja pierwsza misja. Okazja, żeby się wykazać. }
+
+Plh_258 { Las o magicznej mocy, który leży na zachód stąd. Wielu, którzy weszli do Lasu Pierwotnego, nie powróciło. }
+
+Plh_263 { Do Boskości wewnątrz. }
+
+Plh_264 { Potężny Dzik. Jest czczony przez ludzi zamieszkujących Las Pierwotny. }
+
+Plh_265 { Grupą tą dowodzi Diemo, potężny druid. Jest szalony, oszukany — fanatyk. }
+
+Plh_301 { Jesteś w samą porę. Ekspedycja zaraz wyruszy. }
+
+Plh_333 { Jakiego rodzaju wyprawa? }
+
+Plh_334 { Mamy nadzieję dotrzeć do Divinity w Forest Primeval. Nie wiemy dokładnie jak, ale się nie poddamy. Eugen jest przekonany, że znajdziemy drogę do Divinity. Czy odkryłeś jakąś? }
+
+Plh_290 { Mam iskrę, która może nas osłonić przed Czarnym Płomieniem. }
+
+Plh_335 { *patrzy na ciebie sceptycznie* Ta rzecz, która śmiga dookoła? TO ma odpędzać Blackflame? }
+
+Plh_336 { Iskra jest połączeniem między Bóstwem a ludźmi zamieszkującymi Puszczę Pierwotną. }
+
+Plh_337 { Brzmi dziwnie, ale też nie jestem z tym za bardzo zaznajomiony. }
+
+Plh_338 { Właściwie wyprawa była już zaplanowana, ale Darwin, jako druid, ma decydować, co zrobimy. On będzie wiedział. }
+
+Plh_297 { Dobrze. (salut) }
+
+Plh_299 { Na szczęście Eugen jeszcze nie wyruszył. Chodźcie. }
+
+Plh_175 { Powiedz mi, że znalazłeś rozwiązanie, Manes. }
+
+Plh_176 { Nie, jeszcze nie. Brakuje nam magicznej mocy! Albo srebra! Cała sprawa nie jest taka prosta! }
+
+Plh_177 { Jero! }
+
+Plh_189 { $GVAR:EVars_Player.Name$ powraca i ma ważne wieści. }
+
+Plh_190 { No to wylej to! }
+
+Plh_178 { Znalazłem zwój, który może nam pomóc. }
+
+Plh_193 { Przyjrzyjmy się temu bliżej. *czyta i marszczy brwi* Więc Boskie Kryształy naprawdę mogą nieść w sobie moc Boskości... }
+
+Plh_194 { Ale mówiłeś, że nie wyczułeś żadnej magicznej mocy w tym krysztale?! }
+
+Plh_195 { *czyta* Hmm... }
+
+Plh_472 { Bygones prawdopodobnie zbudowali jakiś rodzaj urządzenia głęboko w Knawd Moor, za pomocą którego mogli nasycić Divine Crystals mocą od Divinities. Niewiarygodne... }
+
+Plh_474 { *czyta dalej, jego oczy się rozszerzają* }
+
+Plh_376 { Więc to naprawdę prawda! Istnieją dwa dodatkowe Divine Crystals. Słyszałem o nich, ale myślałem, że mgła je pochłonęła... }
+
+Plh_473 { To nasza szansa — nawet jeśli nie będzie łatwo. Jeśli chcemy dotrzeć do Czerwonej Wieży, będziemy potrzebować wszystkich trzech kryształów, w pełni naładowanych magiczną mocą. I całego srebra, jakie uda nam się zdobyć. }
+
+Plh_198 { Gdzie dokładnie znajdują się kryształy? }
+
+Plh_201 { (nie mów nic) }
+
+Plh_200 { Jeden jest na wzgórzu, na północ od obozu drwali. To tam Bygones zwykli... eksperymentować na bóstwach? }
+
+Plh_380 { Wojownicy Nemetona zdobyli wzgórze. Zauważono oddział, który oddalał się od obozu drwali. }
+
+Plh_379 { Cholera, Nemetonowie wiedzą o kryształach? Jeśli dostaną je w swoje ręce przed nami, nie będziemy mieli szans. }
+
+Plh_381 { Wyślę oddział, żeby natychmiast odzyskał Divine Crystal. Nieważne jak. }
+
+Plh_382 { Spokojnie. Jeśli teraz rozmieścimy naszych ludzi, będziemy tu bezbronni. Nie przetrwamy ataku Nemetonu. Znam moją siostrę. Ma szpiegów wszędzie. }
+
+Plh_383 { Jeśli pozwolimy sobie odejść bez ochrony, ona natychmiast się dowie. To byłoby samobójstwo. Możemy wysłać tylko kilka osób, najlepiej jedną. Eugen? }
+
+Plh_395 { Eugen jest, ach, zajęty w tej chwili. Powiedziałbym, żebyśmy wysłali $GVAR:EVars_Player.Name$. Sukces ich ostatniej misji mówi sam za siebie! }
+
+Plh_384 { *mierzy cię wzrokiem* Myślisz, że $GVAR:EVars_Player.Name$ jest na to gotowy? }
+
+Plh_385 { To niebezpieczne zadanie, nawet bez Nemetonu. Na wzgórzu stoi stara świątynia Bygones. W pogodne dni widać ją stąd. Jak dotąd nikt jej nie osiągnął... }
+
+Plh_475 { ...ale zdobyłeś zaufanie nas wszystkich, więc powinieneś dostać szansę. }
+
+Plh_386 { Kierując się na północ, ekspedycja minęła obóz drwali. Prawdopodobnie gdzieś jest droga na wzgórze. }
+
+Plh_388 { Daj $GVAR:EVars_Player.Name$ wszystko, czego potrzebują. Ja zajmę się obroną. Nie możemy lekceważyć Nemetonu. }
+
+Plh_389 { Mam nadzieję, że mnie nie zawiedziesz. }
+
+Plh_218 { Dołożę wszelkich starań. }
+
+Plh_418 { Przyniosę ci Boski Kryształ. }
+
+Plh_390 { Tymczasem, Manes, przygotuj rytuał. Musimy być gotowi, gdy Boskie Kryształy będą tutaj. }
+
+Plh_394 { Postaram się zrobić, co w mojej mocy... }
+
+Plh_219 { Oto kilka monet. Zdobądź porządną broń, mikstury i zaklęcia. }
+
+Plh_210 { Dlaczego Nemeton atakują właśnie teraz? }
+
+Plh_215 { Gdzie dokładnie mam szukać? }
+
+Plh_213 { Wiedzą, że mamy Divinity z Forest Primeval. Wojna jest nieuchronna. Musimy zdobyć Divine Crystal, zanim oni to zrobią. }
+
+Plh_214 { Musi być ścieżka do pagórka, gdzieś na północ od drwali. Najlepiej ich zapytać. }
+
+Plh_220 { Dowiedz się, jak dostać się na wzgórze i do Divine Crystal. Jeśli Nemeton spróbuje cię zatrzymać, nie okazuj im litości. }
+
+Plh_202 { Gdzie możemy je znaleźć? }
+
+Plh_132 { Porozmawiajmy jeszcze na górze. }
+
+Plh_121 { *wkłada kamień runiczny do urządzenia* }
+
+Plh_360 { Winda działa tylko z kamieniem runicznym. Czekaj! }
+
+Plh_125 { Powinieneś podnieść swój kamień runiczny. W przeciwnym razie nie będziesz w stanie wrócić tutaj sam. }
+
+Plh_124 { Idź i porozmawiaj z Jero. On nie lubi czekać. }
+
+Plh_122 { Wejdź do windy. W przeciwnym razie nie będziemy mogli wjechać. }
+
+Plh_311 { Wyprawa zakończyła się pełnym sukcesem. Iskra ci pomogła. Masz Boskość. Dobra robota. }
+
+Plh_315 { To była ciężka walka... }
+
+Plh_314 { Lindon upadł. Nie udało nam się go uratować. }
+
+Plh_316 { Chciałbym zobaczyć jak złapałeś Bóstwo... }
+
+Plh_359 { Wyprawa dobiegła końca — wreszcie... }
+
+Plh_339 { Ale skończyło się dobrze, Eugen. I wszyscy wiedzieli, że będzie niebezpiecznie. Lindon też. }
+
+Plh_308 { *mruczy* Teraz mu to nie pomaga. }
+
+Plh_318 { Oto twoja wypłata. Porozmawiamy jutro. Teraz idź się upić. }
+
+Plh_321 { Pijany? Wchodzę! }
+
+Plh_341 { Zmierzam do gospody Bernolda... }
+
+Plh_342 { Od czasu śmierci Lindona Eugen jest zupełnie inny. }
+
+Plh_344 { To odbiło się na nim piętnem. }
+
+Plh_345 { Eugen czuje się dobrze. }
+
+Plh_348 { Ci, którzy umierają, są w lepszym świecie. Powinniśmy zazdrościć Lindonowi. }
+
+Plh_343 { Za każdym razem, gdy Eugen traci kogoś z drużyny, przeżywa to naprawdę mocno. Bez względu na to, jak piękne może być życie pozagrobowe... }
+
+Plh_346 { Pójdę sprawdzić, co u niego. }
+
+Plh_350 { Powiem Jero, co się stało. Potrzebuję cię do tego. Byłeś tam. }
+
+Plh_349 { Muszę pomóc Eugenowi. Zabierz ze sobą $GVAR:EVars_Player.Name$. }
+
+Plh_351 { ...farlan... }
+
+Plh_352 { Bardzo dobrze. W takim razie przyjdź i zobacz Jero. Nawet jeśli to była twoja pierwsza wyprawa. Ale przywiozłeś ze sobą kluczową iskrę... }
+
+Plh_353 { Oto twoja zapłata za wyprawę. Ale zanim przepuścisz wszystko na piwo, musisz pójść z nami. Teraz zmierzamy do Akademii. }
+
+Plh_354 { Czym właściwie jest Akademia? }
+
+Plh_355 { Jestem gotowy. }
+
+Plh_356 { Na górze na północ stąd znajduje się Czerwona Wieża. Jest otoczona budynkami akademii. Levin naprawił windę, która tam prowadzi. Druidzi pracują w Akademii, próbując uzyskać dostęp do Czerwonej Wieży. }
+
+Plh_357 { Podążaj za mną. }
+
+Plh_358 { Będziemy pamiętać jego duszę. }
+
+Plh_69 { Co muszę zrobić, aby dołączyć do Remnants? }
+
+Plh_81 { Chcę dołączyć do Remnants. }
+
+Plh_71 { Masz mój głos. Udowodniłeś, że jesteś całkiem niezawodny w kopalniach. Może nadal coś osiągniesz. }
+
+Plh_73 { Dobrze, ale muszę wiedzieć, do którego oddziału cię wsadzić. Potrzebujesz adwokata. Albo Borisa, albo Eugena. Powinieneś porozmawiać z oboma. }
+
+Plh_96 { Gdzie mogę znaleźć Borisa? }
+
+Plh_97 { Gdzie mogę znaleźć Eugena? }
+
+Plh_486 { Jestem gotowy dołączyć do Remnantów. }
+
+Plh_98 { Dobrze. Dziękuję. }
+
+Plh_99 { Zazwyczaj Boris załatwia interesy naprzeciwko zajazdu Bernolda. }
+
+Plh_100 { *wzdycha* Zazwyczaj leniuchuje w tawernie. Potrzebuje szybkiego kopniaka w tyłek, żeby cokolwiek zrobić. Byłbym zaskoczony, gdyby w ogóle z tobą rozmawiał... }
+
+Plh_439 { Eugen tylko chrząknął, gdy usłyszał twoje imię. To jego sposób na powiedzenie „tak”. }
+
+Plh_440 { Boris powiedział, że mu pomogłeś. Nie chce stawać ci na drodze. }
+
+Plh_77 { Słyszałem, że Boris chciał cię w swoim oddziale. }
+
+Plh_78 { Eugen chce cię mieć w swoim oddziale. Szanuj! Jeśli chce cię nauczyć, jak lepiej walczyć, posłuchaj go. To najlepszy wojownik, jakiego znajdziesz, daleko i szeroko. }
+
+Plh_443 { Muszę przydzielić cię do drużyny. Idź przekonać Eugena lub Borisa. Dopiero wtedy będę mógł cię zaakceptować. }
+
+Plh_441 { Obie strony będą musiały za Ciebie poręczyć, abyś mógł dołączyć. }
+
+Plh_72 { Zrób to. }
+
+Plh_79 { Gdy będziesz gotowy, możesz do nas dołączyć. Ale twoja decyzja ma konsekwencje. Będziesz nosić naszą zbroję tak długo, jak będziesz oddychał. }
+
+Plh_171 { Pomyśl o tym dokładnie. Mamy wrogów. Nemeton już cię nie wpuści. A inni też nie będą tak zachwyceni tobą. }
+
+Plh_80 { Chcę dołączyć do Remnants. }
+
+Plh_83 { Zastanowię się jeszcze raz. }
+
+Plh_89 { *uśmiecha się do ciebie* Mądry wybór. }
+
+Plh_86 { Boris i Eugen chcą cię w swoich drużynach. Do której chcesz dołączyć? }
+
+Plh_87 { Eugen ma być moim rzecznikiem. }
+
+Plh_88 { Boris ma być moim rzecznikiem. }
+
+Plh_91 { Kogo polecasz? }
+
+Plh_92 { W takim razie poinformuję Eugena. }
+
+Plh_269 { Jesteś teraz częścią Remnants i jako taki będziesz potrzebował lepszej zbroi. I wszyscy powinni zobaczyć, że jesteś jednym z nas. Wolisz walczyć w lekkiej czy ciężkiej zbroi? }
+
+Plh_151 { Jaka jest różnica? }
+
+Plh_152 { Chciałbym lekką zbroję. <br>(pancerz 29, odporność na magię 12, koszt wytrzymałości -30%) }
+
+Plh_153 { Chciałbym ciężką zbroję. <br>(48 pancerza, 14 odporności na magię, obrażenia postawy -50%) }
+
+Plh_154 { Ciężki pancerz zapewnia lepszą ochronę, ale lekki pancerz sprawia, że ​​jesteś bardziej zwinny. Musisz wiedzieć, co ci odpowiada. }
+
+Plh_150 { Masz. Noś z dumą. Idź i zobacz Bardoka. Da ci porządną broń. }
+
+Plh_111 { Przyjdź i odbierz ode mnie swoją wypłatę każdego dnia. Nie będę ci przypominał. Jeśli jej nie odbierzesz, pieniądze trafią do mojej kieszeni. }
+
+Plh_182 { Teraz, gdy jestem częścią Resztek, muszę zanieść ten kryształ druidowi. }
+
+Plh_183 { Pokaż mi... }
+
+Plh_184 { *patrzy na kryształ* Interesujące, ale dla mnie to nic nie znaczy. Może Darwin wie o tym więcej. }
+
+Plh_487 { Zbliżać się. }
+
+Plh_93 { Poinformuję Borisa. }
+
+Plh_94 { Trudny wybór. Boris jest dość ostrożny, ale jest mistrzem sztyletów i mieczy. Eugen nie zna strachu i szarżuje naprzód... }
+
+Plh_495 { Kazałem Hewersom opuścić ruinę w pobliżu wejścia. Jeśli jeszcze nie znalazłeś miejsca do spania, możesz się tam rozgościć. }
+
+Plh_496 { Friedel dba o nasz obóz i sprawia, że ​​ruiny nadają się do zamieszkania. Idź do niej, jeśli potrzebujesz dostosować swoją jaskinię. Ale to nie będzie tanie. }
+

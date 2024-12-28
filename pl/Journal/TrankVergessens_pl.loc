@@ -1,0 +1,6 @@
+Title { Mikstura zapomnienia }
+
+Entry_01 { Aidan w obozie Remnants eksperymentuje z miksturami. Mówi, że może mi uwarzyć miksturę zapomnienia. Do tego będzie potrzebował $GVAR:QuestVars_TrankVergessens_Config.AmountMats$ kwiatów ruin, które — według Aidana — rosną w pobliżu ruin. Mikstura pozwoli mi zapomnieć o wszystkim, czego się do tej pory nauczyłem. }
+
+Entry_02 { Zdobyłem miksturę. }
+

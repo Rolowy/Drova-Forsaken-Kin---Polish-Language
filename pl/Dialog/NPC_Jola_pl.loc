@@ -1,0 +1,324 @@
+Plh_222 { Gdzie mogę znaleźć Ostrza Jero? }
+
+Plh_230 { Eugen jest legendą w Drova — jest najpotężniejszym wojownikiem, jaki istnieje. Pokonuje wszystkich i wszystko swoim zaufanym toporem. }
+
+Plh_245 { Ale niestety, obecnie spędza czas na piciu w tawernie, marnując wszystkie te siły. Znudziło mu się wszystko. Ale nadal szuka wyzwania. }
+
+Plh_229 { Boris ma palce w wielu ciastach. To dobry wojownik, ale nieprzewidywalny. Myślę, że zarabia parę monet przez jakieś... nieprzyjemne zajęcia. Jakie, nie wiem. }
+
+Plh_244 { Jego słowo ma tu dużą wagę. Znajdziesz jego chatę tuż na zachód, niedaleko tawerny. }
+
+Plh_49 { Jak się masz, Jola? }
+
+Plh_67 { Znalazłem nowych pracowników. }
+
+Plh_122 { Chcę pracować w Pit. W notatce jest napisane, że ty jesteś szefem? }
+
+Plh_231 { Słyszałem, że możesz zabrać mnie do Pit. Czy to prawda? }
+
+Plh_25 { O Aldo... }
+
+Plh_91 { No dalej, rozejrzyj się. Zobaczysz korzyści bycia tutaj. }
+
+Plh_250 { Jeśli szukasz łóżka, wszyscy Hewersi śpią w starej kopalni tuż na wschód od wejścia. Możesz tam złapać pryczę. }
+
+Plh_256 { *mierzy cię wzrokiem* }
+
+Plh_258 { Najwyraźniej wybrałeś Nemeton. Nie była to dobra decyzja. }
+
+Plh_259 { Czy mogę wejść do obozu Ocalałych? }
+
+Plh_260 { Nemeton bardziej mi odpowiada. }
+
+Plh_261 { Chcę zostać w Drovej i żyć tu w spokoju. }
+
+Plh_264 { Możesz. Możesz handlować, obstawiać, pić. Ale nie oczekuj, że zawodnicy będą cię dobrze traktować. Wejdź na własne ryzyko. }
+
+Plh_263 { To twoja decyzja. Ale nie byłaby to moja. }
+
+Plh_262 { Nie chcemy kłócić się z Nemetonem. Mamy własne cele. Wszyscy możecie tu zostać i robić, co chcecie. }
+
+Plh_257 { Hej, ty tam! }
+
+Plh_265 { Nemeton scum! Wynoś się stąd! }
+
+Plh_266 { Schowaj broń, Florin. Jero powiedział tylko, że nikt z Nemeton nie ma wstępu do Floodplain Forest. Nie chcemy wojny. }
+
+Plh_267 { *grml* }
+
+Plh_268 { *ciężko oddycha* Czego tu chcesz? }
+
+Plh_269 { Przyszedłem handlować. }
+
+Plh_270 { Chcę zobaczyć walki na arenie. }
+
+Plh_271 { Jestem jednym z wojowników Proximusa. }
+
+Plh_280 { Możesz wejść do środka. Ale uważaj... Nemeton nie są przyjaciółmi Remnantów. }
+
+Plh_274 { Znam cię. Jesteś $GVAR:EVars_Player.Name$! }
+
+Plh_275 { Twoja walka z Liandrą była legendarna. Nigdy nie sądziłem, że wygrasz. }
+
+Plh_276 { Na pewno jej pokazałeś! }
+
+Plh_277 { ...i wygrał! }
+
+Plh_278 { *kaszel* Florin! Uważaj na siebie. }
+
+Plh_279 { Przepraszam. }
+
+Plh_281 { Jeszcze nie widziałem cię walczącego na arenie. }
+
+Plh_282 { Proximus wspomniał o $GVAR:EVars_Player.Name$. }
+
+Plh_286 { Możesz wejść, ale nie sprawiaj kłopotów! }
+
+Plh_165 { Nie chcę przegapić ognia. W końcu jakaś akcja. }
+
+Plh_199 { Wyprawa wróciła! Porozmawiamy później. }
+
+Plh_4 { Hej, nie widziałam cię tu wcześniej. Jestem Jola. *uśmiecha się* I szczerze... Nie wyglądasz najlepiej, dokładnie. Potrzebujesz czegoś? }
+
+Plh_212 { Widziałem już wiele twarzy, ale nie przypominam sobie, żebym widział twoją. Czy to twój pierwszy raz tutaj? }
+
+Plh_213 { Naprawdę muszę poznać Nemeton. }
+
+Plh_234 { Jestem nowy na Drova i szukam Nemetona. }
+
+Plh_236 { Jesteś daleko od Nemeton. To obóz Remnants. Co robisz w Nemeton? }
+
+Plh_216 { Mam pokazać ten kamień druidowi. }
+
+Plh_217 { Chcę tam porozmawiać z druidem. }
+
+Plh_239 { Wtedy nie musisz przechodzić przez Red Moor. Mamy tu też druidów. Kiedyś byliśmy częścią Nemetonu, ale jakiś czas temu zostawiliśmy tych wariatów samym sobie. }
+
+Plh_219 { Dobrze wiedzieć. Gdzie mogę znaleźć twoich druidów? }
+
+Plh_240 { W Akademii. Ale to tylko dla Remnantów. }
+
+Plh_243 { Jeśli chcesz dołączyć do Remnants, musisz przekonać jednego z Blades of Jero — Borisa i Eugena — aby cię zaakceptowali. Musisz również należeć do jednego z ich oddziałów. }
+
+Plh_169 { Hej! Teraz jesteś jednym z ludzi Eugena, prawda? }
+
+Plh_170 { To prawda. }
+
+Plh_171 { Skąd to wiesz? }
+
+Plh_172 { Dobrze dla ciebie. A skoro już o tym mowa... }
+
+Plh_174 { Czy możesz go o coś zapytać następnym razem, kiedy go zobaczysz? }
+
+Plh_175 { O czym to jest? }
+
+Plh_176 { Zapytaj go osobiście. }
+
+Plh_177 { Cóż, Eugen nie przychodzi tu zbyt często — właściwie tylko wtedy, gdy się upije i pójdzie na polowanie. }
+
+Plh_179 { I... chciałbym go lepiej poznać, jeśli rozumiesz, o co mi chodzi. }
+
+Plh_180 { Podoba ci się? }
+
+Plh_181 { ...co? }
+
+Plh_182 { Nie tak głośno! }
+
+Plh_183 { Nie mogę po prostu do niego podejść i powiedzieć, że chcę porozmawiać. }
+
+Plh_184 { Ale jeśli zdarzy się, że się pojawi — jeśli możesz to zrobić... }
+
+Plh_185 { Jasne, że tak. }
+
+Plh_186 { Zapomnij o tym. Coś takiego, musisz zrobić to sam. }
+
+Plh_187 { Dzięki! }
+
+Plh_189 { Proszę. Ponieważ chcesz mi pomóc. Eugen uwielbia te rzeczy. Ale nie mów mu, że to ode mnie. }
+
+Plh_188 { Och... *spogląda w dół* }
+
+Plh_190 { Dobra, zapomnij o tym. }
+
+Plh_178 { *rumieni się* Nie mogę! }
+
+Plh_173 { Wieść szybko się rozchodzi po obozie. }
+
+Plh_204 { Przeżyłeś — to naprawdę wspaniale. Zgłoś się do Kiliana. Czeka na ciebie. }
+
+Plh_205 { Co się tu wydarzyło? }
+
+Plh_207 { Pospieszę się! }
+
+Plh_208 { Nemeton faktycznie próbowali nas zaatakować. Próbowali przemycić się do obozu, ale odkryliśmy ich podstęp. A potem walczyliśmy z nimi. }
+
+Plh_209 { Wygraliśmy, ale następnym razem mogą zaatakować nas z jeszcze większą siłą. }
+
+Plh_36 { Powiedz, czy nie wybiegłeś z obozu kompletnie nago w ciemności, żeby nikt cię nie złapał? To był piekielny widok, wszystko podskakujące w powietrzu o północy! }
+
+Plh_164 { Chyba Eugen miał z tobą niezłą zabawę. Następnym razem powinieneś być trochę ostrożniejszy, bo inaczej coś może się zaplątać w krzakach, haha! }
+
+Plh_284 { Bardzo dobrze. Ale potrzebujemy więcej Hewersów w naszej kopalni. To srebro samo się nie wytnie. }
+
+Plh_51 { Jeśli możesz namówić jeszcze kogoś do przyjazdu, każ mu tu przyjść. }
+
+Plh_203 { Potrzebujemy teraz czterech osób. Za każdą parę rąk zapłacę ci $GVAR:QuestVars_WorkerWorkerWorker_Config.RewardPerWorker$ monet. }
+
+Plh_54 { Jakich ludzi powinienem szukać? }
+
+Plh_55 { Kogo mogę zapytać? }
+
+Plh_56 { Przyprowadzę ci nowych pracowników. }
+
+Plh_57 { Jeśli jakieś znajdę, dam ci znać. }
+
+Plh_59 { Powinni być w stanie ciąć. To wystarczy. }
+
+Plh_60 { Każdy, kto włóczy się z palcem w tyłku. Jest mnóstwo ludzi bez pracy, którzy kręcą się po tawernie Olafa. }
+
+Plh_61 { Możesz przekonać Melunę w obozie Remnants. Właściwie, ona pomagała nam przy cięciu, ale siedzi na tyłku od jakiegoś czasu. }
+
+Plh_62 { Bardzo dobrze! Jak powiedziałem, cztery osoby by wystarczyły. Wyślijcie ich prosto do mnie. }
+
+Plh_252 { Czy są tu jacyś nauczyciele, którzy mogliby mnie przeszkolić? }
+
+Plh_254 { Jest tu wielu dobrych wojowników, ale większość z nich nauczy cię tylko tych, którzy należą do Pozostałych. }
+
+Plh_255 { Polecam spróbować walki z wojownikami areny. Znajdziesz ich, jeśli przejdziesz przez tawernę, obok areny. I weź ze sobą kilka monet. }
+
+Plh_68 { Tak, niektórzy już mi o tym poinformowali! }
+
+Plh_69 { Ktoś o imieniu Jurek z jednej z farm wpadł. Wygląda na to, że mógłby się całkiem dobrze włączyć. To dokładnie taki typ, jakiego szukam! }
+
+Plh_70 { Ruhan przyszedł tutaj. Wydaje się trochę słaby — ale my go wzmocnimy! }
+
+Plh_71 { Nigdy nie sądziłam, że jeszcze usłyszymy o Melunie! }
+
+Plh_285 { Była wściekła, ale nie obchodziło mnie to. }
+
+Plh_72 { Przyszedł Agilo z drwali. Zapytałem o tego gościa Gero. Bardzo chciał być z nami, ale kimkolwiek jest ten Gero, nie mogę powiedzieć. }
+
+Plh_74 { Świetnie! Dzięki waszej rekrutacji mamy jeszcze kilka osób, które się do nas zgłaszają. Nie pozostanie to bez nagrody. Jak obiecano. *puszcza oko* }
+
+Plh_76 { Potrzebuję jeszcze więcej ludzi. Więc miejcie oczy i uszy otwarte! }
+
+Plh_119 { Zawsze szukamy dobrych Hewersów. Jest coś dla Ciebie — dach nad głową, dobre jedzenie, mnóstwo monet... nie musisz się do niczego zobowiązywać! Możesz pracować tak długo, jak chcesz. }
+
+Plh_125 { Co mam tam robić? }
+
+Plh_128 { Pracujesz w kopalni i rąbiesz srebro. Pod naszą ochroną. Każdego, kto rąbie z nami — pilnujemy jego pleców. Pod każdym względem. }
+
+Plh_129 { Niedawno przyniosłem trochę do Pit... }
+
+Plh_200 { Hmm, właściwie Mottek powinien być w pobliżu. Chciał wrócić do Pit i mógłby zabrać cię ze sobą... }
+
+Plh_131 { Nie polecam iść samemu. To niebezpieczne. }
+
+Plh_133 { Kim jest Mottek? }
+
+Plh_201 { Innymi słowy, co według Levina jest prawdą? }
+
+Plh_134 { Gdzie dokładnie znajdę Mottek? }
+
+Plh_136 { Mottek był Hewerem. Teraz jest jednym z wojowników w obozie Remnants. Odkrył żyłę srebra w Pit i zyskał względy Levina. Teraz jest jednym z nas! }
+
+Plh_202 { Levin decyduje, czy ktoś może wejść do Upper Quarter, ale my podążamy za Jero. On jest naszym liderem. Levin jest pierwszym krokiem do dotarcia do niego. }
+
+Plh_137 { Pewnie znowu gdzieś się włóczy po arenie. Wpadł mu do głowy pomysł zostania wojownikiem areny. Jeśli go znajdziesz, powiedz mu, że to ja cię przysłałem. }
+
+Plh_233 { Do Pitu można również dotrzeć pieszo, jednak nie jest to bezpieczne. }
+
+Plh_141 { Rozumiem. Dzięki. }
+
+Plh_248 { Daj mi tylko wskazówki. }
+
+Plh_139 { Podążaj drogą na północny wschód. W pewnym momencie natkniesz się na kapliczkę. Następnie skręć na wschód i podążaj ścieżką gruntową. }
+
+Plh_140 { Następnie po prostu podążaj ścieżką i powinieneś dotrzeć do Pit. Kręcili się tam bandyci, ale powinni już zniknąć. }
+
+Plh_249 { Dbaj o siebie i nie daj się napaść. Jeśli nie jesteś pewien, poszukaj Motteka. }
+
+Plh_130 { A ty nie chcesz być Hewerem? No to mam nadzieję, że gdzie indziej będzie ci lepiej. I że nikt nie poderżnie ci gardła w nocy. }
+
+Plh_0 { Zawsze słyszy się o tym, kto wchodzi i wychodzi z obozu Ocalałych, prawda? }
+
+Plh_23 { Czy możesz mi po prostu powiedzieć, czy widziałeś Aldo? }
+
+Plh_1 { Zawsze jestem blisko wejścia, tak. Dlaczego? }
+
+Plh_2 { Czy Aldo niedawno opuścił obóz? }
+
+Plh_3 { Aldo? Kupiec? Hm. Jakoś jego twarz jest niewyraźna w moim umyśle. Jeśli mógłbyś mi pomóc przypomnieć sobie — żeby było jaśniej... }
+
+Plh_5 { Rozumiem. Ile? }
+
+Plh_6 { Może uderzenie głową przywróciłoby ci pamięć. }
+
+Plh_7 { Chcę zrobić Fulkowi przysługę. No i co? }
+
+Plh_17 { A co z Aldo? Gadaj! Czy chcesz więcej kłopotów? }
+
+Plh_210 { Wrócę. (koniec rozmowy) }
+
+Plh_8 { W końcu ktoś, kto nie potrzebuje żadnych pomocy wizualnych. A więc pozwólcie mi być szczerym: $GVAR:QuestVars_TheDoppelgangers_Config.PriceForJola$ monet. }
+
+Plh_19 { Oto monety. No i co? (podaj monety) }
+
+Plh_14 { Nie potrzebuję twojej pomocy. }
+
+Plh_22 { Och, to cud! Pamięć mi wraca! *chrząka*... Aldo... }
+
+Plh_21 { To nie wystarczy. Wróć, kiedy będziesz mieć więcej. }
+
+Plh_167 { Powodzenia w Twoich poszukiwaniach. }
+
+Plh_10 { Chciałbym to przemyśleć. Uderzenie głową bez głowy byłoby dość trudne do wykonania. To dzieje się szybciej niż myślisz... }
+
+Plh_251 { Nie obchodzi mnie, dla kogo coś robisz. Informacje mają swoją cenę. }
+
+Plh_18 { Dobrze. Masz więcej na kiju niż myślałem... }
+
+Plh_211 { Wiesz, gdzie mnie znaleźć. }
+
+Plh_26 { To było kilka dni temu... Aldo opuścił obóz wieczorem, kierując się na wschód. Wyglądał, jakby chciał iść do Remnants z kimś innym. Wydawał się zestresowany i pośpieszny. }
+
+Plh_168 { Zawsze jest taki cichy, ale najwyraźniej między nimi doszło do kłótni. }
+
+Plh_27 { Czy wiesz dokąd poszli? }
+
+Plh_28 { Kim była ta druga osoba? }
+
+Plh_31 { Czy widziałeś coś jeszcze? }
+
+Plh_29 { Opuścili obóz. Dalej nic nie widziałem. Często przechadzał się po obozie Remnants. Po prostu podążaj drogą na północny wschód, przejdź przez rzekę, a ich zobaczysz. }
+
+Plh_30 { Nie mam pojęcia. Miał na sobie kapelusz albo coś takiego i nie widziałem jego twarzy. To był mężczyzna... Jestem tego prawie pewien. I ci dwaj wydawali się jakoś ze sobą znać. }
+
+Plh_32 { Nie. Tylko... Poczekaj... Potem Aldo wrócił i przeszedł obok mnie. Zapytałem go, gdzie jest jego przyjaciel, ale był całkowicie pochłonięty własnymi myślami i mnie zignorował. Nie wiem, co się z nim działo. Zazwyczaj zatrzymuje się, żeby ze mną pogawędzić. }
+
+Plh_33 { No dobrze. Hmm... }
+
+Plh_34 { Masz dobry prawy sierpowy, muszę przyznać. Porozmawiaj z Kilianem. Przydałyby się nam takie osoby jak ty. Zawsze jesteś mile widziany w kopalniach. }
+
+Plh_35 { Cokolwiek zobaczył tam na zewnątrz — to mogło również czekać, by cię zaatakować. Będziesz potrzebować dobrej broni, grubej zbroi, inaczej będziesz martwy. To darmowa rada. }
+
+Plh_103 { Kim jest Jero? }
+
+Plh_109 { Ale... Czy to nie jest Kraina Legend? }
+
+Plh_246 { On jest naszym liderem. On jest naszym zbawcą. }
+
+Plh_106 { Przez długi czas wierzył w Nemeton. Chciał zbudować tu kraj, jak przepowiedziano. Ale wkrótce zobaczył, że to był błąd. }
+
+Plh_247 { Przekonał innych, że muszą się odłączyć, i tak powstał obóz Ocalałych – schronienie dla tych, którzy nie pozwolą się oślepić Nemetonowi. }
+
+Plh_113 { Zamiast gonić za mrzonką, Jero robi wszystko, abyśmy mogli opuścić Drovę. I zrobimy wszystko, co w naszej mocy, aby mu się udało. }
+
+Plh_112 { KŁAMSTWO! Kłamstwo, które jest podawane każdemu, kto tu przychodzi, kto nawet CHCE tu przyjść. Drova jest więzieniem i jest opuszczone. Ale wciąż możemy uciec, zanim wszystko zostanie pochłonięte przez Deathfog... }
+
+Plh_100 { Kim są Pozostałości? }
+
+Plh_94 { W Drova są dwie główne frakcje: Remnants — to my — i Nemeton. Nie zamierzamy żyć w tych ruinach wiecznie... Chcemy się stąd wydostać. Nie tylko z obozu Remnants, ale z dala od tego świata! }
+
+Plh_237 { Z powrotem w domu. Z dala od Drova. Nie możemy tu zbudować życia. Jero nas uratuje. On nas wyzwoli. }
+

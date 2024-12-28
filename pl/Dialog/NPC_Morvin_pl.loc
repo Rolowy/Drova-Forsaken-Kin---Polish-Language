@@ -1,0 +1,526 @@
+Plh_261 { Chciałbym odebrać swoją wygraną }
+
+Plh_153 { Chciałbym obstawić następną bitwę. }
+
+Plh_22 { Chciałbym obstawić walkę Bady'ego i Gra. }
+
+Plh_162 { Jak dokładnie działa ta cała arena? }
+
+Plh_237 { Nie widziałem już Bady'ego — co się z nim dzieje? }
+
+Plh_303 { Twoje imię brzmi nietypowo. Skąd pochodzi? }
+
+Plh_52 { Gra i Bady są gotowe do walki. }
+
+Plh_154 { Oczywiście. $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ będzie walczyć z $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. Zakład wynosi $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ monet. Na kogo chcesz postawić? }
+
+Plh_156 { Obstawiam $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$. }
+
+Plh_157 { Obstawiam $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. }
+
+Plh_252 { Jeśli dobrze obstawisz, możesz odebrać wygraną dziś wieczorem, po walce na arenie. Jeśli nie... nie możesz. }
+
+Plh_375 { Jeśli się nie pojawisz, Twoje monety przepadną. }
+
+Plh_258 { Już postawiłeś zakłady. Dowiesz się wyników bitwy, gdy się skończy. }
+
+Plh_276 { Dzisiaj sam będziesz walczył na arenie, a ja już przyjąłem twój zakład. Nie wolno ci obstawiać siebie! }
+
+Plh_155 { Chcesz postawić zakład? To przyjdź do mnie później. Nie będę tego tutaj robić. }
+
+Plh_372 { Zazwyczaj rzeczywiście możesz obstawiać zawodników. W tej chwili nie ma żadnych walk, ale arena wkrótce zostanie ponownie otwarta. Nie przegapisz tego. }
+
+Plh_371 { Na arenie jest specjalna bitwa. Bady kontra Gra! Dopiero po niej będziemy kontynuować z moimi ludźmi. }
+
+Plh_161 { Gdy słońce rzuci ostatnie promienie dnia na Drovę, na arenie odbędzie się bitwa. Moi wojownicy będą gotowi do walki! Możesz obstawiać, kto wygra... i zarabiać monety. }
+
+Plh_253 { Zakład wynosi $GVAR:DAS_ArenaSystem.MainFight_DefaultBetAmount$ monet. Na kogoś walczącego na arenie. Jeśli wygrasz, będzie ogromna wypłata. }
+
+Plh_163 { Przyjrzyj się uważnie moim ludziom. Trenują cały dzień na arenie. Ale tylko najlepsi są dopuszczeni do rywalizacji w głównej bitwie! }
+
+Plh_239 { Po porażce z rąk Gra, miał gdzieś iść na dalsze szkolenie. Nie jestem pewien gdzie. }
+
+Plh_238 { Bady wystartował w poszukiwaniu przeciwnika. Ale wróci. Drova nie jest taka duża, a najlepsi wojownicy są tutaj. }
+
+Plh_304 { Moje imię odzwierciedla chwałę tej areny. Bygones zbudowali to miejsce. Miejsce legend. Legend o niezliczonych chwalebnych walkach. }
+
+Plh_263 { Bitwa zaraz się zacznie. Muszę jeszcze coś ustawić. }
+
+Plh_365 { Potrzebujesz zachęty? Kilka osób postawiło na ciebie! }
+
+Plh_5 { Jestem Antonius Proximus! Mistrz areny! Jesteśmy Marked Ones. I możesz obstawiać u mnie! }
+
+Plh_4 { *mruczy w brodę* Tak, to mogłoby zadziałać... Może powinienem pominąć „niepokonany”... }
+
+Plh_2 { Co tu robisz? }
+
+Plh_6 { Czy ja też mogę walczyć? }
+
+Plh_3 { Kiedy rozpocznie się bitwa? }
+
+Plh_7 { *mierzy cię wzrokiem* Możesz. Przez kilka sekund. Potem zostaniesz powieszony, rozpruty i poćwiartowany. Jeśli masz życzenie śmierci, możesz się zabić gdzie indziej. }
+
+Plh_8 { *wydech z impetem* Bitwa powinna już się zacząć! Ale Gra i Bady po prostu się nie pojawili! }
+
+Plh_10 { Dlaczego nie dowiesz się, co ich tu zatrzymuje? }
+
+Plh_9 { Nie możesz po prostu opuścić tego miejsca, prawda? }
+
+Plh_11 { Muszę wszystko ustawić i przyjąć zakłady. Więc? Zamierzasz ich dla mnie znaleźć? }
+
+Plh_13 { Jeśli dopilnujesz, aby pojawili się Bady i Gra, będziesz świadkiem bitwy swojego życia! Gra chce odzyskać dawną chwałę, więc będzie rywalizował z wiecznym zwycięzcą — Badym. }
+
+Plh_14 { Więc siekaj, siekaj! Musimy stoczyć dobrą bitwę! }
+
+Plh_15 { Dlaczego powinienem Ci pomóc? }
+
+Plh_17 { Ponieważ jestem pewien, że będziesz chciał zobaczyć tę bitwę osobiście. Dobrze, w porządku... postaw zakład, a ja dołożę dodatkowe $GVAR:QuestVars_BetThat_Config.ExtraReward$ monety z moich kufrów. }
+
+Plh_18 { Świetnie! Bady prawdopodobnie trenuje, a Gra coś mamrotała o modlitwie do Bóstw. Może w świątyni na wschód od Rynku. }
+
+Plh_367 { Porozmawiaj z nimi obojgiem. Upewnij się, że są gotowi. A potem daj mi znać. }
+
+Plh_20 { Jeśli jednak się tym zająłeś, daj mi znać. }
+
+Plh_12 { Nareszcie ktoś myśli naprzód! Nie mogę opuścić tego miejsca. Ale ty możesz! }
+
+Plh_21 { Bady i Gra nadal się nie pojawiły. Czy zamierzasz mi już pomóc? }
+
+Plh_142 { Bitwa między $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ i $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$ jest zakończona! Zwycięzcą jest $GVAR:DAS_ArenaSystem.MainFight_WinnerName$! }
+
+Plh_281 { Sądzę, że twoje siniaki pokazują ci, dlaczego Ada jest mistrzynią areny. }
+
+Plh_282 { No cóż, twoje monety już zniknęły. Jeśli chcesz spróbować jeszcze raz — wiesz, gdzie mnie znaleźć. }
+
+Plh_283 { Chcę walczyć jutro. }
+
+Plh_336 { Tak szybko znowu? Taki jest duch. }
+
+Plh_279 { Sinistra ci pokazała! Ona jest po prostu jedną z moich najlepszych wojowniczek. }
+
+Plh_266 { Dobra walka. Ale Liandra była od ciebie lepsza. }
+
+Plh_280 { Ebru nie jest typem towarzyskim. Chyba że potrafi rzucić kimś przez arenę. }
+
+Plh_333 { Debugowanie Utrata / IGNOROWANIE }
+
+Plh_291 { Widzowie po prostu szaleli! Zarówno ty, jak i Sinistra spisaliście się świetnie. I wygraliście! }
+
+Plh_329 { Zarobiliśmy kupę monet. Oczywiście, że dostaniesz swoją część. }
+
+Plh_295 { Pokonałeś ich wszystkich. Oprócz Ady. Teraz możemy stoczyć główną bitwę. }
+
+Plh_290 { Dobrze walczyłeś! Szybko uniknąłeś i zagnałeś ich w róg! Widzowie byli tym podekscytowani. }
+
+Plh_294 { Możesz stanąć do walki z Sinistrą. Liandra jest niemal tak silna jak ona, ale jak dotąd Sinistra zawsze wychodziła zwycięsko. Myślę, że ona się powstrzymuje. To będzie ekscytujące! }
+
+Plh_292 { Przyciągnąłeś widzów naprawdę szybko — nie jest to takie trudne, jeśli grasz przeciwko Ebru. Tak czy inaczej, nikt go tak naprawdę nie lubi. }
+
+Plh_296 { Liandra umiera z ochoty, żeby się z tobą zmierzyć. Więc po prostu idź dalej. Ale uważaj... Ona nie jest Ebru. }
+
+Plh_334 { Debugowanie Win /IGNORE }
+
+Plh_332 { Debuguj Head1 /IGNORE }
+
+Plh_305 { Pokonałem Carimę, Blaana i Darka. }
+
+Plh_245 { Chcę walczyć z Ebru. }
+
+Plh_268 { Chcę walczyć z Liandrą. }
+
+Plh_269 { Chcę walczyć z Sinistrą. }
+
+Plh_270 { Chcę walczyć z Adą. }
+
+Plh_307 { Naprawdę? Dobra... Przydałoby mi się trochę świeżego mięsa na arenę. }
+
+Plh_308 { Zobaczymy jak sobie poradzisz. }
+
+Plh_310 { Jeśli chcesz zostać mistrzem areny, będziesz musiał piąć się w górę. Po Ebru będziesz musiał walczyć z Liandrą, Sinistrą i na końcu z Adą. NIEPOKONANĄ Adą. }
+
+Plh_311 { Każę ci walczyć z Ebru. Będziesz potrzebować monet $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$. W zależności od tego, z kim będziesz walczyć i jak obstawiają widzowie, otrzymasz wygraną. }
+
+Plh_312 { A co jeśli nie mam monet? }
+
+Plh_313 { Jestem gotowy do walki. }
+
+Plh_315 { To idź i zrób to gdzieś. Nie obchodzi mnie jak. }
+
+Plh_316 { Czy masz monety $GVAR:QuestVars_DAS_WayToArenaMaster_Config.FighterStartPrice$ na bitwę? }
+
+Plh_271 { Wygląda dobrze. Jutro wieczorem wejdziesz na arenę. Jestem ciekaw, jaką figurę wytniesz. Albo jaka część twojej figury zostanie odcięta. }
+
+Plh_318 { Jeśli chcesz dowiedzieć się, jak działają twoi przeciwnicy, powinieneś oglądać ich walkę. Ta rada jest darmowa. }
+
+Plh_319 { Zaczynasz jutro o dziewiątej wieczorem. Odpocznij trochę. Idź napić się w tawernie. Jutro musisz być w najlepszej formie. }
+
+Plh_274 { Pokonałeś każdego z nich. Została tylko Ada. Ona bardzo uważnie cię obserwowała. To będzie fajna walka, haha! }
+
+Plh_320 { To będzie główna bitwa. Dużo do przygotowania, więc będzie musiała być droższa. Powiedzmy $GVAR:QuestVars_DAS_WayToArenaMaster_Config.EndFightPrice$ monet. Ale zarobisz też więcej. }
+
+Plh_321 { Chcę walczyć. }
+
+Plh_366 { Jeśli zamierzasz walczyć z Adą, powinieneś być dobrze przygotowany. }
+
+Plh_323 { Daj mi znać. }
+
+Plh_330 { Prawie nikt na ciebie nie postawił, haha! Oznacza to, że będzie ogromna wypłata. A mnóstwo monet oznacza mnóstwo piwa. Doskonale! }
+
+Plh_297 { Niepokonana Ada... została pokonana! $GVAR:EVars_Player.Name$ zwycięża na arenie! }
+
+Plh_348 { Walczyłeś dzielnie. }
+
+Plh_337 { Niepokonani... Cóż... }
+
+Plh_350 { Co oznacza bycie mistrzem areny? }
+
+Plh_349 { Po prostu byłem zbyt pewny siebie. Zapomnienie. Cholera... }
+
+Plh_338 { To była tylko jedna bitwa! *zgrzyta zębami* }
+
+Plh_339 { Tutaj będziesz musiał stawić czoła faktom. Nie jesteś już niepokonaną Adą. Zamiast tego jesteś... }
+
+Plh_340 { Marudna Ada. }
+
+Plh_341 { Prawie niepokonana Ada. }
+
+Plh_343 { Ona nie potrzebuje pseudonimu. Ada jest w porządku. }
+
+Plh_344 { To działa. }
+
+Plh_345 { *mruczy* Będę trenować jeszcze ciężej, żeby nadrobić tę porażkę... }
+
+Plh_346 { Walczyłeś dobrze i zasłużyłeś na ten hełm. Tylko zwycięzca na arenie może nosić ten hełm. }
+
+Plh_351 { Hm, nie mam dla ciebie dzisiaj przeciwnika. Ktoś musi wyjść pierwszy. }
+
+Plh_354 { Co, nie ma już wojowników? }
+
+Plh_355 { Gra odłożył swój topór. }
+
+Plh_356 { I jest Bady, ale już nie jest z Remnants. Może nawet nie żyje, o ile wiem. }
+
+Plh_357 { No cóż. Powinieneś świętować! Siebie! Swoje zwycięstwo! }
+
+Plh_69 { Czy wierzysz w cuda? }
+
+Plh_70 { I zwycięzca i wieczny zwycięzca: Baaaaaaaaaaaaaaaaaady! Co za bitwa! }
+
+Plh_72 { Każdy, kto postawił właściwy zakład, może przyjść do mnie i dostać wypłatę. A na wypadek, gdybyś się pomylił — życzę powodzenia następnym razem! }
+
+Plh_74 { Heh heh, oddaj moją wygraną, Proximus. No i kto się teraz śmieje? }
+
+Plh_75 { *zgrzyta zębami* Weź to. I spadaj. }
+
+Plh_79 { *odwraca się do ciebie* A ty! Ty też stawiasz na Gra. Masz. Ugh. }
+
+Plh_109 { Nie zapomniałem, że pomogłeś mi naprawić tę bitwę. I obiecałem ci coś... }
+
+Plh_85 { *uśmiecha się do ciebie* Proszę, dla ciebie. Dobrze się spisałeś. Gra wygrała, a moje kieszenie są pełne monet. }
+
+Plh_118 { Będę śpiewał pochwały Borysowi. }
+
+Plh_119 { Oto twoja część. Miło robić z tobą interesy. *uśmiecha się* }
+
+Plh_87 { Hej, ty tępaku, chciałeś naprawić tę bitwę! Nic nie zrobiłeś! Ostrzegę Borisa przed tobą... }
+
+Plh_88 { Ach, kurwa... Zejdź mi z drogi! }
+
+Plh_83 { *odwraca się do ciebie* Cóż, szkoda. Czasem wygrywasz, czasem przegrywasz. *uśmiecha się* Powodzenia następnym razem. }
+
+Plh_80 { Proximus! Ty sukinsynu! Stary łajdaku! }
+
+Plh_81 { Kiedy grasz, możesz przegrać. Powinieneś o tym wiedzieć. I, jak wiesz, spłacanie długów hazardowych to kwestia honoru. }
+
+Plh_82 { *odwraca się do ciebie* A ty! Ty też stawiasz na Bady'ego. Tutaj. Ugh. }
+
+Plh_71 { Nikt nie mógł tego przewidzieć. Nikt w niego nie wierzył. Ale dziś zwycięzcą jest: GRAAAAAAAAA! }
+
+Plh_278 { Arena została ponownie otwarta. A to oznacza, że ​​każdej nocy będą walki na pięści! A to oznacza, że ​​będą też zakłady i wygrane — nawet dla Ciebie! }
+
+Plh_144 { Masz niezły haczyk, ale musisz popracować nad przykrywką! }
+
+Plh_170 { Samo machanie bronią nie zaprowadzi cię daleko. Podobnie jak cięcie i siekanie na oślep. Musisz też mieć mózg w tej swojej główce! }
+
+Plh_171 { Noogie to jest to, czego potrzebujesz. }
+
+Plh_174 { Walczyłeś dobrze na arenie. Widzowie wiwatują! Tak mi się podoba! }
+
+Plh_175 { Ja lubię monety. }
+
+Plh_176 { Tak, to właśnie Nemeton... nic poza monetami za mózg. Chodzi o coś więcej! }
+
+Plh_177 { Uważaj co mówisz. Inaczej nie będę się powstrzymywał podczas mojej następnej bitwy. }
+
+Plh_178 { Czemu nie weźmiecie tego na spokojnie? Jest tu ktoś jeszcze. }
+
+Plh_179 { Jestem $GVAR:EVars_Player.Name$. Od teraz będę walczył z tobą. }
+
+Plh_181 { Nie samą miłością żyje człowiek, potrzebne są też monety. }
+
+Plh_186 { Nemeton, co? Niesamowite, że odważyłeś się wyjść poza swoje mury... }
+
+Plh_187 { Ha! Blaan! Nie ma mowy! Znamy cię z Woodcutter Camp! Chyba zainspirowali cię do walki, co? *uśmiecha się* }
+
+Plh_233 { Dzięki tobie odzyskałem Snagę. Możesz zostać. }
+
+Plh_188 { Więcej wojowników, więcej treningów. Wypijmy za to! }
+
+Plh_190 { To daje niezłe uczucie. }
+
+Plh_331 { Polecam wziąć dobry pas, $GVAR:EVars_Player.Name$... }
+
+Plh_191 { Dlaczego polecasz to? }
+
+Plh_192 { Jesteś teraz ręką tarczy. I musisz być natychmiast rozpoznany jako taki. Dlatego oznaczymy twoje ciało. }
+
+Plh_196 { Z symbolem krwi i żelaza. Noszą go wszyscy wojownicy. }
+
+Plh_193 { W takim razie oddaj alkohol... }
+
+Plh_210 { Chcę być świadkiem wszystkiego. Zaczynajmy. }
+
+Plh_194 { Cóż to za niedorzeczny pomysł? }
+
+Plh_195 { Nie. Nie ma mowy. }
+
+Plh_213 { Naprawdę nie chcę tego robić. }
+
+Plh_197 { Wypij to! Wtedy spalisz o wiele mniej. }
+
+Plh_203 { Jestem Ada, Niepokonana i przyjmiemy cię do naszej społeczności. Usiądź tutaj. }
+
+Plh_200 { (usiąść) }
+
+Plh_199 { (wypij jeszcze jednego drinka) }
+
+Plh_204 { Zamknij oczy i zaakceptuj ból. Twoje nowe życie zaczyna się... teraz. }
+
+Plh_206 { NA WSZYSTKIE PRZEKLĘTE BÓSTWA, TO BOLI! }
+
+Plh_209 { Jesteś teraz oznaczony. Otwórz oczy, osłonij dłoń. }
+
+Plh_212 { Teraz jesteś jednym z nas. }
+
+Plh_216 { Naznaczeni! Jedzmy i pijmy; bo jutro będziemy walczyć. Tak mi się podoba. }
+
+Plh_217 { Do $GVAR:EVars_Player.Name$! }
+
+Plh_218 { Co dokładnie oznacza posiadanie ręki tarczowej? }
+
+Plh_185 { Blaan, Dark i Carima to ręce-tarcze, tak jak ty. Będziecie walczyć ze sobą na treningu i w bitwie. Ktokolwiek się posunie, może walczyć na arenie. }
+
+Plh_219 { Jesteś ostrzem, które wciąż potrzebuje ostatecznego ostrzenia. Na razie tępe, ale później: zabójcze. }
+
+Plh_220 { Jutro będziemy walczyć we dwójkę. Dwuręcznym toporem. To będzie zabawa! }
+
+Plh_221 { Po prostu pij dalej! To mi tylko ułatwi sprawę. }
+
+Plh_222 { Już nie mogę się doczekać. }
+
+Plh_223 { Chytry człowiek! Podoba mi się to! }
+
+Plh_224 { Zachowaj swoje śmieciowe wypowiedzi na czas walki. }
+
+Plh_225 { Świętuj. Pij. Ciesz się tym dniem. Dopóki możesz chodzić prosto po arenie i władać bronią. Krew i żelazo! }
+
+Plh_234 { Nie podoba mi się ten smród Nemetonu... }
+
+Plh_236 { Nie czuję nic, tylko twoją jutrzejszą porażkę! }
+
+Plh_227 { *odwraca się do ciebie* Masz jeszcze trochę treningu do zrobienia, zanim pozwolę ci wystąpić przed widzami. Oczekują show. }
+
+Plh_361 { Wiwaty widzów, pęd zwycięstwa... Wszystko to coś z tobą robi. Zobaczysz. }
+
+Plh_228 { Brzmi, jakbyś już walczył? }
+
+Plh_229 { To nie potrwa długo. }
+
+Plh_230 { Nie zawiodę Cię. }
+
+Plh_231 { *uśmiecha się błogo* Dawno, dawno temu. W Nemeton. Wtedy nie mieliśmy areny. Prawdopodobnie zbudowali ją Bygones. }
+
+Plh_232 { Wierzę ci. Trenuj z Carimą i Blaanem. }
+
+Plh_363 { Gdy już pokonasz tych dwóch, będziesz mógł rzucić wyzwanie Darkowi. Dlaczego go tu teraz nie ma? Pewnie po uszy w pracy. }
+
+Plh_364 { Gdy pokonasz wszystkich innych, rozważę wysłanie cię na arenę. Ale to jeszcze długa droga. }
+
+Plh_235 { Krew i żelazo! }
+
+Plh_215 { Pijesz więcej niż ja! Nie przesadzaj — inaczej będziesz spał z Divinities. }
+
+Plh_211 { Będziesz tego żałować! }
+
+Plh_201 { Na arenie jesteśmy wszyscy braćmi i siostrami. To jest nasz znak. }
+
+Plh_202 { Nikt nie jest zmuszony do wystawiania swojej więzi na pokaz. To twój wybór. }
+
+Plh_214 { Twój sposób walki na arenie zadecyduje, czy będzie tam dla ciebie miejsce. }
+
+Plh_183 { Nareszcie! Ktoś inny to mówi, tym razem na zmianę! }
+
+Plh_184 { $GVAR:EVars_Player.Name$ teraz będzie walczył dla nas. Już pokonali Moga. To wiele mówi. }
+
+Plh_150 { Pokonałem Moga! }
+
+Plh_164 { Nieźle! Może masz odpowiednie rzeczy na arenę. }
+
+Plh_243 { Na dziś już koniec. Skoro pokonałeś Moga, może czas dołączyć do Marked Ones. }
+
+Plh_143 { My, wojownicy areny, jesteśmy społecznością Oznaczonych. Nie obchodzi nas, skąd jesteś. Ci, którzy zostali oznaczeni, odrodzili się. }
+
+Plh_240 { Nie ma znaczenia, czy pochodzisz z Nemetonu czy obozu Ocalałych. }
+
+Plh_241 { Arena jest wszystkim, co się dla nas liczy. Bitwa. Wola. Czyn. }
+
+Plh_242 { Będziesz jednym z nas. Chodź, pozwól, że przedstawię cię twoim braciom i siostrom. }
+
+Plh_145 { Wczoraj Cię z nami nie było. Ale dziś będziesz. }
+
+Plh_327 { Teraz rozdam monety. Ale nie dostaniesz żadnych. }
+
+Plh_277 { Nie pojawiłeś się na bitwie. Rozdałem monety innym. Lepiej się zjawij następnym razem! }
+
+Plh_152 { *woła* Dziś wieczorem $GVAR:DAS_ArenaSystem.MainFight_Participant_01_Name$ zmierzy się z $GVAR:DAS_ArenaSystem.MainFight_Participant_02_Name$. Wszystkie zakłady odwołane! }
+
+Plh_275 { Dzisiaj będziesz walczyć. Bądź gotowy. }
+
+Plh_125 { Jeśli chcesz obstawiać: Zakłady przyjmuję u siebie w domu. Nigdzie indziej. }
+
+Plh_255 { Twój zakład się opłacił. Oto Twoje monety $GVAR:DAS_ArenaSystem.MainFight_BetAmountRewardForPlayer$. }
+
+Plh_257 { Następna bitwa jest zaplanowana na jutro. Jeśli chcesz, aby twoje złoto się pomnożyło, możesz obstawiać ponownie. }
+
+Plh_259 { Nic nie wygrałeś. }
+
+Plh_59 { Bitwa na arenie może się teraz rozpocząć. }
+
+Plh_56 { Walka rozpocznie się wieczorem. A tłum będzie zachwycony. Chodźmy zobaczyć to razem. }
+
+Plh_61 { Bitwa, na którą wszyscy czekali! }
+
+Plh_62 { Wielki Zły stanie naprzeciw dziedzica krwi — Gra! }
+
+Plh_63 { Czy Gra znajdzie siłę? Czy Bady pozostanie lepszy? Dowiedz się — tylko tutaj! Tylko dziś wieczorem! To będzie krwawa łaźnia! }
+
+Plh_64 { Nie bierz tego do siebie, Gra. Dzisiaj jest mój dzień. Do uczciwej i honorowej walki! }
+
+Plh_65 { Mam z powrotem moją Snagę, Bady. Powinieneś uciekać, póki jeszcze możesz! }
+
+Plh_120 { *uderza jedną ręką w pierś* WRRAAAAGH! KREW I ŻELAZO! }
+
+Plh_68 { Czy słyszycie to, ludzie? Tę ciszę, zanim stal spotka stal? Zanim ostrze zabrzmi i krew tryśnie? Już niedługo... już niedługo... }
+
+Plh_67 { ...Bitwa zaczyna się TERAZ! }
+
+Plh_66 { Do uczciwej i honorowej bitwy! Krew i żelazo! }
+
+Plh_53 { Obaj mi zgłosili. Dzięki. To się niedługo zacznie. Potem znów poleje się krew. }
+
+Plh_54 { Nareszcie! Krew musi się polać! }
+
+Plh_55 { Wrócę później. }
+
+Plh_57 { Nie mogę dłużej odkładać bitwy. I po całej twojej pomocy, ty też nie możesz jej przegapić! Zrobię wyjątek. Daj mi znać, kiedy będziesz gotowy. }
+
+Plh_132 { Eugen mnie przysłał. Uważa, że ​​zakwalifikuję się na arenę. }
+
+Plh_377 { Boris mnie przysłał. Chcę walczyć na arenie. }
+
+Plh_133 { Pochodzę z Nemeton. Angus uważa, że ​​mógłbym walczyć na arenie. }
+
+Plh_114 { Czy mogę walczyć na arenie? }
+
+Plh_141 { Pokonałem Moga. Czy mogę teraz walczyć na arenie? }
+
+Plh_134 { Eugen? To wiele znaczy. On też mógłby tu walczyć, ale nie krwawi, chyba że uderzy w coś, gdy jest naćpany. Co za strata... }
+
+Plh_136 { Nie mogę pozwolić, żeby ktokolwiek walczył na mojej arenie. Musisz się wykazać. Udowodnij, że nie jesteś mięczakiem. }
+
+Plh_137 { Mog to porządny facet. Jest też tu dość nowy i trochę porywczy. Ale ma pazur, a tego właśnie oczekuję! }
+
+Plh_138 { Staw mu czoła. Jeśli go pokonasz, przyjmę cię do swoich szeregów. }
+
+Plh_376 { Hm. Boris rozmawiał ze mną. Nie wiem, co powinienem czuć, pozwalając jednemu z jego ludzi walczyć. }
+
+Plh_378 { Mogę dać ci szansę. }
+
+Plh_135 { Nie obchodzi mnie, skąd jesteś, bylebyś stawiał opór i nie mdlał na widok krwi. Twojej lub czyjejś innej. }
+
+Plh_139 { Ale skoro pochodzisz z Nemetonu, to oczywiste, że trzymałeś już kiedyś broń. }
+
+Plh_127 { Tylko najlepsza walka Drova dla mnie! Przede wszystkim, będziesz potrzebować porządnego sprzętu. I odpowiedniego nastawienia. Wróć później. }
+
+Plh_116 { Słyszałem, że dzielnie walczyłeś. W porządku — dostaniesz swoją szansę. Przyjdź do mnie dziś wieczorem. Po głównej bitwie. }
+
+Plh_23 { Jasne, jasne. Ile chciałbyś postawić? }
+
+Plh_24 { Monety $GVAR:QuestVars_BetThat_Config.LowBetAmount$. }
+
+Plh_25 { $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ monet. }
+
+Plh_26 { Monety $GVAR:QuestVars_BetThat_Config.HighBetAmount$. }
+
+Plh_40 { Przecież nie chcę się zakładać. }
+
+Plh_29 { Pasza dla kurczaków. Hm. }
+
+Plh_30 { Większość ludzi stawia na Bady'ego. Tylko kilku wariatów stawia na Gra. Na którego zawodnika chciałbyś postawić? }
+
+Plh_31 { Źle. }
+
+Plh_32 { Grażka. }
+
+Plh_35 { Chcesz postawić $GVAR:QuestVars_BetThat_Config.LowBetAmount$ monet na Bady. Czy chcesz postawić ten zakład? }
+
+Plh_38 { Tak. }
+
+Plh_39 { Nie, chcę zmienić zakład. }
+
+Plh_44 { Dobrze! Teraz musisz tylko oddać monety. }
+
+Plh_47 { Świetnie. *liczy monety* Wróć do mnie, gdy bitwa się skończy. }
+
+Plh_49 { O — słyszałem od obu zawodników. Dodam 50 monet do twojego zakładu. Jak obiecałem. }
+
+Plh_45 { Nie ma problemu. Ile chcesz postawić? }
+
+Plh_46 { Ugh. W porządku. Jak chcesz. }
+
+Plh_36 { Chcesz postawić $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ monet na Bady. Czy chcesz postawić ten zakład? }
+
+Plh_37 { Chcesz postawić $GVAR:QuestVars_BetThat_Config.HighBetAmount$ monet na Bady. Czy chcesz postawić ten zakład? }
+
+Plh_41 { Chcesz postawić $GVAR:QuestVars_BetThat_Config.LowBetAmount$ monet na Gra. Czy chcesz postawić ten zakład? }
+
+Plh_42 { Chcesz postawić $GVAR:QuestVars_BetThat_Config.MediumBetAmount$ monet na Gra. Czy chcesz postawić ten zakład? }
+
+Plh_43 { Chcesz postawić $GVAR:QuestVars_BetThat_Config.HighBetAmount$ monet na Gra. Czy chcesz postawić ten zakład? }
+
+Plh_27 { Ktoś czuje się dziś szczęśliwy. }
+
+Plh_28 { Odważny. Albo głupi. Zobaczymy. }
+
+Plh_380 { Hej, ty. Słyszałem o tobie. Zrobiłeś sobie całkiem niezłe nazwisko. Przydałby mi się ktoś taki jak ty. }
+
+Plh_381 { Mogę spróbować. }
+
+Plh_383 { Zaufaj mi — gdy raz staniesz na arenie, nie będziesz chciał jej opuścić. }
+
+Plh_384 { Hej, spokojnie. Nie przejmuj się tym. Przemyśl to. Po prostu idź porozmawiać z Mogiem i potrenuj z nim. }
+
+Plh_379 { Noś tę zbroję z dumą. }
+
+Plh_385 { Udowodniłeś swoją sprawność, ale nie pozwól, aby to uderzyło ci do głowy. Teraz stajesz do walki z elitą Naznaczonych: najlepszymi wojownikami Drova, którzy trenują i walczą każdego dnia — zawsze jednym okiem patrząc na zwycięstwo. }
+
+Plh_386 { Nawet jeśli twoja broń i zbroja zostały wykute przez same Bóstwa, nie będziesz miał tu łatwo. Przygotuj się na trudne bitwy. }
+
+Plh_387 { Gdy uda ci się odnieść zwycięstwo nad rękami tarczy, zdobędziesz prawo do noszenia Zbroi Gladiatora. Widzowie uwielbiają walki wręcz... }
+
+Plh_388 { I mówię wam: Na krótko przed uderzeniem w ziemię, zbroja sprawi, że nie poczujesz żadnego bólu. No, prawie żadnego. Nie wiem, dlaczego nie zawsze walczyłem półnago. }
+
+Plh_389 { Uważaj na zaklęcia. Magiczna moc Divinities zadaje obrażenia, których nie wytrzymają nawet najtwardsi wojownicy. }
+
+Plh_390 { Jedyną dobrą rzeczą, jaką wziąłem od Nemetona, jest mój kamień runiczny. Ale nie jest tak, że potrzebuję go tutaj. }
+

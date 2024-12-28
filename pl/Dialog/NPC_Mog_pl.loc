@@ -1,0 +1,218 @@
+Plh_57 { Czy nie byłeś Rzeźnikiem wśród Ocalałych? }
+
+Plh_32 { Nie chcesz trochę Rustmoss? Może ci się spodoba. }
+
+Plh_1 { Czas spłacić dług wobec Friedela. }
+
+Plh_50 { Proximus jeszcze cię nie zaakceptował? Nie jesteś jednym z nas. }
+
+Plh_51 { Chce mnie przetestować. }
+
+Plh_52 { Hm? Proximus mówi, że powinniśmy walczyć. Ty i ja. Chodźmy! }
+
+Plh_54 { Ach, więc jestem... Testem! Postaram się jak najlepiej! }
+
+Plh_53 { No dobrze, chodźmy. }
+
+Plh_59 { Jasne, a ty zaoferowałeś mi tego przeklętego rdzawca, czy jak to się tam nazywa. }
+
+Plh_58 { Kiedyś byłem Hewerem. Teraz walczę na arenie. Cóż, jeszcze nie do końca. Nadal trenuję. }
+
+Plh_0 { Hej, jestem Mog. Bez urazy, ale teraz jestem naprawdę wykończony. Wszystko, czego chcę, to trochę spokoju i ciszy. }
+
+Plh_110 { Blanda! Oszukałaś nas! Naprawdę myślałaś, że nie zauważymy? }
+
+Plh_111 { No cóż, to było zwykłe nieporozumienie! }
+
+Plh_119 { Nieporozumienie? NIEPOROZUMIENIE? Oszukałeś nas! Oboje! }
+
+Plh_112 { Gotowe! }
+
+Plh_114 { Oddajcie nasze monety! }
+
+Plh_113 { Nie obchodzi mnie żadna z tych bzdur. }
+
+Plh_118 { Prosiłeś o to! }
+
+Plh_115 { Hej, spokojnie, spokojnie. Jestem pewien, że możemy coś tu wymyślić. Poczekaj... }
+
+Plh_117 { Wszystko w porządku, tak? A teraz zostaw mnie w spokoju. }
+
+Plh_124 { Lepiej, żebyś więcej tego nie robił, bo inaczej... }
+
+Plh_125 { Łatwo! Nigdy więcej! }
+
+Plh_116 { No cóż, rób co chcesz... }
+
+Plh_126 { Ale teraz odzyskam moje monety! }
+
+Plh_91 { Co to do cholery jest? To MOJE łóżko! Zapłaciłem za nie! }
+
+Plh_102 { Za to łóżko zapłaciłem Blanda $GVAR:EVars_Blanda.PriceBed$ monetami! }
+
+Plh_103 { Co?! Zapłaciłem także Blandzie monetami $GVAR:EVars_Blanda.PriceBed$! }
+
+Plh_104 { Co? Powinniśmy porozmawiać o tym z Blandą... }
+
+Plh_93 { Spadaj, nie mam nastroju na twoje gadki. }
+
+Plh_97 { To łóżko należy do mnie! (szamotanina) }
+
+Plh_94 { Nieważne. Nie chcę żadnych kłopotów. Ty weź łóżko. }
+
+Plh_108 { Poczekaj, ona nas oboje oszukała? Porozmawiam z nią o tym... }
+
+Plh_96 { To nie jest żadna ściema! Naprawdę nie chcę żadnych kłopotów, ale zapłaciłem za to, do cholery! }
+
+Plh_98 { Nie ma mowy, to moje! }
+
+Plh_99 { Dokładnie. A teraz spadaj. }
+
+Plh_100 { Dobrze, łóżko jest twoje. Wygrywasz. }
+
+Plh_101 { To moje łóżko — spadaj! }
+
+Plh_87 { Twoja walka z Adą była absolutnie niewiarygodna. }
+
+Plh_62 { Wiesz coś o walce. Zgłoś się do Proximusa. On na pewno przyjmie takich ludzi jak ty. A ja mógłbym się od ciebie uczyć, na dodatek. }
+
+Plh_33 { Hm? Nie, nieważne. }
+
+Plh_34 { Jak mówiłem... }
+
+Plh_36 { *wąchaj Rustmoss* Spróbuj. Wciągnij nosem. To czysty relaks. }
+
+Plh_37 { Widzę to. Po prostu zapomnij o tym. }
+
+Plh_38 { *bierze głęboki oddech* Mhhhh. To pachnie naprawdę świetnie. Ale nie wiem, co mam z tym zrobić. }
+
+Plh_39 { Napełnij nim swoją fajkę, a noc będzie twoja. Zaufaj mi. }
+
+Plh_40 { Lepiej trzymaj ręce z daleka od tego. Jestem pewien, że znajdę na to kupca. }
+
+Plh_42 { No cóż, to rzeczywiście brzmi intrygująco... }
+
+Plh_43 { No cóż, mógłbym spróbować... To tylko kilka monet, w każdym razie. Ile to kosztuje? }
+
+Plh_44 { $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet, a będzie Twoje. }
+
+Plh_45 { Dam ci zniżkę dla znajomych i rodziny. $GVAR:QuestVars_JobForBoris_Config.ReducedPricePerJoint$ monet za próbkę. }
+
+Plh_46 { Hm. To dość drogie. Ale dobra, wezmę trochę. }
+
+Plh_120 { Ojej, to boli. }
+
+Plh_121 { To kwestia gustu. }
+
+Plh_122 { Zajmie to trochę czasu, ale potem będzie wspaniale. }
+
+Plh_123 { Cóż, skoro tak mówisz. Dam temu jeszcze jedną szansę dziś wieczorem. }
+
+Plh_47 { Serio? No to MUSZĘ to zrobić, prawda? }
+
+Plh_41 { Tak czy inaczej mnie na to nie stać. Nie dla mnie. }
+
+Plh_35 { Trzymam kciuki za Remnants, żeby wrócić do domu. Do moich dzieci. To jedyna rzecz, która jest dla mnie ważna. }
+
+Plh_2 { Co? Ten pieprzony, chciwy... Kim ty w ogóle jesteś? Dlaczego zbierasz dla niej? }
+
+Plh_16 { Jestem tu nowy. }
+
+Plh_17 { To nie o mnie chodzi. Ja mam tylko dostać monety. }
+
+Plh_18 { No cóż, w takim razie nie możesz wiedzieć, że mój termin upływa za trzy dni. }
+
+Plh_3 { Powiedziała, że ​​ma dostać monety od razu. }
+
+Plh_5 { Ach, zapomnij. Zatrzymaj swoje monety. }
+
+Plh_55 { Dopiero co tu byłeś! A ja wydałem ostatnie monety na tego głupiego rdzawego korzenia! }
+
+Plh_6 { Zostało mi akurat tyle, żeby kupić jedzenie! Jeśli ci je dam, będę spłukany, nie będę miał nic, nic, nic, i nigdy się stąd nie wydostanę... }
+
+Plh_8 { Dlaczego „stąd”? }
+
+Plh_9 { Jak to jest być Rębaczem? }
+
+Plh_10 { No dobrze... zachowaj swoje monety. Na razie. }
+
+Plh_11 { Skreślam cię z listy jej dłużników. }
+
+Plh_12 { Wygląda na to, że to nie mój problem. Oddaj monety albo przyjdę po nie! }
+
+Plh_13 { Stąd... do... moich dzieci. Sebi i Kimmi. Nawet nie wiem, czy mnie jeszcze pamiętają... }
+
+Plh_28 { Nie ma ich w Drova. Kiedy nagle obudziłem się w Drova, zostali w tyle. Remnants tutaj chcą się uwolnić. Wrócić do mojego domu. }
+
+Plh_29 { Dlatego zostałem Hewerem i dlatego uderzam w kamień. Tylko po to, żebym miał okazję do nich wrócić. }
+
+Plh_14 { Mogło być gorzej. Mogło być też lepiej. Ale co jeszcze? Nie jestem wojownikiem. I nie jestem druidem. Ale wiem, jak rąbać. }
+
+Plh_15 { Naprawdę? Dzięki! Za trzy dni będę miał wszystko. Powiedz jej to. Obiecuję! }
+
+Plh_20 { Tak po prostu? Nie, żebyśmy oboje mieli kłopoty... }
+
+Plh_21 { Friedel mi uwierzy. }
+
+Plh_22 { Wymyślę coś. }
+
+Plh_23 { Nie mów nikomu, ale... wziąłem jej listę. }
+
+Plh_24 { Jeśli tak mówisz... Mam nadzieję, że to prawda. Wtedy będę mógł odłożyć trochę monet i zostać w obozie. Może kiedyś wrócę... do obu... }
+
+Plh_25 { Masz na myśli, że zatrzymujesz dług, który ściągasz dla siebie. Nawet nie wiem, jak odpowiedzieć na taką zuchwałość. }
+
+Plh_26 { Ale dzięki za pomoc. Wtedy będę mógł odłożyć trochę monet i zostać w obozie. Może kiedyś wrócę... do obu... }
+
+Plh_27 { *podnosi ręce* dobrze, dobrze, spokojnie... proszę bardzo, ty rzezimieszku... oby cię przeklęło Bóstwo... ty i Friedel... }
+
+Plh_56 { Ale... nie mam już prawie żadnych monet. }
+
+Plh_7 { Ja... uff... *ociera kroplę potu z czoła* To znaczy... Nie mogę uwierzyć w swoje szczęście... }
+
+Plh_19 { Ale mój dług trzeba zapłacić dopiero za trzy dni! }
+
+Plh_71 { Nie idź do Lasu Pierwotnego, Kora. Wszystko tam jest... }
+
+Plh_72 { ... martwy. Wiem. Widziałem to na własne oczy. }
+
+Plh_82 { Uwierz mi, nie chcesz tego zobaczyć. }
+
+Plh_83 { Oczywiście, że będziesz tamtędy przechodził, to jest to, co musisz zrobić... }
+
+Plh_84 { Tam mnie nie znajdziesz! }
+
+Plh_85 { Podobno wysłano tam ekspedycję. }
+
+Plh_86 { Najwyraźniej złapali Bóstwo. }
+
+Plh_69 { Podobno w Puszczy Pierwotnej mieszka bóstwo. }
+
+Plh_70 { Gdyby tylko to była prawda... }
+
+Plh_78 { Słyszałem, że ludzie tam mieszkają. W ciemności. }
+
+Plh_79 { Mówi się, że praktykują tradycyjną magię. }
+
+Plh_80 { Poddają się Boskości? }
+
+Plh_81 { Ja też uważam to za dziwne... }
+
+Plh_67 { Podobno w naszym obozie pojawił się nowy wojownik. }
+
+Plh_68 { Tak, ktoś wyłonił się z Wąwozu. }
+
+Plh_75 { Dopiero co tu dotarli, ale już są na szczycie... }
+
+Plh_76 { Niektórzy po prostu to załapali. }
+
+Plh_77 { Podobno Nemeton ma nowego członka. }
+
+Plh_64 { Na arenie ma się odbyć specjalna walka. }
+
+Plh_65 { Nareszcie coś ekscytującego! }
+
+Plh_73 { Proximus uważa, że ​​Bady będzie walczył. }
+
+Plh_74 { Gra zrobi z niego mielonkę. }
+

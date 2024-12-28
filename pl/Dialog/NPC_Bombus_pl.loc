@@ -1,0 +1,182 @@
+Plh_19 { Chcesz pojechać do Nemetonu? }
+
+Plh_24 { Jesteś też pszczelarzem? }
+
+Plh_61 { Jaka przyszłość czeka obóz drwali? }
+
+Plh_65 { Dokąd zmierzała Larea? }
+
+Plh_101 { O jakich pszczołach śpiewałeś? }
+
+Plh_113 { Birka mówi, że potrzebuje od ciebie miodu. }
+
+Plh_102 { Bestia nie żyje. To niedźwiedź. }
+
+Plh_20 { Tradycyjnie moja trasa kończy się tutaj. Znam każdy zakątek Drova — piękne części i niebezpieczne! A teraz moja trasa jest idealna! Przez ostatnie pięć lat mogłem podróżować po całym kraju bez żadnych złych spotkań. }
+
+Plh_131 { Dobre dla biznesu, ale i dobre dla mojego zdrowia! }
+
+Plh_80 { *śpiewa* Moje pszczoły, moje pszczoły! Dają mi miód! Sprawiają, że czuję się taka szczęśliwa! Kocham moje pszczoły, moje pszczoły! }
+
+Plh_23 { Jestem w zgodzie ze sobą. *zamyka oczy i bierze głęboki oddech* }
+
+Plh_66 { *głęboko wydycha* Czy było coś jeszcze? Och, nie o to ci chodziło. Czekam tutaj, aż most zostanie naprawiony. Pod żadnym pozorem nie zamierzam zboczyć z mojej sprawdzonej i prawdziwej drogi, tylko po to, żeby wpaść na jakieś robactwo. Albo na ich pazury. }
+
+Plh_21 { Wolę słuchać swojego instynktu! I poznawać nowych ludzi takich jak ty! No cóż, nowych ludzi, którzy nie chcą mi podać łopaty ani niczego tak okropnego! }
+
+Plh_25 { Najlepszy przyjaciel pszczół w całej Drova! Moje ule są rozrzucone po całym miejscu. Na każdej trasie opiekuję się zajętymi brzęczykami i zbieram ich miód. }
+
+Plh_62 { Znam ich od dawna i... martwię się o nich. Ich szeregi stale maleją. To dobrzy ludzie, wszyscy, ale ich zaufanie maleje... Cengiz ma tyle na głowie, a teraz musi martwić się także o Lareę. Powinna wrócić dawno temu. }
+
+Plh_63 { Ja też za nią tęsknię. *uśmiecha się* Jest jednością z Lasem Zalewowym, ale w zupełnie inny sposób niż ja. Łączy się z dziczą, jakby nie potrzebowała żadnych ludzi. Och, chciałabym umieć tak samo... }
+
+Plh_64 { Jest myśliwą. Chciała upolować szczury wodne na północ stąd. Zazwyczaj włóczy się tam przez kilka dni. Ale po trzęsieniu ziemi szczury prawdopodobnie rozproszyły się we wszystkich kierunkach... }
+
+Plh_4 { Zmęczenie przytłacza moją duszę i ciało. Zostawcie mnie w spokoju... moja dusza potrzebuje spokoju... }
+
+Plh_10 { Witaj, towarzyszu! Masz przyjazną twarz. Widzę to od razu! }
+
+Plh_76 { Jestem Bombus. Podróżujący kupiec, pszczelarz, uzdrowiciel. Moje ręce niosą światło słońca, a moje oczy są zwilżone rosą. Czy Drova nie jest cudownym miejscem? }
+
+Plh_77 { Nie potrafię jednak czytać w myślach, więc będziesz musiał mi powiedzieć, kim jesteś, w bardzo staromodny sposób! }
+
+Plh_105 { Poczekaj... Pszczelarzu? }
+
+Plh_11 { Jestem $GVAR:EVars_Player.Name$. }
+
+Plh_12 { Nie wiem, czy powinienem ci to ujawniać... }
+
+Plh_13 { Może lepiej będzie poczekać, aż nauczysz się czytać w myślach... }
+
+Plh_106 { Oczywiście! Moje ule są rozsiane po całej Drova. Beze mnie natura dawno by tu zginęła! }
+
+Plh_14 { Ach, proszę przyjąć moje pozdrowienia, $GVAR:EVars_Player.Name$. Zawsze miło jest poznać nowych ludzi, których Bóstwa uznają za godnych, aby uczynić to miejsce piękniejszym! }
+
+Plh_17 { Właściwie, powinnam być w Nemeton. Ale taki odpoczynek może zdziałać cuda. ​​Widziałam nawet motyla! }
+
+Plh_68 { *patrzy marzycielsko w przestrzeń* }
+
+Plh_69 { Na szczęście moje suszone zioła lecznicze długo się trzymają. W pewnym momencie naprawią most. Dopóki moja ręka nie będzie musiała władać młotkiem, wszystko będzie dobrze. }
+
+Plh_15 { Och, lubię sekrety! Ale uważaj, żeby nie pozostać zbyt tajemniczym. W końcu wszyscy potrzebujemy dobrych przyjaciół, prawda? }
+
+Plh_16 { I to może się wkrótce wydarzyć! Wczoraj odkryłem nowy gatunek grzybów. Są niebieskie. Myśli też są niebieskie, prawda? Teraz muszę je tylko ugotować! Mam na myśli grzyby. }
+
+Plh_117 { Musi być tam o wiele więcej! Niedźwiedź zjadł dużo mojego miodu... Biada! }
+
+Plh_118 { Tak, uh, zły miś. }
+
+Plh_119 { Muszę ci się do czegoś przyznać, Bombus... To byłem ja. }
+
+Plh_120 { Jak zawsze mówię: Dajcie, dajcie, dajcie piwa — u nas teraz dzieje się świetnie! }
+
+Plh_121 { Cóż, cieszę się, że woli jeść miód niż mnie. }
+
+Plh_124 { Bombus podjął środki ostrożności. Tylko ja wiem, gdzie znajdują się wszystkie moje ule. Zawierają więcej niż wystarczająco miodu, zakładając, że wiesz, gdzie szukać. *puszcza oko* }
+
+Plh_122 { Ty? Ale $GVAR:EVars_Player.Name$! Ten — taki — Bombus nie wpada w złość tak łatwo, ale ODWAGA! Ja... Ja... }
+
+Plh_123 { No, nie denerwuj się tak. Nie jest tak źle. Mam nadzieję, że smakowało dobrze. }
+
+Plh_81 { *śpiewa* Długo mnie nie było, ale tatuś wkrótce wróci! }
+
+Plh_132 { Dobra Larea wróciła! Gdybym jej nie spotkał, nie chciałbym kontynuować mojej trasy. To odciążyło Bombusa! }
+
+Plh_133 { Użyłem twojej maści leczniczej, żeby ją uratować. Ale nie możesz nikomu o tym powiedzieć! }
+
+Plh_135 { Wszystko dobre, co się dobrze kończy. }
+
+Plh_136 { Czego się spodziewałeś? Larea jest utalentowaną łowczynią. }
+
+Plh_137 { Myślałam, że masz z tym coś wspólnego! }
+
+Plh_138 { Nie martw się, Bombus jest najlepszym strażnikiem tajemnic Drova. Moje usta są zapieczętowane! }
+
+Plh_139 { Jakie to szczęśliwe! Och, te złe rzeczy, które sobie wyobrażałem, że się wydarzą... }
+
+Plh_141 { Moje stare kości mówią mi, że ktoś nie był w to zupełnie niezaangażowany... }
+
+Plh_140 { Rzeczywiście, mogę się jeszcze nauczyć od Larei kilku sztuczek! }
+
+Plh_9 { Pozdrowienia! }
+
+Plh_107 { Przedstawiłem się jako pszczelarz. Zapomniałeś? *puszcza oko* }
+
+Plh_109 { Jakiś potwór grasuje wokół moich uli za stodołą. To straszne! }
+
+Plh_125 { Moje pszczoły będą się trząść ze strachu! Nieeeee! Miód, który wyprodukują w tym stanie, będzie niejadalny! }
+
+Plh_108 { Może uda ci się zabić bestię? To na pewno by ich uszczęśliwiło. }
+
+Plh_116 { Niedźwiedź, który dostał się do uli? Już nie żyje. }
+
+Plh_110 { Och, naprawdę? Imponujące, naprawdę imponujące! Proszę przyjąć moje szczere podziękowania! I od moich pszczół, oczywiście! }
+
+Plh_111 { Teraz miód może znów płynąć do tawerny! Albo jeszcze przez chwilę będę się cieszyć widokiem... Zobaczymy, zobaczymy. }
+
+Plh_128 { Bez problemu. }
+
+Plh_129 { Zobaczę, co da się zrobić. }
+
+Plh_130 { Miło to słyszeć! }
+
+Plh_114 { *mruczy* Tak, tak, chciałbym! Bombus, Bombus, znów wpakowałeś się w kłopoty. }
+
+Plh_6 { Mówiłeś, że jesteś uzdrowicielem? }
+
+Plh_73 { O tak! Natura w Drova ma tak wiele wspaniałych rzeczy do zaoferowania. Tutaj, spójrz! }
+
+Plh_126 { Czerwonawe zioło pomaga wydalić toksyny z organizmu. }
+
+Plh_127 { Inne zioło, fioletowe, może sprawić, że ktoś stanie się niebieski. Są nawet zioła, które rozjaśniają umysł. Czy to nie jest absolutnie cudowne? }
+
+Plh_28 { Czy wiesz coś, co mogłoby wyleczyć ropiejącą ranę po ugryzieniu łowcy? }
+
+Plh_29 { Muszę pomóc komuś, kto jest ranny... }
+
+Plh_2 { Ripper. Hmm... niebezpieczne. Ich kły powodują więcej niż tylko rany. Specjalny eliksir leczniczy może przeciwdziałać efektom, ale trudno go wyprodukować... }
+
+Plh_75 { Jak poważny jest uraz? }
+
+Plh_34 { To pulsująca rana. }
+
+Plh_42 { To powoduje osłabienie. }
+
+Plh_37 { Ach, pulsujące. Niedobrze. Wtedy ugryzienie ma już kilka godzin i cokolwiek rozpruwacze włożyli do rany, rozprzestrzeni się. Niedobrze, niedobrze. Nie możesz ryzykować, czekając, aż się zagoi... }
+
+Plh_38 { Ale nie trać nadziei! Może to brzmieć źle, a życie tej tajemniczej osoby może wisieć na włosku, ale znalazłeś Bombusa. Bombusa, uzdrowiciela! }
+
+Plh_46 { Słuchaj. Mogę ci zrobić maść leczniczą, która odpowiednio wyleczy ukąszenie rippera. Do tego będę potrzebował $GVAR:QuestVars_OnlyOneThingHelps_Config.AmountOfHealthPlant$ roślin leczniczych i korzenia ziemi. Ale dla dobra rannej osoby nie czekaj zbyt długo. }
+
+Plh_47 { Przyniosę ci wszystko. }
+
+Plh_48 { Earthroot? To pomoże? }
+
+Plh_49 { Już mam składniki. }
+
+Plh_50 { Na co czekasz? }
+
+Plh_52 { Sam korzeń ziemi jest trujący i NIGDY nie powinien być umieszczany bezpośrednio na ranie. Ale gdy go ugotujesz i połączysz z odpowiednimi składnikami, ma zupełnie inny efekt! Ale tylko wtedy! }
+
+Plh_78 { A jeśli wysuszysz go i wymieszasz z odpowiednią ilością fajkowego ziela, możesz dowiedzieć się, jaki smak ma zachód słońca i usłyszeć przelatujące gwiazdy! }
+
+Plh_8 { Bardzo dobrze. Maść leczniczą tworzy się w następujący sposób: Odetnij korzeń glinki i ściśnij go, aby wycisnąć z niego sok. Ale nie dotykaj go, jeśli chcesz zachować palce. }
+
+Plh_53 { Wrzuć korzeń ziemi do garnka i gotuj razem z pozostałymi składnikami. Nie za długo. Następnie wyłów ugotowany korzeń ziemi. }
+
+Plh_59 { Wystarczy nałożyć lepką maść na ranę. Powinno zadziałać szybko. W przeciwnym razie pacjent będzie cierpiał zupełnie inny los, a my, śmiertelnicy, nie możemy tego zmienić, niestety. }
+
+Plh_39 { Słabość... Nie poprawia się. Nie dobrze, nie dobrze. Nie chcę mówić, że to początek końca, ale nie powinieneś czekać. }
+
+Plh_30 { To przyprowadź ich tutaj! }
+
+Plh_32 { Ta osoba nie chce, aby ktokolwiek dowiedział się o jej urazie. }
+
+Plh_33 { No cóż. To ich wina. Jak zaawansowany jest uraz? }
+
+Plh_7 { Mam ze sobą rośliny lecznicze i korzeń ziemi. }
+
+Plh_55 { Zrobiłam maść. }
+
+Plh_56 { Bardzo dobrze, ale co ty tu z tym robisz? Zanieś to poszkodowanemu! }
+

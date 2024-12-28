@@ -1,0 +1,18 @@
+Title { Dobrobyt }
+
+Entry_01 { W drodze do Nemetonu Hansi i Gawan zostali zaatakowani przez rozpruwaczy. Hansi stracił życie — a wraz z nim cenny ładunek: żółty kamień glifowy. Gawan chce, żebym przywiózł mu ten kamień, żeby mógł go sprzedać w Nemetonie. Gawan podzieli się ze mną zyskiem i obiecuje, że obaj będziemy bogaci. }
+
+Entry_02 { Dałem Gawanowi kamień glifów. Chce wyjechać do Nemetonu, żeby go tam sprzedać. Monety, monety, monety! }
+
+Entry_03 { Gawan wydał monety, które dostał za kamień glifowy, na owce i obiecuje, że interes z owcami pozwoli mi podwoić liczbę moich monet w mgnieniu oka. Chce, żebym zainwestował $GVAR:QuestVars_RipperAmbush.SheepCosts$ monet. }
+
+Entry_04 { Teraz zajmuję się owczarstwem. Gawan myśli, że niedługo oboje będziemy pływać w monetach. }
+
+Entry_05 { Z żabami, które przeszukują wrzosowisko w poszukiwaniu skarbów, Gawan chce POTROIĆ nasze monety! Jeśli chcę, muszę zainwestować $GVAR:QuestVars_RipperAmbush.YCosts$ monet. }
+
+Entry_06 { Jestem w! Gawan chce wkrótce rozpocząć poszukiwania w pobliżu Georgefarm. Mam nadzieję, że warto. }
+
+Entry_07 { Otrzymałem swoją część monet. Gawan miał rację. }
+
+Entry_Exit { Zdecydowałem się nie rozpoczynać interesów z Gawanem. }
+

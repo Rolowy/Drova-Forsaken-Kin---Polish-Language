@@ -1,0 +1,166 @@
+Plh_16 { Spróbuj wykonać kombinację. }
+
+Plh_0 { Nadszedł czas... }
+
+Plh_1 { Nie utrudniaj mi tego tak bardzo... }
+
+Plh_2 { Nigdy cię nie zapomnę. }
+
+Plh_3 { Nie należysz tutaj. Należysz do lasu. }
+
+Plh_4 { Owce śmierdzą. }
+
+Plh_5 { Tak, jedz trawę! }
+
+Plh_6 { To jest miejsce, w którym Dorian założył Nemeton. Z pomocą Raven, Drova będzie się rozwijać. }
+
+Plh_7 { Prosięta żywią się sokiem z korzeni. }
+
+Plh_8 { Kolejny z korzeni Matki. Prosiaczki ssą jej sutki. }
+
+Plh_9 { Bez ochrony Potężnego Dzika prosięta są łatwym łupem. }
+
+Plh_10 { Dlaczego w miejscu, w którym nikt nie może podziwiać posągu, znajduje się pomnik? }
+
+Plh_11 { Atrament rozlał się na tym pergaminie. Nie mogę już nic przeczytać. }
+
+Plh_12 { Napisy na tym pergaminie wyblakły dawno temu. }
+
+Plh_13 { Ten pergamin jest pełen skomplikowanych rysunków. Nie potrafię ich rozgryźć. }
+
+Plh_14 { Skrzepła krew. Minęło trochę czasu od ostatniej ofiary. }
+
+Plh_15 { Pozostałości ofiary pająka. Pozostały tylko kości. }
+
+Plh_17 { Jeszcze trochę żelaza. }
+
+Plh_18 { Jeszcze raz pełne ciepło. }
+
+Plh_19 { Wygląda dobrze. }
+
+Plh_20 { Jeśli tak dalej pójdzie, nigdy nie będę tak dobry jak Chunnaic... }
+
+Plh_21 { No cóż, cholera... }
+
+Plh_22 { Muszę się trzymać kupy... }
+
+Plh_23 { Płomień kruka czuwa nade mną. }
+
+Plh_24 { Tylko Kruk może nas prowadzić i pomóc nam stworzyć Krainę Legend. }
+
+Plh_25 { Płomień nas poprowadzi. }
+
+Plh_26 { Przemawia przed wiecznym ogniem do Boga Kruka... }
+
+Plh_27 { Jeśli do niego przemówisz, on cię posłucha. }
+
+Plh_28 { No cóż, to też nie jest do końca jasne... cholera, Aiko. }
+
+Plh_29 { To powinno pasować. Następne! }
+
+Plh_30 { Każdy wie, że nasza praca jest bez zarzutu. }
+
+Plh_31 { ...pomimo kiepskiej jakości drewna, które nam dostarczają. }
+
+Plh_32 { Wreszcie znów dostajemy drewno od Cengiza. }
+
+Plh_34 { Obok rysunku napisano: Wolność dla Raven! Nemeton musi zobaczyć swoje błędy! }
+
+Plh_35 { Łańcuchy są mocno przytwierdzone do skały. Wszyscy Nemeton zobaczą, kto jest tu przykuty. }
+
+Plh_36 { Do Pozostałości! }
+
+Plh_37 { Noc jest nasza! }
+
+Plh_38 { Do nas, Cord! Pieprzyć Nemetona, pieprzyć jutro! }
+
+Plh_39 { Za nas! }
+
+Plh_40 { Powiedz, masz jakieś? }
+
+Plh_41 { Mam jeszcze trochę Rustmoss. Tutaj, dla ciebie. }
+
+Plh_42 { Jesteś najlepszy. }
+
+Plh_44 { Naprawdę? Bez ciebie Friedel byłby w dupie. }
+
+Plh_45 { Cóż, robię to, co muszę. To mój obowiązek. }
+
+Plh_46 { Ale pomyśl o tym... Czuję, że pasowałbyś do nas. }
+
+Plh_47 { Podoba mi się, że jesteś taki otwarty. }
+
+Plh_48 { Z tobą mogę być. }
+
+Plh_49 { Chcę wyzwania! *hic* }
+
+Plh_50 { Eugen, zrób to... Eugen, zrób tamto... }
+
+Plh_51 { Kiedy w końcu będę mógł walczyć dla ciebie na arenie? }
+
+Plh_52 { Nie jesteś gotowy. Poczekaj. }
+
+Plh_55 { Musisz jeszcze trochę poćwiczyć. Nie jesteś wystarczająco dobry. }
+
+Plh_56 { Posłuchaj Ady. Ona wie, co jest słuszne. }
+
+Plh_57 { Najpierw muszę zabrać srebro. }
+
+Plh_58 { Oto miejsce przechowywania srebra. }
+
+Plh_59 { Obiekt pochłania energię wrzosowiska i przekazuje ją poprzez podłoże. }
+
+Plh_60 { Widnieje na nim mnóstwo dziwnych nazw. }
+
+Plh_61 { Jest ich tam więcej. }
+
+Plh_148 { To była dobra bitwa! }
+
+Plh_149 { Dlaczego wszystko zawsze musi tak eskalować? }
+
+Plh_151 { Jest $GVAR:EVars_Player.Name$! Chodź tutaj! }
+
+Plh_152 { Tu już nic nie ma... }
+
+Plh_153 { Kominek został całkowicie zdewastowany. Nie mogę już nic tu gotować. }
+
+Plh_154 { Zepsuty stół warsztatowy bez żadnych narzędzi. Prawdopodobnie zostały zabrane. }
+
+Plh_155 { Z uwagi na obecność tylu otworów piec ten będzie w stanie wytworzyć dość ciepła, aby stopić metal. }
+
+Plh_156 { Boötes, władca wojny i śmierci }
+
+Plh_157 { Apus, podróżujący przyjaciel wszystkich ludzi }
+
+Plh_158 { Cygnus, odbicie tych, którzy szukają wiedzy }
+
+Plh_159 { Luna, Matka Empatii i Harmonii }
+
+Plh_160 { Sol, sprawiedliwy ojciec i obrońca }
+
+Plh_161 { Terra, Pani Płodności i Młodości }
+
+Plh_162 { Vorago, Mistrz Pływów i Emocji }
+
+Plh_163 { Czuję moc Dzika Mocy w tych korzeniach. Nie pozwoli mi przejść tędy. }
+
+Plh_164 { Czuję, jak energia runiczna jest kierowana do ziemi. }
+
+Plh_165 { Wygląda na całkowicie wychudzoną... to pewnie mgła ją tak wychudziła. }
+
+Plh_166 { Spoczywaj w pokoju. Merlind. Cengiz tęskni za tobą. }
+
+Plh_167 { Jalina broniła naszego obozu. To dzięki jej poświęceniu przetrwaliśmy. }
+
+Plh_168 { Colin przyszedł nas chronić. Spoczywaj w pokoju. }
+
+Plh_169 { Obiekt wydaje się reagować, gdy wydaję dźwięk. Lekko się trzęsie. }
+
+Plh_170 { Wygląda na to, że wrzosowisko odzyskuje jabłoniowy gaj wokół uszkodzonej skały. }
+
+Plh_171 { Porzucony i uszkodzony wózek. Nie ma tu nic do zyskania. }
+
+Plh_172 { Tutaj zostanie uwieczniony niezwyciężony, który zwyciężył śmierć i szaleństwo. }
+
+Plh_173 { Tutaj upamiętniony został niezniszczalny, który przeszedł przez Drovę bez szwanku. }
+

@@ -1,0 +1,16 @@
+Entry_01 { Olga i Luten potrzebują ekstraktu z grzybów callashroom, aby stworzyć talizman, który chcą dać Helmie. Humbert może mi powiedzieć, gdzie znajdę te grzyby. Będzie kręcił się po wschodniej części Nemetonu — tam, gdzie są wszystkie rośliny. }
+
+Entry_03 { Humbert mówi mi, że potrzebuje $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ callashrooms, aby wykonać ekstrakt. Powinienem je znaleźć poza Nemeton, w Red Moor. }
+
+Entry_04_Wait { Przyniosłem Mombertowi callashroomy. Będzie potrzebował chwili. Nie powinno to zająć zbyt dużo czasu. }
+
+Entry_04 { Mam wyciąg. Teraz muszę tylko zanieść go Oldze i Lutenowi. }
+
+Entry_05 { Olga i Luten otrzymali ekstrakt z callashroom i byli w stanie stworzyć talizman. Czekają na mnie przed Shack, więc możemy dać go razem Helmie. }
+
+Entry_06 { Prezent Olgi i Lutena został dobrze przyjęty. }
+
+Title { Talizman dla Helmy }
+
+Entry_07 { Święto Ognia dobiegło końca. }
+

@@ -1,0 +1,70 @@
+Plh_20 { Czy wiesz, jak mogę wyróżnić się tutaj jako Rębacz? }
+
+Plh_21 { Musisz wykuć cholernie dużo srebra. Wtedy zwrócisz uwagę Levina. On nagradza ciężko pracujących Hewersów. }
+
+Plh_46 { Idź i zobacz Trusty'ego, jeśli chcesz wiedzieć więcej. To ten facet, który był tu wcześniej, zaraz po tym, jak wszedłeś. }
+
+Plh_4 { Hej, dokąd chcesz iść? }
+
+Plh_51 { Dla Jero. }
+
+Plh_52 { Spadaj. Nie chcemy tu widzieć ludzi takich jak ty. }
+
+Plh_1 { Też się nad tym zastanawiałem. }
+
+Plh_2 { Poza tobą. }
+
+Plh_3 { Czy ty jesteś szalony? Do kopalni Remnants wchodzą tylko ci, którzy mają list od Levina i sprzęt od Lothara! }
+
+Plh_22 { Hej, ty tam! }
+
+Plh_23 { Próbujesz wyjść? }
+
+Plh_24 { Tak, to prawda. }
+
+Plh_25 { Nie, zostaję tutaj. }
+
+Plh_49 { Ach, to ty. Wiesz, w tej chwili nie widzę zbyt dobrze — jeśli przejdziesz teraz szybko, nie będę w stanie cię zatrzymać. }
+
+Plh_50 { Szkoda. *puszcza oko* }
+
+Plh_26 { Dobrze. W takim razie wyłóż połowę srebra. }
+
+Plh_28 { Masz, weź to. (daj połowę) }
+
+Plh_29 { Wolałbym tu zostać. }
+
+Plh_39 { Ty drapiesz mnie po plecach, ja drapię twoje. Trzymaj język za zębami w sprawie moich spraw z Merikiem, a ja będę patrzył w inną stronę. I zabiorę ci mniej srebra. }
+
+Plh_40 { Od dziś Levin chce więcej srebra. *uśmiecha się* }
+
+Plh_41 { Mówiłem ci, żebyś nie wtrącał się w moje sprawy z Merikiem. Albo... Oto twoje srebro. Wynoś się. }
+
+Plh_30 { Wygląda dobrze. Możesz przejść. }
+
+Plh_27 { Potem wróć i zabierz się do pracy. }
+
+Plh_33 { Słyszałem, że kilka osób wróciło z obozu wcześniej. }
+
+Plh_34 { Nareszcie. Hewers już mnie nękali pytaniami o to, kiedy Merik znów zacznie sprzedawać sprzęt. }
+
+Plh_45 { Levin jest już niecierpliwy, bo nie dostaje już tyle srebra... }
+
+Plh_36 { *odwraca się do ciebie* Więc ty... nowicjusz? }
+
+Plh_32 { Jak widzę, byłeś z Lotharem. Możesz wejść do środka. }
+
+Plh_38 { Jak miło z twojej strony, Katsa. }
+
+Plh_47 { Powodzenia w kopalniach! Chodźcie. Wyjaśnię wam zasady tutaj. }
+
+Plh_48 { *Mruczy* Lepiej posłuchaj Trusty'ego... }
+
+Plh_53 { Gdzie jest srebro? Spałem cały ten czas? Następnym razem chcę zobaczyć trochę srebra! }
+
+Plh_54 { Łącznie wyciosałeś $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ sztuk srebra. $GVAR:EVars_Katsa.SilverDefaultAmount$ sztuk srebra trafia do naszych skarbców, pozostałe $GVAR:EVars_Katsa.SilverAmountLeaveMine$ sztuk srebra są twoje. }
+
+Plh_55 { Łącznie wyciosałeś $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ sztuk srebra. $GVAR:EVars_Katsa.SilverAngryAmount$ sztuk srebra trafia do naszych skarbców, pozostałe $GVAR:EVars_Katsa.SilverAmountLeaveMine$ sztuk srebra są twoje. }
+
+Plh_56 { Łącznie wyciosałeś $GVAR:EVars_Katsa.PlayerSilverDiffAmountMine$ sztuk srebra. $GVAR:EVars_Katsa.SilverFriendlyAmount$ sztuk srebra trafia do naszych skarbców, pozostałe $GVAR:EVars_Katsa.SilverAmountLeaveMine$ sztuk srebra są twoje. }
+

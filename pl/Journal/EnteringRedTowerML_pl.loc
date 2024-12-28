@@ -1,0 +1,22 @@
+Title { Droga do Czerwonej Wieży }
+
+Entry_00_Nemeton { Istnieje runiczna podróż, która może wykorzystać Divine Crystal, a ta podróż — z pomocą Mighty Boar — może umożliwić nam wejście do Red Tower. Ale Mighty Boar wciąż nie ma magicznej mocy. Mam udać się do Library of the Bygones i znaleźć informacje o dodatkowych Divine Crystals w Drova. }
+
+Entry_00_Ruinenlager { Nie udało nam się otworzyć drzwi do Czerwonej Wieży. Mighty Boar nie był wystarczająco potężny. Aby uzyskać więcej mocy, mam przeszukać Library of the Bygones w poszukiwaniu informacji o miejscu pobytu dodatkowych Divine Crystals w Drova. }
+
+Entry_01 { Dowiedziałem się, że istnieją jeszcze dodatkowe Divine Crystals. Podobno jeden można znaleźć na szczycie pagórka, na północ od Woodcutter Camp. }
+
+Entry_02 { Znalazłem Divine Crystal. Inny ma być głęboko w Forest Primeval, na zachód od obozu Remnants. }
+
+Entry_03 { Moc wystarczy, ale Divine Crystals nie są naładowane. Bygones ładowali kryształy głęboko w Red Moor, na południowy wschód od Nemeton. Muszę rozejrzeć się po tym obszarze. }
+
+Entry_04_1_NemetonQuest { Mamy naładowane Divine Crystals i Mighty Boar. Jesteśmy gotowi na Red Tower! Mam poinformować Momberta w domu druidów. }
+
+Entry_04_2_NemetonQuest { Mombert jest gotowy. Czerwona Wieżo, nadchodzimy! Zamierzamy przekształcić Drovę w Krainę Legend! }
+
+Entry_04_3_NemetonQuest { Wszystko gotowe. Powinienem się dobrze przygotować. Nie ma odwrotu! Gdy będę gotowy, mam się zgłosić do Molviny. }
+
+Entry_04_1_RuinenlagerQuest { Wszystko gotowe. Powinienem się dobrze przygotować. Nie ma odwrotu! Gdy będę gotowy, mam się zgłosić do Jero. }
+
+Entry_05 { Udało się! Jesteśmy w środku Czerwonej Wieży! }
+

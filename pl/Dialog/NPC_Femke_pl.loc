@@ -1,0 +1,88 @@
+Plh_25 { Chcę zbroję. }
+
+Plh_37 { Szukam niedźwiedziej skóry dla staruszka. Masz jakąś? }
+
+Plh_36 { A co, on też ci narzekał? }
+
+Plh_41 { TO MOJE TROFEUM. }
+
+Plh_52 { Nie ma szans, żebyś to zrozumiał. }
+
+Plh_42 { Udusiłem tego niedźwiedzia po ciężkiej walce! Zasłużyłem na tę skórę niedźwiedzia. I nie zamierzam jej odpuścić! }
+
+Plh_38 { Możesz mu dać owczą skórę. I tak nie zauważy różnicy. }
+
+Plh_39 { Słuchaj, możesz kupić ode mnie jeden. A ponieważ jest dla staruszka, to nawet dam ci zniżkę. Tylko $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ monet. Wtedy wszyscy będą zadowoleni. }
+
+Plh_43 { Nie mogę oszukać tego biednego starca. }
+
+Plh_44 { Wezmę owczą skórę. (Zapłać $GVAR:QuestVars_OldMen_Config.FemkeOfferPrice$ monet) }
+
+Plh_45 { Muszę się nad tym zastanowić. }
+
+Plh_46 { Potem może dalej jęczeć, że nie ma niedźwiedziej skóry. Co moje, to moje. }
+
+Plh_47 { Świetnie! Zobaczysz. Nie zauważy różnicy. }
+
+Plh_49 { Proszę bardzo. }
+
+Plh_51 { Wróć, jak będziesz miał trochę monet. }
+
+Plh_48 { Jak sobie życzysz. Kożuch nigdzie się nie wybiera. }
+
+Plh_35 { Będę tu cały dzień. Wróć, jeśli będziesz czegoś potrzebować. }
+
+Plh_4 { Hm, ten nos, te usta, te oczy... nieznane. Musisz być nowy, prawda? I chcesz dołączyć do Nemetonu. Mam rację? }
+
+Plh_16 { Hej, nie widziałam tu wcześniej twojej twarzy. Nazywam się Femke. Mogę ci sprzedać wszystko, czego potrzebujesz do walki. }
+
+Plh_5 { Tak, chcę dołączyć do Nemetonu. }
+
+Plh_6 { Nie, Nemeton mnie nie interesuje. }
+
+Plh_7 { W takim razie masz szczęście! }
+
+Plh_34 { Możesz nazywać mnie Femke. Bo tak w końcu mam na imię. }
+
+Plh_9 { *cicho* Wszyscy ludzie tutaj są trochę podejrzliwi. Zdobycie ich zaufania będzie trudne. }
+
+Plh_11 { Jak ich przekonałeś? }
+
+Plh_10 { Czy możesz mi w tym pomóc? }
+
+Plh_12 { *uśmiecha się* Zauważyli, jak bardzo korzystne jest dla nich mieć mnie w obozie. }
+
+Plh_13 { Jak zauważyłeś, na Red Moor nie jest bezpiecznie. Dlatego wszyscy w Nemeton są całkiem dobrzy w walce. Ty też musisz być. }
+
+Plh_14 { A wygląd jest wszystkim. Jeśli wyglądasz jak wojownik, to będą cię tak traktować. I na to mam coś dla ciebie... }
+
+Plh_15 { Skórzana zbroja. Lepsza i mocniejsza niż twój dziwny strój. Ta część powinna pomóc ci przetrwać dłużej na Red Moor. }
+
+Plh_22 { *wzdycha* Nadal pamiętam, jak pierwszy raz przybyłem do Nemetonu. Bez monet, bez przyjaciół. Sprzedam ci to za... }
+
+Plh_23 { $GVAR:EVars_Femke.CostArmor$ zamiast monet $GVAR:EVars_Femke.CostArmorFake$. }
+
+Plh_53 { Nie jestem zainteresowany. }
+
+Plh_54 { Brzmi ciekawie. }
+
+Plh_55 { Hej, nie martw się. Ja tylko oferuję. }
+
+Plh_56 { Mam jeszcze kilka rzeczy, które mogą cię zainteresować. Wszystko, czego potrzebuje myśliwy. }
+
+Plh_17 { *mierzy cię wzrokiem* Sądząc po tym, jak wyglądasz, Nemeton raczej nie będzie tobą zainteresowany. }
+
+Plh_20 { Zrób to. Znajdziesz wszystko, czego szukasz, tutaj, na Rynku — o ile masz wystarczająco dużo monet w torbie. Ale nikt w Nemeton nie zwróci na ciebie uwagi, jeśli będziesz się tak zachowywać. }
+
+Plh_24 { Dobry wybór. Masz monety $GVAR:EVars_Femke.CostArmor$? }
+
+Plh_26 { Oto monety. }
+
+Plh_29 { *liczy monety* Dobra, oto twoja zbroja. Powinna pomóc ci przetrwać na Red Moor. }
+
+Plh_30 { Nie dałeś mi wystarczająco monet. Wróć, gdy będziesz miał ich wystarczająco dużo. }
+
+Plh_28 { A potem pomyśl o tym. Wiesz, gdzie mnie znaleźć. }
+
+Plh_33 { Mam tylko najlepsze towary. Rozejrzyj się. Nie spiesz się. }
+

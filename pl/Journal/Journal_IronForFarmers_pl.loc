@@ -1,0 +1,6 @@
+Title { Bagienne żelazo dla rolników }
+
+Entry_01 { Kiedy przybyłem, Jurek i Jerzy spierali się. Mam im pomóc zebrać $GVAR:QuestVars_IronForFarmers.NumItemsNeeded$ kawałków darniowego żelaza. Można je znaleźć na polach w okolicy. }
+
+Entry_02 { Dostarczyłem żelazo bagienne dwóm kogutom. Są zadowoleni z mojej pracy. Powiedzą o tym Georgowi. }
+

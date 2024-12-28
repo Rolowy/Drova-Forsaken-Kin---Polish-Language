@@ -1,0 +1,260 @@
+Plh_67 { Wyruszamy. }
+
+Plh_46 { Kora mi o tobie opowiadała. Jest z Remnants i ma się dobrze. }
+
+Plh_50 { Czy możemy stąd uciec? Masz już plan? }
+
+Plh_51 { Czy wiesz coś o tym miejscu? }
+
+Plh_54 { Co możemy zrobić? }
+
+Plh_65 { Kora!? Chciałbym ją znowu zobaczyć... Ale najpierw musimy uciekać. }
+
+Plh_47 { *uśmiecha się* Och, miło to słyszeć. Żałuję, że tam nie zostałem... }
+
+Plh_52 { Zapomnij o tym. Zabrali nam wszystko. Już były próby. A ci, którzy próbowali, albo zginęli, albo zostali pobici o włos od śmierci. }
+
+Plh_53 { To jaskinia Bygones. Szukają jakiejś relikwii. Ciągle o tym mówią. Jeśli będzie trzeba, wykopią całą ruinę. Więc chcą, żebyśmy to zrobili za nich. }
+
+Plh_55 { Nie wiem. Już się poddałem. Może ty będziesz miał jakiś pomysł, albo inni... do tego czasu będę kopał dalej i miał nadzieję, że to wszystko kiedyś się skończy. }
+
+Plh_151 { Czy wiesz dlaczego Lanzo przyszedł do Bruny? }
+
+Plh_150 { Ponieważ jest świnią, która wyładowuje wszystko na słabych. Kazał wszystkim pracować bez jedzenia. Bruna próbowała przekonać go, że wszyscy powinni dzisiaj mniej pracować... }
+
+Plh_153 { Jak Lanzo na to zareagował? }
+
+Plh_154 { I on się na to nie godził. }
+
+Plh_155 { Widziałeś? Zbił ją na miazgę. Zwłaszcza Brunę — która zawsze jest taka przyjazna... }
+
+Plh_157 { Tak dalej być nie może! }
+
+Plh_158 { Czy możemy jakoś pomóc Brunowi? }
+
+Plh_159 { Cicho! Jeśli strażnik przyłapie nas na rozmowie o czymś takim, to też będziemy mieć to w nosie! }
+
+Plh_163 { *szeptem* Ale na pewno masz pojęcie, co możemy zrobić. }
+
+Plh_165 { Nie! Zapytaj innych, jeśli mnie to obchodzi. Ale ja trzymam się od tego z daleka! }
+
+Plh_161 { *szeptem* ...chyba że coś wypadnie... }
+
+Plh_160 { Ona musi odzyskać siły. Dbanie o jedzenie może jej już pomóc. Wiesz, że ona najbardziej troszczy się o nas. }
+
+Plh_152 { Nie zrobił tego. Nienawidzi, gdy ktoś mu radzi. Natychmiast wpada w panikę. }
+
+Plh_156 { Próbowała go uspokoić, ale to tylko jeszcze bardziej go rozzłościło i... Świnie ją pobiły... }
+
+Plh_126 { Czy cieszysz się swoją wolnością? }
+
+Plh_127 { O tak! W końcu trochę świeżego powietrza i ani jednego kilofa w zasięgu wzroku. Zostało mi tylko kilka monet. Co powiesz na grę w kości? Jestem pewien, że będę miał passę zwycięstw! }
+
+Plh_130 { Czy nie pamiętasz, co się wydarzyło podczas twojej ostatniej serii zwycięstw? }
+
+Plh_131 { *mruczy* Tym razem skończę póki jestem na prowadzeniu. }
+
+Plh_82 { Hej, kim jesteś? Jesteś jednym ze strażników? }
+
+Plh_84 { Spokojnie. Jestem $GVAR:EVars_Player.Name$. Nie jestem strażnikiem. }
+
+Plh_89 { *mierzy cię wzrokiem* Ciebie też dorwali? Tak jak mnie? Więc wkrótce pewnie będziesz musiał kopać z nami... }
+
+Plh_90 { Szukam osób, które zniknęły z tawerny i zaginęły. }
+
+Plh_91 { To prawdopodobnie my. No, ci z nas, którzy jeszcze żyją. Oni nas tu trzymają! }
+
+Plh_137 { Ja też przyszedłem z tawerny. Byłem tam z Hasso zanim nas tu zawlekli... Ale on już nie żyje... }
+
+Plh_95 { *podejrzliwie rozgląda się dookoła* Chcemy się stąd wydostać... Jeśli możesz nas stąd wydostać... Proszę... }
+
+Plh_83 { To wyjdź! }
+
+Plh_97 { Poczekaj, muszę się jeszcze rozejrzeć. }
+
+Plh_76 { Strażnicy są rozproszeni, a my uciekamy. Zbierz siły i walcz! }
+
+Plh_77 { Z powrotem na słońce! }
+
+Plh_78 { Za wolność! }
+
+Plh_80 { Teraz pokażemy im, jak mocno potrafimy uderzyć... A Lanzo powinien to odczuć zwłaszcza... }
+
+Plh_122 { Weź punkt, $GVAR:EVars_Player.Name$. Jesteśmy tuż za tobą — będziemy walczyć razem z tobą. }
+
+Plh_79 { Będę walczyć najlepiej jak potrafię! }
+
+Plh_96 { Zwijać się! }
+
+Plh_94 { Co? Przypadkiem natknąłem się na jaskinię. Dlaczego po prostu nie odejdziesz? }
+
+Plh_68 { Masz broń? Bruna i Wind są gotowi. }
+
+Plh_117 { Oto broń. Wyruszamy. }
+
+Plh_119 { Nareszcie! No, wszyscy chwyćcie za broń. A potem nadejdzie czas odwetu... }
+
+Plh_121 { Może naprawdę mamy szansę. }
+
+Plh_168 { Bruna, ledwo możesz podnieść kilof. Daj nam punkt. }
+
+Plh_120 { Ja... ja mam się dobrze... }
+
+Plh_169 { Ten cholerny Lanzo... Dobra, mam twoje wsparcie. }
+
+Plh_72 { Nie możemy ruszyć dalej, dopóki nie będziemy wystarczająco silni. }
+
+Plh_70 { Winda wciąż brakuje. Nie lubi walczyć, ale jest dobry w rąbaniu skał i byłby wielką pomocą... }
+
+Plh_71 { Nigdzie nie pójdziemy bez Bruny. Była naszym jedynym promykiem światła w tej przeklętej dziurze. }
+
+Plh_66 { Porozmawiajmy o tym spokojnie. Chodź ze mną. }
+
+Plh_59 { Daj mi spać. }
+
+Plh_167 { Zostaw mnie w spokoju. Jestem wykończony. Chcę się tylko rozbić. }
+
+Plh_182 { Nareszcie wolny. }
+
+Plh_183 { Dzięki, $GVAR:EVars_Player.Name$. Wrócę do Kory i nigdy więcej nie będę pić. Przysięgam! }
+
+Plh_144 { Co słychać? }
+
+Plh_63 { Hej, słyszałem, że znaleźli relikwię... Co teraz z nami zrobią? }
+
+Plh_100 { Może pozwolą nam pójść? }
+
+Plh_101 { Zdecydowanie. Już nas nie potrzebują. }
+
+Plh_102 { Naprawdę w to wierzysz? Jest więcej zawalonych przejść! Zmuszą nas do dalszego kopania, aż upadniemy. Chyba że... }
+
+Plh_104 { Musimy uciekać TERAZ. Lanzo i szef poszli zobaczyć Aldrika... }
+
+Plh_105 { Jasne. TERAZ mamy najlepszą szansę! }
+
+Plh_106 { Co, my przeciwko strażnikom? A co z Wind i Bruną? To się nie skończy dobrze... }
+
+Plh_107 { Potrzebujemy broni! }
+
+Plh_108 { O cholera, to prawda... }
+
+Plh_171 { Bez broni nie mamy szans. Ale skąd ją wziąć? }
+
+Plh_109 { Hmm... Widziałem Mali z bronią. W magazynie na południe od naszych sypialni. Są tam zamknięci. Ale nawet jeśli dostaniemy w swoje ręce... Jesteśmy w zdecydowanej mniejszości. }
+
+Plh_110 { Jeśli chcemy się wyrwać, to teraz albo nigdy, Dalin. Jest nas więcej! }
+
+Plh_112 { Mówię wam — DZIŚ jest NASZA szansa. Musimy spróbować, inaczej nigdy się stąd nie wydostaniemy! }
+
+Plh_111 { Zajmę się Windem i Bruną. Jeśli zabierzemy ich na pokład, będziemy wystarczająco silni. }
+
+Plh_115 { Przekonam Dalina. A ty musisz dostać się do pokoju zaopatrzeniowego. Może Wind da ci coś do otwarcia zamka... }
+
+Plh_116 { Będziemy tu na Ciebie czekać. }
+
+Plh_61 { Hej, co się tam wydarzyło?! }
+
+Plh_172 { Komnata była wypełniona pułapkami. Przedostałem się i je dezaktywowałem. }
+
+Plh_173 { Komnata jest dobrze zabezpieczona... Hasso został złapany w jedną z pułapek. }
+
+Plh_174 { Do cholery! A co z relikwią?! }
+
+Plh_178 { Bandyci go wyrwali. }
+
+Plh_179 { Nie było to nic szczególnego, ale przynajmniej Szef był zadowolony. }
+
+Plh_180 { Hmm... Prawdopodobnie wycofają się i porozmawiają ze swoim liderem. To znaczy, że moglibyśmy... Chodź, musimy spotkać się z innymi! }
+
+Plh_181 { Hasso... Do diabła... Czy liczba ofiar nie jest już tutaj wystarczająco wysoka? Gdyby ci łajdacy mieli choć odrobinę sumienia... }
+
+Plh_44 { Jesteś tu nowy. Lepiej się pospiesz, teraz twoja kolej do pracy. }
+
+Plh_5 { *mruczy i mruczy do siebie* Co zrobiłem, żeby na to zasłużyć? Dlaczego ja? Dlaczego JA? }
+
+Plh_7 { Co słychać? }
+
+Plh_10 { (powoli się wycofuje) (koniec rozmowy) }
+
+Plh_6 { Po prostu nie mogę już dłużej. Kop, kop, kop. Powinienem zostać z Cengizem. Od tego momentu wszystko poszło w dół... }
+
+Plh_12 { Cengiz? Jesteś drwalem? }
+
+Plh_22 { *patrzy na ciebie* Tak, dokładnie! Jestem drwalem. Czy ty też przyjechałeś z Cengiz? }
+
+Plh_23 { Byłem z drwalami i pracowałem dla Cengiza. }
+
+Plh_145 { Nigdy tam nie byłem. }
+
+Plh_25 { Czy jest jakiś inny drwal... }
+
+Plh_26 { Jestem Baltus. Może słyszałeś o mnie? }
+
+Plh_27 { Tak... oczywiście, Baltus, postrach lasów. }
+
+Plh_28 { Nie, nikt tam o tobie nie wspominał. }
+
+Plh_85 { Kora mówiła o tobie. Ona cię szuka. }
+
+Plh_30 { *uśmiecha się* }
+
+Plh_39 { Jendrik, Agilo i ja... Zakładamy się, kto ściął więcej drzew. Zgadnij, kto zawsze wygrywał? }
+
+Plh_31 { Jendrik, oczywiście. }
+
+Plh_33 { Agilo jest szybki, więc pewnie tak zrobił. }
+
+Plh_32 { Oczywiście, że to byłeś TY! }
+
+Plh_34 { Kilka lat temu Jendrik miałby szansę, ale teraz jest za stary, żeby rywalizować. }
+
+Plh_37 { Na koniec ZAWSZE wygrywałem. Oczywiście. *uśmiecha się* }
+
+Plh_45 { Jak się tu znalazłeś? }
+
+Plh_14 { Poszedłem do obozu Remnants. Most się zawalił i było zbyt niebezpiecznie. Można tam szybko zarobić parę monet, powiedzieli. Ha. }
+
+Plh_13 { Swędzi jak diabli! }
+
+Plh_15 { Kora i ja poszliśmy do tawerny. Zagraliśmy z jakimś facetem, a kości były po mojej stronie. Cóż... na początku. }
+
+Plh_16 { Kora odeszła, ale ja grałam dalej. Miałam passę zwycięstw. Po prostu MUSIAŁAM kontynuować. Wiecie, o co mi chodzi! }
+
+Plh_185 { Jeszcze jedna runda i byłbym ustawiony na całe życie! }
+
+Plh_17 { ...i wtedy straciłeś wszystko. }
+
+Plh_18 { ...i wtedy szczęście cię opuściło. }
+
+Plh_19 { Oczywiście, że przegrałem! W przeciwnym razie nie byłoby mnie tutaj! }
+
+Plh_21 { Zostałem oszukany, na pewno. Naprawdę na to nie zasługiwałem... }
+
+Plh_20 { *wzdycha i drapie się jeszcze mocniej* Jasne, jasne... Kto by pomyślał, że po prostu tak ucieknie... }
+
+Plh_36 { Jest dość zwinny, kiedy pracuje. No, GDY pracuje, zamiast tylko jęczeć. }
+
+Plh_184 { Jeżeli nie udało mu się ściąć drzewa, to naturalnie zawsze winę ponosiło drzewo. }
+
+Plh_35 { Naturalnie! To były czasy, mój przyjacielu... }
+
+Plh_38 { Zapomnieli o mnie tak szybko?! }
+
+Plh_86 { Kora? A więc jest jeszcze nadzieja. }
+
+Plh_87 { Nigdy nie powinnam była odchodzić... }
+
+Plh_146 { Nie mają złota, ale i tak są dobrymi, uczciwymi ludźmi. Nigdy nie powinnam była wyjeżdżać. }
+
+Plh_147 { Jestem Baltus. Wolałbym poznać cię przy piwie w tawernie niż, cóż, tutaj. }
+
+Plh_186 { Wynoś się! Już rozwaliłem kilku bandytów. }
+
+Plh_187 { ... czy to prawda? Naprawdę stąd wychodzimy? Nareszcie! }
+
+Plh_188 { Mam nadzieję, że ten szumowina Lanzo leży twarzą w błocie! }
+
+Plh_189 { Och, jak ja wyczekuję wolności! }
+
+Plh_190 { Ruszajmy! }
+

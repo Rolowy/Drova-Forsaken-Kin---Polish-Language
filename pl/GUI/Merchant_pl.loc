@@ -1,0 +1,32 @@
+title_splitstack { Podziel elementy }
+
+popup_balanceMoney { Saldo z monetami }
+
+popup_giveForFree { Czy jesteś pewien, że nie chcesz niczego w zamian? }
+
+popup_valueAboveTrader { Wartość Twoich towarów jest wyższa niż ta oferowana przez sprzedawcę. <br><br>Czy chcesz po prostu podarować im różnicę, czy też chcesz, aby zrekompensowali ją monetami? }
+
+popup_valueBelowTrader { Sprzedawca oczekuje rekompensaty w postaci monet $TRADEVAR:RightTableValue$. }
+
+popup_generic { Czy chcesz dokończyć transakcję? }
+
+title { Handel }
+
+Value { Wartość towarów }
+
+Trader { Kupiec }
+
+Spend { Dawać }
+
+Exchange { Frymarczenie }
+
+ExchangeOnly { Tylko wymiana }
+
+popup_valueAboveTrader_NoCurrency { Wartość Twoich towarów jest wyższa niż ta oferowana przez sprzedawcę. <br><br>Czy chciałbyś mu po prostu podarować różnicę? }
+
+Comment_NoCoins { Nie akceptuję monet. }
+
+SellWholeStack { Dodaj/usuń stos przedmiotów do/z handlu. }
+
+Sell_Ten { Dodaj/usuń 10 do/z handlu. }
+

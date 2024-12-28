@@ -1,0 +1,8 @@
+Title { Ryba dla Dunji }
+
+Entry_01 { Do zupy rybnej Dunja potrzebuje $GVAR:QuestVars_FishingForDunja_Config.AmountFish$ ryb tego samego rodzaju. Podobno jest ich kilka w pobliżu sadu jabłkowego. }
+
+Entry_02 { Przyniosłem Dunji jej rybę. Jutro w zamian dostanę moją zupę rybną. }
+
+Entry_03 { Zupa rybna jest gotowa. }
+

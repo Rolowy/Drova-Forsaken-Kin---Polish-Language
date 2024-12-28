@@ -1,0 +1,146 @@
+Plh_0 { *Skóra tej osoby jest opalona, ​​w lewym uchu ma kolczyk, a jej blond włosy są sklejone krwią.* }
+
+Plh_2 { (badać głowę) }
+
+Plh_4 { (spróbuj zidentyfikować zmarłego) }
+
+Plh_10 { (zbadać zwłoki z bliska) }
+
+Plh_1 { (przeszukać kieszenie zmarłego) }
+
+Plh_3 { *Odkrywasz ranę głowy. Osoba straciła dużo krwi, która teraz przykleja się do włosów. Ta rana jest oczywistą przyczyną śmierci.* }
+
+Plh_8 { *Ta osoba wydaje ci się znajoma. Aldo handlarz, z powrotem w obozie Remnants... rysy twarzy, oczy. To musi być on.* }
+
+Plh_11 { *Trup jest pokryty krwią. Można dostrzec lepkie blond włosy i kolczyk w lewym uchu. Uderza cię mdły, słodki, gnijący odór.* }
+
+Plh_9 { *Wstrzymując oddech, uważnie przyglądasz się ciału. Na bladej ręce widać długą bliznę — starszą i dobrze zagojoną.* }
+
+Plh_89 { *Nie żyje... Nosi łuk na plecach, ma opaskę na oku i wygląda, jakby został rozszarpany przez rozpruwaczy.* }
+
+Plh_90 { (czy to — Faol?) }
+
+Plh_95 { (przeszukać zwłoki) }
+
+Plh_92 { *Kiedy przyglądasz się ciału z bliska i przyglądasz się jego twarzy, zdajesz sobie sprawę, że to musi być Faol — myśliwy z Tawerny Olafa.* }
+
+Plh_83 { *Przed tobą leży martwe ciało.* }
+
+Plh_84 { *To Ruhan z tawerny. Wygląda jakby jakiś dziki zwierz z dziobem go rozszarpał.* }
+
+Plh_85 { *Nie rozpoznajesz martwego mężczyzny. Wygląda jakby dzikie zwierzęta rozszarpały go na strzępy.* }
+
+Plh_17 { *Martwa owca. Wygląda jakby zjadła coś, co jej nie smakowało.* }
+
+Plh_22 { *Prawdopodobnie z desperacji.* }
+
+Plh_23 { *Wygląda na to, że niedawno tę owcę podgryzał Shadowripper.* }
+
+Plh_24 { *Dać wieczne odpoczywanie.* }
+
+Plh_28 { *Przed tobą leży owca w kałuży krwi. Wygląda na to, że niedawno została zaatakowana i uciekła tutaj z ostatnią uncją sił.* }
+
+Plh_25 { *Wciąż oddycha.* }
+
+Plh_26 { Zachowaj spokój. To się niedługo skończy. (połóż na tym rękę) }
+
+Plh_27 { Chyba powinnam szybko skrócić jego mękę. (wyciągam broń) }
+
+Plh_29 { *Owca spogląda na ciebie krótko, najwyraźniej wdzięczna za ciepło, które jej oferujesz.* }
+
+Plh_30 { *Jego głowa opada na ziemię i wydaje ostatnie tchnienie.* }
+
+Plh_31 { *Szybko wbijasz broń prosto w serce owcy.* }
+
+Plh_32 { *Martwa owca. Wygląda jakby umarła z pragnienia.* }
+
+Plh_33 { *Biedne stworzenie.* }
+
+Plh_78 { *Ciało leży przed tobą. To Teigen.* }
+
+Plh_79 { Spoczywaj w pokoju... Wybacz mi. }
+
+Plh_80 { Ten głupek naprawdę próbował poradzić sobie sam... }
+
+Plh_81 { *W jego martwych oczach widać zszokowany, przestraszony wyraz śmierci. Jego ciało prawdopodobnie zostało już pogryzione przez dzikie zwierzęta.* }
+
+Plh_34 { *Na ziemi leży martwy mężczyzna. Ma czarną brodę i opaloną skórę. Blizna biegnie przez jego nos.* }
+
+Plh_40 { To musi być Tristan! }
+
+Plh_93 { (przeszukać zwłoki) }
+
+Plh_41 { *Po bliższym przyjrzeniu się, faktycznie rozpoznajesz Tristana. Najwyraźniej padł ofiarą dzikich zwierząt.* }
+
+Plh_42 { *Kształt korzenia przypomina ci dzika. Czy ma symbolizować Potężnego Dzika? Czujesz, że coś próbuje połączyć się z twoim najgłębszym bytem.* }
+
+Plh_43 { (dołącz talizman) }
+
+Plh_45 { *Przymocowujesz zakrwawiony talizman do korzenia i nagle czujesz, jak głęboko w tobie budzi się głębokie połączenie. Coś próbuje dotrzeć do twojego świadomego umysłu.* }
+
+Plh_46 { *Wydaje się, że słyszysz w oddali ryczącego dzika, ale obok ciebie Diemo nie wydaje się reagować. Nagle twoja iskra wiruje wokół ciebie podekscytowana.* }
+
+Plh_47 { *Czy iskra próbuje ci coś powiedzieć? Wydaje się być pobudzona.* }
+
+Plh_48 { Co się z tobą dzieje? }
+
+Plh_49 { Nie rozumiem cię... }
+
+Plh_50 { *Blask iskry migocze, jakby próbował się komunikować. Czy chce, żebyś odwiedził także inne korzenie?* }
+
+Plh_64 { *W tym miejscu jest mniej prosiąt niż w Schronisku.* }
+
+Plh_65 { *W chwili, gdy przyczepiasz talizman, jedno z prosiąt odczepia się od korzenia i rozgląda się dookoła, zdziwione.* }
+
+Plh_66 { *zauważa cię i wygląda na przestraszonego* Pisk! Pisk! }
+
+Plh_67 { Nie martw się, maleńka. Nie zrobię ci krzywdy. }
+
+Plh_68 { (zrób się duży) BRAAAWRG! }
+
+Plh_69 { *Prosiaczek się relaksuje, ale nadal wydaje się być nieco powściągliwy.* }
+
+Plh_70 { (podejdź powoli i pogłaszcz) }
+
+Plh_71 { (nie rób nic) }
+
+Plh_86 { Mówiłem, że to musi być jeden z tych wariatów z tego obozu... }
+
+Plh_87 { Prosiaczek właśnie wyskoczył z tego obrzydliwego korzenia... }
+
+Plh_88 { Nie tknąłbym tej rzeczy nawet za sto monet... }
+
+Plh_72 { *Powoli i ostrożnie twoja ręka zbliża się do prosiaczka. Pozornie niezadowolony, patrzy na ciebie swoimi wielkimi oczami.* }
+
+Plh_73 { *Wyciągasz rękę do prosiaczka i czule głaszczesz jego głowę. Prosiaczek pochyla się w twoją dłoń i wydaje się bardzo zrelaksowany.* }
+
+Plh_74 { *Nagle prosiaczek odwraca się i ucieka.* }
+
+Plh_77 { *Czujesz, że prosiaczek biegnie głęboko w Las Pierwotny. Ale nie wiesz, co zamierza zrobić. Wtedy połączenie, które czułeś z prosiaczkiem, zostaje nagle zerwane.* }
+
+Plh_75 { *Spędzacie chwilę, oceniając się nawzajem.* }
+
+Plh_76 { *wygląda na kompletnie spanikowanego i trzęsie się* Eeeek! Eeeehk! }
+
+Plh_52 { *Korzeń wygląda tak, jakby niedawno podrapał go niedźwiedź. Ale prosięta wydają się nietknięte.* }
+
+Plh_53 { *Przyczepiasz talizman i od razu czujesz ciepło w brzuchu. Twój wzrok robi się czarny, ale nie jesteś zdezorientowany; zamiast tego czujesz się bezpiecznie.* }
+
+Plh_54 { *W twoim umyśle widzisz tylko czerń. Z ciemności wyłania się światło, a ze światła zbliża się do ciebie wielki dzik.* }
+
+Plh_55 { *Zatrzymuje się przed tobą i mierzy cię wzrokiem. Czujesz, że dzik nie chce ci zrobić krzywdy, gdy cię bada.* }
+
+Plh_56 { (podejdź i wyciągnij rękę do dzika) }
+
+Plh_57 { (nie rób nic) }
+
+Plh_58 { *Wyciągasz rękę do dzika. Pozwala ci dotknąć jego nosa, a w chwili, gdy twoje palce się zetkną, tysiąc ciepłych uczuć wystrzeliwuje z twojej dłoni do twojej klatki piersiowej.* }
+
+Plh_59 { *Dzik odwraca się, a następnie zatrzymuje się na chwilę, by spojrzeć na ciebie przez ramię. Następnie dzik wydaje głośny krzyk w stronę nieba i ucieka z powrotem w światło, które rozpływa się w ciemności.* }
+
+Plh_60 { Co to było przed chwilą? }
+
+Plh_61 { Czy to był Potężny Dzik...? }
+
+Plh_62 { *Wypowiadasz pytanie na głos, ale nie ma nikogo, kto mógłby odpowiedzieć. Ciepłe uczucie opuszcza cię — tak szybko, jak się pojawiło — i znów znajdujesz się w Matczynym Korzeniu.* }
+

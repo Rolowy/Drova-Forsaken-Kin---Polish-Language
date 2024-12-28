@@ -1,0 +1,40 @@
+Save { Ratować }
+
+Load { Obciążenie }
+
+PlayTime { Czas na zabawę }
+
+GameSaved { Gra została zapisana. }
+
+NotSaveable { Nie możesz teraz zapisać gry. }
+
+Title_HeroSelect { Charakter }
+
+SlotType_Quick { Gniazdo szybkiego zapisu }
+
+SlotType_Auto { Automatyczne zapisywanie $SAVE:SlotType$ }
+
+SlotType_Normal { Zapisz slot $SAVE:SlotType$ }
+
+deleteSavegamePopUp { Czy na pewno chcesz usunąć ten zapis gry? }
+
+overwriteHeroPopUp { Osiągnąłeś maksymalną liczbę znaków, które możesz mieć. Wybierz jeden znak, który chcesz zastąpić. }
+
+Title_OverwriteHero { Który znak zastąpić? }
+
+Button_Overwrite { Przepisać }
+
+NotLoadable { Nie możesz teraz załadować gry. }
+
+Corrupted_00 { Zapisany stan gry jest uszkodzony }
+
+Corrupted_PopUp_Desc { Ten zapis gry jest uszkodzony i nie można go wczytać. }
+
+ToMainMenuPopUp_Desc { Czy na pewno chcesz powrócić do menu głównego? }
+
+ToMainMenuPopUp_Restricted_Desc { Nie można zapisać gry w tej chwili. Czy mimo to chcesz wrócić do menu głównego? }
+
+QuitPopUp_Desc { Czy na pewno chcesz wyjść z gry? }
+
+QuitPopUp_Restricted_Desc { Nie można zapisać gry w tej chwili. Czy chcesz mimo to wyjść z gry? }
+

@@ -1,0 +1,16 @@
+Title { Wędrujący kupcy }
+
+Entry_01 { Grupa wędrownych kupców przybyła do Nemeton. Erwin, Lobo i Henrike czekają na Teigena, aby skoordynować swoje trasy. Erwin nie ma żadnej wiedzy o miejscu pobytu Teigena, poza tym, że powinien wkrótce przybyć do Nemeton. Dlaczego po prostu nie rozejrzę się dookoła? }
+
+Entry_02 { Henrike z wędrownych kupców mówi mi, że Teigen zabrał ze sobą przyjaciela i jego kocura, gdy opuszczał obóz Remnantów. Powinni już byli dotrzeć do Nemetonu. }
+
+Entry_03 { Znalazłem Teigena w jaskini na wrzosowisku, na południe od obozu poza Nemeton. Nie ośmiela się wyjść, dopóki wszystkie żabki na wyspie nie umrą. }
+
+Entry_04 { Teigen wznowił swą podróż do Nemetonu i wkrótce spotka się z Erwinem i innymi. }
+
+Entry_05_Optional { Teigen przybył do Nemeton i zostawił wędrownych kupców. Pozostali odejdą, gdy tylko uporamy się z zagrożeniem ze strony bandytów na wrzosowisku. Najwyraźniej bandyci sprawiają kłopoty, szczególnie w obszarze między Nemeton a tawerną. }
+
+Entry_06 { Kupcy podróżni są już w drodze i mnie podwiozą. }
+
+Entry_07_HintOlaf { Olaf mówi mi, że Teigen wyruszył do Nemetonu w kierunku wrzosowiska. Był w drodze do Nemetonu. }
+

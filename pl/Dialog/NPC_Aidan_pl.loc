@@ -1,0 +1,160 @@
+Plh_12 { Co dokładnie robi mikstura siły? }
+
+Plh_33 { Czego dokładnie potrzebujesz do przygotowania mikstury? }
+
+Plh_36 { Gdzie mogę znaleźć taki korzeń? }
+
+Plh_48 { Oto korzeń bazaltowy. }
+
+Plh_34 { *uśmiecha się* Znalazłem stary tekst, który twierdzi, że mikstura na stałe zwiększy twoją siłę. Bardzo potężna mikstura, ale składniki są bardzo trudne do znalezienia. }
+
+Plh_11 { Korzeń bazaltowy. Niełatwo go znaleźć. }
+
+Plh_32 { Sam korzeń bazaltowy czyni cię silniejszym, ale w postaci mikstury uczyni cię znacznie silniejszym! }
+
+Plh_35 { Jeśli znajdziesz taki egzemplarz, koniecznie go zabierz! }
+
+Plh_37 { Istnieje wiele silnych ziół. Bazaltroot rośnie tylko w głębokich podziemnych jaskiniach. }
+
+Plh_38 { Nie jestem wojownikiem, więc nie mogę tam dotrzeć. I nikt tutaj tego nie sprzedaje. }
+
+Plh_39 { Jest kupiec w Nemeton, który to sprzedaje, ale... Cóż... Nie wpuszczą mnie do Nemeton. }
+
+Plh_40 { Jeśli przyniesiesz mi to zioło, możesz wziąć miksturę. Chcę tylko sprawdzić, czy działa. }
+
+Plh_41 { Nie jesteś pewien, czy mikstura zadziała? }
+
+Plh_45 { To brzmi dla mnie trochę podejrzanie. }
+
+Plh_42 { Mogę pójść i się rozejrzeć. }
+
+Plh_43 { Cóż, nigdy tego nie próbowałem... Ale teksty są w tej kwestii dość jasne. Oczywiście, nadal mogłoby... }
+
+Plh_44 { ...nie byłoby dla ciebie dobre. }
+
+Plh_46 { Pomyśl o tym – takie rzeczy zawsze niosą ze sobą pewne ryzyko. *uśmiecha się* }
+
+Plh_47 { Pamiętaj, że korzeń bazaltowy rośnie w jaskiniach. }
+
+Plh_49 { O, wygląda bardzo dobrze. }
+
+Plh_52 { Zbliżać się... }
+
+Plh_53 { Mieszanie... Mandragora... Gotowanie. }
+
+Plh_54 { Wygląda bardzo dobrze. }
+
+Plh_55 { To powinno wystarczyć. Teraz musimy tylko sprawdzić, czy to działa. }
+
+Plh_56 { Niech nadchodzą! }
+
+Plh_57 { Czy uważasz, że mikstura jest zmieszana prawidłowo? }
+
+Plh_59 { Wolałbym odpuścić. }
+
+Plh_61 { *Czujesz ciepło w sobie. Moc przepływa przez twoje ciało. Czujesz się silniejszy i bardziej odświeżony.* }
+
+Plh_63 { Dobrze? }
+
+Plh_65 { Czuję się niezwyciężony. }
+
+Plh_64 { Wygląda na to, że działa. }
+
+Plh_66 { Łatwo. To mogło cię wzmocnić, ale Eugen nadal może cię znokautować. }
+
+Plh_67 { Tekst wydaje się być prawdziwy, a jest więcej podobnych roślin. Mogę ci sprzedać przepisy, jeśli chcesz. }
+
+Plh_58 { Ktoś to kiedyś spisał, ale to wszystko może być kłamstwem. Nie mogę ci powiedzieć na pewno. }
+
+Plh_60 { W takim razie spróbuję! }
+
+Plh_62 { Czuję się niesamowicie! Zadziałało! }
+
+Plh_14 { Co dokładnie robisz? }
+
+Plh_13 { Czy możesz mi pokazać, jak to wszystko samemu stworzyć? }
+
+Plh_18 { Jeśli pokażesz mi, jak to samemu zrobić, zapłacę ci. }
+
+Plh_29 { Oto monety $GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$. }
+
+Plh_15 { Potrafię przygotować wiele rzeczy, ale uwielbiam warzyć mikstury. }
+
+Plh_16 { Oczywiście, że wszystko jest na sprzedaż — w ten sposób można zarobić mnóstwo monet. *uśmiecha się* }
+
+Plh_17 { Jeśli ci to pokażę, będziesz mógł pójść dalej i sprzedać to sam. Zapomnij. }
+
+Plh_22 { *mruczy* Przydałoby mi się kilka monet... }
+
+Plh_23 { Widzisz! Co powiesz na monety $GVAR:QuestVars_AlrauneForAidan_Config.PlayerOffer$? }
+
+Plh_27 { Za $GVAR:QuestVars_AlrauneForAidan_Config.AidanOffer$ monet chętnie poświęcę część swojego czasu, aby cię czegoś nauczyć. }
+
+Plh_30 { Ach, monety! Cudownie! }
+
+Plh_31 { Więc co chcesz wiedzieć? }
+
+Plh_51 { Mogę cię nauczyć, jak robić pułapki, bomby i amunicję. Albo możesz warzyć maści i mikstury. }
+
+Plh_20 { *uśmiecha się* Rozejrzyj się. }
+
+Plh_5 { Nie ma mowy! }
+
+Plh_68 { Miałem to wcześniej... dlaczego przestało działać? }
+
+Plh_6 { Co się stało, staruszku? }
+
+Plh_8 { *wzdryga się* Wystraszyłeś mnie! Nie widzisz, że pracuję? }
+
+Plh_10 { Co tu robisz? }
+
+Plh_9 { Majsterkowanie. Jestem w trakcie opracowywania mikstury, która poprawi moją siłę. Ale jakoś nie działa ona prawidłowo... Jakby czegoś ważnego wciąż brakowało. }
+
+Plh_21 { Mam rzeczy do zrobienia. Czego chcesz? }
+
+Plh_95 { Naprawdę fascynujące, co tamci Bygones przygotowywali. }
+
+Plh_69 { Inny eliksir ma sprawić, że zapomnisz o wszystkim. I mam na myśli nie tylko wczorajszą noc. Nasz wywar może to zrobić świetnie! Nie, zapomnisz wszystkiego, czego się kiedykolwiek nauczyłeś! }
+
+Plh_73 { Mówiłeś o miksturze zapomnienia? }
+
+Plh_80 { Oto kwiaty ruin potrzebne do mikstury $GVAR:QuestVars_TrankVergessens_Config.AmountMats$. }
+
+Plh_86 { Wypróbowałem miksturę zapomnienia. }
+
+Plh_74 { Wyobraź sobie: Eliksir pozwala zapomnieć wszystko, czego się kiedykolwiek nauczyłeś. Niewiarygodne. Bygones naprawdę byli mistrzami mikstur. }
+
+Plh_75 { Czego brakuje do mikstury zapomnienia? }
+
+Plh_76 { Nie mam pojęcia, jak to zrobić. Wszystko, co kiedykolwiek znalazłem, to opis. }
+
+Plh_77 { *szepcze* Ale znalazłem też płyn, który mógłby stać się miksturą. Kiedyś wziąłem tylko mały łyk i od razu zapomniałem, jak się siada. }
+
+Plh_78 { Mikstura jest nadal przezroczystym płynem, ale opis mówi o żółtawym kolorze. Prawdopodobnie brakuje jej kwiatów ruin. Rosną, jak wskazuje nazwa, blisko ruin. I są żółte. }
+
+Plh_79 { Jeśli przyniesiesz mi $GVAR:QuestVars_TrankVergessens_Config.AmountMats$, mogę uwarzyć dla ciebie miksturę. Wtedy ci ją dam. A ponieważ jest to trochę ryzykowne, nie będziesz musiał mi płacić! }
+
+Plh_93 { Wiesz, gdzie mnie znaleźć. }
+
+Plh_81 { Świetnie! Więc dzisiaj dowiemy się czegoś nowego! Cóż, ja się dowiem... Chyba ty nie. }
+
+Plh_82 { Mhh, zrobiło się ładnie i żółto. Oto, dla ciebie. }
+
+Plh_83 { Nie musisz pić tego od razu, ale daj mi znać, jak już spróbujesz. Jestem ciekaw, czy to działa. }
+
+Plh_84 { Dziękuję za pomoc! }
+
+Plh_85 { Zobaczymy, kiedy będę miał na to czas. }
+
+Plh_92 { Jeśli chcesz dowiedzieć się czegoś o miksturach — albo potrzebujesz czegokolwiek — zawsze możesz przyjść do mnie. }
+
+Plh_87 { No więc jak było? Wydaje się, że mnie pamiętasz, przynajmniej. }
+
+Plh_88 { Z jakiegoś powodu zapomniałem tylko to, czego nauczyłem się w Drova... }
+
+Plh_89 { Paliło jak żabia ślina i nie potrafiłem sobie przypomnieć, który koniec broni jest niebezpieczny. }
+
+Plh_90 { Dobrze, dobrze! Intrygujące jest obserwowanie skuteczności mikstur Bygonesa! }
+
+Plh_91 { Za to, że dałeś mi znać! }
+

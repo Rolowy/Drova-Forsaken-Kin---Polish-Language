@@ -1,0 +1,126 @@
+healingText { Przywraca [MaxStack] zdrowia w ciągu [StackTime] sekund. }
+
+damage { Szkoda }
+
+attack { Obrażenia od ataku }
+
+flowgain { Centrum }
+
+physicalblock { Blok fizyczny }
+
+magicalblock { Magiczny Blok }
+
+physicalresistance { Zbroja }
+
+magicalresistance { Odporność na magię }
+
+flowcosts { Koszty skupienia }
+
+strength { Wytrzymałość }
+
+dexterity { Zręczność }
+
+mind { Umysł }
+
+health { Zdrowie }
+
+healing { Przywraca [WARTOŚĆ] maksymalnego zdrowia. }
+
+learningpoints { Płyta LP }
+
+talentlearned { Uczony }
+
+talentcannotlearned { Jeszcze nie można się nauczyć }
+
+talentcanbelearned { Możliwość nauki }
+
+unknownteacher { Nieznany }
+
+talentnotknown { Jeszcze nie odkryłeś tego talentu. }
+
+foodText { Powoli regeneruje zdrowie, aż [MaxStack] zdrowia zostanie uzdrowione. Jeśli pasek zdrowia jest pełny, leczenie jest wstrzymane. }
+
+recipe_requirements { Wymagany: }
+
+buffAdditionalDescription { (Nowa żywność zastępuje efekt sytości) }
+
+maxHealth { Maksymalne zdrowie [WARTOŚĆ] }
+
+flowGain { Skup się [WARTOŚĆ] }
+
+magicDamage { Obrażenia magiczne [WARTOŚĆ] }
+
+bleedingChance { Szansa na krwawienie [WARTOŚĆ] }
+
+weaponDamage { Obrażenia broni [WARTOŚĆ] }
+
+movementSpeed { Prędkość ruchu [WARTOŚĆ] }
+
+poiseDamage { Obrażenia postawy [WARTOŚĆ] }
+
+magicResistance { Odporność na magię [WARTOŚĆ] }
+
+staminaReg { Regeneracja wytrzymałości [WARTOŚĆ] }
+
+flowReg { Regeneracja skupienia [WARTOŚĆ] }
+
+armor { Zbroja [WARTOŚĆ] }
+
+healAdditionalDescription { (Podobny przedmiot zastępuje efekt wzmocnienia) }
+
+flowPhysical { Umiejętność }
+
+flowMagical { Zaklęcia }
+
+flowOneTime { Zwój zaklęć }
+
+learnspell { Użyj tego przedmiotu, aby nauczyć się tej umiejętności }
+
+learnrecipe { Użyj tego elementu, aby poznać przepis }
+
+alreadylearned { Już się nauczyłem }
+
+trashtotrade { Dodaj śmieci do wartości towarów }
+
+craftingItem { Materiał rzemieślniczy }
+
+saleitem { Przedmiot sprzedaży }
+
+weaponDamage_single { Obrażenia broni [WARTOŚĆ] }
+
+critchance { Szansa krytyczna }
+
+critchance_Value { Szansa na trafienie krytyczne [WARTOŚĆ] }
+
+orientationpoint { Podstawowa ostrość [WARTOŚĆ] }
+
+stat_change_str { +$STATCHANGE:PhysDmg$ obrażenia fizyczne }
+
+stat_change_dex { +$STATCHANGE:Szansa na trafienie krytyczne$ }
+
+stat_change_mind { +$STATCHANGE:MagDmg$ obrażenia mag. + +$STATCHANGE:Focus$ BF }
+
+helmet_cosmetics { (Hełmy mają wyłącznie charakter kosmetyczny i nie mają żadnego wpływu na twoją postać.) }
+
+mainHandWeapon { Broń jednoręczna }
+
+offHandWeapon { Bezceremonialny }
+
+twoHandedWeapon { Broń dwuręczna }
+
+munition { Amunicja }
+
+drug_description { Otępia zmysły }
+
+LearnSpell { Uczy umiejętności posługiwania się bronią }
+
+flowText { Generuje [HealValue] Focus w ciągu [StackTime] sekund. }
+
+needrunestone { Potrzebny Kamień Runiczny }
+
+strength_value { Siła [WARTOŚĆ] }
+
+dex_value { Zręczność [WARTOŚĆ] }
+
+mind_value { Umysł [WARTOŚĆ] }
+

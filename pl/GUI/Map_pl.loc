@@ -1,0 +1,32 @@
+Title_Maps { Mapy }
+
+MapName_World_Rough { Surowa mapa świata }
+
+MapName_World_Detailed { Mapa świata }
+
+MapName_World_Shrines { Świątynie }
+
+MapName_Nemeton { Nemeton }
+
+MapName_Ruincamp { Pozostałości }
+
+MapName_Leuchtwald { Las pierwotny }
+
+MapName_Tristan { Mapa Tristana }
+
+MarkerPlaced { Oznaczone na mapie }
+
+NoInk { Potrzebny tusz }
+
+Title_Markers { Stempel }
+
+Hour_Minute_Separator { None }
+
+PlaceMarker { Umieść znacznik }
+
+DeleteMarker { Usuń znacznik }
+
+Hint_Ink { Kup tusz, aby zaznaczyć lokalizacje na mapie. }
+
+MapName_CaveSystem { System jaskiń }
+

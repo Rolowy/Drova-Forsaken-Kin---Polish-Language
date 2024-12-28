@@ -1,0 +1,10 @@
+Title { Dług nie jest realny. }
+
+Entry_01 { Lindon ma dużo długów u Friedel. Mam zdobyć jej listę dłużników, żeby mógł się z niej wykreślić. Friedel mieszka w dużych ruinach w Upper Quarter. }
+
+Entry_02A { Boris może zdobyć dla mnie listę. Dałem mu $GVAR:QuestVars_Debt_Config.ThirdPriceForBoris$ monety, a jutro mogę od niego odebrać listę. }
+
+Entry_03 { Mam listę dłużników Friedela. Teraz muszę tylko zanieść ją do Lindona. }
+
+Entry_04 { Lindon ma listę i może wyjść z długów. Nagrodził mnie za moje wysiłki. }
+

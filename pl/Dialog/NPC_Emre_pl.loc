@@ -1,0 +1,60 @@
+Plh_10 { Czy naprawdę masz na imię Snake? }
+
+Plh_12 { Naprawdę? Tak nazywała cię twoja matka? }
+
+Plh_11 { Jasne. Tak nazwała mnie moja matka. Wąż. }
+
+Plh_13 { Powiedz mi, czy upadłeś i uderzyłeś się w głowę czy coś? }
+
+Plh_14 { Uwierz mi, nie chcesz znać mojego prawdziwego imienia. }
+
+Plh_6 { Co tam jest? }
+
+Plh_8 { Dostanę monety ot tak? }
+
+Plh_7 { Tyle, ile tylko będziesz potrzebować. }
+
+Plh_9 { Oczywiście. Friedel chętnie ci coś da. }
+
+Plh_5 { Wejdź. Wąż cię obserwuje. }
+
+Plh_34 { Jaki miły wieczór na siedzenie w tawernie Bernolda. Snake również lubi robić sobie przerwy. }
+
+Plh_16 { No cóż... myślałeś, że po prostu pożyczysz kilka monet i uciekniesz z nimi? }
+
+Plh_17 { Wypluj $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ monety, które jesteś winien Friedelowi, w przeciwnym razie zrobię z ciebie drewno na opał. }
+
+Plh_22 { Co? Przecież nie pożyczyłem aż tyle! }
+
+Plh_19 { Dobrze, dobrze. Weź je. (Przekaż monety $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$) }
+
+Plh_20 { Dobrze, dobrze. Weź je. (Przekaż monety $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$) }
+
+Plh_21 { Po prostu przyjdź i zabierz monety. }
+
+Plh_23 { Poważnie? }
+
+Plh_24 { Myślisz, że Friedel chce tylko odzyskać swoje monety? Jak możesz oczekiwać, że zarobi? Powinienem dać ci porządnego kopa w głowę za tak głupie pytanie. }
+
+Plh_25 { No to dawaj. A następnym razem zapłać bez zadawania pytań. }
+
+Plh_28 { Próbujesz mnie w coś wkręcić? Nie masz przy sobie wystarczająco monet! Muszę cię czegoś nauczyć. }
+
+Plh_29 { Ostrzegałem cię, ale nie posłuchałeś. Teraz naprawdę będziesz w to wplątany! }
+
+Plh_30 { Jestem EMRE! I ludzie dostają ode mnie porządnego klapsa, gdy brakuje monet. }
+
+Plh_27 { Miałem nadzieję, że to powiesz. *uśmiecha się* }
+
+Plh_18 { Wypluj te $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$ monety, które jesteś winien Friedelowi, inaczej porąbię cię na opał. }
+
+Plh_31 { Skopałeś mi tyłek. }
+
+Plh_32 { Wypad stąd. }
+
+Plh_15 { Jeśli potrzebujesz monet, wejdź do środka i porozmawiaj z Friedelem. }
+
+Plh_33 { Nie ma nic lepszego niż piwo po pracy. }
+
+Nickname { Wąż }
+

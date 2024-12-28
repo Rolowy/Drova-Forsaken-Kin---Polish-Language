@@ -1,0 +1,8 @@
+Title { Pułapki na chunnaic }
+
+Entry_01 { W tej chwili Chunnaic nie ma nikogo, kto potrafiłby tworzyć pułapki, dlatego jest gotowa słono zapłacić za pułapki na niedźwiedzie. Jeśli przyniosę jej trzy pułapki na niedźwiedzie, zapłaci mi $GVAR:QuestVars_Traps_Config.Reward$ monet. }
+
+Entry_02 { Rozmawiałem z Casparą, która zna się na pułapkach. Jestem pewien, że Chunnaic przyjmie jej pomoc. }
+
+Entry_03 { Chunnaic dał mi nagrodę. }
+

@@ -1,0 +1,168 @@
+Plh_73 { Czy masz może trochę karmy dla kanarka? }
+
+Plh_70 { Co tu robisz? }
+
+Plh_71 { Jak długo tu jesteś? }
+
+Plh_5 { O mięsie... }
+
+Plh_12 { Mam dla ciebie mięso. (Podaj $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ kawałki włóknistego mięsa) }
+
+Plh_90 { Agnessa wydaje się być w naprawdę złym stanie. Jak możemy jej pomóc? }
+
+Plh_91 { *wzdycha* Ona jest taka uparta. Już dałam jej coś do jedzenia, a teraz odpoczywa tutaj u mnie. }
+
+Plh_92 { Ale ona potrzebuje lekarstwa. Shadeshrooms mogłyby pomóc. To małe rośliny, które mają właściwości lecznicze. }
+
+Plh_93 { $GVAR:QuestVars_INeedToWorkAgain_Config.AmountOfTüften$ shadeshrooms powinno wystarczyć. Może znajdziesz jakieś podczas pracy. }
+
+Plh_72 { *łapie ją za głowę* Falco! Zupełnie o tobie zapomniałam! }
+
+Plh_74 { Falco jest bardzo wybredny. Wolałby umrzeć z głodu niż zjeść coś, czego nie lubi. }
+
+Plh_75 { Uparty stwór... }
+
+Plh_79 { Kiedy go wcześniej widziałem, wyglądał na bardzo głodnego. }
+
+Plh_80 { Daj mu coś do jedzenia! }
+
+Plh_76 { Proszę, nakarm go kilkoma jagodami. On je uwielbia. Nie znajdziesz ich tutaj, ale wciąż mam kilka leżących dookoła. }
+
+Plh_77 { Merik ma mi dać więcej. }
+
+Plh_78 { Ruszaj się. Idź do Falco zanim zginie z głodu! }
+
+Plh_42 { Upewnijcie się, że nie będzie tu zamieszek! }
+
+Plh_86 { Tylko żartowałem, ale masz trochę racji. Dostarczam dobre jedzenie. To pomaga utrzymać morale. *uśmiecha się radośnie* }
+
+Plh_44 { Nie za długo... coś koło dwóch lat. Wcześniej byłem na jakiejś farmie, ale nie podobało mi się tam za bardzo. }
+
+Plh_85 { Miałem tam rąbać drewno. To nie było moje zajęcie. A tutaj, w obozie Remnants, potrzebowali kucharza. Na szczęście dla mnie. }
+
+Plh_45 { Hewers są głodni. Dlatego prawie nie opuszczam Pitu. }
+
+Plh_15 { Po pierwsze, daj mi gotować w spokoju. }
+
+Plh_0 { Czujesz to? }
+
+Plh_20 { Oczywiście. }
+
+Plh_22 { Nie. }
+
+Plh_23 { Aż cieknie ślinka, prawda? }
+
+Plh_25 { Wyglądasz, jakbyś chciał zjeść coś, czego nigdy wcześniej nie próbowałeś! }
+
+Plh_28 { Co robisz? }
+
+Plh_27 { Wolę zjeść coś, co znam. }
+
+Plh_29 { Remnants przynoszą mi te same składniki cały czas. Kolejny dzień i nic się nie zmieniło... }
+
+Plh_81 { Czas na zmianę! }
+
+Plh_31 { Pomóż mi stworzyć nowe, wyjątkowe danie, a potem możesz go spróbować! }
+
+Plh_32 { Więc co mam dla ciebie zrobić? }
+
+Plh_2 { Nie mam teraz na to czasu. }
+
+Plh_3 { *odchrząkuje* Ale pewnie... }
+
+Plh_30 { To tylko kwestia czasu, zanim się opamiętasz. }
+
+Plh_24 { W takim razie musisz mieć złamany nos. }
+
+Plh_7 { Chcesz mi jednak pomóc? Potrzebuję tylko $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ kawałków surowego mięsa, aby wypróbować nowy przepis. }
+
+Plh_39 { Czemu sam nie polujesz na te świnki? }
+
+Plh_8 { Dobrze, przyniosę ci mięso. }
+
+Plh_9 { Mam inne rzeczy do zrobienia. }
+
+Plh_40 { Tnę tylko te rośliny, które są już martwe. }
+
+Plh_84 { Nie jestem typem wojownika. }
+
+Plh_10 { Świetnie! Przynieś mi $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ kawałki włóknistego mięsa. To powinno wystarczyć, aby spróbować nowego dania. }
+
+Plh_41 { O, i jeśli digpig jest za silny, to po prostu uciekaj. Stracą zainteresowanie dość szybko. }
+
+Plh_87 { W przeciwnym razie po prostu biegnij w stronę strażników. Powodzenia w kopalniach! }
+
+Plh_11 { Szkoda. Wróć, jeśli perspektywa pysznego jedzenia wzbudzi Twoje zainteresowanie. }
+
+Plh_6 { Zupa to dobre jedzenie. Ludzie tutaj zazwyczaj dostają chleb i zupę warzywną, dlatego potrzebuję składnika z większą dawką pikanterii. }
+
+Plh_82 { Pobudzające jedzenie podnosi morale. }
+
+Plh_35 { Jest kilka digpigów w Pit. Będą cię ignorować, jeśli ty będziesz je ignorować. }
+
+Plh_83 { Ale kiedy stają się agresywne... Cóż, niektóre Hewersy już wylądowały w ich żołądkach. }
+
+Plh_36 { Ale to działa w obie strony! Przynieś mi $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ kawałki ich włóknistego mięsa! }
+
+Plh_38 { Więc? }
+
+Plh_4 { Plh_4 }
+
+Plh_19 { Ach, miło cię widzieć. *uśmiecha się* }
+
+Plh_13 { O, bardzo dobrze! }
+
+Plh_46 { Nie wygląda to tak źle. }
+
+Plh_14 { Zacznę wszystko przygotowywać. }
+
+Plh_17 { Te digpigi są obrzydliwe jak cholera, ale można z nich zrobić coś tak pysznego! Chcesz spróbować? }
+
+Plh_47 { Chciałbym tego. }
+
+Plh_48 { Wolałbym nie. }
+
+Plh_49 { *zanurza chochlę w wodzie i podaje ją tobie* Proszę bardzo. }
+
+Plh_53 { *wypijasz trochę zupy z chochli. Smakuje jak kapusta, cebula i groszek w gęstym, pikantnym sosie, z odrobiną mięsa na końcu* }
+
+Plh_54 { (zjeść całą zupę z chochli) }
+
+Plh_55 { (oddaj chochlę) }
+
+Plh_57 { *chętnie wysysasz resztę z chochli* }
+
+Plh_56 { No i co? Podoba Ci się? }
+
+Plh_59 { To było naprawdę pyszne! }
+
+Plh_60 { To nie jest coś dla mnie. }
+
+Plh_61 { I PO TO mnie wysłałeś? }
+
+Plh_62 { *jej oczy się rozświetlają* Sprawia mi ogromną radość, kiedy ludziom smakuje moje jedzenie. }
+
+Plh_65 { Zarówno siepacze, jak i wojownicy — oni po prostu nie mogą się najeść mojego jedzenia. A kiedy nawet Mursel wpycha się w kolejkę, to naprawdę wiele mówi. }
+
+Plh_88 { Nawet zrzędliwy Murtagh lubi tu przychodzić. Jego oczy by się rozświetliły, gdyby wiedział, że w dzisiejszym posiłku jest mięso! }
+
+Plh_68 { Proszę. To niewiele, ale powinieneś mieć dowód mojej wdzięczności. }
+
+Plh_94 { A oto kolejny posiłek. Zasłużyłeś na niego. }
+
+Plh_69 { Proszę, przyjdź jeszcze raz! Wiesz, gdzie mnie znaleźć, jeśli zgłodniejesz! *uśmiecha się serdecznie* }
+
+Plh_63 { *mruży oczy* Na szczęście to tylko jedna opinia. }
+
+Plh_64 { *jej oczy błyskają* To nie powód, żeby tak do mnie mówić. }
+
+Plh_58 { *podajesz Shonie prawie pełną chochlę* }
+
+Plh_50 { Nic z tego nie byłoby możliwe bez Ciebie! Tylko jeden kęs! }
+
+Plh_51 { Dobrze, w porządku. }
+
+Plh_52 { Nie, naprawdę nie. }
+
+Plh_66 { No cóż, jak chcesz. Inni będą zachwyceni. *uśmiecha się* }
+

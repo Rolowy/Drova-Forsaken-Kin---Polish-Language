@@ -1,0 +1,124 @@
+Plh_29 { Wstawajcie, leniwe łajdaki! To nowy dzień! Nie żeby któryś z was miał go tu zobaczyć, haha! Do roboty! }
+
+Plh_30 { Tylko sekunda... Mam coś ważnego do powiedzenia. Na pewno nie umknęło twojej uwadze, że nowicjusz również teraz pomaga... }
+
+Plh_6 { Powinniśmy pokazać im, jak dobre jest życie tutaj i że nie polega ono tylko na ciężkiej pracy. Nie, powitajmy nowicjusza wielką imprezą! Czy wszyscy się ze mną zgadzacie? }
+
+Plh_5 { Zadałem ci pytanie. Będziemy imprezować? }
+
+Plh_59 { No cóż... OK... No to chodźmy na imprezę. }
+
+Plh_60 { A wiesz JAK się bawimy? }
+
+Plh_61 { KOPIĄC! }
+
+Plh_62 { DO ROBOTY, ODROBINKI! }
+
+Plh_63 { *szepcze* Hej, $GVAR:EVars_Player.Name$. Jeszcze nie śpisz? }
+
+Plh_65 { Śpię. }
+
+Plh_66 { Czego chcesz...? }
+
+Plh_64 { Och, nie zdawałem sobie sprawy. Przepraszam. }
+
+Plh_68 { Nie mogę już tu wytrzymać — chcę wyjść. Wracam do Georga. }
+
+Plh_69 { Ty też, prawda? Może rzecz, którą znaleźliśmy w komnacie, może nam pomóc... }
+
+Plh_71 { Musimy czekać, nie możemy wybiegać myślami w przyszłość... }
+
+Plh_70 { Może... Może jakoś uda nam się stąd wydostać. }
+
+Plh_72 { Nie sądzę, żeby było jakieś wyjście... }
+
+Plh_75 { Tak, możemy to zrobić. Razem. }
+
+Plh_76 { Zamknij się, próbuję spać! }
+
+Plh_77 { Dobrze, dobrze... }
+
+Plh_78 { KURCZAK-A-DOODLE-DOO! KURCZAK-A-DOODLE-DOO! }
+
+Plh_79 { Kogut pieje dziś bardzo wcześnie! Słońce wschodzi! }
+
+Plh_80 { KURCZAK-A-KUKURYDZIAK-DOOOOOO! }
+
+Plh_81 { WSTAWAJCIE, mięczaki! }
+
+Plh_82 { Wiesz, czuwanie jest naprawdę wyczerpujące, a my wszyscy strażnicy byliśmy wczoraj w nocy piekielnie głodni. Więc pochłonęliśmy wszystkie racje. Nie zostało nic na śniadanie. }
+
+Plh_83 { Więc jeden z was, szczęściarze, nie będzie musiał dziś rąbać skał. Zamiast tego będziecie zbierać grzyby. A nie to gówno, które rośnie na dole. }
+
+Plh_122 { Kogo wybierzemy? }
+
+Plh_84 { Nieee... }
+
+Plh_85 { ...mój Boże, mój Boże... }
+
+Plh_86 { ...więcej... }
+
+Plh_87 { ...A ty... }
+
+Plh_88 { są... na zewnątrz! No dalej, $GVAR:EVars_Player.Name$, albo skopię ci tyłek! }
+
+Plh_89 { Idźcie zobaczyć Brunę. Reszta z was — nie obchodzi mnie, czy jesteście głodni. Do roboty! Już! }
+
+Plh_74 { Nie możemy się poddać! Musimy... }
+
+Plh_73 { Hmm, może nie... }
+
+Plh_90 { *szeptem* ...Przepraszam... }
+
+Plh_91 { Hasso, uspokój się! }
+
+Plh_92 { Śpię tu, do cholery! Idź sobie! }
+
+Plh_93 { Przepraszam, przepraszam... Jest tak ciemno... }
+
+Plh_95 { Tak, Hasso. Co to jest? }
+
+Plh_98 { Słyszałem tę rzecz o Brune... Czy to prawda? Jaka ona jest? }
+
+Plh_101 { Ten parszywy drań Lanzo... Pobił ją. }
+
+Plh_100 { Ale ona przeżyje. }
+
+Plh_103 { Pewnego dnia pobiję go na śmierć... }
+
+Plh_102 { Chciałbym móc to powstrzymać... Biedna Bruna. Ale może to wszystko niedługo się skończy. Harowaliśmy całą noc, ale myślę, że znaleźliśmy pokój, którego szukają. }
+
+Plh_104 { Udało ci się?! }
+
+Plh_106 { Tak, mniej więcej. Nadal będziemy musieli przebić się i dostać do głównej komory. Może będziemy wolni do jutra... }
+
+Plh_107 { A może mogliby nas po prostu puścić? }
+
+Plh_108 { Może powinniśmy kopać jeszcze głębiej. }
+
+Plh_109 { Myślę, że wtedy będziemy mogli zniknąć. }
+
+Plh_111 { Będziemy musieli się bronić, jeśli... }
+
+Plh_112 { Jest środek nocy! Czy możesz przestać paplać? }
+
+Plh_113 { *szeptem* Porozmawiamy jutro... }
+
+Plh_114 { *szepcze* Bruna, chodź. Wstań. }
+
+Plh_115 { Pospiesz się... }
+
+Plh_117 { Daj mi spokój. }
+
+Plh_116 { Przykro mi z powodu tego, co Lanzo ci zrobił, ale musimy iść dalej. Kolacja musi być gotowa, inaczej będzie gorzej. Chodź, pomogę ci wstać. }
+
+Plh_118 { *stękanie* }
+
+Plh_121 { Dzięki... }
+
+Plh_119 { Wszyscy w górę! Skończyliśmy! Już prawie jesteśmy w głównej komnacie! }
+
+Plh_120 { Niektórzy z nas poszli dalej, ale musimy tam ściągnąć więcej ludzi. Weź coś do jedzenia od Bruny, a potem uciekaj. Spiesz się, chcę stąd wyjść. }
+
+Plh_110 { Śnij dalej,... }
+

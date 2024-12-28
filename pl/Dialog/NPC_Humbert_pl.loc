@@ -1,0 +1,336 @@
+Teach_Mind { Czy to jest twój ogród? }
+
+Plh_216 { Wszystko w porządku? }
+
+Plh_45 { O Twoim ogrodzie... }
+
+Plh_163 { O wyciągu... }
+
+Plh_154 { Czy wiesz gdzie mogę znaleźć callashroomy? }
+
+Plh_165 { Hmph. Wszystko, co tu widzisz, zasadziłem sam. }
+
+Plh_247 { Żaden z pozostałych Crafterów tego nie docenia. Interesuje ich tylko szybkie zarabianie monet. Budowanie stołów. Kucie żelaza. }
+
+Plh_248 { Ale rośliny to żywe istoty. Potrzebują czasu, żeby urosnąć. Jak dzieci. Po prostu dlatego, że nie rosną szybko... }
+
+Plh_249 { Tylko druidzi wiedzą, na czym polega pielęgnacja roślin... }
+
+Plh_253 { Pokaż mi, jak mogę warzyć mikstury. }
+
+Plh_205 { Asmus uciekł. Czy to zadziałało? }
+
+Plh_204 { Coś nie tak z piwem. Szybko, myślę, że Asmus umiera! }
+
+Plh_207 { Co?! To nie powinno się zdarzyć... Cholera! Muszę szybko dotrzeć do Asmusa. }
+
+Plh_190 { Już dawno się tak dobrze nie bawiłem. }
+
+Plh_254 { Wyraz mojej twarzy... Nikt już nie będzie mógł powiedzieć, że nie mam poczucia humoru. }
+
+Plh_191 { Dziękuję za pomoc. }
+
+Plh_206 { Teraz mam ochotę świętować! }
+
+Plh_197 { Daj mi spokój. }
+
+Plh_240 { Naprawdę, to był tylko żart... }
+
+Plh_241 { Hej, Humbert, przepraszam. }
+
+Plh_242 { Jesteś jak Asmus. Po prostu zostaw mnie w spokoju. }
+
+Plh_244 { To była moja wina. Nie powinnam była tego zaczynać. Zawsze jestem taka głupia. }
+
+Plh_245 { No cóż, dziękuję... Nikt mnie nigdy nie przeprosił. }
+
+Plh_246 { Cieszcie się Festiwalem Ognia. Zostanę tu jeszcze chwilę. }
+
+Plh_175 { Ciesz się ciepłem ognia. *uśmiecha się* }
+
+Plh_189 { Idź i daj Asmusowi piwo. }
+
+Plh_169 { Hej, ty tam. Miłego Festiwalu Ognia! }
+
+Plh_170 { Słuchajcie... Wszyscy tutaj myślą, że jestem nudziarzem. Ale dziś im pokażę! Robię psikusa Asmusowi. NIGDY się tego nie spodziewają! }
+
+Plh_255 { Ale żeby to zrobić, potrzebuję pomocy... }
+
+Plh_171 { Żart? Jestem w środku. }
+
+Plh_172 { Asmus na to nie zasługuje... }
+
+Plh_173 { Świetnie! }
+
+Plh_176 { Oto coś, co przygotowałem wcześniej. Na pierwszy rzut oka wygląda jak piwo, ale po drugim spojrzeniu... Powiedzmy, że Asmus będzie miał swój własny „Festiwal Ognia”. *uśmiecha się* }
+
+Plh_192 { Ta rzecz pali w gardle, kiedy ją pijesz, ale NAPRAWDĘ pali, gdy wychodzi z drugiej strony. }
+
+Plh_177 { To nie jest niebezpieczne. Ale jest zabawne, bo nie da się ukryć efektów. }
+
+Plh_178 { I to jest ten żart, którego chcesz zrobić Asmusowi? }
+
+Plh_179 { Nie spodziewałem się tego po tobie... }
+
+Plh_182 { O tak! Zawsze śmieje się kosztem innych, w tym moim! Zasłużył na to. }
+
+Plh_180 { Asmus i jego głupi kumple zawsze płatali mi figle. Ale nie będą oczekiwać, że stary Humbert odwróci sytuację. Ale TY musisz być tym, który mu to da. }
+
+Plh_183 { Zrobię to! }
+
+Plh_185 { Wolałbym się od tego nie mieszać. }
+
+Plh_188 { Nie mogę się doczekać, żeby zobaczyć jego twarz. Co się stanie później... Cóż, wolałbym tego nie widzieć. Och, jego wnętrzności czekają piekielne czasy... }
+
+Plh_174 { Dobrze... to zrób to. }
+
+Plh_181 { *uśmiecha się z zadowoleniem* Wrzosowiska jednak są głębokie, prawda? }
+
+Plh_200 { Nie teraz. }
+
+Plh_4 { Czego chcesz? }
+
+Plh_238 { Mam pytanie. }
+
+Plh_239 { Nie znam cię. Daj spokój! }
+
+Plh_221 { Moje piękne rośliny... Do cholery. }
+
+Plh_222 { Czy dowiedziałeś się czegoś? }
+
+Plh_161 { Daj mi pracować. }
+
+Plh_95 { *Humbert wciąż pracuje nad fragmentem i cię nie zauważa* }
+
+Plh_79 { Skończyłeś już? }
+
+Plh_80 { Skończyłeś już? }
+
+Plh_81 { Może już skończyłeś? }
+
+Plh_82 { Na pewno już skończyłeś, prawda? }
+
+Plh_83 { No dalej! Już pewnie skończyłeś! }
+
+Plh_84 { ... Wrócę. }
+
+Plh_160 { (odchodzić) }
+
+Plh_85 { Nie, dobre rzeczy przychodzą do tych, którzy czekają. Wróć później. }
+
+Plh_86 { Już ci mówiłem: przygotowanie wyciągu zajmuje czas, a ja mam jeszcze inne rzeczy do zrobienia. }
+
+Plh_87 { Czy ty w ogóle słuchasz tego, co mówię? Jeśli będziesz pytać dalej, nigdy tego nie zrobię! }
+
+Plh_88 { *wzdycha* Nie. *wydech z irytacją* Jeszcze nie skończyłam. }
+
+Plh_89 { Chyba sobie ze mnie żartujesz! Wynoś się stąd i pozwól mi pracować w spokoju, zanim przyprowadzę Gradana! }
+
+Plh_90 { Jeśli wrócisz za wcześnie, oby Bogowie ci pomogli! }
+
+Plh_96 { Oto gotowy wyciąg. Zajęło mi to trochę czasu, ponieważ chciałem zrobić to porządnie. }
+
+Plh_97 { A wszystko dlatego, że pewna osoba nie przestawała mnie nękać... }
+
+Plh_98 { Jestem pewien, że nada to talizmanowi niezbędnego blasku. }
+
+Plh_99 { Jeszcze jedno — dlaczego dzieci same do mnie nie przyszły? }
+
+Plh_100 { Prawdopodobnie nie przyszło im to do głowy. }
+
+Plh_101 { Nie wiem co ci powiedzieć. Sam nie wiem dlaczego. }
+
+Plh_102 { Humbert, oni się ciebie boją. }
+
+Plh_103 { Powinni wiedzieć, że jestem zielarzem... }
+
+Plh_104 { Hmph. Nie rozumiem. No cóż. Muszę wrócić do pracy. }
+
+Plh_105 { Boisz się? Czego? Co za para małych mięczaków. *nieprzyjemne spojrzenie* }
+
+Plh_106 { Mówią, że zawsze masz taki ponury wyraz twarzy. }
+
+Plh_107 { Angus powiedział im, że zjadacie niegrzeczne dzieci. }
+
+Plh_109 { Cóż... Może mają rację... Postaram się wyglądać przyjaźniej. *próbuje wymusić uśmiech* }
+
+Plh_112 { Lepiej wrócę do pracy. }
+
+Plh_110 { Angus powiedział CO? On niszczy moją reputację! Jeśli mówi to wszystkim... Co za palant! }
+
+Plh_111 { Do zobaczenia. Porozmawiam z nim... Co za tupet... }
+
+Plh_22 { Nic nie jest w porządku! Ktoś zniszczył mój ogród. Moje rośliny — moi przyjaciele — tylko spójrzcie na nie! Martwe, stratowane! To straszne! }
+
+Plh_23 { Jak to mogło się stać? }
+
+Plh_25 { Wszystkie moje borówki zostały skradzione! A krzaki zostały podeptane. Te dzikusy! Wszyscy zazdroszczą mi ogrodu i moich przyjaciół. To był jeden z nich! }
+
+Plh_26 { Teraz muszę zobaczyć, ile z nich uda mi się uratować... I muszę jeszcze naprawić płot. To powinno być zadanie Junali, ale ona woli spędzać czas robiąc coś innego... *mruczy do siebie* }
+
+Plh_27 { Stary Humbert musi wszystko robić sam. Jak zawsze. Może tak jest lepiej. Nikt nie jest wystarczająco delikatny dla moich przyjaciół roślin... }
+
+Plh_28 { Potrzebujesz pomocy? }
+
+Plh_29 { Mogę ci pomóc. }
+
+Plh_30 { Mój ogród zniszczony, moje rabaty i krzewy podeptane, a ty pytasz, czy potrzebuję pomocy? OCZYWIŚCIE, ŻE NIE! Wszystko jest po prostu w porządku! }
+
+Plh_31 { Zawodnik, który przejmuje się problemami biednego starego Humberta? To — to nieoczekiwane. Dzięki. }
+
+Plh_36 { Proszę, dowiedz się, kto zrobił to moim przyjaciołom i kto ukradł moje cenne jagody. W zamian mogę cię nauczyć, jak właściwie obchodzić się z twoimi roślinnymi przyjaciółmi. }
+
+Plh_37 { Nie zdziwiłbym się, gdyby to był Gerion. Zawsze patrzy zazdrośnie na mój ogród. Ciągle działa mi na nerwy. Ciągle powtarza: „Och, Humbert, potrzebuję więcej roślin”. }
+
+Plh_256 { „Czy nie mogą rosnąć szybciej, Humbert? Czy nie możemy ich już zbierać, Humbert?” Tak to nie działa! Moi przyjaciele potrzebują opieki, cierpliwości i miłości! }
+
+Plh_217 { Jestem pewna, że ​​to on ukradł moje cudowne jagody... }
+
+Plh_223 { Moje biedne rośliny — są bezcenne. Ale gdybym miał wycenić szkody... $GVAR:QuestVars_FavourOfCraftsmenGardeners.MoneyOwedToHumbert$ monet! Co najmniej! }
+
+Plh_38 { Czy są jakieś wskazówki? }
+
+Plh_39 { Gdzie mogę znaleźć Twój ogród? }
+
+Plh_220 { Jeśli czegoś się dowiem, dam ci znać. }
+
+Plh_41 { Czy ty jesteś głupi? Otwórz oczy! Płot jest rozwalony. Krzaki są stratowane. A moi ukochani przyjaciele jagodowi — porwani! }
+
+Plh_43 { Czy jesteś pewien, że wybrałeś właściwe zadanie? }
+
+Plh_218 { Co myślisz? Czy to wygląda jak chlew dla ciebie? }
+
+Plh_219 { Ten motłoch, którego Angus wpuszcza... }
+
+Plh_194 { To MUSIAŁ być Gerion! Nigdy nie miał szacunku do moich przyjaciół roślin. On za to zapłaci! }
+
+Plh_118 { Wiem, kto to zrobił. }
+
+Plh_226 { Nadal jesteś winien Gerionowi jeszcze jedną dostawę. Zanieś ją do niego. }
+
+Plh_224 { Gerion wyrzucił monety. (podaje) }
+
+Plh_121 { Kto? Kto to był? Kto tak źle traktował moich przyjaciół roślin? }
+
+Plh_127 { Były ślady, które nie wyglądały na ludzkie. }
+
+Plh_124 { Większość jagód została stratowana, z wyjątkiem borówek. }
+
+Plh_128 { W pobliżu ogrodu znalazłem niebieskie odchody, niebieską wełnę owczą i wymiociny. }
+
+Plh_132 { Znalazłem podejrzanie wyglądającego barana z czymś niebieskim rozmazanym wokół pyska. }
+
+Plh_126 { Nie wyglądało jak człowiek...? }
+
+Plh_125 { Oczywiście, borówki są absolutnie pyszne. Kto by podeptał coś tak cennego... }
+
+Plh_129 { Dokąd prowadziły ślady? Powiedz mi! }
+
+Plh_130 { Do stada owiec. }
+
+Plh_131 { Do tego osobliwego barana, który miał pysk posmarowany niebieską substancją. }
+
+Plh_136 { A co z trzodą owiec? }
+
+Plh_137 { Jedna z owiec miała dziwne rogi, białą twarz i błękit wokół pyska. }
+
+Plh_139 { Oskar! Cholerny stwór! Zawsze muszę mu dawać dodatkowe jedzenie, żeby zostawił mój ogród w spokoju. A teraz to! }
+
+Plh_145 { Ojej, ojej... Junali nie spodoba się, że po prostu oskarżę jednego z jej pracowników... }
+
+Plh_141 { Myślę, że sprawa została rozwiązana. }
+
+Plh_140 { A co z moją nagrodą? }
+
+Plh_146 { Tak... Wspaniale... }
+
+Plh_151 { Mam niezwykle rzadką roślinę. Znalazłem ją niedaleko Deathfog. }
+
+Plh_250 { Bardzo cenne. Wydaje się, że doceniasz wartość rośliny bardziej niż inni. Chciałbym ci pokazać, jak warzyć mikstury. Mam też kilka ziół na sprzedaż. W końcu ktoś, kto docenia rośliny! }
+
+Plh_135 { Tak? A co z baranem? }
+
+Plh_138 { Baran miał różne rogi, białą twarz i niebieską paszczę. }
+
+Plh_227 { Co?! Powinieneś zbierać dowody przeciwko SPRAWCY! Zamiast tego wybierasz, by stanąć po jego stronie! Nie jesteś lepszy od innych. Powinienem był wiedzieć! }
+
+Plh_236 { Gerion jest niewinny. To był ktoś inny. }
+
+Plh_228 { Nadal masz u niego długi. }
+
+Plh_229 { Dostarczysz mu rośliny. Czy się rozumiemy? }
+
+Plh_234 { Zapomnij o tym. }
+
+Plh_230 { *zgrzyta zębami* AAARGH! Co zrobiłem źle... }
+
+Plh_231 { Każę Mucowi zabrać ostatnią z moich roślin do tego cholernego Geriona. Zadowolony? }
+
+Plh_232 { Ale jeśli nie będziemy mieli wystarczająco dużo na Festiwal Ognia, to będzie TWOJA wina, a ja upewnię się, że wszyscy o tym wiedzą! A teraz zejdź mi z oczu! }
+
+Plh_235 { Uważaj to za zapomniane. }
+
+Plh_225 { Ach, bardzo dobrze. To powinno pozwolić mi odbudować mój ogród. Dobra robota! Nareszcie sprawiedliwość w Nemeton! }
+
+Plh_233 { Te monety to — to nie wszystko. }
+
+Plh_73 { Mam grzyby. (podaje) }
+
+Plh_75 { Ach, bardzo dobrze! Chodźcie, moi przyjaciele. Zrobimy wam cudowny ekstrakt z glowlight. Wróćcie później. Przygotowanie takiego ekstraktu zajmuje trochę czasu. }
+
+Plh_162 { Ach, oto moja pomoc. Zanim odpowiem, pozwól mi zapytać — o co dokładnie chodzi? Czego potrzebujesz? }
+
+Plh_61 { „Sok” z callashroomów, jak nazywają je Olga i Luten. }
+
+Plh_62 { Wyciąg z Callashrooma. }
+
+Plh_63 { Ach, powinnam była się domyślić, że za tym stoją ci dwaj łobuziaki. }
+
+Plh_65 { Jaki miły gest, aby wyrazić swój podziw. Pozwól, że ci w tym pomogę. }
+
+Plh_196 { Przynieś mi $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ tych grzybów, a ja przygotuję ci ekstrakt. Znajdziesz je w pobliżu Nemeton, na Red Moor. Mają ten wyrazisty czerwony kolor. }
+
+Plh_66 { $GVAR:QuestVars_EverybodyUnderstandsThat_Config.AmountOfCallashrooms$ grzybów na ekstrakt? }
+
+Plh_67 { Czy może Pan opisać te grzyby bardziej szczegółowo? }
+
+Plh_69 { Pojedynczy grzyb zawiera bardzo mało soku. Możesz rozcieńczyć go wodą lub czymś innym, ale ponieważ ma to być prezent dla Helmy, pieniądze i wysiłek nie grają roli. }
+
+Plh_70 { To czerwone grzyby, które rosną tylko na Red Moor. Znajdziesz je. }
+
+Plh_71 { No to ruszaj. Na co czekasz? }
+
+Plh_64 { Założę się, że to był jeden z pomysłów Olgi! *uśmiecha się* }
+
+Plh_54 { Co? Pozwól mi kontynuować moją pracę. *odwraca się natychmiast* }
+
+Plh_55 { Ale potrzebuję twojej pomocy! }
+
+Plh_56 { To talizman dla Helmy. }
+
+Plh_59 { W takim razie Helma zapewne wróci z Festiwalu Ognia z pustymi rękami... }
+
+Plh_57 { Podobnie jak wiele osób. Pozwól mi wykonywać swoją pracę. Mam pełne ręce roboty. }
+
+Plh_58 { Chodzi o Helmę?! Dlaczego nie powiedziałeś tego? Czego dokładnie potrzebujesz? }
+
+Plh_258 { Widziałeś wczoraj Harveya i Jennifer? }
+
+Plh_259 { Tak, zrobiłem to. Wieczorem spotkali się przy stawie. Wyglądali, jakby nie chcieli być niepokojeni. }
+
+Plh_260 { Myślę, że to cudowne, gdy dwoje młodych ludzi spotyka się w moim ogrodzie. Nie ma nic bardziej romantycznego. }
+
+Plh_261 { Staw, w którym migocze odbicie gwiazd, zadbany ogród z pięknymi kwiatami i odurzającymi zapachami. Przysięgi kochanków, szeptane w tajemnicy... gdybym tylko doświadczył czegoś takiego w mojej młodości! }
+
+Plh_262 { Hej, Święto Ognia... Wszystko w porządku? }
+
+Plh_266 { Asmus świetnie się bawił na Festiwalu Ognia. *uśmiecha się* Czy udało ci się też trochę zabawić? }
+
+Plh_264 { Spodziewałem się tego... Ja to zacząłem. }
+
+Plh_265 { Od teraz będę siedzieć w moim ogrodzie. Nie chcę mieć już nic wspólnego z Asmusem i jego ludźmi. }
+
+Plh_267 { To była najlepsza część festiwalu! Co za wybuch! }
+
+Plh_268 { Asmus nękał mnie przy każdej okazji. Naprawdę mu się należało. Dziękuję. }
+

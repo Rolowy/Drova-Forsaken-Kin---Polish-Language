@@ -1,0 +1,32 @@
+Hud_Text {  }
+
+UserReport_Feedback { Informacja zwrotna }
+
+UserReport_Bug { Błąd }
+
+UserReport_Feedback_Error { Coś poszło nie tak. Spróbuj ponownie. }
+
+UserReport_Feedback_Text { Dziękujemy za opinię! }
+
+Close { Zamknąć }
+
+Send { Składać }
+
+Text_Placeholder { Kliknij tutaj, aby wpisać swoją wiadomość. }
+
+Title_Placeholder { Temat }
+
+UserReport_Deadlock { Zablokowany }
+
+dsgvo_accept { Przyjąć }
+
+dsgvo_cancel { Spadek }
+
+DSGVO_Text { Korzystając z naszego narzędzia do przesyłania opinii, wyrażasz zgodę na przetwarzanie następujących danych. Aby wykorzystać przesłane dane w celu ulepszenia gry Drova, potrzebujesz pewnych informacji, które są wymienione i wyjaśnione w poniższym podsumowaniu.<br><br>1. Kiedy przesyłasz raport, następujące informacje zostaną nam przesłane:<br>1.1. Zrzut ekranu gry zrobiony w momencie przesyłania raportu;<br>1.2. Aktualny zapis gry, a także najnowszy zapis automatyczny;<br>1.3. Informacje o Twoim systemie (system operacyjny, pamięć RAM, procesor, procesor graficzny, rozdzielczość, urządzenia wejściowe, takie jak mysz, klawiatura, kontroler);<br>1.4. Plik dziennika utworzony przez grę. Ten plik dziennika może zawierać nazwę użytkownika powiązaną z Twoim systemem operacyjnym;<br>1.5. Dane i adres e-mail, które wprowadziłeś do tego formularza.<br><br>2. Informacje te zostaną wykorzystane do analiz wewnętrznych, a także do powiadomienia nadawcy i nie będą udostępniane żadnym stronom trzecim. Informacje te nie będą również wykorzystywane komercyjnie.<br>Gdy tylko przesłane informacje nie będą już potrzebne, zostaną usunięte. Informacje zostaną przesłane na nasz serwer i tam przechowywane. Nasz serwer jest hostowany przez Netcup GmbH. }
+
+DSGVO_Title { Powiadomienie o RODO }
+
+Popup_InvalidEmail { Nieprawidłowy format adresu e-mail. Upewnij się, że adres e-mail jest w formacie (name@email.com), }
+
+Email_Header { Twój adres e-mail. Na ten adres wyślemy Ci poprawioną wersję gry. }
+

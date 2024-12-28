@@ -1,0 +1,16 @@
+Title { Mroczna Dzielnica }
+
+Entry_01 { Boris chce, żebym zdobył $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$ monet od Leyny. Dał mi klucz do Dark Quarter. Gdzieś w zachodniej części obozu Remnants powinno być ukryte wejście. }
+
+Entry_02 { Po tym, jak zobaczyłem Borisa, Gera mnie przechwyciła, żeby odebrać pieniądze na jej korzyść. Mam posadzić wcześniej ścięty Rustmoss na Leynie, a potem donieść na nią Borisowi. }
+
+Entry_03 { Leyna dała mi monety $GVAR:QuestVars_EntranceToShadyDistrict_Config.AmountOfMoneyPaid$. Powinienem powiedzieć Borisowi. }
+
+Entry_04 { Powiedziałem Leynie prawdę o planie Gery. Była bardzo wdzięczna. }
+
+Entry_05 { Dałem Borisowi monety i doniósłem na Leynę. Teraz nie jestem już nic winien Gerze. }
+
+Entry_06 { Dałem Borysowi wszystkie monety od Leyny. }
+
+Entry_05A { Wcześniej odcięty Rustmoss jest teraz w klatce piersiowej Leyny. Teraz muszę tylko dotrzeć do Borisa. }
+

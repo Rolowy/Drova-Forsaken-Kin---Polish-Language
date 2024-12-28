@@ -1,0 +1,20 @@
+Entry_01A { Mam zanieść paczkę, którą zdobyłem od Afrina, do Borisa, do obozu Ocalałych i wymienić ją na monety. }
+
+Entry_01B { Boris chce, żebym odebrał paczkę od Asmusa i przyniósł mu ją z powrotem. Obiecał mi za nią kilka monet. }
+
+Entry_02 { Boris ma paczkę. Jeśli chcę zobaczyć jakieś monety, muszę mu tam sprzedać Rustmoss. }
+
+Entry_03 { No cóż, paczka została dostarczona, a monety mam w kieszeniach. Teraz pozostało mi tylko zanieść wszystko do Asmusa. }
+
+Entry_04 { W drodze powrotnej zostałem napadnięty przez bandytów. Najwyraźniej mnie szukali, a przysłał ich Boris. Powinienem z nim porozmawiać. }
+
+Entry_05 { Sprzedałem Borisowi notatkę za $GVAR:QuestVars_LucrativeBusiness_Config.LetterPrice$ monety. Teraz muszę tylko dotrzeć do Asmusa. }
+
+Entry_06 { Asmus wierzy w historię o napadzie, ale bez dowodów nie może nic zrobić. Potrzebuje monet, a ja mam zdobyć Rustmoss w jakiś inny sposób. }
+
+Entry_07 { Dałem monety Asmusowi. W nagrodę oddał mi część monet. }
+
+Title { Lukratywny biznes }
+
+Entry_01C { Transakcja biznesowa nie doszła do skutku. }
+

@@ -1,0 +1,6 @@
+Title { Mięso dla Hewersów }
+
+Entry_01 { Shona, która odpowiada za jedzenie, chce, żebym zdobył $GVAR:QuestVars_FoodInTheMine_Config.AmountOfFoodNeeded$ kawałków surowego, włóknistego mięsa od świń wykopanych w Pit. }
+
+Entry_02 { Shona przygotowała nowe danie z mięsa, które jej przyniosłem. To sprawi, że Hewers będą dobrze nakarmieni przez jakiś czas. }
+

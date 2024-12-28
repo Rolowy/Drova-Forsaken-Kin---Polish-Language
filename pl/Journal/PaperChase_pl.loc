@@ -1,0 +1,28 @@
+Title { Mój własny talizman }
+
+Entry_01 { Mam prymitywny talizman, ale brakuje mu skórzanego sznurka. Dzieci powiedziały, że Rura może pomóc. }
+
+Entry_02 { Rura przymocowała skórzany sznur do mojego talizmanu. Teraz muszę tylko oczyścić talizman w Wiecznym Ogniu Nemetonu. }
+
+Entry_03 { Z pomocą Myrte udało mi się oczyścić talizman. Ale teraz muszę coś na nim wygrawerować. Myrte powiedziała: „Szukaj nocnych świateł w pobliżu kamiennego kręgu w centrum Nemetonu. Zagraj w ich tańcu, a one poprowadzą cię do symbolu Kruka”. Co to ma znaczyć? }
+
+Entry_04 { Na talizmanie namalowałem symbol związany z Wielkim Krukiem. Czy już skończyłem? Może powinienem zapytać dzieci. }
+
+Entry_05 { Talizman otrzymał wszystkie trzy błogosławieństwa. Wygląda na to, że jest już ukończony. }
+
+Entry_04B { Błogosławieństwa życia są tam, gdzie ptaki przestały ćwierkać i słychać śpiew żab. Gdzie zbiegają się trzy źródła życia. }
+
+Entry_05A { Talizman — odpowiedział. To muszą być błogosławieństwa zmiany. }
+
+Entry_05C { Mój talizman zaczął wibrować w pobliżu menhiru. To muszą być błogosławieństwa źródła. }
+
+Entry_05B { Było dziwne miejsce na wrzosowisku. Od kiedy tam pojechałem, mój talizman emitował dziwne ciepło. To były błogosławieństwa życia. }
+
+Entry_04A { Błogosławieństwa zmiany są w miejscu nawiedzanym przez wieczną ciemność, ale otoczonym światłem. Pięć faz życia tworzy krąg zmiany. }
+
+Entry_04C { Błogosławieństwa źródła można znaleźć na małej wyspie za zarośniętym brzegiem. Ptaki siedzą na szczycie ogromnej skały i śpiewają swoją melodię unisono. }
+
+Entry_03_Rejected { Myrte pomoże mi tylko jeśli będę częścią Nemetonu. Może uda mi się ją przekonać, żeby pomogła mi mimo wszystko? }
+
+Entry_04_Hint { Moja muzyka spowodowała pojawienie się świetlika. Może pomoże mi to rozpoznać, co mam wyryć w talizmanie. }
+

@@ -1,0 +1,246 @@
+Plh_1 { (zbieraj monety dla Friedela) }
+
+Plh_17 { O pracy jako rębacz... }
+
+Plh_52 { Dasz radę! }
+
+Plh_53 { Nareszcie! Wróciłeś! }
+
+Plh_0 { Miły dzień na leniuchowanie, prawda? *uśmiecha się* }
+
+Plh_64 { Wyglądasz na spiętą. Dlaczego nie pójdziesz za mną? Ja, dobra stara Meluna. }
+
+Plh_20 { Co tu robisz? }
+
+Plh_21 { Jak możesz to zrobić? }
+
+Plh_22 { No i co, nie widzisz? Relaksuję się. *uśmiecha się* }
+
+Plh_23 { Wiem, że w Drova wszystko jest kwestią życia i śmierci, wszyscy ciągle polują lub walczą. A potem są jeszcze Bóstwa... Powiem tak: mam wystarczająco dużo oszczędności. }
+
+Plh_24 { Oszczędności maleją... }
+
+Plh_25 { Masz na myśli, że masz gdzieś schowaną stertę monet? }
+
+Plh_26 { Jasne. Ale nie dziś, a jutro jest odległe. Życie jest za krótkie, żeby zapracować się na śmierć w Pit. }
+
+Plh_27 { *zmrużyła oczy* Dlaczego tak mówisz? Nie ma tu nigdzie żadnych monet. Nie ma mowy! }
+
+Plh_28 { A teraz, jeśli nie masz nic przeciwko, chciałbym wrócić do relaksu. }
+
+Plh_4 { Plh_4 }
+
+Plh_15 { Spadaj, brudny szczurze. }
+
+Plh_43 { Ty brudny szczurze! Idę, idę! Będę w kontakcie. A teraz zostaw mnie w spokoju! }
+
+Plh_44 { Znów tu jesteś. Więc, czy wyciągnąłeś wnioski? }
+
+Plh_54 { Jakiś osioł ukradł mi wszystkie monety! Teraz będę musiał wrócić do Friedela... cholera! }
+
+Plh_16 { Hej. }
+
+Plh_8 { Spotykamy się ponownie. }
+
+Plh_2 { Znowu ty. Chcesz ukraść mi więcej monet? Czy nie zrobiłeś już wystarczająco dużo? Zrujnowałeś mnie! }
+
+Plh_48 { Przez ciebie musiałem czołgać się z powrotem do Friedel, żeby nie zabrali mi rzeczy! Teraz muszę harować, żeby ledwo związać koniec z końcem! }
+
+Plh_5 { Skreślam cię z listy jej dłużników. }
+
+Plh_3 { Czy to znaczy, że zarabiasz monety, aby spłacić dług? Cóż, w takim razie Friedel mówi cześć. }
+
+Plh_6 { ... co? TY masz tę listę? A teraz chcesz mi... pomóc? Ja... och, nie chcę o tym rozmawiać. Dzięki... }
+
+Plh_10 { Ty... ty... przeklęty...! }
+
+Plh_65 { Ty też dla niej pracujesz? Nie masz sumienia? To weź to, co zarobiłem krwią i łzami, i znikaj. }
+
+Plh_66 { Padnij trupem, dobrze? }
+
+Plh_9 { Czas zapłacić składki. Friedel mówi cześć. }
+
+Plh_7 { Tak, wiem, wiem. Powinienem był to oddać dwa dni temu! Daj mi szybko policzyć... No. }
+
+Plh_11 { Porządna dziewczyna. }
+
+Plh_12 { Poczekaj chwilę. Według listy jesteś winien Friedelowi $GVAR:QuestVars_Debt_Config.MoneyFromMeluna$ monety. }
+
+Plh_13 { Zostaw mnie w spokoju. Teraz. }
+
+Plh_14 { Och, cóż, musiałem źle policzyć. Oto reszta. }
+
+Plh_18 { Jola poszukuje nowych Hewersów do Pitu. }
+
+Plh_40 { Czy naprawdę musimy to robić w trudny sposób? }
+
+Plh_45 { Czas na rewanż! Do Pitu z tobą, leniuchu! }
+
+Plh_19 { Myślę, że lepiej będzie, jak zaczniesz pracować dla Joli. }
+
+Plh_62 { Zapomnij o tym. }
+
+Plh_38 { Czy wrócisz, żeby odebrać mój dług? Wiem, że Jola szuka pracowników. Nie obchodzi mnie to. Nie będę tak łamał sobie kręgosłupa w Pit. Ona może o tym zapomnieć. }
+
+Plh_29 { Wiem. Ale Hewers ledwo wiąże koniec z końcem. Jeszcze nie jestem aż tak zdesperowany... }
+
+Plh_41 { Nie sądzę, żebyśmy mieli inne opcje... }
+
+Plh_46 { Chcesz zaryzykować? Zapomnij! Wchodzisz do Pit! }
+
+Plh_30 { O tak? Dlaczego miałbym to zrobić? *uśmiecha się* }
+
+Plh_32 { Twoje oszczędności znalazły nowy dom. Moje kieszenie. }
+
+Plh_33 { *Włóż monety do kieszeni* }
+
+Plh_39 { Najpierw ściągasz mój dług, a teraz kradniesz moje oszczędności? Nie masz ani krztyny przyzwoitości? }
+
+Plh_67 { Oddajcie mi moje monety natychmiast! }
+
+Plh_35 { Bycie jedną z osób należących do Jolas Hewers może być dla Ciebie korzystne. }
+
+Plh_36 { Możesz spróbować go odzyskać... Albo zgłosić się do Joli, żeby przyjąć pracę jako Rębacz. }
+
+Plh_37 { Będziesz tego żałować. Jesteś takim samym śmieciem jak wszyscy inni tutaj. Ach, cholera... }
+
+Plh_34 { Jesteś gnojem! Natychmiast oddaj mi moje monety! }
+
+Plh_49 { Ty... Serio, zabrałeś moje oszczędności... moje monety... Czemu się tak uśmiechasz? ... Wziąłeś je? }
+
+Plh_63 { Coś nie tak? Nieważne. }
+
+Plh_50 { Dla Jero! }
+
+Plh_51 { Wrócili! }
+
+Plh_68 { Wiem, co się dzieje między Badym i tobą. }
+
+Plh_69 { Co? Jak... Jesteśmy po prostu, uh, przyjaciółmi... }
+
+Plh_76 { Pomyśl o jego ramionach i powiedz mi, że między wami dwojgiem już nic nie ma. }
+
+Plh_75 { *rumieni się* Nie mogę! }
+
+Plh_78 { None }
+
+Plh_79 { Nadal nad tym pracuję. }
+
+Plh_80 { Kurde! Wszyscy dostają zawrotów głowy, widząc te ramiona. }
+
+Plh_81 { Chcesz zobaczyć... moje ramiona? }
+
+Plh_82 { Co więc dzieje się między wami? }
+
+Plh_83 { *mierzy cię wzrokiem* No cóż... czemu nie? Zobaczmy je! }
+
+Plh_85 { Fajnie. Nie ekscytująco, ale fajnie. Nie odbierz tego źle, ale będziesz musiał zrobić o wiele więcej, zanim będziesz mógł rywalizować z Badym. }
+
+Plh_84 { *mierzy cię wzrokiem* Nie, nie zawracaj sobie głowy. Już na pierwszy rzut oka widzę, że nawet twoje uda nie są na tyle umięśnione, żeby dorównać Bady. }
+
+Plh_86 { *wzdycha* Jasne. Ale nie gadaj o tym po całym obozie. }
+
+Plh_87 { Jeśli masz rozum, zachowaj to dla siebie. Bady przestrzega kodeksu. Nie wolno mu mieć związków. }
+
+Plh_88 { Jeśli dowie się, że o nas wiesz, to pewnie zbije cię na miazgę. }
+
+Plh_89 { Źle reaguję na groźby. }
+
+Plh_90 { Będę cicho. Za monety. }
+
+Plh_91 { Nie martw się. Zachowam to dla siebie. }
+
+Plh_92 { Potraktuj to jako groźbę, jeśli to sprawi, że poczujesz się lepiej. Ale miałem to na myśli jako ostrzeżenie. }
+
+Plh_93 { Ty brudny rzezimieszku! Oto wszystko, co mogę ci dać. }
+
+Plh_94 { To byłoby najlepsze rozwiązanie dla nas wszystkich. }
+
+Plh_74 { Ty podstępny mały robaczku! Myślałem, że mamy umowę? Miałeś nikomu nie mówić o Bady i mnie! }
+
+Plh_95 { Jak śmiesz rozsiewać takie kłamstwa?! Bady był tutaj. Krzyczał na mnie wystarczająco głośno, żeby cały obóz mógł usłyszeć. }
+
+Plh_97 { Ważne było, że Bady dziś przegrał. }
+
+Plh_98 { Bady ci nie wierzy? }
+
+Plh_99 { Równie ważne jest, abyś został ukarany za swoje kłamstwa. }
+
+Plh_100 { Wyciągnij broń. Rozwiążemy to teraz. }
+
+Plh_96 { Nie mogłem nawet wykrztusić słowa. A teraz wszyscy w obozie Remnants mają o mnie złe wyobrażenie. }
+
+Plh_101 { Nie chcę widzieć niczego twojego. }
+
+Plh_102 { A Twoje ramiona? }
+
+Plh_103 { Ja też mam. }
+
+Plh_104 { Ja też mam kilka. }
+
+Plh_105 { Jasne, jasne. No cóż... zobaczmy. }
+
+Plh_106 { ...hm... całkiem nieźle. }
+
+Plh_107 { (napinanie bicepsa) }
+
+Plh_108 { Och! Muszę się temu bliżej przyjrzeć. }
+
+Plh_109 { Tak, to przyjemne uczucie... bardzo mocne. }
+
+Plh_110 { (mocno napinaj bicepsy) }
+
+Plh_111 { Och! Nie sądziłem, że może być aż TAK duży! }
+
+Plh_112 { Górna część ramienia jest TUŻ. A teraz... ruszaj się. }
+
+Plh_113 { (przesuń się w lewo) }
+
+Plh_114 { (poruszaj się w prawo) }
+
+Plh_115 { Nie, nie w ten sposób. W drugą stronę. }
+
+Plh_116 { (przejść na drugą stronę) }
+
+Plh_117 { Tak... po prostu... }
+
+Plh_118 { Powiedz... czy potrafisz popisać się innymi... rzeczami? }
+
+Plh_119 { (wyginać inne rzeczy) }
+
+Plh_120 { Dokładnie to miałem na myśli. }
+
+Plh_121 { Bardzo ładnie... kontynuuj... }
+
+Plh_122 { *wyczerpany* Kto by pomyślał, że można TO zrobić górną częścią ramienia! }
+
+Plh_123 { Bóstwa musiały pocałować twoje ramiona. }
+
+Plh_124 { Nawet Bady nie może się z nimi równać. }
+
+Plh_125 { Chodź... będzie ci wygodniej na tym łóżku. }
+
+Plh_126 { Z przyjemnością! }
+
+Plh_127 { Ugh, chyba zmieniłem zdanie. }
+
+Plh_128 { No cóż, jak chcesz! Myślisz, że twoje ramiona są dla mnie za dobre, prawda? Pff. }
+
+Plh_129 { Ćwiczyłem. Chcesz zobaczyć moje bicepsy? }
+
+Plh_130 { Dokładnie tego potrzebowałem. Dobra robota! *puszcza oko* Ale teraz muszę odpocząć. }
+
+Plh_132 { Widziałeś Bady'ego? }
+
+Plh_133 { Nie, nie przez jakiś czas. Nie odkąd postanowił opuścić Remnants. Powiedział, że musi oczyścić głowę, aby w pełni skupić się na treningu. }
+
+Plh_134 { Nie ma pojęcia, co traci. }
+
+Plh_135 { Czy wiesz dokąd poszedł? }
+
+Plh_136 { Gdzieś na północy, za korytem rzeki. To wszystko, co wiem. }
+
+Plh_137 { Dziękuję za pomoc. }
+
+Plh_138 { Jeśli go spotkasz, powiedz mu... nie, nieważne. }
+

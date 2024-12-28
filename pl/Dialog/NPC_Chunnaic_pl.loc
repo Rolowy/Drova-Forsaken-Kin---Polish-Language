@@ -1,0 +1,220 @@
+Plh_136 { Czy sprzedasz mi diament? }
+
+Plh_138 { No dobrze, daj mi diament. (zapłać $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForDiamond$ monet) }
+
+Plh_137 { Mogę ci sprzedać diament. Albo weźmiesz go za $GVAR:QuestVars_TheLiesOfLocke_Config.PriceForDiamond$ monet, albo możesz o nim zapomnieć. }
+
+Plh_139 { Nie chcę być trudny. Za małą darowiznę na rzecz Nemetonu, będę patrzył w inną stronę. }
+
+Plh_141 { Zabierz diament i wyjdź. }
+
+Plh_158 { Bez monet nie dostaniesz nic! }
+
+Plh_126 { Mam broń, którą trzeba naostrzyć. }
+
+Plh_143 { Weź monety i naostrz broń. (Zapłać $GVAR:QuestVars_KarottesWeapon_Config.PriceForRepair$ monet) }
+
+Plh_142 { Będzie Cię to kosztowało $GVAR:QuestVars_KarottesWeapon_Config.PriceForRepair$ monet. }
+
+Plh_144 { Daj mi zobaczyć. }
+
+Plh_127 { Poczekaj chwilę, wiem jedno — uchwyt, ozdoby, wzór na ostrzu, nacięcia... }
+
+Plh_159 { To miecz Karotte'a! Czyż nie? }
+
+Plh_130 { Karotte przysłał mnie tu z tym. }
+
+Plh_131 { Nie mam pojęcia. Zapłaciłem. Czy mogę teraz dostać broń? }
+
+Plh_177 { Czy potrafisz naprawić broń? }
+
+Plh_133 { Ten mały gnojek. Macha mieczem jak idiota, rozbija go o wszystko, co stanie mu na drodze, a potem nawet nie zawraca sobie głowy naprawą... }
+
+Plh_155 { Następnym razem, gdy przyjdzie, na pewno mu na to pozwolę! }
+
+Plh_128 { Na szczęście znam się na swoim fachu... }
+
+Plh_129 { No i wszystko w porządku. Przekaż mu NAJLEPSZE ŻYCZENIA. I powiedz mu, żeby ćwiczył porządnie. }
+
+Plh_178 { Nie znajdziesz nigdzie indziej w Drova takiego wykonania. Dbaj więc o swoją broń. }
+
+Plh_176 { Nadal decyduję, czy chcę naprawić broń. Ta broń wygląda znajomo. I nie znam cię. }
+
+Plh_132 { Czy mogę to naprawić? }
+
+Plh_156 { Potrafię naprawić wszystko, jestem najlepszym mistrzem kowalstwa w całej Drovie. }
+
+Plh_157 { Pokażę ci, co jest możliwe, gdy już opanujesz swój fach. }
+
+Plh_140 { Żadnych monet, żadnego ostrzenia. To takie proste. Wróć, gdy będziesz miał wystarczająco dużo monet. }
+
+Plh_71 { Teraz należę do ciebie. Molvina uważa, że ​​powinnam zdobyć broń. }
+
+Plh_104 { Widziałem, że potrzebujesz pułapek. }
+
+Plh_105 { Prawda. Trzy pułapki na niedźwiedzie. Masz jakieś? }
+
+Plh_107 { Tak. Tutaj. }
+
+Plh_108 { Czy będziesz ich często potrzebować? }
+
+Plh_183 { A może potrzebujesz kogoś, kto je stworzy? }
+
+Plh_68 { Nadal nad tym pracuję. }
+
+Plh_110 { Hm. Wyglądają na użyteczne. Mogłabym to zrobić lepiej, ale na razie są w porządku. }
+
+Plh_111 { Oto twoje monety. }
+
+Plh_109 { Ciągle potrzebuję pułapek, aby zdobyć materiały. Gdybym miał je wszystkie sam budować, nie miałbym czasu na kowalstwo. }
+
+Plh_184 { Jasne, że chciałbym. Jednak nie znam nikogo, kto robi porządne pułapki... }
+
+Plh_113 { Przynieś mi pułapki, gdy już je znajdziesz, a dostaniesz swoje monety. }
+
+Plh_69 { Czego potrzebujesz? }
+
+Plh_57 { Czy możesz mnie nauczyć kowalstwa? }
+
+Teach_Power { Rura powiedziała, że ​​możesz mnie czegoś nauczyć. Co ty na to? }
+
+Plh_83 { Naucz mnie czegoś o swoim rzemiośle. }
+
+Plh_61 { Nie marnuję czasu na nowicjuszy. Poszukaj Rury i zapytaj ją, czy cię czegoś nauczy. }
+
+Plh_181 { Najpierw udowodnij mi, że masz to coś. }
+
+Plh_179 { Jeśli to Rura cię przysłała, to jesteś gotowy. }
+
+Plh_82 { Udowodniłeś, że jesteś tego godny. Nauczę cię. }
+
+Plh_84 { Brakuje Ci doświadczenia. }
+
+Plh_173 { Jeżeli czegoś ode mnie chcesz, przyjdź do mnie, gdy będę w kuźni. }
+
+Plh_168 { Naprawdę znalazłeś trzy z nich? Daj mi zobaczyć. }
+
+Plh_169 { Hmm, tak, to powinno zadziałać. Jaki rodzaj zbroi chcesz, żebym dla ciebie zrobił? }
+
+Plh_174 { Arcydzieło. Nikt w Nemeton nie nosi tej zbroi. *uśmiecha się* }
+
+Plh_175 { Zbroja jest wyjątkowa... I wygląda bardzo dobrze. Powinna zapewnić ci większą ochronę. }
+
+Plh_86 { Gradan był jednym z dobrych facetów. Nie musiał umierać. Mombert powinien był lepiej się nim zająć. }
+
+Plh_95 { Spokojnie, Chunnaic. Takie rzeczy się zdarzają; wszyscy o tym wiemy. Taki los może spotkać każdego wojownika. Teraz Gradan ucztuje z Bóstwami. }
+
+Plh_96 { *mruczy cicho* }
+
+Plh_98 { Gradan umarł honorowo. Powinieneś być z niego dumny. }
+
+Plh_100 { Następnie otrzymał miejsce wśród Bóstw. }
+
+Plh_101 { Prawdopodobnie prawda. }
+
+Plh_102 { Ciesz się Świętem Ognia — czcimy Bóstwo. }
+
+Plh_4 { *przed tobą staje umięśniona osoba, początkowo nie zwracając na ciebie uwagi* }
+
+Plh_10 { Jestem Chunnaiczka, mistrzyni rzemiosła w Nemeton. Nikt nie potrafi kowalować tak jak ja. }
+
+Plh_87 { Moja broń jest wykonana z najlepszej stali w całej Drovie. }
+
+Plh_115 { Caspara? Myślałem, że jesteś w Georgefarm... }
+
+Plh_116 { Nie słyszałeś, jak tam jest niebezpiecznie? A poza tym, chyba potrzebujesz eksperta od pułapek, prawda? }
+
+Plh_117 { Dokładnie. Ale mogłeś po prostu wpaść... }
+
+Plh_124 { Zrobiłbym to, ale strażnicy nie pozwolili mi przejść — ale teraz jestem tutaj. }
+
+Plh_118 { Oto twoje monety. Caspara będzie wielką pomocą. Jestem pewien, że mogłaby cię nauczyć jednej lub dwóch rzeczy o pułapkach. }
+
+Plh_119 { Tak, ale w żaden sposób mnie nie prześcigniesz. }
+
+Plh_134 { Próbujesz ukraść mi diament, ty mały robaku? Powinieneś się cieszyć, że nie obetnę ci palców. }
+
+Plh_70 { Ach, nasz nowy przybysz. Jeśli potrzebujesz sprzętu, przyjdź do mnie. }
+
+Plh_16 { Mówić. }
+
+Plh_37 { Tutaj mam pazury niedźwiedzia. (podanie) }
+
+Plh_40 { Przyjrzyjmy się temu bliżej. }
+
+Plh_92 { Pazury dorosłego niedźwiedzia. Dobra robota! }
+
+Plh_43 { Więc, czy teraz nauczysz mnie, jak zostać kowalem? }
+
+Plh_44 { To nie było łatwe. }
+
+Plh_46 { Nie unikasz trudnych zadań i ciężkiej pracy — to mi się podoba. }
+
+Plh_49 { Dobrze. W takim razie pomogę ci udoskonalić twoje umiejętności kowalskie. Powinieneś już znać podstawy. Nie potrzebuję amatorów. }
+
+Plh_182 { Zgłoś się do Rury, aby najpierw nauczyć się podstaw. Gdy je poznasz, wróć do mnie. }
+
+Plh_48 { Mam nadzieję. To powinno być wyzwaniem. }
+
+Plh_18 { Jak mogę ci udowodnić, że jestem tego godny? }
+
+Plh_19 { Kowalstwo jest kwestią woli. Twoja siła i odwaga muszą stać się silniejsze niż żelazo. }
+
+Plh_21 { Siła, cierpliwość i cnota muszą w tobie połączyć się, aby zgiąć żelazo przed twoją wolą. }
+
+Plh_23 { Brzmi prosto. }
+
+Plh_22 { Jak mogę udowodnić, że jestem w stanie to zrobić? }
+
+Plh_25 { *marszczy brwi* Takie trzepotanie dziąsłami nie przyniesie żadnych efektów w kowadle. }
+
+Plh_26 { Przynieś mi pazury dorosłego niedźwiedzia. }
+
+Plh_27 { Nie waż się też przynosić mi pazurów rippera! Wiem, jak wyglądają. }
+
+Plh_28 { Gdzie mogę zdobyć pazury niedźwiedzia? }
+
+Plh_29 { Brzmi prosto. }
+
+Plh_31 { Hm, daj mi pomyśleć... }
+
+Plh_90 { A może od owiec? }
+
+Plh_123 { *mruczy* Co to ma być? }
+
+Plh_30 { *marszczy brwi* }
+
+Plh_32 { Słyszałem już od ciebie wystarczająco dużo gadania. I wiesz, co masz robić. }
+
+Plh_33 { Więc zrób to. }
+
+Plh_72 { Jeśli Dziedziczka Maura zechce, tak się stanie. Jakiej broni chcesz? }
+
+Plh_74 { Siekiera. }
+
+Plh_75 { Miecz. }
+
+Plh_120 { Sztylet. }
+
+Plh_73 { Włócznia. }
+
+Plh_76 { Tutaj. Powinno pasować. }
+
+Plh_121 { Teraz jesteś częścią rodziny. To znaczy, że dostaniesz tylko najlepszą broń. }
+
+Plh_122 { Jeśli potrzebujesz czegoś jeszcze, możesz kupić ode mnie różne bronie, pułapki lub materiały do ​​rzemiosła. Rura, moja uczennica, również sprzedaje przydatne przedmioty. }
+
+Plh_162 { Daj mi zobaczyć. }
+
+Plh_163 { Nigdy czegoś takiego nie widziałem... Jakość wykonania — niesamowita. }
+
+Plh_164 { Prawie lepsze od mojego. }
+
+Plh_165 { Dzięki temu mógłbym stworzyć dla ciebie zbroję, ale do tego potrzebuję więcej materiału. Jeśli przyniesiesz mi... }
+
+Plh_166 { ...trzy takie kawałki, mógłbym z nich zrobić zbroję. Zbroję, która byłaby lepsza od wszystkiego, co kiedykolwiek widziałem. }
+
+Plh_185 { Ale mogę zrobić dla ciebie tę zbroję tylko jeśli należysz do Nemetonu. }
+
+Plh_186 { Wykuwam zbroje tylko dla członków Nemetonu. }
+

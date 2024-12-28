@@ -1,0 +1,104 @@
+Movement_Gamepad { Użyj $MOVEMENT$, aby się poruszać. }
+
+Movement_Keyboard { Naciśnij $MOVEMENT$ aby się poruszać. }
+
+LookDirection { Rozglądaj się, przesuwając myszkę. Twoja linia wzroku zależy od kierunku, w którym idziesz. Jeśli zwrócisz się w przeciwnym kierunku, twoja postać będzie chodzić do tyłu i wolniej. }
+
+LookDirection_Gamepad { Jeśli nie użyjesz $INPUTANIM:LookX$, aby się rozejrzeć, poruszasz się w tym samym kierunku, w którym patrzysz. Jeśli patrzysz w przeciwnym kierunku, twoja postać będzie chodzić do tyłu i wolniej. }
+
+Perception_01 { Przytrzymaj $INPUTANIM:PerceptionMode$, aby przyjrzeć się bliżej. W ten sposób możesz patrzeć za obiekty lub przez mgłę. }
+
+Perception_01_Gamepad { Aktywuj tryb dochodzenia, naciskając $INPUTANIM:PerceptionMode$. W ten sposób możesz patrzeć za obiekty lub przez mgłę. }
+
+Perception_02 { Jeśli przyjrzysz się uważniej, możesz odkryć rzeczy, które w innym przypadku byłyby niewidoczne. Na przykład ślady stóp. }
+
+ChangeStance { Naciśnij $INPUTANIM:DrawWeapon$, aby wyciągnąć lub schować broń. Zaatakuj za pomocą $INPUTANIM:Attack_Primary$ z wyciągniętą bronią. }
+
+EngageCombat { Tylko jeśli dobyłeś broni, możesz zaatakować za pomocą $INPUTANIM:Attack_Primary$! }
+
+Interact { Użyj $INPUTANIM:Interact$, aby wchodzić w interakcje z przedmiotami lub ludźmi. Dopóki twoja broń jest wyciągnięta, nie możesz w ogóle wchodzić w interakcje.<br>Schowaj broń za pomocą $INPUTANIM:DrawWeapon$. }
+
+Perception_03 { Niektóre obiekty można zbadać dokładniej. Przytrzymaj $INPUTANIM:PerceptionMode$, aż symbol oka nad twoją głową zostanie całkowicie wypełniony. }
+
+Dodge { Przytrzymaj przycisk ruchu i naciśnij $INPUTANIM:Dodge$, aby wykonać unik w tym kierunku. Unik zużywa wytrzymałość. Wytrzymałość jest wyświetlana pod postacią. }
+
+Inventory { Naciśnij $INPUTANIM:Inventory$, aby otworzyć swój ekwipunek. Stąd możesz przeciągać przedmioty na pasek szybkiego dostępu, a także wyposażać i używać przedmiotów. }
+
+SwitchWeapon { Znalazłeś nowy typ broni! W Drova jest kilka różnych typów broni. Wypróbuj je, aby dowiedzieć się, który z nich najbardziej Ci odpowiada.<br>Dostępne są dwa dowolnie konfigurowalne zestawy broni. Możesz przełączać się między nimi za pomocą $INPUTANIM:SwapWeaponSet$. }
+
+Perception_03_Controller { Aktywuj tryb badania, naciskając $INPUTANIM:PerceptionMode$. Aby zbadać obiekt, stań blisko niego i użyj $INPUTANIM:LookX$, aby spojrzeć w jego kierunku. }
+
+Abilities_02 { Nauczyłeś się umiejętności! Została ona już automatycznie wyposażona. Naciśnij $INPUTANIM:OpenAbilities$, aby otworzyć menu umiejętności i przyjrzeć się bliżej swojej nowej umiejętności lub przenieść ją do innego miejsca w menu koła. W grze możesz zmienić aktywną umiejętność, używając menu koła ($INPUTANIM:RingMenu$). }
+
+Abilities_02_Controller { Nauczyłeś się umiejętności! Została ona już automatycznie wyposażona. Naciśnij $INPUTANIM:Inventory$, aby otworzyć menu, i użyj $INPUTANIM:PrevPanel$ i $INPUTANIM:NextPanel$, aby uzyskać dostęp do zakładki umiejętności. Stamtąd możesz przyjrzeć się bliżej swojej nowej umiejętności lub przenieść ją do innego slotu w menu koła. W grze możesz zmienić aktywną umiejętność, używając menu koła ($INPUTANIM:RingMenu$). }
+
+Abilities_03 { Wyposażyłeś swoją pierwszą umiejętność! Aby zmienić umiejętności, przytrzymaj $INPUTANIM:RingMenu$, aż wybierzesz umiejętność, której chcesz aktywnie używać. }
+
+FoodAndHeal { Z czasem zarówno jedzenie, jak i przedmioty lecznicze przywracają zdrowie. W przeciwieństwie do przedmiotów leczniczych, jedzenie przywraca zdrowie wolniej, ale gdy pasek zdrowia jest pełny, proces regeneracji zostaje wstrzymany. Plus: Tak długo, jak buff jest aktywny, jedzenie zapewnia również dodatkowe efekty. }
+
+FirstHeal { Znalazłeś roślinę leczniczą!<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć swój ekwipunek.<br>Stąd możesz przeciągać przedmioty na pasek podręczny lub natychmiast wyposażyć się w przedmiot i go zużyć, używając $INPUTANIM:Interact$.<br>$ICON:Heal$ Przedmioty lecznicze z czasem przywracają ci zdrowie. }
+
+BattleBuddies_Blocks { Przytrzymaj $INPUTANIM:Block$, aby zablokować. Każdy zablokowany cios zmniejsza twoją wytrzymałość zamiast zdrowia. Po wyczerpaniu wytrzymałości nie będziesz już w stanie blokować. }
+
+BattleBuddies_Blocks_Label { Udane bloki }
+
+BattleBuddies_Combos { Naciśnij $INPUTANIM:Attack_Primary$ dokładnie w odpowiednim momencie po ataku, aby zaatakować ponownie. Używając kombinacji, możesz ogólnie atakować szybciej i zadawać większe obrażenia. }
+
+BattleBuddies_Combos_Label { Udane kombinacje }
+
+BattleBuddies_Spells { Jak wskazują oznaczenia zdolności na pasku Focus, zebrałeś wystarczająco dużo Focus, aby użyć zdolności. Użyj zdolności, naciskając $INPUTANIM:UseSpell$. }
+
+BattleBuddies_Spells_Label { Udane zaklęcia }
+
+BattleBuddies_GetFlow { Pasek Focus poniżej paska zdrowia wyświetla Twoje aktualne skupienie. W walce, za każdym razem, gdy trafisz przeciwnika, generujesz Focus. Jeśli zostaniesz trafiony, stracisz Focus. Jeśli nie wykorzystasz swojego Focus, rozproszy się — z wyjątkiem Twojego podstawowego Focus. }
+
+FirstFood { Znalazłeś trochę jedzenia!<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć swój ekwipunek.<br>Stąd możesz przeciągać jedzenie na pasek szybkiego dostępu lub od razu je konsumować, używając $INPUTANIM:Interact$.<br><br>$ICON:Food$ Jedzenie z czasem przywraca twoje zdrowie. Jednak gdy masz pełne zdrowie, regeneracja jest wstrzymana.<br><br>Upewnij się, że jesteś dobrze syty w danym momencie. Zbieraj przepisy i przygotowuj jedzenie przy ognisku. }
+
+FirstGoodFood { Zjadłeś bogate jedzenie.<br>Wiele potraw w Drova zapewnia pasywne efekty, gdy jesteś syty.<br>Uważaj jednak! Jeśli zjesz więcej jedzenia, efekt sytości zostanie nadpisany. Najlepiej poczekać, aż efekt wygaśnie, zanim znowu zjesz.<br><br>Zawsze wskazane jest, aby być sytym, aby cieszyć się pasywną regeneracją zdrowia. }
+
+FirstWeapon { Znalazłeś broń!<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć swój ekwipunek.<br>Stąd możesz wyposażyć swoją broń za pomocą $INPUTANIM:Interact$.<br><br>(Możesz dostosować dwa zestawy broni; naciśnij $INPUTANIM:SwapWeaponSet$, aby przełączać się między nimi.) }
+
+FirstNote { Znalazłeś list!<br>Wszystkie listy są przechowywane w Twoim dzienniku w zakładce listów. Możesz je przeczytać w dowolnym momencie. }
+
+FirstNote_Gamepad { Znalazłeś list.<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć menu i użyj $INPUTANIM:PrevPanel$ i $INPUTANIM:NextPanel$, aby uzyskać dostęp do zakładki dziennika. Wszystkie listy są gromadzone w zakładce listów. Możesz je stamtąd przeczytać w dowolnym momencie. }
+
+NeedMunition { Aby użyć broni dystansowej w walce, musisz ją załadować poleceniem $INPUTANIM:Block$. }
+
+FirstRangeWeapon { Znalazłeś broń dystansową.<br>Naciśnij $INPUTANIM:Inventory$, aby uzyskać dostęp do ekwipunku i wyposażyć się w broń.<br>Aby jej użyć, musisz także wyposażyć się w odpowiednią amunicję z ekwipunku. }
+
+Journal { Dodano nowy wpis do dziennika.<br>Naciśnij $INPUTANIM:Journal$, aby otworzyć dziennik.<br>Stamtąd możesz w dowolnym momencie sprawdzić status swoich zadań. }
+
+Journal_Gamepad { Dodano nowy wpis do dziennika.<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć menu i za pomocą $INPUTANIM:PrevPanel$ i $INPUTANIM:NextPanel$ uzyskaj dostęp do zakładki dziennika.<br>Stamtąd możesz w dowolnym momencie sprawdzić aktualny status swoich zadań. }
+
+FirstConsFlow_Gamepad { Znalazłeś zwój zaklęcia.<br>Naciśnij $INPUTANIM:OpenAbilities$, aby otworzyć menu i użyj $INPUTANIM:PrevPanel$, aby $INPUTANIM:NextPanel$ uzyskać dostęp do zakładki umiejętności. Możesz tam wyposażyć swój zwój zaklęcia.<br>Zwoje zaklęcia mogą dać ci przewagę w trudnych walkach; nie ma sensu ich gromadzić. }
+
+FirstThrow { Znalazłeś przedmiot eksploatacyjny!<br> Naciśnij $INPUTANIM:Inventory$, aby otworzyć swój ekwipunek.<br>Stąd możesz przeciągnąć przedmiot na pasek szybkiego dostępu. }
+
+Stealing { Mieszkańcy Drova uważnie obserwują swoje rzeczy. Możesz próbować je okraść, ale wtedy musisz mieć pewność, że nie zostaniesz złapany.<br>Wskaźnik myszy wskazuje, czy interakcja jest przestępstwem. }
+
+Stealing_Gamepad { Mieszkańcy Drova uważnie obserwują swoje rzeczy. Możesz próbować je okraść, ale wtedy musisz mieć pewność, że nie zostaniesz złapany.<br>Symbol interakcji wskazuje, czy interakcja jest przestępstwem. }
+
+Crafting { Gotuj i warź mikstury na ognisku. Istnieją inne stanowiska robocze, których możesz użyć do tworzenia pułapek, wyposażenia i przedmiotów do rzucania.<br>Stwórz niektóre przepisy bezpośrednio z menu tworzenia $INPUTANIM:CraftingMenu$ bez stanowiska roboczego. }
+
+CloseTutorial { Ukrywać }
+
+CloseTutorial_Gamepad { Zamknij (przytrzymaj $INPUTANIM:UISubmit$) }
+
+Statuseffects { Wszedłeś w krzak cierniowy i zacząłeś cierpieć na „krwawienie”.<br>W grze jest kilka dolegliwości, które będą wyświetlane po prawej stronie paska zdrowia.<br>Otwórz menu za pomocą $INPUTANIM:Inventory$, aby użyć podpowiedzi, które pozwolą ci dokładniej przyjrzeć się różnym dolegliwościom. }
+
+Secondaries { Znalazłeś tarczę!<br>To przedmiot do trzymania w drugiej ręce. Użyj go w walce, naciskając $INPUTANIM:Block$.<br>Jeśli naciśniesz $INPUTANIM:Block$ bez posiadania przedmiotu do trzymania w drugiej ręce, zamiast tego wykonasz akcję unikalną dla każdego typu broni. }
+
+UsedHealItem { Zużyłeś przedmiot leczniczy.<br>Zastosowałeś teraz efekt leczniczy, który powoduje, że okresowo odzyskujesz zdrowie.<br>Kilka efektów leczniczych może być aktywnych jednocześnie. }
+
+PoiseBreak { Twój przeciwnik leży na ziemi po tym, jak przełamałeś jego postawę.<br>Postawa jest wyświetlana jako żółty pasek poniżej paska zdrowia.<br>Wykorzystaj ten czas, aby naprawdę rozwalić przeciwnika, uleczyć się lub użyć przedmiotu. }
+
+LookDirectionCombat { Podczas walki zawsze atakujesz w kierunku, w którym jesteś zwrócony.<br>Strzałka pod postacią wskazuje kierunek, w którym jesteś zwrócony.<br>Użyj myszki, aby zmienić ten kierunek. }
+
+LookDirectionCombat_Gamepad { Podczas walki zawsze będziesz atakować w kierunku, w którym jesteś zwrócony.<br>Strzałka pod postacią wskazuje kierunek, w którym jesteś zwrócony.<br>Użyj $INPUTANIM:LookX$, aby zmienić ten kierunek. }
+
+FirstTreasure { Znalazłeś mapę skarbów!<br>Wszystkie mapy skarbów są przechowywane w Twoim dzienniku w zakładce listów. Możesz je przeczytać w dowolnym momencie. }
+
+FirstTreasure_Gamepad { Znalazłeś mapę skarbów.<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć menu i użyj $INPUTANIM:PrevPanel$ i $INPUTANIM:NextPanel$, aby uzyskać dostęp do zakładki dziennika.<br>Wszystkie mapy skarbów są przechowywane w zakładce listów. Możesz je stamtąd przeczytać w dowolnym momencie. }
+
+FirstRecipe { Znalazłeś przepis.<br>Naciśnij $INPUTANIM:Inventory$, aby otworzyć swój ekwipunek. Stamtąd możesz poznać przepis, naciskając $INPUTANIM:Inventory$. }
+

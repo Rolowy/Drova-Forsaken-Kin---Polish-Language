@@ -1,0 +1,304 @@
+Plh_0 { Jola mnie wysłała. Czy możesz mnie zabrać do Pit? }
+
+Plh_193 { Jestem gotowy na Pit. }
+
+Plh_170 { Co masz na myśli mówiąc, że Levin nagradza pracowitych pracowników? }
+
+Plh_172 { Levin jest w Pit. On odpowiada za srebro. Więc musisz się tam wyróżniać. Nieważne jak. Levin musi zobaczyć, że jesteś wartościowy. }
+
+Plh_171 { Jeśli chcesz tu trafić, będziesz potrzebować poparcia Levina. To otworzy wiele drzwi. Na przykład te do Upper Quarter. }
+
+Plh_146 { Potrzebuję trochę czasu dla siebie. Będę szybki. }
+
+Plh_3 { Trzymaj się blisko. Jest tu niebezpiecznie. }
+
+Plh_97 { *spogląda na ciebie zrzędliwie* Czego chcesz? }
+
+Plh_54 { Dziękuję, że mnie tu przyprowadziłeś. }
+
+Plh_55 { Wszystko w porządku? }
+
+Plh_56 { A jeśli chodzi o tych bandytów... oto moja porcja. (oddajcie $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ monet) }
+
+Plh_99 { Nie ma za co. }
+
+Plh_102 { Jasne. Po prostu zajęty. }
+
+Plh_103 { Czy u Ciebie na pewno wszystko w porządku? }
+
+Plh_104 { Zostawię cię w spokoju. }
+
+Plh_100 { Ja też nie cierpię, jak Adalgis zabiera wszystkim monety — i nikt nic z tym nie robi! Ale myślałem, że trzymamy się razem! }
+
+Plh_105 { Ale ja nie powinnam nic mówić! }
+
+Plh_107 { Oto moja część monet. ($GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$) }
+
+Plh_106 { Chyba się myliłeś. }
+
+Plh_108 { None }
+
+Plh_110 { Zapomnij o tym. }
+
+Plh_109 { Och, cóż... Chyba się pomyliłem. Przepraszam. W tym miejscu trzeba uważać, komu się ufa. Widziałem już, jak przyjaciel stał się wrogiem. }
+
+Plh_111 { Jestem pewien, że masz rację. Muszę wrócić do pracy... }
+
+Plh_101 { Powinieneś był zostać. Przez ciebie straciłem wszystkie moje monety. Ale myślałem, że trzymamy się razem! }
+
+Plh_113 { *odwraca wzrok* }
+
+Plh_165 { Spójrz na to — zawodnicy walczący na arenie trenują tutaj. }
+
+Plh_166 { Pewnego dnia to ja tam będę stał. Z mieczem w dłoni. Od Hewera do wojownika. }
+
+Plh_168 { Kiedyś byłeś Rzeźnikiem? }
+
+Plh_167 { *uśmiecha się* Odkryłem Deep Mine. Levin nagradza Hewersów, którzy ciężko pracują. A teraz awansowałem na prawdziwego wojownika. }
+
+Plh_159 { Byłem najlepszym Hewerem, jaki kiedykolwiek postawił stopę w obozie Remnants. Potrafiłem wyrąbywać całe góry, aż nic nie zostało. }
+
+Plh_160 { Ale już z tym skończyłem. Nie jestem już Hewerem, ale wojownikiem Remnantów. }
+
+Plh_192 { Więc chodźcie za mną. }
+
+Plh_174 { Ach, ktoś nowy w Pit! Mogę cię tam zabrać. To trochę wędrówka. }
+
+Plh_175 { Muszę wpaść do Joli na sekundę, zanim pójdziemy. Czy masz wszystko, czego potrzebujesz w Pit? }
+
+Plh_189 { Jestem gotowy. }
+
+Plh_190 { Potrzebuję chwili. Zaraz wrócę. }
+
+Plh_191 { Poczekam. }
+
+Plh_177 { Ach, Hewers for the Pit! Kiedy ostatnio zabrałem kilku Hewersów do kopalni, bandytów nie było. Zobaczmy, co będzie dzisiaj. }
+
+Plh_176 { Jola, czy jesteśmy tu sami? }
+
+Plh_178 { Żaden drwal już tu nie przychodzi. A każdy, kto przychodzi, pracuje teraz w Pit jako Hewer. }
+
+Plh_179 { Poszedłem do Cengiza. On ma wszystko pod kontrolą. }
+
+Plh_180 { Byłem tam, ale prawie nikogo nie było. }
+
+Plh_184 { Miło to słyszeć. Ale nadal moglibyśmy wykorzystać pracowników. }
+
+Plh_186 { Zaoferowaliśmy im naszą pomoc, ale woleli pracować z Nemetonem. Pościelili łóżko, więc teraz mogą się w nim położyć. }
+
+Plh_182 { Wychodzimy. Zostań ze mną. }
+
+Plh_183 { Dbajcie o siebie. }
+
+Plh_185 { Polegaj na kimkolwiek w Nemeton i jesteś w tarapatach. }
+
+Plh_5 { Jesteśmy poza obozem Remnants. Teraz musimy być ostrożni. }
+
+Plh_81 { Nadal jestem pod wrażeniem tego, co Bygones tutaj zbudowali. Wykopali tunele w górach i wznieśli te posągi. Jak taka cywilizacja mogła po prostu zniknąć? }
+
+Plh_82 { To właśnie kocham w kręceniu się po kopalniach. Trochę mi tego brakuje. Pewnie minęło za dużo czasu odkąd ostatni raz tam byłem. }
+
+Plh_83 { Dlaczego tęsknisz za kopalniami? }
+
+Plh_84 { Jak udało ci się awansować z wojownika na wojownika? }
+
+Plh_85 { Przejdźmy dalej. }
+
+Plh_87 { Przez całe życie pracowałem w kopalniach. To była moja rutyna i sprawiało mi to przyjemność. Robiłem coś, w czym byłem dobry. Jedno z najlepszych. *uśmiecha się* }
+
+Plh_88 { Chyba miałem szczęście. W Pit odkryłem dojście prowadzące do tunelu z ogromną żyłą srebra. To jeden z powodów, dla których mamy tak dużo srebra. }
+
+Plh_89 { Wieść się rozeszła, a potem Levin się o tym dowiedział i wysłał mnie do Kiliana. I oto jestem. *uśmiecha się* }
+
+Plh_86 { Przed nami jeszcze długa droga. }
+
+Plh_8 { Oto rada: nie podążaj drogą na północ. Wiele snaptorów tam się kręci. Bez porządnego sprzętu nie przetrwasz długo. }
+
+Plh_90 { Czy snaptory są aż tak silne? }
+
+Plh_91 { Co z tą świątynią? }
+
+Plh_92 { Przejdźmy dalej. }
+
+Plh_95 { Mogę zająć się pojedynczym snaptorem. Dwa lub więcej mogą być ryzykowne. Szkoda, że ​​zawsze podróżują w grupach. }
+
+Plh_94 { Nie mam pojęcia. To z Bygones. }
+
+Plh_139 { Chociaż nie wiem, do czego dokładnie służy ta świątynia, zwykle zostawiam ofiarę bogom Bygones, aby chronili mnie w kopalniach. Jak dotąd nic mi się nie stało. }
+
+Plh_187 { Słyszałem, że jeśli zostawisz odpowiednią ofiarę, zdobędziesz łaskę tych dawnych bogów... Ale nie wiem, co muszę poświęcić, żeby tak się stało. To może być kłamstwo. }
+
+Plh_140 { Prawie gotowe. Po prostu rozejrzyj się trochę, jeśli chcesz. }
+
+Plh_117 { Mieliśmy szczęście. Czasami w pobliżu są bandyci, którzy próbują pozbawić cię kilku monet. Ruszajmy dalej. }
+
+Plh_9 { A, cholera. Uważaj. Zostań za mną. Zajmę się tym. }
+
+Plh_14 { Co słychać? }
+
+Plh_15 { W porządku. }
+
+Plh_17 { Po prostu bądź cicho i nic nie mów. }
+
+Plh_12 { Och, czyż to nie Mottek! Miło cię tu spotkać. Słyszałem, że zrobiłeś sobie nazwisko. I że teraz jesteś częścią Remnants. Już nie rąbiesz? *uśmiecha się* }
+
+Plh_18 { Hej, Adalgis, co tu robisz. Eee... Nie chcę żadnych kłopotów. Przywiozłem ze sobą monety $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$. Dam ci je. }
+
+Plh_19 { Myślałeś, że nas nie będzie, prawda? *wzdycha* Uwierz mi, ja też wolałbym tu nie być. }
+
+Plh_114 { Wiesz, jak to jest. Dopóki płacisz, nie zrobimy ci krzywdy. Ale widzę, że przyprowadziłeś kogoś ze sobą. To będzie $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ monet w sumie. }
+
+Plh_119 { Hej, Adalgis... jeśli ta twarz nie wygląda znajomo... }
+
+Plh_120 { Hm? }
+
+Plh_121 { *patrzy na ciebie* Ja bym, uh... Powiedziałbym, żebyśmy poszli dalej. Nigdy więcej o nas nie usłyszysz. }
+
+Plh_122 { Nie wiem, co im zrobiłeś, ale musiało to być coś. }
+
+Plh_21 { Nie będziemy nic płacić. }
+
+Plh_22 { Nigdy wcześniej nie chciałeś mieć więcej niż 50 monet. }
+
+Plh_24 { Wszystko staje się droższe. A ty jesteś z Remnants. Więc musisz być o wiele bardziej wypłacalny. I nie jesteś sam... }
+
+Plh_26 { Oto moja część. (oddaj $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ monet) }
+
+Plh_27 { Nie będziemy płacić nic złodziejom takim jak ty. }
+
+Plh_115 { Już zapłaciłem ci monetami. }
+
+Plh_29 { No pewnie. $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ monet. To sporo, ale... tak. *patrzy na ciebie* }
+
+Plh_35 { Do dzieła. Oddaj monety albo my po nie przyjdziemy! }
+
+Plh_36 { Ach, oto są. Na szczęście mam przy sobie wystarczająco dużo monet. }
+
+Plh_31 { Oto monety. Teraz przechodźmy. }
+
+Plh_32 { Spokojnie. Dotrzymam słowa. Muszę tylko sprawdzić, czy to naprawdę $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottekAndPlayer$ monety. }
+
+Plh_39 { *wzdycha* Wygląda legitnie. Bardzo mi przykro, Mottek, ale rozpaczliwie potrzebujemy tych monet. Powodzenia w Pit. }
+
+Plh_40 { Hm. Eee, dziękuję... }
+
+Plh_41 { *szepcze do ciebie* Pospieszmy się. }
+
+Plh_30 { Dobrze, dzięki. Zajmę się tym. }
+
+Plh_79 { Potem przyjdziemy po monety. }
+
+Plh_80 { Hej, nie chcemy żadnych — }
+
+Plh_195 { Ugh. Powinienem był to przewidzieć. Nie martw się, zajmę się tym. }
+
+Plh_116 { Czy ty teraz? Chyba moja pamięć nie jest aż tak świetna. Dlaczego nie zapłacisz mi jeszcze raz, żeby mieć pewność? W przeciwnym razie przyjdziemy po nich. }
+
+Plh_28 { Hej, skąd wziąłeś pomysł, że rozmawiamy z tobą? }
+
+Plh_78 { Hej, wszystko w porządku. Ale zazwyczaj nie chcesz więcej niż $GVAR:QuestVars_TheWayToTheMine_Config.BanditAmbush_MoneyMottek$ monet, prawda? }
+
+Plh_133 { Wow, co za walka. Nie sądziłem, że nam się uda. Ruszajmy szybko. Zanim pojawi się więcej z nich. }
+
+Plh_134 { Wzięliśmy swoją część. Możesz przejść. }
+
+Plh_135 { *marszczy brwi i mruczy* Już... idziemy. }
+
+Plh_10 { Oto jesteśmy. Nareszcie. To jest Pit. }
+
+Plh_43 { *ziewa* Nie ma mowy! Mottek! Co tu robisz? Myślałam, że już nigdy cię nie zobaczymy! Teraz jesteś częścią nas, widzę. }
+
+Plh_123 { Miło cię widzieć. Dotarliśmy tu bezpiecznie. Oczywiście, że zająłeś się bandytami. }
+
+Plh_127 { Przechodziłem tamtędy wcześniej i pokonałem bandytów. }
+
+Plh_130 { Naprawdę nie mogę się doczekać Pit. W końcu znów być pod ziemią... }
+
+Plh_60 { Najpierw zabiorę cię do Levina. Do zobaczenia, Esdert. }
+
+Plh_61 { *patrzy na ciebie* No cóż, witaj w Pit. Nie rób sobie jaj, nie wywołuj żadnych zapadlisk, a wtedy wszyscy pozostaniemy przyjaciółmi. }
+
+Plh_52 { Moja firma już rozwaliła bandytów. Nigdy więcej nie pokażą swoich twarzy! }
+
+Plh_63 { *patrzy na ciebie zaskoczony* Dobra robota. To ciężar z moich ramion. Ludzie mogą mówić o tobie, co chcą, Mottek, ale nie jesteś wielkim wojownikiem. Miałeś szczęście! }
+
+Plh_131 { Jeśli ich pokonasz, otrzymasz także nagrodę. }
+
+Plh_66 { Oto kilka monet za twój kłopot. Jeśli nam pomożesz, zapłacimy ci. }
+
+Plh_67 { Cóż, jeśli to nie jest pomyślny początek. Naprawdę nie mogę się doczekać Pit. Minęło dużo czasu odkąd tam byłem. }
+
+Plh_69 { Dziękuję. }
+
+Plh_70 { Dokąd muszę się teraz udać? }
+
+Plh_64 { Prawie nic nie zrobiłem. Ale kiedyś była nagroda. Co się z tym stało? *uśmiecha się* }
+
+Plh_65 { Chwileczkę... }
+
+Plh_46 { Miło cię widzieć, Esdert. W drodze tutaj, zostaliśmy zaatakowani przez bandytów. Myślałem, że się nimi zająłeś. }
+
+Plh_47 { Co? Zrobiliśmy to, ale najwyraźniej wrócili? Cholera, to nie może się dziać... }
+
+Plh_132 { Uciekli w chwili, gdy nas zauważyli! *uśmiecha się z politowaniem* Nie wrócą w najbliższym czasie. }
+
+Plh_62 { Jak widzę, nie przyszedłeś sam. Kto to? }
+
+Plh_49 { *jego uśmiech blednie* Ktoś do rąbania. I do rąbania. }
+
+Plh_53 { Jesteśmy tam. Zrobiłem swoją część. Jesteś teraz w Dołku. *odwraca się od ciebie* }
+
+Plh_50 { Kogoś do rąbania. I do rąbania. Uratował mi tyłek, gdy bandyci polowali na moje monety. }
+
+Plh_71 { Levin jest tuż przed nami. On tu rządzi, a ty powinieneś być po jego dobrej stronie. Jeśli chcesz dołączyć do Remnants w pewnym momencie, będziesz potrzebował jego głosu. }
+
+Plh_72 { Jak zdobyć głos Levina? }
+
+Plh_75 { Dzięki. Pójdę porozmawiać z Levinem. }
+
+Plh_73 { W tym problem. Będzie myślał, że jesteś niczym więcej niż tylko kolejnym przeciętnym Hewerem. Odkryłem Deep Mine, a Levin się o tym dowiedział. Dlatego teraz noszę tę zbroję. *uśmiecha się* }
+
+Plh_74 { Zrób to. O, i oto kolejna rada. }
+
+Plh_188 { Gdy już znajdziesz się w Pit, uważaj, jak dzierżysz topór. Nie chcesz przecież zniszczyć cennego srebra. Uderzaj ostrożnie i utrzymuj stałe tempo. }
+
+Plh_76 { Dzięki za radę. }
+
+Plh_141 { Jesteś gotowy? }
+
+Plh_142 { Chodźmy do Pit. }
+
+Plh_151 { Co oznaczają słowa o Bygones? }
+
+Plh_143 { Potrzebuję jeszcze trochę czasu. }
+
+Plh_93 { Pójdziemy drogą, a potem przejdziemy przez utartą ścieżkę, a potem przejdziemy przez wodę. Most zawalił się jakiś czas temu. Chodź, chodź za mną. }
+
+Plh_152 { Moja matka mnie ich nauczyła. Mówiliśmy to naszym Bóstwom, ale nie może być błędem mówić te same słowa do bogów Bygones. }
+
+Plh_144 { Dobrze, poczekam tutaj. }
+
+Plh_136 { Lewo, prawo, my oboje, trzymajmy tempo! Ci bandyci już więcej z nami nie zadzierają. }
+
+Plh_137 { Wszystko boli i to wszystko twoja wina. Czego chcesz? }
+
+Plh_157 { Czy możesz mi pokazać jakieś sztuczki dotyczące górnictwa? }
+
+Plh_162 { To będzie Cię kosztować niezłą kasę. $GVAR:EVars_Mottek.PriceToLearnMining$ monet. }
+
+Plh_163 { Weź to. (przekaż monety $GVAR:EVars_Mottek.PriceToLearnMining$) }
+
+Plh_145 { Kopalnia na mnie czeka. }
+
+Plh_150 { Jestem do Państwa dyspozycji. }
+
+Plh_149 { Trzymam cię. }
+
+Plh_148 { Czuwaj nade mną. }
+
+Plh_147 { Chroń mnie. }
+
+Plh_196 { Dlaczego miałbym chcieć udać się do Upper Quarter? }
+
+Plh_197 { Bez dostępu do Upper Quarter nie można dołączyć do Remnants. Kilian postanowił, że zostaniesz przyjęty i nigdy nie odchodzi. }
+

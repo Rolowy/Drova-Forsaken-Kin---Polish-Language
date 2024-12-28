@@ -1,0 +1,218 @@
+Plh_8 { Co to za miejsce? }
+
+Plh_27 { Co dokładnie tu robisz? }
+
+Plh_9 { *uśmiecha się* Znalazłeś nas, Ruin Raiders. To czyni cię jedną z niewielu osób, które wiedzą o tym miejscu. }
+
+Plh_28 { Przeszukujemy ruiny w poszukiwaniu skarbów. A jeśli jakieś znajdziemy, sprzedajemy je w Nemeton lub w obozie Remnants. }
+
+Plh_24 { Co masz na myśli mówiąc "Bygones"? }
+
+Plh_26 { Inne rzeczy? Co masz na myśli? }
+
+Plh_23 { Na pewno widziałeś stare ruiny rozsiane po całej Drova. Obóz Remnantów rozłożył się pośród nich. Te ruiny to pozostałości Bygones. }
+
+Plh_25 { To była ich kolonia dawno temu. Wydobywali tu srebro i inne rzeczy. }
+
+Plh_37 { Widziałeś kiedyś magię runiczną? Pochodzi z Bygones. Wykorzystali moc Bóstw, aby ją przywołać. }
+
+Plh_38 { W każdym razie zginęli. Nikt nie wie dlaczego. }
+
+Plh_39 { Może kiedyś się dowiemy... }
+
+Plh_42 { Znalazłem kolejną pamiątkę. }
+
+Plh_105 { Najpierw porozmawiaj z Olafem. Musisz wszystko zrozumieć. }
+
+Plh_18 { Mam ci pokazać tę relikwię. }
+
+Plh_113 { Znalazłem komnatę Drivaniusa. }
+
+Plh_19 { *patrzy na relikwię* }
+
+Plh_31 { I co powiesz? }
+
+Plh_34 { Dziwny... }
+
+Plh_35 { To relikt Bygones. Będę musiał zbadać to dokładniej. Ale to zajmie trochę czasu. }
+
+Plh_44 { Jego wartość jest trudna do oszacowania. Podam ci, powiedzmy... }
+
+Plh_45 { $GVAR:QuestVars_Brutus_Config.BrutusMineReward$ monet. }
+
+Plh_104 { Nie krępuj się i przynieś mi więcej pamiątek z przeszłości. }
+
+Plh_114 { CO? Gdzie oni są? Co znalazłeś? Wylej to! }
+
+Plh_115 { Znajduje się pod Czerwoną Wieżą. Można tam dotrzeć przez świątynię Sol. }
+
+Plh_116 { A co tam było? }
+
+Plh_118 { Było pełne badań. W ostatnich dniach pracował nad tym hełmem nexus. }
+
+Plh_119 { Jedyną rzeczą, do której mogłem się przyczepić, był ten dziwny hełm. }
+
+Plh_120 { Pokaż mi! Hm. Bez jego notatek nie rozumiem nic z tego. Czego jeszcze się nauczyłeś? }
+
+Plh_121 { Może najlepiej będzie, jeśli przekonasz się sam. }
+
+Plh_122 { Niewiele zrozumiałem z tego, co znalazłem. }
+
+Plh_123 { Powiem innym. Hełm Nexus. Hm... jeśli to była ostatnia rzecz, nad którą pracował, to może się okazać przydatna. Można mieć tylko nadzieję. }
+
+Plh_124 { Przynajmniej po dotarciu do Czerwonej Wieży. }
+
+Plh_97 { Czy masz jakieś wieści o relikwiach? }
+
+Plh_98 { Udało mi się złożyć kilka dokumentów. Gdzieś na północy musiała być wielka bitwa. Wpłynęła na Drivaniusa... }
+
+Plh_99 { Nie bezpośrednio. Ale jestem pewien, że są jeszcze jakieś w ruinach, jeszcze do odnalezienia. }
+
+Plh_100 { Uważaj na nie, kiedy jesteś poza domem. Zwłaszcza w miejscach, gdzie nikt nie postawił stopy od wieków... }
+
+Plh_101 { Przeszukałeś wszystkie ruiny? Może ktoś znalazł kamień? Powiedziałbym, że powinieneś sprawdzić kupców i oszustów. }
+
+Plh_126 { $GVAR:EVars_Player.Name$? Co tu jeszcze robisz? }
+
+Plh_127 { Chciałem sprawdzić, czy znalazłeś coś interesującego. }
+
+Plh_128 { Byłem w okolicy i pomyślałem, że wpadnę. }
+
+Plh_129 { Tak. Te komory zawierają wiele interesujących eksperymentów i sporo notatek. Drivanius nie tylko poczynił interesujące obserwacje na temat Drova, ale także na temat gwiazd... }
+
+Plh_130 { Jednakże Nexus Helmet był jego próbą opanowania sytuacji w Drova. Mam nadzieję, że odniesiesz większy sukces niż on. }
+
+Plh_5 { Ludzie nie zapuszczają się tu zbyt często. Jak się tu dostałeś? }
+
+Plh_13 { Proszę, przyniosłem to. Wydaje się, że od Olafa. }
+
+Plh_16 { *marszczy brwi* Od Olafa, mówisz? Daj mi zobaczyć. }
+
+Plh_14 { Mówiłem ci — to tylko kwestia czasu, zanim ktoś nas znajdzie. }
+
+Plh_15 { No cóż, chyba jednak miałeś rację. }
+
+Plh_110 { *ziewa* Jestem zmęczony. Porozmawiajmy więcej przy barze. }
+
+Plh_21 { Chyba jeszcze się nie przedstawiłem. }
+
+Plh_17 { Hej, co słychać? }
+
+Plh_10 { Nazywam się Ede. Poświęciłem życie na poszukiwanie artefaktów z Bygones. To fascynujące — i cenne również. }
+
+Plh_46 { Jeśli coś takiego wpadnie ci w ręce — rzadkie relikwie, stare tabliczki, tego typu rzeczy — zgłoś się do nas. Zaproponujemy ci dobrą cenę. }
+
+Plh_43 { Daj mi na to spojrzeć. }
+
+Plh_47 { Jakoś wydaje mi się to znajome... }
+
+Plh_48 { Mam przeczucie. Gdy tylko będę miał okazję, przyjrzę się temu bliżej. }
+
+Plh_49 { Otrzymasz swoje monety od razu. Dobra robota. }
+
+Plh_51 { Co to za stare pamiątki? }
+
+Plh_111 { Z przyjemnością spełnię Twoją prośbę — oczywiście za opłatą. }
+
+Plh_53 { To właśnie próbujemy ustalić. Im więcej znajdziemy, tym więcej się o nich dowiemy. }
+
+Plh_50 { Do tej pory inni powinni wiedzieć, że nam pomagasz. Zobacz Amella — ona naprawdę dobrze radzi sobie z mieczem i tarczą. Może nauczy cię kilku sztuczek. }
+
+Plh_54 { Oto twoje monety. }
+
+Plh_55 { Trzy znalezione przez ciebie relikwie to części klucza. Tak naprawdę powinno być... Hm... }
+
+Plh_56 { ... powinno być w sumie siedem części. Chwileczkę... }
+
+Plh_63 { Ede i jego relikwie — takie rzeczy, jakie chciałby odkryć! Dla mnie wszystkie wyglądają tak samo. }
+
+Plh_64 { Chyba się nie spotkaliśmy. Jestem Zoltan. Miło, że mi pomogłeś. Ruiny są ogromne. }
+
+Plh_65 { Jeśli chcesz, mogę cię nauczyć kilku sztuczek z toporem. Najlepsza broń. Mocna, ale niezbyt ciężka. Przydatna w ruinach. }
+
+Plh_106 { Siekiery nie są dla mnie. }
+
+Plh_107 { Wrócę do tego. }
+
+Plh_108 { Tam jest niebezpiecznie. Im lepiej potrafisz walczyć... }
+
+Plh_109 { Niewiarygodny! }
+
+Plh_57 { Pasują do siebie! To może być przełom! }
+
+Plh_66 { Chcesz powiedzieć, że jesteśmy coraz bliżej Drivaniusa? }
+
+Plh_58 { Tak. Może. Pozwól mi sprawdzić notatki... }
+
+Plh_67 { $GVAR:EVars_Player.Name$, porozmawiaj z Olafem i powiedz mu, że prawdopodobnie namierzyliśmy Drivaniusa. }
+
+Plh_59 { Kim jest Drivanius? }
+
+Plh_60 { Dlaczego mam rozmawiać z Olafem? }
+
+Plh_61 { Po prostu porozmawiaj z Olafem. On ci wszystko wyjaśni o Drivaniusie. Muszę to obejrzeć bez żadnych rozproszeń. }
+
+Plh_68 { Świetnie, świetnie! Zostały tylko trzy! }
+
+Plh_69 { No cóż, zasłużyłeś na to. }
+
+Plh_70 { Słuchaj, możesz użyć niektórych przedmiotów z naszej kolekcji zanim się rozłożą. Tam, mogłyby ci pomóc. }
+
+Plh_71 { Oczywiście, że będziesz musiał je kupić. Ale damy ci specjalną cenę dla znajomych i rodziny, bo cię znamy. *puszcza oko* }
+
+Plh_72 { Piąty element... jeszcze tylko dwa, a koło jest zamknięte! Kontynuujcie dobrą robotę. }
+
+Plh_76 { Czy czegoś się nauczyłeś? }
+
+Plh_73 { Kamienie sygnetowe wydają się być powiązane z panteonem Bygones. Siedmiu bogów. Siedem pieczęci. Ale co to dokładnie oznacza... }
+
+Plh_74 { ... Nie mogę jeszcze powiedzieć tego na pewno. }
+
+Plh_75 { Dzięki tobie poczyniliśmy pewne postępy. Jeśli możemy cię czegoś jeszcze nauczyć — Reija doprowadziła do perfekcji sztukę walki sztyletami. Od czasu odejścia Monko trzyma się na uboczu, ale może zechce ci pomóc. }
+
+Plh_77 { Jeszcze jedno! Po tym wszystkim nie mogę w to uwierzyć. }
+
+Plh_78 { Ta relikwia musi być kluczem do wejścia do najświętszego miejsca Drivaniusa, gdzie prowadził swoje badania. }
+
+Plh_79 { Drivanius trzymał swoją pracę pod kluczem. Człowiek tajemnicy. Jakie bogactwo wiedzy i skarbów musi czekać na nas w jego sekretnej komnacie... }
+
+Plh_112 { Niedawno znów natknąłem się na najbardziej imponujące eksponaty w naszej kolekcji... Znajdź ostatnią relikwię, a będziesz zdumiony. }
+
+Plh_81 { Udało ci się! Zarobiłeś te monety! }
+
+Plh_82 { Daj mi chwilę... }
+
+Plh_83 { Jest gotowe. }
+
+Plh_84 { W końcu to zrobiliśmy. }
+
+Plh_85 { Spójrz na ten mały klejnot w pieczęciach. Wydaje się taki... słaby? }
+
+Plh_89 { Proszę, weź pieczęć. }
+
+Plh_90 { *szeptem* Jeśli ktokolwiek może znaleźć i otworzyć komnatę Drivaniusa, to jesteś to ty. }
+
+Plh_91 { A co z kamieniami szlachetnymi w pieczęci? }
+
+Plh_93 { Ujawnię tajemnice komnaty. }
+
+Plh_92 { Wszyscy powinni świecić — tak przynajmniej mówią pisma. Drivaniusz był prawdopodobnie bardzo religijny, więc to mogło być jakoś powiązane z ich bogami. To wszystko, co wiem. }
+
+Plh_94 { Wierzę w ciebie. }
+
+Plh_95 { Nie mów o tym nikomu, ale zobacz, co mogę ci zaoferować. Jaki pożytek z tego wszystkiego, jeśli jesteśmy uwięzieni tutaj w Drova? }
+
+Plh_86 { Spójrz, jak niektóre kamienie szlachetne na pieczęciach świecą, a inne nie. }
+
+Plh_87 { Spójrz! Klejnoty w pieczęciach świecą! Więc wygląda na to, że już działa. }
+
+Plh_131 { Mam nadzieję, że hełm nexusa nadal jakoś ci pomoże. Pójdziemy do komnaty Drivaniusa. }
+
+Plh_134 { Jeśli znajdziemy odpowiedzi gdziekolwiek, będą w Czerwonej Wieży. Gdy już tam dotrzesz, może hełm nexus ci pomoże. }
+
+Plh_137 { Czy masz pomysł, gdzie mógłbym znaleźć jeszcze jedną taką pamiątkę? }
+
+Plh_136 { Słyszałem, że jedna z relikwii trafiła w lepkie ręce Borisa. Musi być gdzieś w jego domu, naprzeciwko tawerny w obozie Remnants. }
+
+Plh_139 { Może powinieneś go odwiedzić. Słyszałem, że sprzeda ci wszystko za odpowiednią ilość monet. }
+

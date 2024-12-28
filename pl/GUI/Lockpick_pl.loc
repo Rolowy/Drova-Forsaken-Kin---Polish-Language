@@ -1,0 +1,2 @@
+Desc { Spróbuj utrzymać igłę wewnątrz niebieskiego kształtu. $INPUT:Lockpick_Left$: Przesuń igłę w lewo $INPUT:Lockpick_Right$: Przesuń igłę w prawo. Gdy zielony wskaźnik się zapełni, zamek został wytrychowany. Gdy czerwony wskaźnik napełni się do ponad połowy, wytrych się złamie. }
+

@@ -1,0 +1,64 @@
+Plh_50 { Oto monety, które nadal ci jestem winien. }
+
+Plh_9 { Hej, teraz ja też walczę na arenie. }
+
+Plh_30 { Trenujmy. }
+
+Plh_14 { *patrzy lekceważąco* W tej chwili Proximus wpuszcza do środka wszelkiego rodzaju szumowiny... }
+
+Plh_18 { Jaki masz problem? }
+
+Plh_20 { Nie twoja sprawa. }
+
+Plh_21 { *uśmiecha się* Chcesz się założyć? Jak na głównym wydarzeniu na arenie! Kto przegra, musi wyłożyć ponad 30 monet. Co ty na to? A może jesteś tchórzem? }
+
+Plh_22 { $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? Nie wstanę z łóżka za mniej niż $GVAR:QuestVars_DAS_WayToArenaMaster_Config.ComedicMoneyAmount$ monet. Zróbmy to $GVAR:QuestVars_DAS_WayToArenaMaster_Config.BigBet$! }
+
+Plh_23 { Jeśli chodzi o monety $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$, to jestem za. }
+
+Plh_26 { Nie mam aż tak wielu monet. }
+
+Plh_27 { Po prostu trenujmy. }
+
+Plh_25 { Brzmi dobrze, więc chodźmy. }
+
+Plh_28 { No cóż, znajdź monety. Możesz pracować w Pit. }
+
+Plh_29 { Czy wyglądam, jakbym potrzebował treningu? Bez monet, bez walki. Wtedy będziesz miał trochę wyczucia areny. *uśmiecha się* }
+
+Plh_33 { Zapomnij o tym! }
+
+Plh_16 { Jak to mogłoby mnie zainteresować? Co mam zrobić, zatańczyć dla ciebie jiga radości czy coś? }
+
+Plh_31 { A więc monety $GVAR:QuestVars_DAS_WayToArenaMaster_Config.SmallBet$? }
+
+Plh_5 { Hej, nowa twarz. }
+
+Plh_6 { Czy mówisz o mnie? }
+
+Plh_7 { Czego chcesz? }
+
+Plh_8 { Plh_8 }
+
+Plh_35 { Dobrze walczyłeś! Naprawdę mógłbyś być kimś! }
+
+Plh_45 { Oto twoje monety. Jest ich więcej, skąd pochodzą. Jeśli będziesz walczyć na arenie. }
+
+Plh_36 { Ładna próba, ale wciąż masz wiele do nauczenia. I jesteś mi winien kilka monet. }
+
+Plh_40 { Oto twoje monety. }
+
+Plh_38 { Nie dostaniesz ode mnie nic. }
+
+Plh_39 { Nie mam przy sobie wystarczającej ilości monet. }
+
+Plh_43 { Powinieneś był pomyśleć o tym wcześniej. Teraz zobaczysz, co z tego wyjdzie... }
+
+Plh_48 { Nie będę z tobą walczyć, jeśli nie masz żadnych monet. Długi to kwestia honoru. *uśmiecha się* }
+
+Plh_41 { Podoba mi się to. Daj znać, jeśli chcesz walczyć jeszcze raz. }
+
+Plh_42 { Te monety nie wystarczą. Wypluj je! }
+
+Plh_51 { Już przydzielono ci bitwę. Przyjdź do mnie później. }
+

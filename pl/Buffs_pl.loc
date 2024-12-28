@@ -1,0 +1,30 @@
+SleepBuff { Wypoczęty }
+
+SleepBuffDescription { Zwiększa twoją prędkość ruchu o [MovementPercent]. }
+
+Poison { Zatruć }
+
+PoisonDescription { Zmniejsza twoją prędkość ruchu o [MovementPercent] i twój pancerz o [ArmorReduce]. }
+
+Bleeding { Krwawić }
+
+BleedingDescription { Okresowo tracisz zdrowie. }
+
+SleepBuff_T2 { Dobrze wypoczęty }
+
+Veil_Name { Czarny płomień }
+
+Veil_Desc { Ciągle odnosisz obrażenia. }
+
+Intoxicated_Name { Pijany }
+
+Intoxicated_Desc { Wszystko wygląda trochę niewyraźnie... }
+
+NoFood_Name { Pusty żołądek }
+
+NoFood_Desc { Zjedz coś, aby napełnić żołądek. Jeśli jesteś nasycony, z czasem odzyskasz utracone zdrowie. }
+
+waterbarrel { Woda }
+
+waterbarrel_description { Przywraca zdrowie w krótkim czasie. }
+

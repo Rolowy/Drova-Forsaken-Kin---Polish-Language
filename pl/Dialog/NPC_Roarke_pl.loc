@@ -1,0 +1,602 @@
+Plh_13 { Czy z Bertine wszystko w porządku? }
+
+Plh_311 { Poczekaj, nie handlujesz monetami? }
+
+Plh_320 { Tristan powiedział, że znalazłeś sposób na przejście przez Czarny Płomień. }
+
+Plh_322 { Co to za rzecz, która cały czas wokół ciebie brzęczy? }
+
+Plh_301 { Sprzedajesz coś? }
+
+Plh_96 { O czym rozmawiałeś przed chwilą z innymi? }
+
+Plh_34 { Twój Wayward nie będzie już stanowił problemu. }
+
+Plh_126 { Cay i ja zbieraliśmy grzyby. }
+
+Plh_217 { Jestem głodny. Zjedzmy. }
+
+Plh_0 { Mam od ciebie kupić trochę jedzenia dla prosiaczków. }
+
+Plh_247 { Czy Diemo nie przyszedł tu z tobą? Nigdzie go nie widzę. }
+
+Plh_267 { Diemo mnie zaatakował. }
+
+Plh_268 { Diemo... nie żyje. }
+
+Plh_312 { Jaki pożytek mielibyśmy z monet? Mamy Mighty Boar i prosiaczki. To więcej niż wystarczająco. }
+
+Plh_321 { Tak, to prawda, nasze iskry chronią nas przed nim. Ale wiesz, zazwyczaj i tak tu jestem, więc... }
+
+Plh_323 { Och, masz na myśli moją iskrę? To trochę jak mój familiar. Każdy z nas Bonded ma taką. Odpycha Blackflame i oświetla nam drogę. }
+
+Plh_291 { Mam kilka rzeczy z lasu i kilka rzeczy, które znalazł Anatoli. Ale ja tylko wymieniam. Nie chcemy żadnych monet od innych ludzi tutaj. }
+
+Plh_345 { Zabrałem wszystko, co mogłem unieść, kiedy uciekaliśmy. Tylko spójrz. }
+
+Plh_22 { Porozmawiamy później. }
+
+Plh_4 { _Do zrobienia_ }
+
+Plh_339 { A teraz niepokorna bestia. To DWA stworzenia, które tu nie pasują. }
+
+Plh_82 { Nienawidzę tego mówić, ale ta „widmo” wciąż czai się w lesie, Diemo. }
+
+Plh_83 { Wiem, Roarke. Bertine musi się tym zająć, teraz, gdy Anatoli... }
+
+Plh_84 { Bertine da radę! Wierzę w nią! }
+
+Plh_85 { Potężny Dzik będzie nas prowadził. Wierzę w to. }
+
+Plh_77 { *mruczy* Diemo wie, co robi. }
+
+Plh_23 { *zauważa cię* Hej, jesteś nowy w obozie?! }
+
+Plh_335 { Rzadko się zdarza, żeby ktoś przeszedł obok Blackflame. Ale teraz, skoro już tu jesteś, powiedz... }
+
+Plh_336 { Czy chciałbyś spróbować mojego nowego przepisu? Nie znasz moich innych rzeczy, więc możesz być całkowicie bezstronny. }
+
+Plh_42 { Zapomnij. Wszystko może być w tym! }
+
+Plh_43 { Dobrze, spróbuję. (podejście) }
+
+Plh_44 { Tracisz, mówię ci! Moje przysmaki nie są dostępne nigdzie indziej! Dają ci gęste włosy i słoneczne usposobienie! }
+
+Plh_29 { O, to mi przypomniało, że zapomniałem się przedstawić! Nazywam się Roarke. Jestem odpowiedzialny za udogodnienia w Refuge. }
+
+Plh_314 { A każdemu, komu nie smakuje moje jedzenie, spuszczę łomot! }
+
+Plh_108 { Gdzie teraz wylądowałem? }
+
+Plh_107 { Jak dokładnie przetrwać Czarny Płomień? }
+
+Plh_109 { W Lesie Pierwotnym. To nie powinno ci umknąć. Czcimy Potężnego Dzika tego lasu. To, że dotarłeś tu bez iskry, jest... zdumiewające. }
+
+Plh_99 { Najlepiej będzie, jeśli najpierw zgłosisz się do Diemo. }
+
+Plh_110 { *patrzy na ciebie zdziwiony* Spójrz, mam iskrę. Iskra chroni nas przed Czarnym Płomieniem. Potężny Dzik dał nam wszystkim iskrę, aby nas chronić. }
+
+Plh_310 { No dalej. Chciałbym z tobą porozmawiać trochę dłużej, ale... }
+
+Plh_45 { Tak mi się podoba. Proszę, i powiedz mi od razu, co o tym myślisz. Liczy się pierwsze wrażenie! }
+
+Plh_112 { *Próbujesz zupy. Ma intensywny smak soli i ciepła. Po przełknięciu pozostaje ospały posmak, jakiego nigdy wcześniej nie doświadczyłeś.* }
+
+Plh_78 { Bardzo słone... }
+
+Plh_79 { To naprawdę dobre! }
+
+Plh_80 { Hm. Może powinienem ograniczyć pocenie się. Ale zmierza to w dobrym kierunku... }
+
+Plh_114 { Dziękuję za możliwość spróbowania. }
+
+Plh_113 { Czekaj... pot? }
+
+Plh_115 { Cieszę się, że mogłem pomóc, Wayward. }
+
+Plh_294 { Cieszę się, że mogłem pomóc, Wayward. }
+
+Plh_116 { Cóż, sól jest rzadkością w Forest Primeval. Tristan, kupiec, nie miał jej w magazynie od dłuższego czasu. A pot prosiąt też jest słony. }
+
+Plh_118 { Szkoda, że ​​nie wiedziałem tego wcześniej! }
+
+Plh_119 { Powinienem rozwalić ci głowę tą twoją chochlą! }
+
+Plh_120 { Dlaczego miałbyś to zrobić? }
+
+Plh_121 { Teraz uspokój się. To tylko sól cię denerwuje. To minie. }
+
+Plh_81 { Naprawdę? Kto by pomyślał, że pot jest tak dobrym substytutem soli? }
+
+Plh_325 { Hej, $GVAR:EVars_Player.Name$! }
+
+Plh_300 { TY! Na Bóstwa! Dlaczego ty, ze wszystkich ludzi! }
+
+Plh_241 { Gratuluję iskry. Nieźle! }
+
+Plh_242 { Przyrządzam ulubioną zupę Anatoliego: pyszną zupę grzybową! }
+
+Plh_218 { Dziękuję za gratulacje. }
+
+Plh_222 { Zupa grzybowa? }
+
+Plh_220 { *uśmiecha się* Proszę bardzo. }
+
+Plh_221 { Już dodałem wszystkie składniki. No, poza grzybami. Dlatego... }
+
+Plh_224 { Jasne. Chcesz, żebym zebrał te grzyby. }
+
+Plh_225 { Nie mam teraz ochoty zbierać grzybów. }
+
+Plh_226 { Wiem, że to było całkowicie nieoczekiwane! }
+
+Plh_228 { Jest z tym problem. Grzyby są pod ziemią. Musisz je wywąchać. I do tego potrzebujesz Cay. }
+
+Plh_229 { W jaki sposób Cay ma mi w tym pomóc? }
+
+Plh_231 { Czy nie ma innego sposobu? }
+
+Plh_232 { Ten mały dzieciak potrafi więcej niż myślisz. }
+
+Plh_234 { Cay ma niesamowity zmysł do znajdowania najlepszych grzybów. Kiedy go karmisz, zwykle od razu rzuca się, żeby zdobyć więcej. Czy mógłbyś go zabrać i znaleźć trochę? }
+
+Plh_235 { Dobrze, przyniosę ci grzyby. }
+
+Plh_236 { Zobaczę, czy znajdę na to czas... }
+
+Plh_237 { Wiedziałem, że mogę na ciebie liczyć! Jeśli przyniesiesz mi trzy grzyby, będziemy gotowi. }
+
+Plh_238 { Zrobiłbyś ludziom tutaj wielką przysługę. Od kiedy Anatoli umarł, wszyscy są trochę na krawędzi. Zwłaszcza Bertine. }
+
+Plh_334 { Trzy grzyby wystarczą mi, żeby przygotować posiłek, którego nigdy nie zapomnisz. }
+
+Plh_233 { Cay jest już bardzo przyjacielska z tobą! Nie pożałujesz! }
+
+Plh_227 { No dalej, jesteś częścią Bonded. Zrób to, aby uhonorować Anatoliego! }
+
+Plh_223 { Zaufaj mi, pokochasz to! }
+
+Plh_123 { Jesteś częścią Bonded. Gratulacje! }
+
+Plh_280 { Zejdź mi z oczu. Zdradziłeś nas! }
+
+Plh_326 { Miło cię widzieć. I miło cię widzieć w Bonded! }
+
+Plh_244 { Las Pierwotny... nasz dom... zniknął. }
+
+Plh_246 { A Diemo... To nie może się zdarzyć... }
+
+Plh_285 { No dalej, staruszku. Pozwól mi zaśpiewać ci jeszcze jedną piosenkę! To podniesie cię na duchu. }
+
+Plh_286 { Ostatnia rzecz, jakiej teraz potrzebuję, to twoje wycie. Nawet gdybym miał monety, wolałbym wydać je na zimne piwo u Olafa niż na ciebie. }
+
+Plh_287 { Jestem tu niedoceniany! }
+
+Plh_340 { Tylko na tym ci zależy?! Daj mi spokój z tymi swoimi bzdurami. }
+
+Plh_288 { ... Mam teraz inne zmartwienia. }
+
+Plh_341 { Nie interesujesz mnie – zostaw mnie w spokoju. }
+
+Plh_346 { Mam nadzieję, że znajdziemy nowy dom... }
+
+Plh_15 { *uśmiecha się do ciebie z dumą* }
+
+Plh_14 { Oto ty, zbłąkana dusza, która nigdy nie była zbłąkana! }
+
+Plh_16 { Hej, Roarke, udało mi się! }
+
+Plh_17 { Czy wiesz dlaczego już otrzymałem swoją iskrę? }
+
+Plh_19 { Zobaczymy się w obozie. }
+
+Plh_18 { Nigdy czegoś takiego nie widzieliśmy. Dopiero co tu dotarłeś, a już masz iskrę. }
+
+Plh_329 { Birka jest tu od zawsze i dopiero teraz otrzymuje swoje. Nieźle! }
+
+Plh_20 { Ponieważ Bóstwo tak postanowiło. To wszystko, co muszę wiedzieć. I ty też. }
+
+Plh_21 { Jasne. Przyjdź, kiedy będziesz chciał ze mną gotować! }
+
+Plh_97 { Hm? Och, w tej chwili jest kilka rzeczy nie tak z naszym lasem... }
+
+Plh_46 { Pewnego dnia, gdy zbierałem grzyby dla miotu Tarona, usłyszałem głośne drapanie i przerażający ryk. To musiał być Wayward... }
+
+Plh_302 { I nie mam na myśli Waywarda takiego jak ty. Nie słyszałbyś ich drapania i ryku. To pewnie jakieś niebezpieczne zwierzę zakłóca spokój lasu. Niedźwiedź, jeśli mnie uszy nie mylą. }
+
+Plh_296 { Ktoś naprawdę musi się zająć tym Waywardem. Diemo miał kazać Bertine to zrobić, ale ona nie pozwala nikomu teraz z nią rozmawiać. }
+
+Plh_88 { Diemo? }
+
+Plh_50 { Co to jest Wayward? }
+
+Plh_48 { Czy nikt inny nie może zająć się Wayward? }
+
+Plh_89 { To ten facet, z którym właśnie rozmawiałem. Kiedyś on i ja osiedliliśmy się w Forest Primeval. To Refuge — zbudowaliśmy wszystko razem. }
+
+Plh_51 { Ty też jesteś Wayward. Ktoś, kto nie należy do Forest Primeval, ale mimo to tu jest. Zazwyczaj nie są to ludzie, ale potwory lub zwierzęta. }
+
+Plh_52 { Nikt tutaj nie jest naprawdę biegły w walce. Bertine, być może, ale ostatnio nie była zbyt... pomocna. }
+
+Plh_54 { *mierzy cię wzrokiem* A ty? Wyglądasz, jakbyś potrafił walczyć. }
+
+Plh_55 { Cóż, wysłałem już kilka potworów w drogę do ich kolejnego wcielenia. }
+
+Plh_56 { Zależy, co z tego będę miał. }
+
+Plh_57 { Może Potężny Dzik zaprowadził cię do nas, żebyś nam pomógł. *patrzy w niebo* }
+
+Plh_59 { Co to jest Mighty Boar? }
+
+Plh_94 { Nie masz żadnych monet? }
+
+Plh_98 { Zajmę się Waywardem za ciebie. }
+
+Plh_60 { Mighty Boar strzeże Forest Primeval. Bez jego ochrony nie przetrwalibyśmy tu tak długo. }
+
+Plh_95 { Po co ci monety, skoro masz błogosławieństwo Mighty Boar? Pomagamy naszym Bonded, nie oczekując niczego w zamian. }
+
+Plh_28 { Naprawdę chcesz pomóc? Świetnie! }
+
+Plh_297 { Zebrałem grzyby niedaleko łąki na wschód stąd — tej, na której Taron zwykle pozwala prosiaczkom swobodnie biegać. Ryczenie dochodziło z głębi lasu. Uważaj, kiedy tam będziesz! }
+
+Plh_313 { Jeszcze jedno: Jeśli zobaczysz Blackflame'a takiego jak ten obok obozu, lepiej trzymaj się od niego z daleka! Spójrz... tam. }
+
+Plh_328 { Bez iskry zabiją cię zanim zdążysz powiedzieć „Potężny Dziku”. }
+
+Plh_331 { Zachowaj ostrożność wchodząc do lasu. }
+
+Plh_33 { Wszyscy tak robimy. Ale jeśli mimo wszystko natkniesz się na Waywarda... }
+
+Plh_58 { Nie mamy tu monet, ale jestem pewien, że Potężny Dzik cię nagrodzi. }
+
+Plh_87 { Powiedz... Potrafisz walczyć, prawda? }
+
+Plh_35 { Na potężnego dzika! To pewnie był niedźwiedź, prawda? Te przeklęte stworzenia stają się coraz bardziej zuchwałe! }
+
+Plh_36 { W imię Mighty Boar... Oddałeś Forest Primeval wielką przysługę. Musimy się upewnić, że Wayward nie zakłócą równowagi lasu. }
+
+Plh_69 { Cieszę się, że mogłem pomóc. }
+
+Plh_70 { A co z prawdziwą nagrodą? }
+
+Plh_71 { Przejdźmy do sedna, staruszku. }
+
+Plh_72 { *uśmiecha się z politowaniem* Jestem pewien, że Potężny Dzik już zauważył twój czyn. }
+
+Plh_37 { Zapewnimy Ci dach nad głową, mnóstwo ciepłego jedzenia i cel. Bądź częścią lasu i żyj w harmonii z Bóstwem. }
+
+Plh_319 { Ale oczywiście tylko jeśli znasz i szanujesz nasze cnoty. }
+
+Plh_100 { Jak mogę zostać jednym z Was? }
+
+Plh_101 { Nie mogę się doczekać, aż zostawię ciebie i to dziwne miejsce za sobą. }
+
+Plh_102 { *uśmiech* Miło widzieć, że jesteś otwarty na nasze sposoby. }
+
+Plh_104 { Tutaj w Forest Primeval żyjemy trzema cnotami, aby Bóstwo mogło nas przyjąć jako część swojego lasu i swojego świata. Posłuchaj i dowiedz się o jednej z cnót. }
+
+Plh_38 { Jednomyślność jest kamieniem węgielnym współistnienia z Bóstwami. Jeśli zostanie to zakłócone, nieważne jak, musimy sami podjąć działania — a aby to zrobić, potrzebujemy cnoty odwagi. }
+
+Plh_75 { Idź z błogosławieństwem Dzika i nieś tę cnotę w swoim sercu. }
+
+Plh_103 { To jest darmowa społeczność. Jeśli ci się tu nie podoba, możesz odejść w każdej chwili. }
+
+Plh_106 { Ale już ci mówiłem, że nie mamy żadnych monet. *wygląda na zdziwionego* }
+
+Plh_73 { *patrzy na ciebie zdziwiony i unosi brwi* Nie mamy żadnych monet. }
+
+Plh_131 { *klaska wielokrotnie w dłonie i woła* ZBIERZCIE SIĘ WOKÓŁ! CZAS NA JEDZENIE! }
+
+Plh_137 { Mój ukochany Bonded. Aby uhonorować naszego szanownego Anatoliego, przygotowałem jego ulubiony posiłek. I miałem przy tym wielką pomoc. Chciałbym teraz poprosić wszystkich o wypowiedzenie kilku słów. }
+
+Plh_195 { *trzyma się za szyję dłonią* Uh, cóż, jak wszyscy wiecie, Anatoli i ja nie byliśmy najlepszymi przyjaciółmi. Ale nie zasłużył na to, co go spotkało. Obyś znalazł spokój w swojej podróży. }
+
+Plh_138 { Anatoli był dla mnie zawsze bardzo miły. Kiedykolwiek miałem wątpliwości co do czegoś, Anatoli mnie zachęcał i sprawiał, że czułem się bezpiecznie. Niech znajdziesz spokój w swojej podróży. }
+
+Plh_139 { *patrzy na wszystkich* Gdy Anatoli odszedł, ważna część naszej społeczności zniknęła. Nikt nie może go zastąpić. Był moim trzecim okiem w Forest Primeval. Obyś znalazł spokój w swojej podróży. }
+
+Plh_140 { *unika wzroku nikogo i patrzy w dół* Ja... }
+
+Plh_196 { Jak wy wszyscy możecie tu siedzieć i obżerać się? Ta rzecz WCIĄŻ TAM JEST! Ta rzecz, która go rozszarpała! Hańbicie imię Anatoliego! }
+
+Plh_141 { Bertine! Poczekaj! }
+
+Plh_197 { *rozgląda się zdezorientowana* Ona po prostu odeszła... }
+
+Plh_198 { Prawdopodobnie niedługo wróci. Jak się uspokoi. Kontynuujmy. Musimy. *patrzy na ciebie z oczekiwaniem* }
+
+Plh_199 { (podstawka) }
+
+Plh_200 { (pozostań na miejscu) }
+
+Plh_201 { *wstajesz, a wszyscy patrzą na ciebie z oczekiwaniem* }
+
+Plh_203 { Życzę Ci, abyś znalazł spokój w swojej podróży. }
+
+Plh_205 { *rumienisz się i pozostajesz na miejscu* }
+
+Plh_208 { Anatoli był członkiem naszej społeczności. Wszyscy byliśmy zszokowani i przerażeni jego śmiercią. Obyś znalazł spokój w swojej podróży, stary przyjacielu. Do Anatoliego! }
+
+Plh_209 { A teraz ucztujemy! }
+
+Plh_210 { Przekroczyłeś samego siebie, Roarke. Gdyby Anatoli tu był, zjadłby połowę kotła sam. }
+
+Plh_212 { Miałem kompetentną pomoc! Ktoś szybko łapie! *uśmiecha się* }
+
+Plh_214 { *dla ciebie* Anatoli świetnie by się z tobą dogadywał. }
+
+Plh_216 { Dziękuję wszystkim za przybycie. Cieszę się, że mogliśmy oddać hołd razem. Do wielu kolejnych lat w Forest Primeval! }
+
+Plh_211 { Anatoli prawdopodobnie wspomniałby o lekko gorzkim smaku. Ale liczy się myśl! }
+
+Plh_213 { Myślę, że Twoje umiejętności kulinarne wciąż wymagają dopracowania. }
+
+Plh_215 { *do Ciebie* Żartowałem! }
+
+Plh_207 { *Roarke robi rozczarowaną minę i odwraca się.* }
+
+Plh_202 { *Pozostajesz na miejscu. Niektórzy patrzą na ciebie zdziwieni, ale wydaje się, że czegoś od ciebie oczekują.* }
+
+Plh_143 { Zobaczmy. *bada grzyby w twoich rękach* }
+
+Plh_144 { Wygląda dobrze. Grube łodygi i narośla na skórce. Tak jak powinno być! No to zacznę przygotowywać wywar i cebulę. Tymczasem ty zajmiesz się grzybami. }
+
+Plh_145 { Chcesz, żebym gotował z tobą? }
+
+Plh_146 { Jak przygotować grzyby? }
+
+Plh_147 { Wolałbym zostawić gotowanie tobie. }
+
+Plh_148 { Jasne! Gotowanie to doświadczenie jednoczące! A my tu stawiamy na jednoczenie! *liże swoją lepką rękę* }
+
+Plh_330 { Naprawdę wspaniałe przeżycie! }
+
+Plh_149 { Teraz posłuchajcie! Następny krok jest bardzo ważny. }
+
+Plh_151 { Więc bierzesz grzyby i rozdzielasz trzonki mniej więcej w połowie wysokości od dołu. Następnie odcinasz dolną połowę trzonka. }
+
+Plh_298 { Następnie przyciskasz obie strony odciętej łodygi do noża, tak aby pokryła się sokiem z grzyba. }
+
+Plh_152 { Następnie odcinamy resztę trzonu, kroimy go w kostkę i odcinamy kapelusz grzyba. }
+
+Plh_299 { Przekrój kapelusz na pół, aż otrzymasz osiem kawałków. Następnie rozgnieć je płaską stroną noża, aż zewnętrzna warstwa grzyba odpadnie. }
+
+Plh_153 { Teraz nie rób miny! To naprawdę proste! No dalej, spróbuj! }
+
+Plh_154 { Tak, naprawdę proste. Przekrój łodygi na pół, zmiażdż je i pokrój w kostkę. }
+
+Plh_155 { ...jeszcze raz proszę? }
+
+Plh_156 { Dokładnie, to wszystko. Nie zapomnij jednak o czapce! Usiądź tam przy stole. Przygotuję wszystko tutaj. }
+
+Plh_159 { (Umieść nóż na dole, rozetnij łodygę mniej więcej w połowie wysokości od dołu) }
+
+Plh_158 { (Odetnij łodygę całkowicie) }
+
+Plh_161 { *Umieszczasz nóż u dołu łodygi i rozcinasz ją mniej więcej w połowie jej długości* }
+
+Plh_162 { (Dociśnij rozciętą łodygę do obu stron noża) }
+
+Plh_163 { (Dociśnij całą łodygę do jednej strony noża) }
+
+Plh_164 { (Zaciśnij trzonek nad nasadką) }
+
+Plh_165 { *Dociskasz rozdwojoną nóżkę do obu stron noża.* }
+
+Plh_176 { Już rozumiesz o co chodzi? }
+
+Plh_177 { Dziecinnie prosta sprawa! }
+
+Plh_178 { Jeszcze nie jestem do końca pewien. }
+
+Plh_179 { Dobrze słyszeć. Ja też zaraz skończę. }
+
+Plh_168 { (Wyrzuć łodygę i pokrój czapkę w kostkę) }
+
+Plh_169 { (Pokrój łodygę w kostkę, a kapelusz na osiem równych części) }
+
+Plh_170 { *Zrzucasz łodygę ze stołu i zaczynasz kroić czapkę w kostkę) }
+
+Plh_173 { (Przyłóż płaską stronę noża do kawałków nasadki i daj je Roarke'owi) }
+
+Plh_172 { (Daj pokrojonego grzyba Roarke'owi) }
+
+Plh_174 { *Naciskasz boki noża na kawałki, aż skórka grzyba zejdzie. Następnie podajesz Roarke'owi pokrojone grzyby.* }
+
+Plh_181 { Jakbyś nic innego nie robił przez całe życie! Dobra robota! Teraz grzyby mogą rozwinąć swój pełny smak! }
+
+Plh_183 { Teraz dodajemy wszystkie składniki do mojego kotła i krótko obsmażamy grzyby. Nie powinny się kurczyć — w przeciwnym razie będą zbyt słodkie. Chodź ze mną. }
+
+Plh_184 { *Roarke miesza zupę jeszcze kilka razy, zanim doda ostatnią przyprawę. Nabiera trochę zupy do dwóch misek i podaje ci jedną.* }
+
+Plh_185 { Spróbuj tego! }
+
+Plh_307 { (Smak) }
+
+Plh_308 { (Zrób obrzydliwą, naburmuszoną minę i spróbuj mimo wszystko) }
+
+Plh_186 { Mh, to naprawdę dobre. }
+
+Plh_187 { To naprawdę nie jest moja bajka. }
+
+Plh_188 { Nawet gdybym był głodny, nie zjadłbym tego. }
+
+Plh_189 { Czyż nie? Dobry stary Roarke wciąż potrafi wyczarować kilka przysmaków. }
+
+Plh_192 { Zapisałem przepis. Proszę, weź go! W ten sposób możesz sam ugotować zupę, myśląc o swoim starym kumplu Roarke. }
+
+Plh_193 { Mam nadzieję, że uda Ci się rozszyfrować moje pismo. }
+
+Plh_194 { Gdy zgłodniejesz, możemy zwołać wszystkich i podzielić się posiłkiem. }
+
+Plh_129 { Jedzmy! }
+
+Plh_130 { Może później. }
+
+Plh_132 { Nie ma problemu. Mam nadzieję, że będziesz głodny! }
+
+Plh_190 { Pah, musisz po prostu nabyć ten konkretny smak! Albo być wystarczająco głodnym! }
+
+Plh_191 { To dokładnie taki żart, jaki Anatoli by zrobił. Nieźle! }
+
+Plh_182 { To nie wygląda dobrze. W ten sposób danie będzie miało lekko gorzki posmak. Ale nie martw się, i tak będzie pyszne! }
+
+Plh_175 { *To było to, prawda? Dajesz Roarke'owi pokrojone grzyby.) }
+
+Plh_171 { *Skrupulatnie kroisz łodygę. Następnie dzielisz czapkę na pół, aż uzyskasz osiem równych kawałków.* }
+
+Plh_180 { No dalej! To będzie dobre! Ufam ci! }
+
+Plh_166 { *Powoli dociskasz trzonek do jednej strony noża.* }
+
+Plh_167 { *Trzymasz łodygę nad kapeluszem i naciskasz ją ręką, aż część soku spłynie na kapelusz.* }
+
+Plh_160 { *Szybkie cięcie i oddzieliłeś łodygę od kapelusza.* }
+
+Plh_157 { *wygląda na zdziwionego* W porządku. }
+
+Plh_150 { Ach, chodź, dołącz do mnie. Będzie fajnie, zaufaj mi! }
+
+Plh_1 { Taron musiał cię przysłać. Wzbogaciłem trochę paszy grzybami. To powinno pomóc miotowi odzyskać siły. }
+
+Plh_315 { Ożywczy gatunek grzyba, który rośnie tylko tutaj, w Forest Primeval. Jeśli to nie pomoże, to nie wiem, co pomoże. }
+
+Plh_2 { Daj każdemu po jednej porcji! Ani więcej, ani mniej! }
+
+Plh_5 { Dobrze, dziękuję. }
+
+Plh_3 { Cztery porcje? Taron wspomniał tylko o trzech prosiakach. }
+
+Plh_7 { Prosiaczki będą Ci za to wdzięczne. *uśmiecha się* }
+
+Plh_6 { Hm? Powiedział mi, że potrzebuje czegoś orzeźwiającego dla miotu czterech prosiaczków. Lepiej zapytaj Tarona, żeby się upewnić. }
+
+Plh_8 { Och, Bertine. Ona to przeżywała bardzo ciężko. Anatoli był dla niej jak ojciec. Musi być bardzo samotna. }
+
+Plh_61 { Przypomina mi to czas, kiedy chciałem pokroić kapustę na gulasz. Kapusta była bardzo samotna i nie chciała się gotować sama. Nie pozwalała mi się pokroić. }
+
+Plh_24 { Błądzić jest... jak kapusta. }
+
+Plh_25 { A co zrobiłeś z samotną kapustą? }
+
+Plh_26 { Czy możliwe, że w Twojej szufladzie brakuje kilku... noży? }
+
+Plh_27 { No cóż, poszłam i kupiłam drugą kapustę. W końcu kapusta marudna nie będzie smakować tak dobrze! }
+
+Plh_30 { Wszystko ma uczucia. Wszystko żyje. Pewnego dnia ty też się tego dowiesz. Przynajmniej wtedy, gdy będziesz gotowany sam. }
+
+Plh_90 { No cóż... posiłek z dwiema kapusta był szczególnie pyszny. *krzywo się uśmiecha* }
+
+Plh_10 { Co mówisz? }
+
+Plh_11 { Masz naprawdę pomieszane w głowie. }
+
+Plh_91 { Tak czy inaczej... idź do Bertine i bądź jej drugą kapustą! Sama nie uratuje gulaszu, ale z twoją pomocą możecie to zrobić razem! }
+
+Plh_92 { Kapusta też ma głowę. Czy kiedykolwiek o tym myślałeś? }
+
+Plh_32 { A nawet gdyby mi brakowało noża, po prostu kupiłbym sobie nowy! }
+
+Plh_248 { Diemo... jest... }
+
+Plh_249 { Już go prawie nie poznaję. Wydaje się, że kompletnie oszalał. }
+
+Plh_270 { *mierzy cię wzrokiem* A na dodatek, przeklął cię. Powiedział, że to wszystko twoja wina. Gdybyś nie przybył do Refuge, nic z tego by się nie wydarzyło. }
+
+Plh_273 { Czy to prawda? Czy to twoja wina? }
+
+Plh_271 { Tak. Walczyliśmy z Potężnym Dzikiem. }
+
+Plh_272 { Nie. Nie mam z tym nic wspólnego. }
+
+Plh_274 { No więc Diemo miał rację... }
+
+Plh_275 { Dlaczego? Co ci zrobiliśmy? Czy cię nie zaakceptowaliśmy? Czy traktowaliśmy cię jak jednego z nas? Powiedz mi! }
+
+Plh_276 { Nie wiedziałem, co moi ludzie planują z tym zrobić. }
+
+Plh_277 { Nie muszę się przed tobą tłumaczyć. }
+
+Plh_278 { Czy poświęciłeś choć chwilę dla nas? Dla prosiąt? Dla Matki? Czy jesteś aż tak nikczemny? }
+
+Plh_279 { Nie powinieneś już nawet patrzeć nam w oczy. Podaliśmy sobie rękę w przyjaźni, a ty nie tylko ją odtrąciłeś, ale brutalnie odrąbałeś! }
+
+Plh_281 { Mam nadzieję, że nasze drogi nigdy się już nie skrzyżują. }
+
+Plh_253 { Diemo... trzymaj się. Proszę. }
+
+Plh_284 { Myliłem się co do ciebie. Nie zostawiasz za sobą nic poza zniszczeniem. Nie wiesz nic o współczuciu, o miłosierdziu. }
+
+Plh_282 { I ja mam w to uwierzyć? Co ty myślisz, jestem głupi? OCZYWIŚCIE, że miałeś z tym coś wspólnego! }
+
+Plh_289 { Od czasu zniszczenia Lasu Pradawnego nie udało nam się znaleźć Diemo. }
+
+Plh_250 { Musi być nadal w Lesie Pierwotnym. Mówił coś o iskrach. }
+
+Plh_251 { Były tam shadowrippery i wszelkiego rodzaju inne potwory. Uciekliśmy i musieliśmy zgubić Diemo po drodze. }
+
+Plh_252 { Nikt z nas nie ma w sobie dość sił, żeby powrócić do Pierwotnego Lasu i go poszukać... }
+
+Plh_255 { Co? Spraw, żeby zrozumiał! Potrzebujemy go tutaj! }
+
+Plh_256 { Uważaj. W jego stanie umysłu, kto wie, do czego jest zdolny? }
+
+Plh_254 { Co...? }
+
+Plh_257 { Diemo... nie żyje? }
+
+Plh_258 { Obwinia mnie o wszystko. Nawet mnie nie słuchał. }
+
+Plh_259 { Zaatakował mnie i musiałam się bronić. }
+
+Plh_260 { Widzę... }
+
+Plh_262 { Diemo nie zasłużył na nic z tego. Zawsze miał dobre serce. Ale los nigdy nie odwdzięczył się za jego dobroć... }
+
+Plh_265 { Przynajmniej teraz wiem, co się stało... }
+
+Plh_264 { Diemo zawsze mówił, że trzeba umieć wybaczać. Dlatego właśnie to zrobię... }
+
+Plh_342 { Wybaczam ci, $GVAR:EVars_Player.Name$. Stary Diemo nie chciałby, żebym ci nie wybaczył. }
+
+Plh_343 { Ale nie mogę wybaczyć twoich błędów i wykroczeń. Tylko Bóstwa mogą to zrobić. Kiedy zostaniesz pochowany w ziemi, będą cię osądzać, tak jak osądzają nas wszystkich. Do tego czasu będziesz musiał żyć z decyzjami, które podjąłeś. }
+
+aboutOtherQuests { O Diemo... }
+
+Plh_347 { Odwaga stawiania czoła niebezpieczeństwu. Odwaga kwestionowania własnych dróg. Odwaga to siła w naszych sercach, która pokazuje nam, co należy zrobić. }
+
+Plh_348 { Mam dla ciebie coś jeszcze. Teraz należysz do nas. Poszedłem do lasu i zrobiłem ci ten nakrycie głowy. }
+
+Plh_349 { To ma pokazać, że łączy cię więź z nami i Potężnym Dzikiem. }
+
+Plh_350 { Dziękuję, Roarke. (zakłada nakrycie głowy) }
+
+Plh_352 { No cóż, nie chcę nakrycia głowy. }
+
+Plh_351 { Nie potrzebuję niczego takiego. }
+
+Plh_354 { Oczywiście! Jesteś jednym z nas. }
+
+Plh_353 { *uśmiecha się* Tak czy inaczej, dam ci to. Możesz z tym zrobić, co chcesz. }
+
+Plh_357 { Jestem tu, żeby cię ostrzec. Mój obóz chce złapać Mighty Boar! }
+
+Plh_356 { Nikt nie może skrzywdzić Mighty Boar. Jest on jednością z tym lasem. Nie czujemy z tego powodu ani strachu, ani zmartwień. Nie martw się. }
+
+Plh_365 { Oczywiście! I chciałbym, żeby moja następna miska zupy smakowała jak chmury! }
+
+Plh_358 { Próbowałem cię ogrzać! Nikt nie słuchał! Nie miałem wyboru! }
+
+Plh_359 { Masz rację. Możemy opierać nasze decyzje tylko na wiedzy, którą posiadamy w danym momencie. }
+
+Plh_360 { ...i kto by pomyślał? }
+
+Plh_361 { Błąd pozostaje błędem tylko wtedy, gdy nie walczysz, żeby go naprawić. *uśmiecha się zmęczony* }
+
+Plh_362 { Mam nadzieję, że uda Ci się to jakoś odwrócić, $GVAR:EVars_Player.Name$. }
+
+Plh_363 { Co się stało z Diemo? }
+
+Plh_364 { Diemo był pochłonięty bólem i nienawiścią... Musiałem skrócić jego cierpienie. }
+

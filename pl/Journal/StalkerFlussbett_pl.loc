@@ -1,0 +1,6 @@
+Title { Drewno chroni przed lucjanami }
+
+Entry_01 { Harald odkrył kopalnię srebra, ale boi się snaptorów w jej pobliżu. Jeśli dostarczę mu $GVAR:QuestVars_StalkerFlussbett_Config.WoodAmount$ kawałków drewna, pozwoli mi wydobyć tyle srebra, ile chcę. Mówi, że mogę znaleźć drewno we wrakach statków. }
+
+Entry_02 { Mam pozwolenie na wejście do kopalni srebra. }
+

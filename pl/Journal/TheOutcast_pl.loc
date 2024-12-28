@@ -1,0 +1,20 @@
+Entry_01 { Ktoś ukradł paczkę Asmusowi, a ja mam ją odzyskać. Nie ma najmniejszego pojęcia, kto mógł ją zabrać. Powinienem popytać w jego imieniu. }
+
+Entry_02 { Afrin przyznał, że wie, gdzie jest ta paczka. Ale mi nie mówi. Muszę sam to rozgryźć. }
+
+Entry_03A { Przekonałem Afrina, żeby porozmawiał z Asmusem. Powiedział mi, że mogę znaleźć paczkę w gaju jabłoniowym, niedaleko drzewa obok stosu drewna. Potem mam do niego przyjść. }
+
+Entry_03B { Czasami pięści mówią głośniej niż słowa. Paczka została zakopana w gaju jabłoniowym, niedaleko drzewa obok stosu drewna. }
+
+Entry_03C { Afrin zaproponował, że po prostu odkupi ode mnie pakiet. }
+
+Entry_03D { Kupiłem wskazówkę od Afrin. Paczka została zakopana w gaju jabłoniowym, w pobliżu drzewa obok stosu drewna. }
+
+Entry_04 { Paczka w końcu jest w moich rękach. Teraz muszę ją tylko zanieść do Asmusa. }
+
+Entry_05 { Asmus odzyskał swoją przesyłkę, a ja zostałem za nią należycie wynagrodzony. }
+
+Title { Skradziona paczka }
+
+Entry_06 { Sprawa została rozwiązana. }
+

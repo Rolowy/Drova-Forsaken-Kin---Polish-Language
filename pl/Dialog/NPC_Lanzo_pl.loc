@@ -1,0 +1,234 @@
+Plh_12 { Co zrobiłeś z Bruną? }
+
+Plh_25 { Gdzie dokładnie jesteśmy? }
+
+Plh_16 { To samo zrobię tobie, jeśli nie zamkniesz twarzy. }
+
+Plh_26 { W nowym domu. Wracamy do pracy! }
+
+Plh_27 { Nie teraz, po prostu przyjdź. }
+
+Plh_6 { Nareszcie jesteśmy. Upewnij się, że jesteś gotowy. }
+
+Plh_76 { Co tu robisz? Wracaj! Natychmiast! }
+
+Plh_82 { Zapłacisz! }
+
+Plh_85 { Ja... ja nie chciałem. Wykonywałem tylko rozkazy Aldrika. Masz rację, Kolina? }
+
+Plh_86 { Jasne. Aldrik jest liderem. Wykonywaliśmy tylko jego rozkazy. }
+
+Plh_87 { *spogląda z przerażeniem w twoją stronę* Nie mieliśmy wyboru... Musisz zrozumieć... }
+
+Plh_77 { Wasze głowy polecą. Z nimi! }
+
+Plh_78 { Nie jesteśmy jak Lanzo — nie chodzimy po prostu i nie zabijamy. Wyjdź stąd i nigdy nie wracaj. }
+
+Plh_83 { Co za świństwo! Kolina, dorwijmy ich! }
+
+Plh_79 { Dziękuję. Mądra decyzja! }
+
+Plh_88 { Chcesz ich puścić? Tak po prostu? Po tym, co nam powiedzieli — i po tym, co zrobili Brunowi?! }
+
+Plh_89 { $GVAR:EVars_Player.Name$ ma rację. Nie cofnie tego, co nam zrobili. Nie jesteśmy tacy jak oni... }
+
+Plh_90 { Dokładnie, uciekniemy i nigdy więcej o nas nie usłyszysz. Jasne, Kolina? }
+
+Plh_91 { Dobrze, Lanzo. Wynośmy się stąd. }
+
+Plh_81 { Przyrzekłem zemstę. Za wszystkie obelgi i za wszystkie obrzydliwe rzeczy, które nam zrobiłeś! }
+
+Plh_42 { No i jak Ci się to podoba? }
+
+Plh_45 { Lanzo! Przestań! }
+
+Plh_46 { Lanzo, ostrzegam cię... (wyciąga broń) }
+
+Plh_48 { OH, TY TEŻ CHCESZ PÓJŚĆ? POKAZĘ CI... }
+
+Plh_49 { Lanzo! Co dobrego to da? Przestań natychmiast! }
+
+Plh_50 { Nauczę ją manier! Myślisz, że możesz mnie zdenerwować!? }
+
+Plh_51 { Zabijesz ją! Dosyć! }
+
+Plh_52 { Wiesz, co kazał Aldrik! Wykonuję wszystkie rozkazy, jakie mi wydano. Nie zmiękłem. Nie tak jak ty! }
+
+Plh_53 { Powiedz to jeszcze raz! }
+
+Plh_74 { Jeśli skrzywdzisz więźniów, nigdy nie skończymy tutaj! Oni powinni pracować, a nie mogą tego robić, jeśli zamierzasz ich zbić na miazgę! }
+
+Plh_58 { Uspokójcie się oboje... (chowa broń) }
+
+Plh_59 { Prawie zabił Brunę! }
+
+Plh_60 { Lanzo! Dosyć! }
+
+Plh_63 { Wszyscy odkładamy broń. TERAZ. }
+
+Plh_92 { *chrząka wściekle* Wy wszyscy... }
+
+Plh_54 { Bruna wtrąciła się. Nie znoszę takich rzeczy. Zasłużyła na lanie, jakie dostała za to. Aldrik dał nam pozwolenie! }
+
+Plh_75 { *bierze głęboki oddech* }
+
+Plh_56 { Lanzo, omówimy to teraz. Chodź ze mną na festiwal. $GVAR:EVars_Player.Name$, zajmij się jedzeniem, podczas gdy Bruna będzie się zbierać. Gdy już zdobędziemy relikwię, wszyscy będziemy mogli stąd wyjść... }
+
+Plh_57 { *mruczy* Ktokolwiek będzie mnie częściej pyskować, będzie następny. }
+
+Plh_61 { *warczy* TY jesteś następny... }
+
+Plh_71 { To wystarczy na dziś. Nie chciałbym, żebyście wszyscy rechotali. }
+
+Plh_35 { Niewiele udało się osiągnąć, ale trudno też oczekiwać od was czegoś więcej. }
+
+Plh_72 { $GVAR:EVars_Player.Name$ usunie gruz, a potem czas na odpoczynek! Jutro będziesz chciał kontynuować pracę. }
+
+Plh_70 { *mruczy* Zostaw mnie w spokoju. Zabieraj się do roboty. }
+
+Plh_69 { Dobre lanie jest dla ciebie dobre. Teraz wracaj do pracy! }
+
+Plh_64 { Masz jakiś problem? }
+
+Plh_65 { Jesteś moim problemem! }
+
+Plh_66 { Nie. Wszystko jest w porządku. }
+
+Plh_67 { Jasne, jasne. }
+
+Plh_68 { To go pokonaj. W przeciwnym wypadku będziesz miał problem. }
+
+Plh_5 { Wyjechać. }
+
+Plh_28 { Kiedy byłem mały, potrafiłem ciąć mocniej. }
+
+Plh_29 { Nie zadziała, jeśli będziesz kopać wolniej! }
+
+Plh_30 { Pamiętaj: im szybciej będziesz pracować, tym szybciej się stąd wydostaniesz... }
+
+Plh_31 { Jesteś naprawdę niekompetentny, Hasso. }
+
+Plh_32 { Gdzie nauczyłeś się uderzać, Hasso? Czy ty w ogóle wiesz, co potrafisz robić rękami? }
+
+Plh_33 { Ruszaj się. }
+
+Plh_94 { Znalazłeś mnie...do cholery. }
+
+Plh_107 { A pamiętasz, co wtedy powiedziałem? }
+
+Plh_108 { Nie martw się, nie chcę cię już więcej bić. (zadzieraj z nim) }
+
+Plh_109 { Nie jestem taki jak ty. Zostawię cię w spokoju. }
+
+Plh_110 { Że... mnie pobijesz? }
+
+Plh_111 { Dokładnie. I to właśnie zamierzam zrobić. Naprawdę. }
+
+Plh_114 { No cóż, cholera... }
+
+Plh_112 { Poważnie?! }
+
+Plh_113 { Tylko żartuję. Dotrzymam obietnicy i teraz cię pobiję. }
+
+Plh_115 { Budujemy coś nowego dla siebie. Ponieważ Aldrik nam kazał — to jedyny powód, dla którego to zrobiliśmy. }
+
+Plh_117 { Nie chcę mieć już nic wspólnego z tym gównem. Zostawmy to. }
+
+Plh_118 { Czego jeszcze ode mnie chcesz? }
+
+Plh_116 { Wróciłem! Gotowy na bicie? (rozpocznij bójkę) }
+
+Plh_121 { Dla mnie to też nie jest zabawne. (zaczynają bójkę) }
+
+Plh_122 { Ładny dzień, prawda? (zaczynamy bójkę) }
+
+Plh_123 { Zgadnij, co mam w ręku! (rozpoczyna się bójka) }
+
+Plh_119 { Bardzo mi przykro z tego powodu! }
+
+Plh_120 { Nie dość, że wkrótce będziesz tego żałować, to jeszcze zaczniesz cierpieć! }
+
+Plh_130 { No to zostaw... }
+
+Plh_125 { No cóż... teraz, jak o tym myślę... nie! }
+
+Plh_126 { Nie, nie znowu... }
+
+Plh_127 { Dotychczas... }
+
+Plh_128 { Zobaczymy, czy nadal będzie ci się podobać bez zębów w buziaku. }
+
+Plh_129 { Już to zrobiłem... }
+
+Plh_131 { ...Nic? }
+
+Plh_132 { Błąd. To broń, którą poznasz za chwilę. }
+
+Plh_158 { Zrozumiałem. }
+
+Plh_159 { Czemu po prostu nie zostawisz mnie w spokoju?! }
+
+Plh_160 { *westchnienie* }
+
+Plh_136 { Czy nie robi się nudno, że mnie cały czas bijesz? }
+
+Plh_137 { Nie. (rozpocząć bójkę) }
+
+Plh_138 { Mogłabym tak cały dzień. (rozpoczyna bójkę) }
+
+Plh_141 { Zrozumiałem... }
+
+Plh_142 { Zaczynajmy. Mam pracę do wykonania. }
+
+Plh_135 { A co jeśli zapłacę ci, żebyś przestał? }
+
+Plh_139 { Masz monety? (rozpocznij bójkę) }
+
+Plh_143 { Eee... Nie. }
+
+Plh_144 { Wtedy zapłacisz jak zwykle. Bólem. }
+
+Plh_146 { Dlaczego nie zgadzamy się na remis? }
+
+Plh_147 { Czy ty pytałeś o to Brunę? Nie. (zaczynasz bójkę) }
+
+Plh_134 { Nie, nie znowu... }
+
+Plh_148 { Wiesz co teraz zrobimy? (zaczynamy bójkę) }
+
+Plh_149 { Tak? }
+
+Plh_150 { IMPREZA DIG! }
+
+Plh_152 { Proszę... }
+
+Plh_155 { Czy nie masz już dość? }
+
+Plh_156 { Jeszcze nie. Więc do dzieła. (rozpocznijmy bójkę) }
+
+Plh_154 { Wyciągnęliśmy wnioski! Nie będziemy już więcej niczego psuć! }
+
+Plh_93 { Teraz, gdy o tym myślę... śmierć jest dla ciebie za dobra. Zbyt łatwa. Nie zamierzam ci tego powiedzieć. }
+
+Plh_95 { Co...co masz na myśli? }
+
+Plh_96 { Rzeczy, które zrobiłeś podczas wykopalisk, są niewybaczalne. To, co zrobiłeś Brunowi... ten ból musi zostać odwzajemniony. }
+
+Plh_97 { Pozwolę ci odejść. }
+
+Plh_98 { Ale cię nie uwolnię. }
+
+Plh_99 { Nigdy więcej nie zaznasz spokoju. }
+
+Plh_100 { Gdziekolwiek trafisz... nigdy nie zaznasz spokoju. }
+
+Plh_101 { Bo cię znajdę i odpłacę ci za to wszystko. }
+
+Plh_102 { Nigdy więcej nie będziesz szczęśliwy w Drova. }
+
+Plh_103 { Ale...przepraszam. }
+
+Plh_104 { CICHY! }
+
+Plh_105 { Powinieneś był pomyśleć o tym wcześniej. Teraz uciekaj. }
+

@@ -1,0 +1,10 @@
+Title { Starzec na targu }
+
+Entry_01 { Spotkałem starego człowieka, który chce, żebym przyniósł mu różne rzeczy z targu. Poprosił mnie, żebym mu przyniósł $GVAR:QuestVars_OldMan_Config.AmountApple$ jabłka, $GVAR:QuestVars_OldMan_Config.AmountDagger$ nóż do chleba, $GVAR:QuestVars_OldMan_Config.AmountQuellWurz$ żmijowiec i niedźwiedzią skórę. Mówi, że mogę kupić to wszystko na targu. }
+
+Entry_02 { Femke nie chce mi sprzedać niedźwiedziej skóry. Powiedział, że mogę zbyć starego faceta owczą skórę, zamiast niedźwiedziej skóry. I tak nie zauważyłby różnicy. }
+
+Entry_03 { Enya powiedziała, że ​​Femke przechowuje swoje skóry pod swoim straganem. W nocy, może będę chciał odwiedzić to miejsce... }
+
+Entry_04 { Dałem staruszkowi jego rzeczy. Był bardzo szczęśliwy. }
+

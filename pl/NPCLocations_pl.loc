@@ -1,0 +1,116 @@
+Faction_Neutral { Neutralny }
+
+Remnants_Arena { Obóz Ocalałych: Dzielnica Areny }
+
+Remnants_WayToMine { Na południe od kopalni w obozie ocalałych }
+
+Nemeton_Gate_North { Nemeton: Brama Północna }
+
+Nemeton_Dormitory { We wschodniej części Nemetonu }
+
+Woodcamp { Obóz drwali }
+
+Remnants_Mine { Kopalnia Pozostałości }
+
+Remnants_MinerArea { Obóz Ocalałych: Kwatera Rębaczy }
+
+Nemeton_Palisades_North { Nemeton: Palisade Ściana Północna }
+
+Neutral_SilverMine { Kopalnia srebra w korycie rzeki }
+
+Cave_RuinRaiders { Kryjówka Ruin Raidersów }
+
+Tavern_Forest { Gospoda Rozpruwacz bez głowy }
+
+Nemeton_WarriorsQuarter { Nemeton: Kwatera Wojowników }
+
+Remnants_Academy { Obóz resztek: Akademia }
+
+Neutral_Forest { Las iglasty }
+
+Remnants_Market { Obóz Ocalałych: Rynek }
+
+MissingPerson { Zaginiony }
+
+Remnants_UpperQuarter { Obóz resztek: Górna ćwiartka }
+
+Remnants_Tavern { Karczma Bernolda }
+
+Neutral_Refugee { Schronienie }
+
+Nemeton_Kitchen { Nemeton: Kuchnia }
+
+Remnants_LostQuater { Obóz Pozostałości: Mroczna Dzielnica }
+
+Nemeton_FrontCamp { Obóz poza Nemetonem }
+
+Nemeton_CraftingQuarter { Nemeton: Dzielnica Rzemieślników }
+
+Nemeton_Market { Nemeton: Rynek }
+
+Nemeton_Farm_Georg { Gospodarstwo George’a }
+
+Neutral_DestroyedBridge { Zerwany most }
+
+Neutra_Heath { Neutra_Heath }
+
+Nemeton_Global { Nemeton }
+
+Remnants_Entry { Obóz Ocalałych: Wejście }
+
+Remnants_Global { Obóz resztek }
+
+Nemeton_MarketAndCrafting { Nemeton: Rynek / Dzielnica Rzemieślników }
+
+Nemeton_Moor_South { Wrzosowisko na południe od Nemetonu }
+
+Nemeton_Garden { Nemeton: Ogród na wschodzie }
+
+Neutral_Maw { Wąwóz }
+
+Nemeton_WarriorQuarter { Nemeton: Kwatera Wojowników }
+
+Nemeton_SacredGrove { Nemeton: Święty Gaj }
+
+Neutral_River_WoodcampAndRemnants { Nad rzeką, pomiędzy obozem drwali i obozem resztek }
+
+Nemeton_AppleGrove { Sad jabłkowy w pobliżu Nemeton }
+
+Nemeton_BridgeToDruids { Nemeton: Most do Dzielnicy Druidów }
+
+Neutral_FloodplainForest_Plateau_Ruins { Podziemne ruiny na wzgórzu w lesie łęgowym }
+
+Nemeton_Gate_South { Nemeton: Brama Południowa }
+
+Neutral_ForestPrimeval_Border { Las pierwotny: krawędź }
+
+Neutral_Cave_Woodcamp_South { W pobliżu obozu drwali }
+
+Dead { Martwy }
+
+DrivaniusChamber { Komnata Drivaniusa }
+
+Riverbed_North { Koryto rzeki na północy }
+
+TravelingMerchants { Obóz Pozostałości: Wejście; Nemeton: Wejście; Tawerna; Na zachód od Georgefarm }
+
+Neutral_Heath { Wrzosowisko }
+
+Neutral_ForestPrimeval { Las pierwotny }
+
+Remnants_Underground { Obóz Pozostałości: podziemny }
+
+Neutral_Forest_Camp { Obóz w lesie iglastym }
+
+Unknown { None }
+
+Nemeton_DruidCave { Nemeton: Jaskinia Druidów }
+
+Nemeton_Leader { Nemeton: Dom Lidera }
+
+Expedition_Moor { Wyprawa na wrzosowisko }
+
+Nemeton_Muc { Nemeton: Brama Południowa; Georgefarm lub gaj jabłkowy }
+
+SmugglersDen { Kryjówka przemytników }
+

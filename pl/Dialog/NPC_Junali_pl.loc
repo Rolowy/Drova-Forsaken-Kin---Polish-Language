@@ -1,0 +1,118 @@
+Plh_168 { Pokażesz mi, jak zrobić eggbeer? Wygląda na to, że twoi ludzie to lubią. }
+
+Plh_3 { (koniec rozmowy) }
+
+Plh_169 { Oczywiście! Jesteś jednym z nas. }
+
+Plh_170 { Właściwie, to całkiem proste. Wrzuć wszystkie składniki do garnka, a następnie zagotuj wszystko. Wtedy eggbeer będzie gotowy. Znasz już składniki. *uśmiecha się* }
+
+Plh_164 { To sekretny przepis mojej babci. Jeśli kiedyś do nas dołączysz, mogę ci o tym powiedzieć. }
+
+Plh_127 { Prace nad palisadą zostały ukończone w samą porę! Teraz możemy się zrelaksować. }
+
+Plh_155 { Poczekaj tutaj. }
+
+Plh_156 { Chwileczkę. }
+
+Plh_4 { Spadaj. Jestem zajęty. Praca nad palisadami nie będzie się sama nadzorować. }
+
+Plh_8 { Czy wiesz coś o skradzionych transportach broni? }
+
+Plh_31 { Jestem tu nowy. Szukam pracy. }
+
+Plh_9 { A co jeśli tak? }
+
+Plh_138 { W takim razie chętnie o tym usłyszę. }
+
+Plh_177 { A co to ma wspólnego z tobą? Nie jesteś nawet jednym z nas. }
+
+Plh_178 { Chcę dotrzeć do sedna sprawy, żebym mógł udowodnić Angusowi swoją wartość. }
+
+Plh_179 { Chcę poznać sedno sprawy, żebym mógł do was dołączyć. }
+
+Plh_180 { Hm. Z pewnością uznałby to za coś dobrego. }
+
+Plh_182 { Dobrze, dostaniesz swoją szansę. }
+
+Plh_140 { Wiem, że moi pracownicy zajęli się ostatnią dostawą dla Chunnaic. Ale jeśli mam ci pomóc, to najpierw ty mi pomożesz. }
+
+Plh_172 { Jestem tu mistrzem drewna. Jednym z trzech mistrzów rzemiosła w Nemeton. }
+
+Plh_167 { Moi pracownicy pilnie potrzebują eggpiwa — w przeciwnym razie morale będzie w kiblu. Potrafisz warzyć? }
+
+Plh_173 { NIE. }
+
+Plh_174 { Eee... pewnie. }
+
+Plh_176 { Pomyślałem... }
+
+Plh_153 { Trzymaj tu fort i czekaj, aż wrócę. Jeśli ktoś czegoś chce, powiedz mu, że zaraz wrócę. }
+
+Plh_154 { Lepiej nie wychodź! Wtedy nic ci nie powiem, jasne? }
+
+Plh_175 { Nie jesteś szczególnie dobrym kłamcą. }
+
+Plh_181 { Wielu z tych, którzy siedzą na zewnątrz Nemetonu, chce właśnie tego. }
+
+Plh_32 { Nie mam żadnych. Spróbuj wojowników przy West Gate. Zawsze szukają nowych rąk. }
+
+Plh_157 { Gdzie w imię Boga byłeś? Czy nie mówiłem ci, że powinieneś tu zostać? }
+
+Plh_158 { Karotte potrzebował pomocy z kamieniem granicznym... }
+
+Plh_159 { Umm... cóż... }
+
+Plh_160 { Karotte mnie nie obchodzi! }
+
+Plh_162 { Powinieneś tu czekać. Nic więcej. Jeśli nie możesz sobie poradzić nawet z tym, to co z ciebie za pożytek? }
+
+Plh_166 { W takim razie nie mamy już nic do omówienia w kwestii dostaw broni! Do dzieła! }
+
+Plh_161 { No to powiedz! }
+
+Plh_163 { Wróciłem. Piwo jajeczne jest gotowe i da moim chłopakom niezłego kopa. }
+
+Plh_165 { O dostawie broni... }
+
+Plh_137 { Ach tak, ta historia... }
+
+Plh_183 { Niechętnie to mówię, ale to musiał być któryś z moich chłopców. }
+
+Plh_141 { Chunnaic chciał, aby jeden z nich dostarczył przesyłkę do magazynu Fii. Rzemieślnicy byli zajęci. }
+
+Plh_142 { Kto dokładnie? }
+
+Plh_144 { Hmm. Nie wiem. }
+
+Plh_146 { I myślisz, że masz wszystko pod kontrolą, nawet jeśli nie jesteś tego świadomy? }
+
+Plh_147 { Kim dokładnie są Twoi pracownicy? }
+
+Plh_148 { To idź i porozmawiaj z nimi osobiście... }
+
+Plh_150 { Aiko, Kellan i Mumme. Po prostu przejdź się wzdłuż palisad tutaj przy East Gate, a powinieneś ich łatwo znaleźć. }
+
+Plh_151 { Ale nie rozpraszaj ich zbyt długo! Mają pracować, a nie paplać. }
+
+Plh_184 { Angus powiedział, że mógłbyś pomóc mi odświeżyć chatę. }
+
+Plh_185 { Dobra robota. Nigdy nie sądziłem, że Kendrick zrobi coś takiego. Już słyszałem, że przejąłeś jego chatę. To uczciwe. }
+
+Plh_186 { Chciałbym lepsze łóżko. (oddaj $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ monety) }
+
+Plh_187 { Chciałbym stół warsztatowy. (oddaj $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ monet) }
+
+Plh_188 { Chciałbym dymarnię. (oddaj $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ monety) }
+
+Plh_189 { Plh_189 }
+
+Plh_190 { Plh_190 }
+
+Plh_191 { Wygląda dobrze. Zajmę się tym. Powinno być dostarczone jutro. }
+
+Plh_192 { Jeśli posiadasz potrzebną monetę. }
+
+Plh_193 { Jeśli masz monety, mogę ci pomóc. }
+
+Plh_194 { Plh_194 }
+

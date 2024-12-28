@@ -1,0 +1,158 @@
+back { (Z powrotem) }
+
+end_dialog { (koniec rozmowy) }
+
+End_(End) { (koniec rozmowy) }
+
+Silence { (nie mów nic) }
+
+Leave { (Zostawić) }
+
+NotEnoughMoney { Te monety nie wystarczą. Wróć, kiedy będziesz miał ich wystarczająco dużo. }
+
+NotEnoughMoney1 { Kilka takich monet nie wystarczy. Wróć, kiedy będziesz miał ich wystarczająco dużo. }
+
+NotEnoughMoney2 { Nie próbuj mnie oszukać. Te monety nie wystarczą. }
+
+aboutQuests { O zadaniach... }
+
+aboutOtherQuests { Pomoc w zadaniu... }
+
+end { Muszę iść. (koniec rozmowy) }
+
+Teach_SpearSling { Czy możesz mi pokazać, jak mogę lepiej walczyć, używając włóczni i procy? }
+
+End_WirSehenUns { Do zobaczenia. }
+
+BloodSteel { Krew i żelazo! }
+
+End_VergissEs { Zapomnij o tym. }
+
+End_KeineZeit { Nie mam na to czasu. }
+
+Inf_DaWarNochWas { Było coś jeszcze... }
+
+SLP_GoaWay { Odejdź. }
+
+Busy_NotNow { Nie teraz. }
+
+End_MussLos { Muszę iść. (koniec rozmowy) }
+
+aboutGenericTopics { Chciałbym porozmawiać o czymś innym. }
+
+Teach_Smith { Naucz mnie czegoś o swoim rzemiośle. }
+
+showMeWares { Pokaż mi swoje towary. }
+
+Inf_IchSchauMichUm { Po prostu się rozglądam. }
+
+Inf_HabeFrage { Mam pytanie... }
+
+ShowMeSkills { Chciałbym nauczyć się nowych umiejętności. }
+
+Teach_Sword_! { Naucz mnie lepiej walczyć mieczem. }
+
+Teach_Dagger_! { Naucz mnie lepiej walczyć sztyletem. }
+
+End_IchGehDannMal { Już idę. }
+
+End_VlltSpäter { Może później. }
+
+Acc_KuemmereMichDrum { Zajmę się tym. }
+
+Teach_Animals { Czy możesz mi pokazać, jak patroszyć zwierzęta? }
+
+Teach_General { Naucz mnie czegoś. }
+
+Acc_HelfeDir { Dobrze, pomogę ci. }
+
+End_ÜberlegeNoch { Nadal o tym myślę. }
+
+Teach_Dagger { Czy możesz mnie nauczyć walczyć sztyletem? }
+
+Armor? { Czy można coś zrobić z tymi częściami zbroi? }
+
+Armor { Mam te trzy części zbroi — czy możesz z nich zrobić kompletną zbroję? }
+
+ArmorLight { Najlżejszy, jaki tylko mogę, taki, w którym mogę łatwo manewrować. }
+
+ArmorHeavy { Taki, który zapewnia maksymalną ochronę. }
+
+ArmorDruid { Zbroja z licznymi runami. }
+
+End_AnderesZuTun { Mam coś innego do zrobienia. }
+
+LetsTraining { Gotowy na bitwę? }
+
+LetsRevance { Gotowy na rewanż? }
+
+NoTime_TrainingTime { Kiedy słońce będzie wysoko na niebie, będę na poligonie. Wtedy będziemy mogli walczyć. }
+
+Inf_WasMachstDuHier { Co tu robisz? }
+
+SLP_Dunkel { Wróć, gdy słońce będzie wysoko na niebie nad Drovą! }
+
+Run_IchBinNochDabei { Nadal nad tym pracuję... }
+
+SLP_Müde { Mogłabym spać bez przerwy przez trzy całe dnie i noce... ale jest za dużo do zrobienia. ZAWSZE jest za dużo do zrobienia... }
+
+Teach_Training { Trenuj ze mną. }
+
+LetsTraining_fromMorvin { Proximus powiedział, że powinniśmy trenować. }
+
+Inf_Crimes { O moich występkach... }
+
+FightingArena { Dzisiaj będziemy walczyć na arenie. }
+
+Teach_Mind { Pokaż mi, jak lepiej rozwijać swoją magiczną moc. }
+
+Teach_SpearSling_! { Naucz mnie lepiej walczyć włócznią i procą. }
+
+Teach_Axe_! { Naucz mnie lepiej walczyć toporem. }
+
+SLP_Zeit { *ziewa* Nie teraz... }
+
+Acc_BinDabei { Jestem za! }
+
+Teach_Power { Pokaż mi, jak poprawić swoją siłę. }
+
+End_NichtsZuTun { Nie chcę mieć z tym nic wspólnego. }
+
+Teach_Sword { Czy możesz mnie nauczyć walki mieczem? }
+
+Teach_Lockpicking { Naucz mnie otwierania zamków. }
+
+MeldDichBeiMir { Daj mi znać. }
+
+HereIsMyMoney { Oto monety. }
+
+PlayerSaysTheyDontHaveMoney { Nie mam wystarczającej ilości monet... }
+
+PlayCatch { Chcesz zagrać w berka? }
+
+OnlyNemetonTeaching { Uczę tylko wojowników z Nemetonu. }
+
+Teach_Axe { Czy możesz mnie nauczyć, jak lepiej walczyć toporem? }
+
+HaveRostmoos { Mam Rustmoss. Potrzebujesz trochę? }
+
+FastTravel { Czy możesz mnie podwieźć? }
+
+FastTravel_Ruinenlager { Zabierz mnie do obozu Ocalałych. }
+
+FastTravel_Nemeton { Zabierz mnie do Nemetonu. }
+
+FastTravel_Tavern { Zabierz mnie do tawerny. }
+
+FastTravel_Georgsfarm { Zabierz mnie do Georgefarm. }
+
+FastTravel_Accepted { Dobrze, po prostu wskakuj na wózek. Zaraz wyjeżdżamy. }
+
+FastTravel_Rejected { Wiesz, gdzie mnie znaleźć... gdybyś zmienił zdanie. }
+
+FastTravel_IntroChapter2_01 { Jeśli nie chcesz wędrować sam, możesz pojechać ze mną w moim wózku. }
+
+FastTravel_IntroChapter2_02 { Kosztować Cię to będzie tylko $GVAR:QuestVars_FastTravel_Config.Costs$ monet. }
+
+FastTravel_GerogsFarm { Zatrudniliśmy kogoś nowego, więc teraz my także jedziemy do Georgefarm. }
+

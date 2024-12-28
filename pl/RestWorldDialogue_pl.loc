@@ -1,0 +1,710 @@
+PostExpeditionRuinenlager_FarlanIdle_0 { Powinieneś mnie zobaczyć! }
+
+R_Karotte_AfterRunestone_1 { Mam kamień runiczny! }
+
+R_Karotte_AfterRunestone_2 { Zasłużyłeś! }
+
+R_Karotte_AfterRunestone_3 { W końcu jestem prawdziwym wojownikiem Nemetonu! }
+
+R_Mottek_Routine_4 { Chcę znowu pracować w Pit. }
+
+R_Mottek_Routine_5 { Mam już dość tego słuchania! }
+
+R_Mottek_Routine_6 { Wolałbym być gdzie indziej. Ale dostałem swoje rozkazy. }
+
+R_Kati_Routine_7 { Ale co tam może być? }
+
+R_Kati_Routine_8 { Nie wiem, cholera jasna. }
+
+R_Kati_Routine_9 { Ugh, dlaczego dostaliśmy tę beznadziejną robotę? }
+
+R_Kati_Routine_10 { Lepiej tu, niż w niebezpieczeństwie. }
+
+R_Kati_Routine_11 { Nie chcę tu tylko stać i pełnić warty. }
+
+R_Kati_Routine_12 { Tutaj nic się nie dzieje! }
+
+R_Kati_Routine_13 { To po prostu idź tam i przestań mnie zawracać głowę! }
+
+R_Kati_Routine_14 { Ja nie słuchać rozkazów? Nigdy! }
+
+R_Kati_Routine_15 { Już milczę... }
+
+R_Jero_EndAuwald_AfterDialog_16 { Być może Nemeton wkrótce zaatakuje ponownie. }
+
+R_Jero_EndAuwald_AfterDialog_17 { Wojownicy stoją w gotowości. Jesteśmy przygotowani. }
+
+R_Karotte_18 { Co tu się dzieje? }
+
+BerniWaitForPlayerSecretRoom_19 { Coś tu musi być! }
+
+BerniRunIntoDungeon_20 { Co to za stworzenia? }
+
+BerniRunIntoDungeon_21 { Posąg Luny! Miałem rację! }
+
+PitchNewPath_22 { Świętuj siebie. }
+
+PitchNewPath_23 { Już niedługo Boskość — i chwała — będą nasze. }
+
+HarpyEncounterAndLore_24 { Przygotuj się do walki. }
+
+HarpyEncounterAndLore_25 { Zawsze coś na nas czyha. }
+
+HarpyEncounterAndLore_26 { Te przeklęte harpie. }
+
+HarpyEncounterAndLore_27 { Starajmy się ograniczyć rozlew krwi do minimum. }
+
+HarpyEncounterAndLore_28 { Przestań się ociągać! Ruszaj się! }
+
+BossfightDarwinLead_29 { Czuję Boskość... }
+
+BossfightDarwinLead_30 { Już blisko. }
+
+BossfightDarwinLead_31 { To musi być on. }
+
+BossfightDarwinLead_32 { Miejsce mocy. }
+
+LeaveLeuchtwald_33 { Płomienie zniknęły... }
+
+LeaveLeuchtwald_34 { To musi mieć coś wspólnego z Bóstwem. }
+
+LeaveLeuchtwald_35 { Ludzie, rozejrzyjcie się. }
+
+LeaveLeuchtwald_36 { Cały Las Pierwotny jest... }
+
+LeaveLeuchtwald_37 { Zniszczony. }
+
+LeaveLeuchtwald_38 { Jeszcze nie ukończyliśmy naszego zadania. }
+
+LeaveLeuchtwald_39 { Kontynuować! }
+
+RunHome1_40 { Wróciliśmy. }
+
+EugenEngageBoar_41 { Jeszcze jeden stworek zabity. }
+
+DailyRoutineInRuinenlager_42 { Robienie tego samemu nie jest dobrym pomysłem... }
+
+R_MelunaGoToJola_43 { Wróciłem. }
+
+R_MelunaGoToJola_44 { Meluna! Zmęczona lenistwem? }
+
+R_MelunaGoToJola_45 { Zamknij się. Muszę już wracać. }
+
+R_MelunaGoToJola_46 { No to do dzieła! }
+
+R_MelunaGoToJola_47 { Dam Levinowi znać, że przyjdziesz. }
+
+R_MelunaGoToJola_48 { Tak, tak. Wiem jak to działa. }
+
+R_Conor_RunToCamp_49 { Kurde. Kto tu był? }
+
+Freetime_50 { Dzisiaj... eee. }
+
+Freetime_51 { Świeżo przybyłe! }
+
+TalkToJola_52 { Hej, Jola! Wyglądasz... dobrze dzisiaj! }
+
+TalkToJola_53 { Dziękuję, Eugen, ty też. }
+
+TalkToJola_54 { Mowić... }
+
+TalkToJola_55 { Czy chciałbyś kiedyś napić się ze mną? }
+
+TalkToJola_56 { Czekałem, aż zadajesz to pytanie. }
+
+WayToRippers_SecondStation_57 { Poczekaj chwilę, muszę wysuszyć jaszczurkę. }
+
+WayToRippers_ThirdStation_58 { Hm. Kroki. }
+
+Working_59 { Zaklęcia i umiejętności władania bronią! }
+
+Working_60 { Nigdy czegoś takiego nie widziałeś! }
+
+Working_61 { Mam najlepszy sprzęt! }
+
+Working_62 { Nie trać nadziei! }
+
+Working_63 { Będziesz nosił broń Hadewina! }
+
+Day_64 { Jeśli kiedykolwiek ich złapię... }
+
+Training_65 { Hej, Blaan, twoje ciosy są coraz słabsze. }
+
+Training_66 { Nadal lepsze od twojego. Zamknij się i trenuj. }
+
+Evening_Chill_67 { Z niecierpliwością czekam na jutrzejszą bitwę. }
+
+Evening_Chill_68 { Ja też. Ale uważaj na siebie. }
+
+Evening_Chill_69 { Jasne. Mój topór i ja rozłupujemy wszystko. }
+
+Evening_Chill_70 { Jutro ci pokażę. }
+
+Training_71 { Poczuj to pieczenie! Nie mogę odpuścić! }
+
+Training_72 { Nie odpuszczaj, Mog! }
+
+Training_73 { Tak, natychmiast! }
+
+FreetimeWorking_74 { Wielki Bady stanie twarzą w twarz z cieniem swojego dawnego ja: Gra! }
+
+FreetimeWorking_75 { Obstawiaj zakłady w starym, dobrym Proximusie i napełnij swój portfel! }
+
+FreetimeWorking_76 { Wielki Bady stanie twarzą w twarz z cieniem swojego dawnego ja: Gra! }
+
+FreetimeWorking_77 { Obstawiaj zakłady w starym, dobrym Proximusie i napełnij swój portfel! }
+
+Juri_OnFighterEnterArena_78 { Bitwa zaraz się zacznie. Przygotuj się. }
+
+WorkingNight_79 { U mnie cisza. }
+
+WorkingNight_80 { Na moim też. }
+
+WorkingNight_81 { Chciałbym się z tobą zamienić miejscami. }
+
+WorkingNight_82 { Haha, widzę to. Ale tutaj nic się nie wydarzy. }
+
+BonnyIntroduction_83 { Ach, w końcu tu jestem. }
+
+BonnyIntroduction_84 { Czy znów byłeś na spacerze? }
+
+BonnyIntroduction_85 { Tutaj możesz zjeść ciepły posiłek. }
+
+BonnyIntroduction_86 { O, to jest to, o co chodzi. }
+
+BonnyIntroduction_87 { Czekałem na to odkąd wyszedłem. }
+
+BonnyIntroduction_88 { O, wierzę ci. }
+
+IdleWeaponBeforeQuest_89 { Nie, nie znowu... }
+
+IdleWeaponBeforeQuest_90 { Jak mam to wytłumaczyć... }
+
+IdleWeaponDuringQuest_91 { Jak mam to wytłumaczyć... }
+
+IdleWeaponDuringQuest_92 { Nie, nie znowu... }
+
+TalkToMombert_93 { Musisz być ostrożniejszy, Lukan! }
+
+TalkToMombert_94 { Angus decyduje, kto może przejść. }
+
+TalkToMombert_95 { NIE TY! }
+
+TalkToMombert_96 { T-tak, wiem. }
+
+TalkToMombert_97 { To się już nie powtórzy, Mombert. }
+
+TalkToMombert_98 { Druidzi liczą na ciebie. }
+
+TalkToMombert_99 { Tak! }
+
+Kendrick_Start_100 { Posłuchaj mnie, Angus... }
+
+Kendrick_Start_101 { Znajdź złodzieja. }
+
+Kendrick_Start_102 { Palina jest dezerterką. Musi nią być. }
+
+Kendrick_Start_103 { Nie bądź szalony, Kendrick. }
+
+CrafterIntro_104 { Ten przeklęty Swenn. }
+
+CrafterIntro_105 { Nie mogę tak pracować! }
+
+GoToAdwinWithPlayer_106 { Podążaj za mną. }
+
+GoToAdwinWithPlayer_107 { Tutaj jest Wieczny Ogień. }
+
+GoToAdwinWithPlayer_108 { Myrte to obserwuje. }
+
+GoToAdwinWithPlayer_109 { To jest warsztat Chunnaica. }
+
+GoToAdwinWithPlayer_110 { Na wypadek, gdybyś kiedykolwiek potrzebował broni. }
+
+GoToAdwinWithoutPlayer_111 { Podążaj za mną. }
+
+GoToAdwinWithoutPlayer_112 { Tutaj jest Wieczny Ogień. }
+
+GoToAdwinWithoutPlayer_113 { Myrte to obserwuje. }
+
+GoToAdwinWithoutPlayer_114 { To jest warsztat Chunnaica. }
+
+GoToAdwinWithoutPlayer_115 { Na wypadek, gdybyś kiedykolwiek potrzebował broni. }
+
+AllDay_116 { Hej, maluchy. }
+
+RunToWaterRatsWorldDialogue_117 { Co to za stworzenia? }
+
+RunToSecondSpotMoorlagerhof_118 { Hm, co to jest? }
+
+RunToMoorlagerhof_119 { Naprawdę musisz tutaj uważać. }
+
+RunToMoorlagerhof_120 { Wrzosowisko jest dość miękkie. }
+
+RunToMoorlagerhof_121 { Zostań tutaj, na tym drewnie. }
+
+GoToRura_122 { Rura! Już tu jestem... }
+
+GoToRura_123 { Czasami naprawdę jesteś do niczego, Muc. }
+
+GoToRura_124 { Przepraszam, Rura... }
+
+GoToRura_125 { Nieważne. Weź się do roboty. }
+
+GoToRuraFromEntrance_126 { Rura! Już tu jestem... }
+
+GoToRuraFromEntrance_127 { Czasami naprawdę jesteś do niczego, Muc. }
+
+GoToRuraFromEntrance_128 { Przepraszam, Rura... }
+
+GoToRuraFromEntrance_129 { Nieważne. Weź się do roboty. }
+
+FavourOfCraftsmenGardenerAct1Intro_130 { Gerion powiedział, że mam to odebrać. }
+
+FavourOfCraftsmenGardenerAct1Intro_131 { I jest go za mało! }
+
+FavourOfCraftsmenGardenerAct1Intro_132 { Gdzie mam zdobyć resztę? }
+
+FavourOfCraftsmenGardenerAct1Intro_133 { Mam to wyciągnąć z tyłka? }
+
+FavourOfCraftsmenGardenerAct1Intro_134 { Nie wiem, cholera jasna. }
+
+FavourOfCraftsmenGardenerAct1Intro_135 { Rozwiąż to z Gerionem. }
+
+MorningMiddayAfternoonEvening_136 { Towary już dotarły, ale jeszcze ich nie ma... }
+
+GoToMolvina_137 { Dziedziczka Maurów! }
+
+GoToMolvina_138 { Mam dowód dla Afrin! }
+
+GoToMolvina_139 { Co? }
+
+GoToMolvina_140 { Przyjrzyjmy się temu uważnie. }
+
+PreOutcastOrBadEnding_141 { Te gnoje! }
+
+PreOutcastOrBadEnding_142 { Mogą po prostu trzymać się ode mnie z daleka... }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_143 { Nie bierz tego sobie do serca, Afrin. }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_144 { Po prostu weź głęboki oddech. }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_145 { Tak. W porządku. }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_146 { Muszę się czymś zająć. }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_147 { Porozmawiamy później. }
+
+FinalWorldDialogueBeforeAsmusAfrinEnd_148 { Dobrze, będę trzymać się blisko. }
+
+RuinEntranceLeuchtwald_149 { Pamiętać. }
+
+RuinEntranceLeuchtwald_150 { Ludzie na nas liczą. }
+
+RuinEntranceLeuchtwald_151 { Kontynuować! }
+
+RuinEntranceLeuchtwald_152 { Ach, wrzosowisko. }
+
+RuinEntranceLeuchtwald_153 { Rozkoszuj się widokiem. }
+
+RuinEntranceLeuchtwald_154 { Zanim zaczną się dziać złe rzeczy. }
+
+LeaveLeuchtwald_02_155 { Czarny Płomień... }
+
+LeaveLeuchtwald_02_156 { Zniknęły całkowicie. }
+
+LeaveLeuchtwald_02_157 { Musi to być spowodowane nieobecnością Bóstwa. }
+
+StopAtTavern_158 { Shadowrippers? Tutaj? }
+
+StopAtTavern_159 { Nigdy nie odważą się zapuścić tak daleko. }
+
+StopAtTavern_160 { Kogo to obchodzi! Kontynuuj! }
+
+TalkToKarotte_161 { Spójrz, Karotte. }
+
+TalkToKarotte_162 { Tak? }
+
+TalkToKarotte_163 { Możesz sprawić, że ten będzie świecił. }
+
+TalkToKarotte_164 { No i widzisz? }
+
+TalkToKarotte_165 { Aha. Tak. }
+
+HenikWaitForEatingTogether_166 { Dla Bonny... }
+
+HideySpotOne_167 { Teraz muszę być naprawdę cicho. }
+
+HideySpotOne_168 { Czy ktoś mnie jeszcze szuka? }
+
+HideySpotTwo_169 { Teraz muszę być naprawdę cicho. }
+
+HideySpotTwo_170 { Czy ktoś mnie jeszcze szuka? }
+
+HideySpotThree_171 { Teraz muszę być naprawdę cicho. }
+
+HideySpotThree_172 { Czy ktoś mnie jeszcze szuka? }
+
+HideySpotFour_173 { Teraz muszę być naprawdę cicho. }
+
+HideySpotFour_174 { Czy ktoś mnie jeszcze szuka? }
+
+Afternooon_175 { W końcu te przeklęte krwiożercze muchy zniknęły. }
+
+Afternooon_176 { Czy wszystko działa dobrze na nowym boisku? }
+
+Afternooon_177 { Tak, lepiej, żeby tak było. To dużo pracy, ale też niezła zabawa. }
+
+R_JurekGoToJola_178 { Hm. Chyba nikogo tu nie znam. }
+
+R_JurekGoToJola_179 { Nieważne. }
+
+R_JurekGoToJola_180 { Jestem tutaj, żeby rozpocząć pracę jako Hewer. }
+
+R_JurekGoToJola_181 { Aha, chyba $GVAR:EVars_Player.Name$ cię przysłał. }
+
+R_JurekGoToJola_182 { Złóż raport Levinowi w Pit. }
+
+R_JurekGoToJola_183 { Na wschód stąd. }
+
+R_JurekGoToJola_184 { Dobrze, dziękuję. }
+
+RunToFirstMobsIntent_185 { Chodź ze mną, znam skrót! }
+
+PanicAtFirstMobs_186 { FOGLINGI! ZRÓBCIE COŚ! }
+
+PanicAtFirstMobs_187 { JESZCZE JEDEN! }
+
+RunToSecondMobs_188 { Wreszcie... }
+
+RunToSecondMobs_189 { Następnym razem zabijesz ich szybciej! }
+
+RunToSecondMobs_190 { W przeciwnym razie możesz zapomnieć o swojej płatności. }
+
+PanicAtSecondMobs_191 { Kurde! Więcej ich! }
+
+PanicAtSecondMobs_192 { Masz mnie chronić! }
+
+PanicAtSecondMobs_193 { Czy ty w ogóle cokolwiek robisz? }
+
+RunToThirdMobs_194 { Te mgiełki... straszne. }
+
+RunToThirdMobs_195 { Przeklęte muchy. Zabić je! }
+
+RunToThirdMobs_196 { CZY ZABIŁBYŚ JUŻ TE SZKODNIKI? }
+
+RunToNarrativePoint_197 { Nareszcie. To nie było zbyt trudne. }
+
+RunToFourthMobs_198 { Do dzieła, wojowniku. }
+
+HideAtFourthMobs_199 { Już walczysz? }
+
+HideAtFourthMobs_200 { Przestań się ociągać! }
+
+HideAtFourthMobs_201 { Zaatakuj już, dobrze? }
+
+RunToBabsi_202 { Przeklęte szkodniki! }
+
+RunToBabsi_203 { Obóz Ocalałych nie jest daleko. }
+
+GiveStuffToProximus_204 { Oto przesyłka, Proximus. }
+
+AllDay_205 { Zamierzam znowu ruszyć w drogę. }
+
+AllDay_206 { Do zobaczenia. }
+
+AllDay_207 { Próbuję na chwilę złapać oddech. }
+
+AllDay_208 { Wróciłem! }
+
+AllDay_209 { Muszę już iść. }
+
+AllDay_210 { Do zobaczenia. }
+
+AllDay_211 { Próbuję na chwilę złapać oddech. }
+
+AllDay_212 { Wróciłem! }
+
+AllDay_213 { No to jedziemy. }
+
+AllDay_214 { Witaj, Olaf. }
+
+AllDay_215 { Niedługo będę musiał iść. }
+
+AllDay_216 { No dobrze, wszystko rozładowane... }
+
+AllDay_217 { No to jedziemy. }
+
+AllDay_218 { Witaj, Olaf. }
+
+AllDay_219 { Niedługo będę musiał się ruszyć. }
+
+AllDay_220 { No dobrze, wszystko rozładowane... }
+
+R_Jendra_DITM_Station_01_221 { Teraz zaczyna się zejście. }
+
+R_Jendra_DITM_Station_01_222 { Przygotuj się na pot. }
+
+R_Jendra_DITM_Station_02_223 { Powinno być coś takiego. }
+
+R_Jendra_DITM_Station_02_224 { Najważniejsze jest, żeby nie schodzić za głęboko. }
+
+R_Jendra_DITM_Station_02_225 { Jest tam bardzo niebezpiecznie. }
+
+R_Jendra_DITM_Station_04_EllaLead_226 { ARGH. MOJE RAMIĘ! }
+
+AllDay_227 { Trochę piwa miodowego poprawi jej humor. }
+
+HitReceiver_WorldDialogue_228 { Zostań tu, do cholery! Jeszcze z tobą nie skończyłem! }
+
+PostFightRoutine_229 { Zaczekaj, ty brudny stworzeniu! }
+
+PostFightRoutine_230 { DO DIABŁA! }
+
+GoAndEngageEindringling_231 { Urwę ci nogi! }
+
+GoAndEngageEindringling_232 { Więcej ich! No proszę! }
+
+GoAndEngageEindringling_233 { No dalej, ona musi tu być. }
+
+EngageWanderwesen_234 { Urwę ci nogi! }
+
+IdleInFrontOfWanderwesen_235 { Gdzie jest ten przeklęty stwór... }
+
+IdleInFrontOfWanderwesen_236 { Ona musi być gdzieś tutaj... }
+
+GoToWanderwesen_237 { Oto szkodnik! }
+
+GoToWanderwesen_238 { ZA ANATOLIEGO! }
+
+Morning_PostHoneyQuest_239 { Świeży miód już dotarł! }
+
+R_CarimaSpectateBlaanBlock_240 { Zablokuj ataki Blaana! }
+
+R_CarimaSpectateBlaanTakeAttack_241 { Atakuj Blaana, aż przełamiesz jego obronę! }
+
+BlaanSpectateCarima_242 { No dalej, zróbcie combo! }
+
+BlaanSpectateCarima_243 { Wal dalej! W rytm! }
+
+JendrikWaitAtAmbushSpot_244 { Cholera, Spriggas. }
+
+JendrikWaitAtAmbushSpot_245 { Nie mogę tak pracować. }
+
+JendrikMoveToLog_246 { A teraz chwyć już za rozłuparkę do drewna! }
+
+JendrikMoveToLog_247 { Użyj tego pniaka i ruszamy! }
+
+JendrikWorkAtBridge_248 { Po prostu się poć! }
+
+R_Larea_GoToWoodcamp_249 { No i jesteś, Larea! Nareszcie! }
+
+R_Larea_GoToWoodcamp_250 { Jasne! Miło cię widzieć, Bombus. }
+
+R_NialaRunToWoodcamp_251 { Zwijać się! }
+
+R_AgiloGoToJola_252 { $GVAR:EVars_Player.Name$ wysłał mnie. }
+
+R_AgiloGoToJola_253 { Słyszałem, że nadal szukasz Hewersa? }
+
+R_AgiloGoToJola_254 { Słyszałeś dobrze. Zgłoś się do Levina. }
+
+R_AgiloGoToJola_255 { Wyjaśni, jak tu się wszystko odbywa. }
+
+R_AgiloGoToJola_256 { A... gdzie mogę znaleźć Levina? }
+
+R_AgiloGoToJola_257 { W pobliżu dołu. }
+
+R_AgiloGoToJola_258 { Po prostu podążaj ścieżką na wschód. }
+
+R_AgiloGoToJola_259 { A potem kieruj się na północ. }
+
+R_AgiloGoToJola_260 { Jeszcze jedno... }
+
+R_AgiloGoToJola_261 { Czy jakiś Gero pracuje w Pit? }
+
+R_AgiloGoToJola_262 { Cholera, nie wiem. Czemu nie sprawdzisz? }
+
+R_AgiloGoToJola_263 { Dobrze, dziękuję! }
+
+GoToAndarta_264 { Cześć, Andarta... }
+
+GoToAndarta_265 { Czego chcesz? }
+
+GoToAndarta_266 { Mam coś dla ciebie. }
+
+GoToAndarta_267 { Dla mnie? }
+
+GoToAndarta_268 { Tak. Tylko dla Ciebie. }
+
+GoToAndarta_269 { T-dziękuję. To jest... }
+
+GoToAndarta_270 { Dlaczego nie dołączysz do nas? }
+
+GoToAndarta_271 { Kupię ci jednego! }
+
+GoToAndarta_272 { Ochoczo! }
+
+Evening_273 { Cudowny wieczór, prawda? }
+
+Evening_274 { Jasne, oczywiście. }
+
+HuntWithPlayerFirstRoutine_275 { No dalej, idziemy! }
+
+HuntWithPlayerFirstRoutine_276 { Ślady... }
+
+HuntWithPlayerFirstRoutine_277 { Tędy! }
+
+HuntWithPlayerSecondRoutine_278 { Szkodniki. }
+
+Evening_279 { O, to jest to, o co chodzi. }
+
+Evening_280 { Co za ulga. }
+
+Morning_281 { Hej, Sine, masz jeszcze trochę tego piwa miodowego? }
+
+Morning_282 { Zróbmy dwa. }
+
+Morning_283 { Dwa? Znowu? }
+
+Morning_284 { Nie mogę tego zrobić, Melf. Kiedy Olaf... }
+
+Morning_285 { Cicho! Mów ciszej. }
+
+Morning_286 { No dalej, Sine. }
+
+Morning_287 { Hmmmm. }
+
+Morning_288 { Nie tym razem, Melf. }
+
+Morning_289 { No cóż, cholera... }
+
+EveningNightEarlyMorning_290 { Melf, ruszaj! }
+
+EveningNightEarlyMorning_291 { Klienci nie będą się sami obsługiwać! }
+
+EveningNightEarlyMorning_292 { Zajmę się tym! }
+
+EveningNightEarlyMorning_293 { Twoje zapasy, Andarta. }
+
+EveningNightEarlyMorning_294 { Dlaczego tak długo to trwało? }
+
+EveningNightEarlyMorning_295 { Oddaj to już! }
+
+EveningNightEarlyMorning_296 { I jeszcze jedno dla starej, dobrej Margitte. }
+
+EveningNightEarlyMorning_297 { Zostaw tylko cztery z nich. }
+
+OrganizeBar_Chapter2And3_298 { Do dzieła, Sine! }
+
+OrganizeBar_Chapter2And3_299 { Przynieś więcej do lady. }
+
+OrganizeBar_Chapter2And3_300 { Już to robię! }
+
+AllDay_301 { Wszystko będzie dobrze... }
+
+AllDay_302 { Łatwy... }
+
+Morning_303 { Słuchajcie, słuchajcie o bohaterskich czynach...! }
+
+Morning_304 { Nie... hmm. }
+
+Morning_305 { Niech Noc Kruka... }
+
+Morning_306 { Może nie. }
+
+AllDay_307 { Nie ma sztuki bez publiczności... }
+
+Singing_308 { No i jak mi poszło? }
+
+Daily_AllDayMine_309 { Tyle srebra... }
+
+R_RuhanGoToJola_310 { Jestem tutaj, żeby zacząć pracę w Pit. }
+
+R_RuhanGoToJola_311 { Bardzo dobry. }
+
+R_RuhanGoToJola_312 { $GVAR:EVars_Player.Name$ jest zajęty rekrutacją. }
+
+R_RuhanGoToJola_313 { Zgłoś się do Levina przed Pitem. }
+
+R_RuhanGoToJola_314 { Dobrze, dziękuję. }
+
+R_Fawni_RunToTavern_315 { Przygotujcie się, kochani. }
+
+R_Fawni_RunToTavern_316 { To będzie ekscytujące. }
+
+Evening_317 { Mogę zrobić jeszcze jedno! }
+
+Evening_318 { Do Martena! }
+
+GoingAway_319 { Zaraz wrócę. Nie rób niczego, czego ja bym nie zrobił. }
+
+R_Work_320 { Najlepszą rzeczą w tym miejscu jest jedzenie. }
+
+R_Working_321 { Nareszcie. Dobre jedzenie. }
+
+R_Working_322 { Dbaj o siebie, Hasso. }
+
+R_Working_323 { Oczywiście! Do zobaczenia jutro! }
+
+R_Working_RunIntoRoom_324 { Skończyliśmy! Nareszcie! }
+
+R_Working_RunIntoRoom_325 { O, spójrz na to. }
+
+R_Working_RunIntoRoom_326 { Co to jest? }
+
+R_Working_RunIntoRoom_327 { Może tu coś być. Pomóż nam się rozejrzeć. }
+
+R_Working_RunIntoRoom_WarningPlayer_328 { Uważaj! Nie chcesz być zaskoczony będąc strażnikiem! }
+
+GoToEggs_329 { Tędy! }
+
+GoToEggs_330 { Tam! }
+
+GoToEggs_331 { Przygotuj się. }
+
+IdleTavern_332 { Wszystko będzie dobrze. }
+
+Library_GoToEntry_333 { Musimy iść tą drogą. }
+
+Library_IdleSecretRoom_334 { Być może będziemy mogli kontynuować w ten sposób. }
+
+Library_IdleSecretRoom_335 { Upewnię się, że uda nam się stąd wydostać. }
+
+Library_IdleSecretRoom_336 { Wycofajmy się. }
+
+IDLE_AfterFight_337 { Runa działa. }
+
+IDLE_AfterFight_338 { Runa jest nadal aktywna. Na szczęście dla nas! }
+
+HitReceiver_339 { Co oni zrobili temu Sprigga? }
+
+HitReceiver_Reija_Dialog_EnterWurmArea_340 { Coś tu jest nie tak. }
+
+HitReceiver_Reija_Dialog_FireRoom_341 { Może czar się nie powiódł. }
+
+HitReceiver_Reija_Dialog_PictureWall_01_342 { Tam, przy murze... to musi być kamień runiczny. }
+
+HitReceiver_Reija_Dialog_DoorOpen_343 { Drzwi właśnie się otworzyły! }
+
+HitReceiver_Reija_Dialog_Spear_344 { Ten materiał... Nigdy czegoś podobnego nie widziałem. }
+
+HitReceiver_Reija_Dialog_EndRoom_345 { Powinniśmy przyjrzeć się temu miejscu bliżej. }
+
+HitReceiver_Reija_Dialog_GolemFightRoom_346 { Co-co to było? }
+
+HitReceiver_Reija_Dialog_AfterGolemFight_347 { To musiał być golem. }
+
+HitReceiver_Reija_Dialog_AfterGolemFight_348 { Szybko, uciekajmy. }
+
+HitReceiver_349 { Nadciąga mgła. Uważaj! }
+
+HitReceiver_350 { Uważaj, są niebezpieczne! }
+
+Dylara_Moorlagerhof_351 { Najprzyjemniej jest przy kominku. }
+
+Dylara_Moorlagerhof_352 { Rozejrzę się. Zobaczę, czy jest cicho. }
+
+Plh_0 { Witamy w Bernold's Tavern. Weź piwo. }
+
+Bady_Duel_Leaving_0 { Zostań na wyspie. Naprawdę nie chcę cię gonić po całej Drova. }
+

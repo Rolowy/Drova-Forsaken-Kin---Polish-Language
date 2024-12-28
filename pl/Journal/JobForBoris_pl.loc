@@ -1,0 +1,26 @@
+Title { Głos Borisa za dołączeniem do resztek }
+
+Entry_00 { Jeśli chcę, żeby Boris zagłosował na mnie, żebym został przyjęty do Remnants, muszę odebrać paczkę od Asmusa w Nemeton. Do Nemeton! }
+
+Entry_01 { Boris dał mi trzy paczki Rustmoss i powiedział, żebym sprzedał je Hewersom za nie mniej niż $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet za paczkę. Jeśli to dla niego zrobię, zagłosuje na mnie. }
+
+Entry_02A { Kora i ja podzieliliśmy się Rustmoss, dlatego sprzedałem jej go za $GVAR:QuestVars_JobForBoris_Config.KoraJointDiscount$ monet. Różnica będzie musiała wyjść z mojej własnej kieszeni. }
+
+Entry_02B { Kora kupiła Rustmoss za $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+
+Entry_03 { Cord kupił paczkę czerwonego złota za $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+
+Entry_03_1 { Sprzedałem trochę Rustmossu Gritowi. }
+
+Entry_03_2 { Sprzedałem trochę Rustmossu Sendze. }
+
+Entry_04 { Liandra kupiła paczkę Rustmoss za $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+
+Entry_05 { Przekonałem Borisa. Zagłosuje na mnie. Ale jeśli chcę dołączyć do jego ekipy, będę musiał przekonać ich, a także Eugena. }
+
+Entry_01B { Nie sprzedałem tych rzeczy Borisowi. }
+
+Entry_Sold { Wszystko sprzedałem i powinienem o tym powiedzieć Borysowi. }
+
+Entry_06 { Mog ma trochę Rustmoss. Otrzymałem za to $GVAR:QuestVars_JobForBoris_Config.PricePerJoint$ monet. }
+

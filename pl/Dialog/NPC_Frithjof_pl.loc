@@ -1,0 +1,16 @@
+Plh_5 { Ach, nowa twarz. Jestem Frithjof. Mam kilka ciekawych rzeczy, które możesz ode mnie kupić. Rozejrzyj się. *uśmiecha się* }
+
+Plh_9 { Jeśli czegoś potrzebujesz... Wiesz, gdzie mnie znaleźć. }
+
+Plh_7 { No więc, chcesz coś kupić? }
+
+Plh_11 { Skąd bierzesz wszystkie swoje towary? }
+
+Plh_12 { Och, mam swoje sposoby. Czasami te rzeczy po prostu gdzieś leżą. Albo lepkie palce pomagają otworzyć niektóre skrzynie. Za $GVAR:EVars_Frithjof.MoneyForLearning$ monety mogę pokazać ci, jak samemu otwierać skrzynie. }
+
+Plh_14 { Jeśli masz monety $GVAR:EVars_Frithjof.MoneyForLearning$. *uśmiecha się* }
+
+Plh_15 { Oto monety. (oddaj $GVAR:EVars_Frithjof.MoneyForLearning$ monet) }
+
+Plh_17 { *uśmiecha się* Dotrzymam słowa. }
+

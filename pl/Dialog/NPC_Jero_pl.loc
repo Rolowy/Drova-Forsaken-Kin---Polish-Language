@@ -1,0 +1,468 @@
+Plh_334 { Jestem gotowy na Czerwoną Wieżę. }
+
+Plh_335 { No dobrze, zaczynajmy. }
+
+Plh_15 { Zbliżać się. }
+
+Plh_158 { Dość gadania! Czas uderzyć! }
+
+Plh_16 { Plh_16 }
+
+Plh_74 { Wolność jest w zasięgu ręki. Bądź przygotowany. }
+
+Plh_183 { Za wydostanie się. }
+
+Plh_6 { Jero! Wyprawa zakończyła się sukcesem. }
+
+Plh_31 { Darwin mi odpowiedział. Właśnie przygotowuje naczynie na runy. Ale — straciliśmy Lindona? }
+
+Plh_199 { To było... *spuszcza wzrok* $GVAR:EVars_Player.Name$, powiedz mu. }
+
+Plh_200 { Lindon złożył dla nas najwyższą ofiarę. Potężny Dzik go przebił. }
+
+Plh_201 { Mighty Boar był dla niego za silny. Nie można mu pomóc. }
+
+Plh_202 { Słyszałem już twoje nazwisko. Od Levina. Jesteś tu nowy i już dołączyłeś do wyprawy? Nietypowe. Ale to coś o tobie mówi. }
+
+Plh_203 { To był naprawdę przypadek. $GVAR:EVars_Player.Name$ wiedział, jak poruszać się po Blackflame. Tylko w ten sposób dotarliśmy do Mighty Boar. }
+
+Plh_204 { Blackflame, który wymagał tylu żyć? Znasz ścieżkę przez niego? Naprawdę jesteś we właściwym miejscu we właściwym czasie. }
+
+Plh_205 { Teraz moc Mighty Boar jest w naszych rękach. Cuna właśnie wszystko ustawia. Kilian, pomóż jej. $GVAR:EVars_Player.Name$, ty zostań tutaj. }
+
+Plh_13 { Tak! }
+
+Plh_206 { Mam ci coś do pokazania. Chodź ze mną. }
+
+Plh_7 { None }
+
+Plh_387 { Udało się! Jesteśmy w Czerwonej Wieży! }
+
+Plh_425 { Molvina, krąg runiczny zgasł. Nie posiada już żadnej magicznej mocy. }
+
+Plh_426 { Oznacza to, że nie będzie już odwrotu — dopóki nie znajdziemy Bóstw... }
+
+Plh_423 { Wyżej w wieży znajduje się kilka Bóstw... Czuję ich obecność... }
+
+Plh_424 { Wkrótce Remnants dowiedzą się, że jesteśmy w Czerwonej Wieży. Musimy się spieszyć. Gdy już zdobędziemy Divinities, będziemy nie do zatrzymania! }
+
+Plh_482 { Rozejrzyj się — musimy znaleźć sposób na otwarcie bramy na wyższe poziomy. }
+
+Plh_476 { Dobrze walczyli. Bygones są silni, ale bezmyślni i bez własnej woli. Żadnego poczucia koleżeństwa. Jesteśmy jednością — i dlatego zwyciężymy. }
+
+Plh_431 { Szkoda mi ich... Po tak długim czasie spędzonym w takich warunkach... Na wrzosowisku wyczułem, co może się stać, jeśli nasza więź z tym światem zostanie zerwana... }
+
+Plh_477 { Tym bardziej należy wysłać ich na tamten świat. }
+
+Plh_478 { Nie bez powodu nazywani są „Bygones”. Ich czas się skończył. MY będziemy rządzić Drovą. Wyruszmy. }
+
+Plh_479 { Ta bariera... Przypominam sobie świecące runy Czerwonej Wieży. Mombert? }
+
+Plh_480 { Tak, jest podobny, ale słabszy. }
+
+Plh_433 { Dzięki mocy Potężnego Dzika powinniśmy być w stanie pokonać tę przeszkodę. }
+
+Plh_261 { Udało Ci się! }
+
+Plh_260 { Możemy przejść. }
+
+Plh_262 { Podążaj za mną, ruszaj się! }
+
+Plh_481 { Przed nami jeszcze więcej Bygones, przygotujcie się do bitwy! }
+
+Plh_435 { Żadnych golemów w zasięgu wzroku... Znacznie lepiej. }
+
+Plh_484 { *uśmiecha się* Pokaż im, co znaczy mieć rodzinę! }
+
+Plh_336 { *ciężko oddycha* Udało się! Dobra robota! }
+
+Plh_219 { Co to była za przeklęta rzecz?! }
+
+Plh_263 { Ja — nie wiem. Wydaje się, że to utrzymało Bygones przy życiu... Ich magiczna moc nie była w stanie uciec przed konstruktem. }
+
+Plh_264 { „Próbuj uciec śmierci, a nigdy nie znajdziesz spokoju”. Tak zawsze mawiał Dorian, mój ojciec. }
+
+Plh_440 { Śmierć jest częścią życia. Pamiętaj Gradana... Jest w tamtym świecie, myśli o nas, tak jak my myślimy o nim. }
+
+Plh_441 { Ktokolwiek znajdzie się w tamtym świecie... Powinni czuć się szczęśliwi, że go mają. }
+
+Plh_266 { Dość. Musimy znaleźć naczynia runiczne. Rozejrzyj się! }
+
+Plh_443 { Kolejna bariera. Musimy być blisko szczytu. }
+
+Plh_442 { Czy masz jeszcze dość sił, Mombert? }
+
+Plh_271 { Daj mi spróbować... }
+
+Plh_272 { Możemy przejść... }
+
+Plh_273 { Kontynuować! }
+
+Plh_422 { Rozejrzyj się. }
+
+Plh_213 { Brama otwarta! Tutaj! }
+
+Plh_483 { Jak ci się to udało, $GVAR:EVars_Player.Name$? Wszystko tutaj jest takie obce... }
+
+Plh_338 { Relikwie były w pokojach — ukryte. Użyłem ich, żeby otworzyć drzwi. }
+
+Plh_385 { W międzyczasie rozwiązałem ich zagadkę — relikwie musiały zostać umieszczone w dokładnie odpowiednim miejscu. }
+
+Plh_386 { To długa historia... }
+
+Plh_340 { Dobrze, że jesteś po naszej stronie. Bygones i ich dziwne struktury... Pewnie też zastawili pułapki. }
+
+Plh_246 { Nie wiem, co nas czeka na górze. Ale potrzebujemy naczyń runicznych. W przeciwnym razie to wszystko było na nic. }
+
+Plh_418 { Musimy się spieszyć. Nie zapomnijcie, dlaczego to robimy. Dla Nemetonu! }
+
+Plh_428 { Podążamy za Tobą! }
+
+Plh_430 { Zachowaj czujność. }
+
+Plh_214 { Postój! }
+
+Plh_252 { *szepcze* Nie wolno nam atakować lekkomyślnie. Czy to — konstrukt — jeden z ich golemów? }
+
+Plh_341 { $GVAR:EVars_Player.Name$, czy kiedykolwiek walczyłeś z czymś takim? Co o tym wiesz? }
+
+Plh_342 { Może znieść bicie i ma duży zasięg. Nie wspominając o potężnych zaklęciach. }
+
+Plh_344 { Musimy się rozprzestrzenić. Jeśli to zrobimy, nie będzie problemu. }
+
+Plh_343 { Zostaw to mnie. }
+
+Plh_253 { Dobrze, $GVAR:EVars_Player.Name$, ty zajmij się golemem. Zaatakujemy Bygones i będziemy cię chronić. }
+
+Plh_346 { Przygotuj się. Atakujemy i... }
+
+Plh_347 { Teraz! }
+
+Plh_349 { Musimy być blisko szczytu. Magiczna moc Bóstw jest tak silna — to niewiarygodne. To również energetyzuje ten krąg runiczny. Spójrz. }
+
+Plh_350 { Czy wiesz, co to robi? }
+
+Plh_351 { Nie jestem pewien... Ale rozpoznaję niektóre z tych run. Krąg wydaje się działać jak zaklęcie ochronne...? }
+
+Plh_401 { Kiedy wszedłeś do Czerwonej Wieży, osłabiłeś zaklęcie ochronne. Robiąc to, przypieczętowałeś swój własny los... }
+
+Plh_485 { Wy przeklęci hipokryci. Najpierw Kruk, potem Dzik. Powstrzymamy was! Inaczej wszyscy skończymy jak Bygones! }
+
+Plh_447 { Nie pozwolę, żebyś dostał w swoje ręce naczynia z runami. }
+
+Plh_282 { Przygotuj się, $GVAR:EVars_Player.Name$. }
+
+Plh_486 { Bracie, jesteśmy tutaj, aby stworzyć Krainę Legend — walczymy o naszą sprawę! Chcesz po prostu uciec? Uchylić się od odpowiedzialności? }
+
+Plh_487 { Tak jak zawsze! Tchórz, który chce wydostać się z Drova, zamiast wziąć los w swoje ręce? Nie pamiętasz nawet, jak to kiedyś było? Tylko szaleniec chciałby tam wrócić... }
+
+Plh_448 { Cisza! Nikt tak nie mówi do naszego lidera! }
+
+Plh_356 { Obetnę ci język... }
+
+Plh_357 { No to dawaj, zrób to, jeśli odważysz się! }
+
+Plh_405 { Moi wierni... Opuśćcie broń. }
+
+Plh_285 { Co-co? }
+
+Plh_449 { To nie dotyczy nikogo oprócz mojej siostry i mnie. Nikogo innego nie trzeba przelewać. Zadecydujemy — własną krwią. }
+
+Plh_406 { Co ty na to, siostro? Czy skrzyżujemy miecze? }
+
+Plh_288 { Niech Bóstwa wydadzą wyrok! Kierując naszymi ostrzami, niech zdecydują, kto otrzyma naczynia runiczne i kto będzie decydował o losie Drova! }
+
+Plh_290 { Co? Sąd Bóstw? }
+
+Plh_291 { Oznaczałoby to, że ktoś z nas będzie musiał umrzeć... }
+
+Plh_293 { Odsunąć się na bok! }
+
+Plh_410 { Dla pokoju żadna ofiara nie jest zbyt wielka. Jeszcze raz krew popłynie w Drova. Ostatni raz — nawet jeśli będzie musiała płynąć z żył mojego brata. }
+
+Plh_411 { Walczę za Nemeton. Walczę za całą Drovę! }
+
+Plh_412 { Molvina, dziedziczka Maurów. }
+
+Plh_296 { Niedobrze... Wcale niedobrze... }
+
+Plh_452 { Wszyscy! Bądźcie świadkami sądu Bóstw! }
+
+Plh_454 { Nigdy nie pokonałeś mnie w walce, bracie. Przyjście tutaj było błędem. }
+
+Plh_453 { To były kłótnie, gdy byliśmy jeszcze młodzi. Błąd popełniłaś ty, bo ja już nie jestem małym Jero z tamtych dni, siostro. }
+
+Plh_302 { *szeptem* Nigdy nie chciałam, żeby do tego doszło. }
+
+Plh_303 { *szepcze* Jest za późno. Wszystko za późno. }
+
+Plh_352 { Co to było? }
+
+Plh_353 { Brzmiało to jak... Nie, to niemożliwe... }
+
+Plh_444 { Róg Pozostałości. }
+
+Plh_348 { Już są! }
+
+Plh_397 { Siostro. Jak miło cię tu widzieć. }
+
+Plh_277 { Formacja obronna! }
+
+Plh_399 { Wojownicy Remnants — zróbcie krok naprzód! }
+
+Plh_400 { Jak dostaliście się do Czerwonej Wieży? }
+
+Plh_229 { Darwin, czy to jest nasza droga do wolności? }
+
+Plh_230 { Ja... nie wiem... wyczuwam magiczną moc, ale... }
+
+Plh_231 { Magiczna moc pochodzi z góry... I nie jest połączona z tym kręgiem runicznym. Krąg został wygaszony. }
+
+Plh_232 { Mamy Mighty Boar. Czy możemy użyć go, aby wygenerować wystarczająco dużo magicznej mocy, aby ponownie rozpalić krąg runiczny? }
+
+Plh_233 { Nie. Krąg runiczny, którego szukamy, znajduje się na szczycie wieży. Musimy znaleźć inne naczynia runiczne z Divinities. }
+
+Plh_234 { Więc wchodzimy wyżej na wieżę... }
+
+Plh_235 { Rozejrzyj się. Musimy jakoś otworzyć bramę. }
+
+Plh_215 { Bygones nigdy nie przestaną walczyć, ale ich duchy już opuściły ich ciała... Nie będą w stanie nas powstrzymać. Czy jesteś cały i zdrowy? }
+
+Plh_255 { Nigdy nie czułem się lepiej. Codzienna walka trzyma doktora z daleka! }
+
+Plh_256 { To jest Eugen, którego znam! Po prostu walcz, a świat znów będzie w porządku! }
+
+Plh_257 { My — my musimy iść dalej. Magiczna moc rośnie nad nami. Czuję to. Bóstwa są blisko. }
+
+Plh_258 { No to naprzód! }
+
+Plh_216 { Wygląda to na kolejną magiczną barierę... }
+
+Plh_217 { To jest ten sam... }
+
+Plh_259 { Bariera przypomina tę, która otaczała Czerwoną Wieżę. Ale jest słaba. Dzięki mocy Mighty Boar będę w stanie ją podnieść. }
+
+Plh_474 { Ostrożnie — jeszcze więcej Bygones. }
+
+Plh_475 { Tym razem bez golema. Bułka z masłem! }
+
+Plh_265 { Zawsze to mówię. Jestem pacyfistą. }
+
+Plh_220 { Kolejna z tych barier. Darwin? }
+
+Plh_358 { Molvina... Nie, to niemożliwe. }
+
+Plh_362 { Jak to się mogło stać? Byliśmy tak blisko... }
+
+Plh_455 { Nie chciałem walki. Nie chciałem zabić mojej siostry. Ale ona nie zostawiła mi wyboru. Bóstwa nie zostawiły mi wyboru. }
+
+Plh_456 { Drova nigdy nie stanie się Krainą Legend. Musimy powrócić do krainy, z której przyszliśmy! I ja nas tam poprowadzę! }
+
+Plh_457 { Teraz jesteśmy potężniejsi niż Bóstwa — dlaczego mielibyśmy kształtować tylko Drovę na nasze podobieństwo? Posiadamy moc, by zmienić cały świat! Posiadam tę moc! Posiadam! }
+
+Plh_458 { Krąg runiczny — coś jest z nim nie tak. Czy — czy został zgaszony? }
+
+Plh_459 { Mombert! Nic z tego nie ma znaczenia. Bóstwa przemówiły. Ja przemówiłem! }
+
+Plh_460 { Za wolność! }
+
+Plh_461 { Molvina, Dziedziczka Maurów! Jak to może być wolą Bóstw? Jero chce wywyższyć się ponad Bóstwa. }
+
+Plh_366 { Henik, to jest... }
+
+Plh_367 { Molvina nie żyje, tak samo jak Nemeton. Nie może się bronić. Bóstwa należą do nas, a my staniemy się nowymi Bóstwami tego świata! }
+
+Plh_462 { Nigdy więcej nie podporządkuję się Boskościom... Podejmę decyzję sam. }
+
+Plh_463 { Uklęknij przede mną. Przysięgnij mi swoją wierność. }
+
+Plh_464 { Albo wejdź na ring, jeśli nie chcesz iść za nami. }
+
+Plh_370 { Nie pójdę za wami. Zamiast tego wzywam was do sądu Bóstw. }
+
+Plh_371 { (klęknąć) }
+
+Plh_372 { Co się stało z kręgiem runicznym? Już nie świeci. }
+
+Plh_467 { Co ty, na Boga, robisz? Czy ty oszalałeś? }
+
+Plh_468 { Ktoś chce walczyć z Jero? }
+
+Plh_469 { Podziwiam tę odwagę. Bezsensowną odwagę, ale masz mój szacunek. }
+
+Plh_470 { Wyślę cię do Bóstw. Walcz! }
+
+Plh_465 { Asmus... $GVAR:EVars_Player.Name$... Co ty robisz?! }
+
+Plh_466 { To była honorowa walka. Bóstwa wydały swój osąd. Jero poprowadzi nas teraz... }
+
+Plh_471 { Dla Jero! Przynosiciela wolności! }
+
+Plh_472 { Naczynia runiczne należą teraz do Remnantów. Dzięki ich mocy opuścimy Drovę na zawsze. Wolność jest w zasięgu ręki! }
+
+Plh_473 { Podążajcie za mną, wojownicy Remnant. Zdobędziemy naczynia runiczne. }
+
+Plh_382 { To nie jest dobre, może być tak, że — }
+
+Plh_383 { Cisza! }
+
+Plh_384 { Uklęknij i złóż mi przysięgę wierności. Poprowadzę nas do lepszego świata, gdzie będziemy mogli żyć bez żadnych Bóstw. }
+
+Plh_337 { W tej komnacie jest wiele dziwnych rzeczy z Bygones. Co zrobiłeś, $GVAR:EVars_Player.Name$? }
+
+Plh_247 { Jesteśmy tak blisko. Jeśli znajdziemy Divinities, będziemy mieli więcej niż wystarczająco mocy magicznej, aby opuścić Drovę. Zabierzemy magię run do domu. }
+
+Plh_248 { Pójdziemy za tobą, Jero! }
+
+Plh_249 { Na śmierć i dalej! }
+
+Plh_250 { Już niedługo będziemy pić nasze piwo na wolności! Razem! Podążajcie za mną! }
+
+Plh_354 { NEMETON! }
+
+Plh_274 { Nemeton! Nemeton nadchodzi! }
+
+Plh_276 { Mój bracie... No więc spotykamy się ponownie. }
+
+Plh_279 { Na przód! }
+
+Plh_278 { Jak się tu znalazłeś? }
+
+Plh_280 { Bariera zniknęła. Raven zdołał nas wprowadzić do wieży. Sprowadziłeś na siebie swój koniec... }
+
+Plh_281 { Zniszczyłeś Las Pierwotny! Śmierć podąża za tobą, gdziekolwiek pójdziesz. Nie pozwolę, by naczynia runiczne trafiły w twoje ręce. }
+
+Plh_283 { Jakbyś nie pożądał mocy Bóstw — mocy Potężnego Dzika! Wy hipokryci! }
+
+Plh_355 { Nie zwracaj się w ten sposób do Dziedziczki Maura! }
+
+Plh_284 { Wojownicy Nemetonu... Opuśćcie broń. }
+
+Plh_286 { Dość już przelanej krwi. Dotyczy to tylko mojego brata i mnie. Rozwiążemy to — i tylko własną krwią. }
+
+Plh_287 { Tylko my dwoje, bracie. Ocalały dostaje naczynia runiczne — a wraz z nimi przyszłość Drova. }
+
+Plh_294 { Poświęciłem swoje życie prowadzeniu mieszkańców Drova ku wolności. }
+
+Plh_295 { Jeśli osiągnięcie tego będzie wymagało ode mnie stawienia się przed Bóstwami na sąd — jeśli będę musiał za to umrzeć lub jeśli będę musiał odebrać życie mojej siostrze... Niech tak będzie. }
+
+Plh_297 { DLA JERO! }
+
+Plh_299 { Niech wszyscy będą świadkami, jak Bóstwa wydają osąd! Zobacz, jak przyszłość Drova wyłania się z mgły! }
+
+Plh_300 { Zobaczymy, czego się nauczyłaś w tym czasie — siostro. }
+
+Plh_301 { Za chwilę się dowiesz — bracie. }
+
+Plh_190 { Eugen opowiedział mi, co wydarzyło się na wrzosowisku. Nie spodziewałem się, że znów cię zobaczę. Mieliśmy wysłać kolejną grupę poszukiwawczą. Masz kryształy? }
+
+Plh_191 { Tak, tutaj. (podanie) }
+
+Plh_322 { Eugen totalnie spanikował. W ogóle mi nie pomógł. }
+
+Plh_192 { *mierzy je i uśmiecha się złośliwie* Czuję w nich moc Bóstw. Możemy zaczynać. }
+
+Plh_330 { Pójdziemy do Czerwonej Wieży. Nie wiem, co nas tam czeka. Przygotuj się dobrze. }
+
+Plh_331 { Jestem gotowy. }
+
+Plh_332 { Potrzebuję jeszcze trochę czasu. }
+
+Plh_333 { Więc dokończ to, co robisz. Pospiesz się! }
+
+Plh_323 { Rozmawiałem z nim. Wszyscy chcemy się stąd wydostać. Na szczęście udało ci się wyjść z tego żywym... Twój heroizm przejdzie do historii naszego nowego świata, $GVAR:EVars_Player.Name$. Ale najpierw musimy się tam dostać... }
+
+Plh_36 { Czerwona Wieża. Nasza droga do wolności! Zbyt długo byliśmy uwięzieni w Drova, ale nadszedł czas, abyśmy uciekli. }
+
+Plh_37 { To był nasz cel, gdy opuszczaliśmy Nemeton i zakładaliśmy Remnants. Nie minął ani jeden dzień bez naszego dążenia do tego celu. }
+
+Plh_39 { Kiedyś byłeś częścią Nemetonu? }
+
+Plh_38 { I teraz nasz cel jest w zasięgu ręki. }
+
+Plh_41 { Wszyscy byli — bo wtedy Nemeton był wszystkim, co istniało. Ludzie myśleli, że to Kraina Legend. Wkrótce zdali sobie sprawę, że tak nie jest i niektórzy chcieli odejść. }
+
+Plh_42 { Druidom Nemetonu się to nie podobało. Aby ukształtować Nemeton w to, czym ich zdaniem powinien być, żądali oddania i posłuszeństwa. Każdy dysydent był nazywany zdrajcą. Więc odeszliśmy i założyliśmy obóz Remnants. }
+
+Plh_43 { To było ponad dwadzieścia lat temu. I uwierz mi — nikt nie jest zmuszany do dołączenia do nas. Każdy jest tu z własnej woli. I wierzą w nasz cel. }
+
+Plh_49 { Jeśli mamy osiągnąć nasz cel, potrzebujemy ludzi, którzy mają coś do zaoferowania. Ludzi, którzy walczą. Ludzi, którzy nie wątpią w naszą ścieżkę. }
+
+Plh_208 { Pokazałeś nam drogę przez Czarny Płomień; przyniosłeś nam Boski Kryształ i odegrałeś kluczową rolę w umożliwieniu nam otrzymania mocy Boskości. }
+
+Plh_317 { Oto Czerwona Wieża. }
+
+Plh_318 { Zaklęcie ochronne jest silne i nie można go pokonać siłą fizyczną... Ale teraz posiadamy moc Boskości. }
+
+Plh_319 { Nasi druidzi opracowali rytuał, w którym mogą za pomocą srebra wzmocnić magiczną moc Bóstwa i skierować ją w stronę bariery. }
+
+Plh_320 { Chcę, żebyś był u mego boku, gdy wejdziemy do Czerwonej Wieży. }
+
+Plh_53 { Nikt nie wie, co znajdziemy w Czerwonej Wieży. Nie mogę obiecać, że wszyscy przeżyjemy. Ale obiecuję zrobić wszystko, co w mojej mocy, aby tak się stało. No i co? }
+
+Plh_194 { Zbliżać się. }
+
+Plh_195 { (zbliżać się) }
+
+Plh_21 { *chwyta twoją dłoń, tnie ci wnętrze dłoni, a potem robi to samo sobie* }
+
+Plh_25 { *przyciska twoją i jego dłoń do Czerwonej Wieży* Złożyliśmy przysięgę krwi. Oddałeś swój los w moje ręce. A ja uwolnię cię z Drova. }
+
+Plh_54 { Czerwona Wieża jest naszą drogą ucieczki. }
+
+Plh_61 { Potrzebujesz kamienia runicznego. W końcu możemy go zrobić, dzięki Mighty Boar. Idź do Cuny i niech da ci kamień runiczny. Jest po zachodniej stronie Akademii. }
+
+Plh_64 { Następnie złożysz raport Kilianowi. }
+
+Plh_62 { A teraz idź. }
+
+Plh_193 { Rozpocznij rytuał, Manes. }
+
+Plh_304 { Natychmiast! Umieścimy Divine Crystals na miejscu. }
+
+Plh_306 { To po prostu musi działać... }
+
+Plh_305 { Tak będzie. Miej wiarę w naszych ludzi, Jero. }
+
+Plh_309 { Zaczynajmy! }
+
+Plh_307 { Bariera została zniszczona! }
+
+Plh_308 { Przygotujcie się! Czerwona Wieża jest dla nas otwarta! }
+
+Plh_310 { Słyszeliście Jero! Eugen, Fulk i $GVAR:EVars_Player.Name$. Przygotujcie się! }
+
+Plh_311 { Za wolność! (salut) }
+
+Plh_313 { Do Czerwonej Wieży. }
+
+Plh_314 { Dla Jero! }
+
+Plh_315 { Dla Farlana. }
+
+Plh_324 { Nie masz dużo czasu. Nie minie dużo czasu, zanim Nemeton zauważy, że jesteśmy w Czerwonej Wieży. Prawdopodobnie zaatakują. Ja zajmę się obroną. }
+
+Plh_325 { Musimy być szybsi niż Nemeton. Wojna jest nieunikniona. Musimy się wydostać. No dalej! }
+
+Plh_328 { Do rytuału będziemy potrzebować Potężnego Dzika. }
+
+Plh_327 { Kilian, ty i Levin zajmujecie się obroną. Nie pozwólcie Nemetonowi dotrzeć do Czerwonej Wieży. }
+
+Plh_81 { Spójrz — Czerwona Wieża... Jak długo marzyłem o tej chwili... }
+
+Plh_326 { Nasza droga do wolności. }
+
+Plh_316 { Podążaj za mną! }
+
+Plh_211 { Udało nam się... }
+
+Plh_224 { ... DO CZERWONEJ WIEŻY! Udało się! }
+
+Plh_225 { Przez całe życie pracowałem na ten moment... }
+
+Plh_226 { Jero, to jest niesamowite! }
+
+Plh_227 { Uważaj. Jesteśmy pierwszymi ludźmi, którzy postawili stopę w Czerwonej Wieży od wieków. To nieznane terytorium. To tutaj zginęli Bygones. }
+
+Plh_228 { Trzymaj się blisko. }
+

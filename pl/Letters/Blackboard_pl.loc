@@ -1,0 +1,18 @@
+SearchingArena { W końcu nadszedł czas! Arena w obozie Remnants jest OTWARTA!<br><br>Jeśli chcesz walczyć o chwałę dla Nemetonu, zgłoś się do Angusa.<br>Tylko doświadczeni wojownicy! }
+
+Escort { Do wszystkich szanujących się wojowników:<br><br>Szukam osoby, która bezpiecznie, bez zadrapania, odprowadzi waszą skromną osobę do obozu Remnantów. Nie mam żadnego zastosowania dla słabeuszy. Jeśli się pojawicie i nie będziecie mieć blizn bojowych ani gigantycznej broni, możecie równie dobrze wrócić do innych dzieci w piaskownicy.<br><br>Ale jeśli dobrze radzicie sobie z eskortowaniem ludzi i skuteczną ochroną — i chcecie zarobić parę monet — przyjdźcie porozmawiać ze mną w Dzielnicy Kupców. Będę czekać za magazynem przy ognisku.<br><br>Z poważaniem<br><br>— Teigen }
+
+ButterfliesAllAround { Do wszystkich zdolnych wojowników:<br><br>Szukam kogoś, kto pomoże mi w moich badaniach w Sacred Grove. Ci, którzy wysłuchają mojej prośby, nie pożałują.<br><br>— Przymierze druidów. }
+
+Woodcamp { Most do drwali został naprawiony, a teraz znów potrzebują naszej ochrony.<br>Zgłoś się do Gerdwina, jeśli chcesz zarobić trochę monet. }
+
+Graffiti { Ktoś kręci się tu nocą, maluje na ścianach mylące napisy i w ten sposób szerzy kłamstwa po całym Nemetonie.<br>Ostatnio kamienny krąg został zdewastowany.<br><br>Ktokolwiek znajdzie winowajcę, otrzyma nagrodę w postaci $GVAR:QuestVars_Graffiti_Config.Reward$ monet.<br><br>— Gerdwin. }
+
+PlayWithKids { Wychowywanie potomstwa Nemetona to nasza wspólna odpowiedzialność. Dlatego też Twoim zadaniem jest spędzenie trochę czasu z naszymi dziećmi, Olgą i Lutenem.<br>W końcu dobrze jest, gdy dzieci spędzają czas z kimś innym niż stary druid. Spotkajmy się w pobliżu ogrodu Humberta i zagrajmy z nimi w chowanego lub berka!<br><br>Nie, nigdy nie jest się za starym, żeby się bawić!<br><br>— Helma }
+
+Traps { Do wszystkich myśliwych!<br>Ponieważ w tej chwili nie mamy nikogo, kto zna się na tworzeniu pułapek, zapłacę $GVAR:QuestVars_Traps_Config.Reward$ monet za trzy pułapki na niedźwiedzie. Po prostu przynieście je do mnie.<br><br>Z poważaniem<br><br>— Chunnaic }
+
+Fishing { Znów będziemy jeść ryby!<br>Chciałabym ugotować moją legendarną zupę rybną dla wszystkich, ale bez ryb jest to trudne. Dlatego szukam kogoś, kto chciałby wybrać się na ryby do gaju jabłkowego i złowić mi trochę basów.<br>Nagrodą będzie smaczna zupa rybna.<br><br>— Dunja }
+
+BanditsOnTheBridge { Do wszystkich wojowników Nemetonu:<br><br>Most do drwali ZNOWU jest niebezpieczny. Znikają kurierzy, przesyłki nigdy nie docierają do celu, a wśród naszego ludu szerzy się ogólne poczucie niezadowolenia.<br>Potrzebujemy wojowników z Nemetonu natychmiast, zanim znów zaczniemy tracić ludzi.<br><br>Zgłoście się do mnie w Georgefarm! Dzisiaj byłoby dobrze!<br><br>— Delani }
+

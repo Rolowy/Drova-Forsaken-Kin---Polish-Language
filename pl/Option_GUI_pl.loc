@@ -1,0 +1,282 @@
+Control { Sterownica }
+
+GameMode { Tryb gry }
+
+default { Nastawić }
+
+save { Ratować }
+
+dont_save { Nie zapisuj }
+
+cancel { Anulować }
+
+keyfield_popup { Twoje powiązania klawiszy zostały zmienione. Czy chcesz zapisać tę konfigurację? }
+
+keyfield_popup_conflict { Ta konfiguracja zawiera sprzeczne powiązania klawiszy i nie można jej zapisać. Czy chcesz kontynuować bez zapisywania? }
+
+world { Świat }
+
+category_dialog { Dialog }
+
+category_music { Muzyka }
+
+category_guimenus { Menu GUI }
+
+category_shotcuts { Różne }
+
+Label_Volume_Master { Wszystko }
+
+Label_Volume_Sound { Efekty dźwiękowe }
+
+Label_Volume_Ambience { Atmosfera }
+
+Label_Volume_UI { Interfejs użytkownika }
+
+Label_Volume_Music { Muzyka }
+
+Options { Opcje }
+
+gameplay { Rozgrywka }
+
+interface { Interfejs }
+
+video { Wideo }
+
+audio { Audio }
+
+Zoom { Brzęczenie }
+
+ShowPlayerHealth { Wyświetl pasek zdrowia gracza, pasek skupienia i inne }
+
+ShowLootFeedback { Za każdym razem, gdy Twoja postać coś podniesie, czegoś się nauczy, stanie się silniejsza lub wykona zadanie, po prawej stronie ekranu wyświetlą się dodatkowe informacje. }
+
+ShowQuickbar { Wyświetl pasek szybkiego dostępu }
+
+ShowBuffs { Wyświetl symbole cierpienia }
+
+ShowHealthVignette { Wyświetl winietę dotyczącą zdrowia }
+
+ShowOptions_Disclaimer { Zalecamy, aby podczas zabawy włączyć wszystkie te ustawienia. }
+
+ShowDirectionFeedback { Pokaż wskaźnik kierunkowy }
+
+ShowHealthbars { Wyświetl paski zdrowia }
+
+ShowStaminaBar { Wyświetl pasek wytrzymałości i amunicji }
+
+Title_Gamepad { Kontroler }
+
+Title_KeyBinds { Sterownica }
+
+Language { Język }
+
+Toggle_ShowHelp { Wyświetl samouczki }
+
+AutosaveInterval { Interwał automatycznego zapisywania }
+
+Toggle_PickUpsToQuickbar { Elementy bezpośrednio do paska szybkiego dostępu }
+
+Toggle_PickUpsToQuickbar_Heal { Przedmioty lecznicze }
+
+Toggle_PickUpsToQuickbar_Traps { Majdan }
+
+Toggle_AutoDrawWeapon { Automatyczne wyciąganie broni }
+
+Toggle_AutoEquipArrows { Automatyczne wyposażenie w amunicję }
+
+Dropdown_Resolution { Rezolucja }
+
+Toggle_WindowMode { Tryb okienkowy }
+
+Slider_FPS { Liczba klatek na sekundę }
+
+Title_Effects { Ruchomości }
+
+Slider_Screenshake { Intensywność wstrząsów ekranu }
+
+Slider_ParticleAmount { Cząsteczki }
+
+Toggle_DustParticles { Cząsteczki pyłu }
+
+Toggle_ShaderEffects { Efekty shaderów }
+
+Toggle_WindEffects { Cząsteczki wiatru }
+
+Toggle_Vibration { Wibracja }
+
+Toggle_AutoAim { Automatyczne celowanie }
+
+State_Low { Niski }
+
+State_Medium { Średni }
+
+State_High { Wysoki }
+
+Vsync { Synchronizacja pionowa }
+
+Unlimited { Nieograniczony }
+
+Title_Keyboard { Klawiatura }
+
+Option_Generic_Off { Wyłączony }
+
+Autosave_Min3 { 3 minuty }
+
+Autosave_Min5 { 5 minut }
+
+Autosave_Min10 { 10 minut }
+
+Autosave_Min20 { 20 minut }
+
+Autosave_Min30 { 30 minut }
+
+Title_FontAndDialog { Pisanie i dialog }
+
+Toggle_PickUpsToQuickbar_Food { Żywność }
+
+Toggle_PickUpsToQuickbar_Throwables { Przedmioty do rzucania }
+
+Toggle_PickUpsToQuickbar_Torches { Pochodnie }
+
+Dropdown_FontSize { Rozmiar czcionki }
+
+Dropdown_DialogSpeed { Prędkość wyświetlania tekstu }
+
+FontSize_Small { Normalna }
+
+FontSize_Medium { Duży }
+
+FontSize_Big { Bardzo duży }
+
+DialogSpeed_Instant { Natychmiast }
+
+DialogSpeed_Fast { Szybko }
+
+DialogSpeed_Slow { Normalna }
+
+Toggle_GroundFog { Mgła przyziemna }
+
+Toggle_Rain { Deszcz }
+
+Toggle_Clouds { Chmury }
+
+Toggle_TextSounds { Dźwięki pojawiają się podczas wyświetlania tekstu }
+
+Toggle_NPCDialogSounds { Dźwięki postaci }
+
+Toggle_ShowCompleteHUD { Wyświetl cały HUD }
+
+Toggle_CharacterFeedback { Wyświetlaj informacje zwrotne o postaciach }
+
+ShowDirectionFeedback_Enemies { Pokaż wskaźniki kierunkowe }
+
+ShowPoiseBar_Enemies { Wyświetl pasek postawy przeciwnika }
+
+ShowMunition { Wyświetl amunicję }
+
+Toggle_SmartQuickbar { Inteligentny pasek szybkiego dostępu }
+
+Toggle_ShowItemChanges { Wyświetl uzyskane/utracone przedmioty }
+
+Toggle_ShowDiaryChanges { Wyświetl aktualizacje dziennika }
+
+Toggle_ShowNewSpells { Wyświetlaj nowo poznane zaklęcia, przepisy i talenty }
+
+Toggle_ShowCharacterImprovements { Wyświetlanie postępu postaci }
+
+Toggle_ChangeSticks { Zamień pałeczki }
+
+Toggle_ChangeDirectionWithSticks { Zamień pad kierunkowy i standardowe przyciski akcji }
+
+Toggle_ChangeTriggers { Zamień zderzaki }
+
+Keybinding_Preset { Domyślny }
+
+KeyPreset_LeftHanded { Leworęczny }
+
+Toggle_ScrollAbilities { Zmień aktywną umiejętność za pomocą kółka myszy }
+
+Parent_BasicHudElements { Podstawowe elementy HUD }
+
+Parent_CharacterFeedback { Opinie o postaciach }
+
+Title_ScreenHUD { Elementy HUD w rogu ekranu }
+
+Title_PlayerHUD { Elementy HUD dołączone do postaci gracza }
+
+Title_EnemyHUD { Elementy HUD dołączone do postaci niezależnych }
+
+ShowNPCNames { Wyświetl nazwy postaci }
+
+KeyPresent_Standard { Domyślny }
+
+KeyPresent_Azerty { Azerty }
+
+Title_General { Ogólny }
+
+Description_SmartQuickbar { Zapamiętuje ostatni przedmiot przypisany do slotu paska szybkiego dostępu i przypisuje go ponownie po zdobyciu tego samego przedmiotu. }
+
+Toggle_CameraMode { Wyrównaj kamerę z linią wzroku }
+
+Description_CameraMode { Kamera zawsze będzie się poruszać tam, gdzie wskazuje kursor. Jeśli ta opcja została wyłączona, kamera będzie się ustawiać zgodnie z kierunkiem ruchu. }
+
+Toggle_FilterSellItems { Oznaczaj automatycznie przedmioty sprzedaży jako śmieci }
+
+Description_FilterSellItems { Automatycznie oznacza nowe przedmioty jako śmieci na sprzedaż, co powoduje, że przedmiot pojawia się w ekwipunku tylko wtedy, gdy wyświetlasz śmieci. }
+
+Dropdown_DisplayMode { Tryb ekranu }
+
+DisplayMode_Windowed { Tryb okienkowy }
+
+DisplayMode_Borderless { Tryb okienkowy bez obramowania }
+
+DisplayMode_Fullscreen { Pełny ekran }
+
+Zoom_Near { Zamknąć }
+
+Zoom_Far { Daleko }
+
+Toggle_PickUpsToQuickbar_Potions { Mikstury }
+
+Description_AutoDrawWeapon { Postać automatycznie wyciąga broń, gdy unika ciosów lub rzuca zaklęcie. }
+
+Title_WeatherEffects { Efekty pogodowe }
+
+Toggle_WindMovements { Ruch wiatru }
+
+Toggle_Quickcast { Szybkie odlewanie }
+
+AutoDrawWeapon_CombatAbilitiesOnly { Tylko umiejętności ataku }
+
+Description_Quickcast { Po naciśnięciu jednego z klawiszy umiejętności, umiejętność zostanie przełączona i (o ile włączona jest opcja szybkiego rzucania) użyta natychmiast. }
+
+Description_LookDirection { Podczas walki strzałka u stóp postaci wskazuje kierunek, w którym zwrócona jest postać. }
+
+Description_LookDIrection_NPCs { Podczas walki strzałka u stóp postaci wskazuje kierunek, w którym zwrócona jest postać. }
+
+popup_reset { Wyrzucać }
+
+FontSize_Preview { Zapowiedź }
+
+MapMarker_Player_Toggle { Pokaż pozycję na mapie }
+
+PlayerDmgReceive { Otrzymane uszkodzenia }
+
+PlayerDmgOutput { Dodatkowe zadane obrażenia }
+
+Toggle_MiniGame { Dezaktywuj minigry }
+
+MouseLock { Ogranicz mysz do okna }
+
+UseHardwareMouse { Wskaźnik myszy sprzętowej }
+
+UseAltFriendlyColor { Alternatywny kolor pasków zdrowia sojuszników }
+
+FontSize_VeryBig { Jeszcze większy }
+
+category_quickbar { Pasek szybkiego dostępu }
+
+SaveMode { Tryb zapisu }
+
+Toggle_ChallengeTimer { Pokaż licznik czasu gry }
+

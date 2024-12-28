@@ -1,0 +1,312 @@
+Plh_53 { *Duchy uwięzionych Bóstw pojawiają się przed tobą. Ich moc już nie szaleje. Jest powolna, zimna i ciemna. Kalkulująca. Osaczona.* }
+
+Plh_197 { *Czujesz, że nie witają cię jak przyjaciela. I czujesz się wyobcowany.* }
+
+Plh_54 { *Teksty Drivaniusa przelatują ci przez myśl. „Jak mogę im udowodnić, że zasługuję na ich zaufanie?”* }
+
+Plh_198 { *Po chwili uświadamiasz sobie wielką samotność, która emanuje z Bóstw i spływa na ciebie. Rozglądasz się za przyjaciółmi, ale widzisz jedynie ciemność.* }
+
+Plh_174 { *Wspomnienie delikatnie przebija się. Pisk? Słyszysz melodyjny głos: „W Schronieniu, w harmonii z Bóstwami”.* }
+
+Plh_72 { *pamiętasz o wartościach Schronienia — cnocie Harmonii* }
+
+Plh_73 { (rozejrzyj się, żeby znaleźć pomoc) }
+
+Plh_115 { Bez ciebie zginęlibyśmy w kopalni. }
+
+Plh_116 { Potrzebujemy cię w obozie Ocalałych. }
+
+Plh_118 { Polowanie z Tobą jest świetne! Dla nas! }
+
+Plh_119 { Blades of Jero zagłosują na ciebie. Witaj w obozie Remnants. }
+
+Plh_131 { Fakt, że ktoś pokonał Eugena... }
+
+Plh_133 { No cóż, to był po prostu głupi fart! }
+
+Plh_134 { Dobrze walczyłeś! }
+
+Plh_135 { Wyprawa do Lasu Pierwotnego będzie trudna. Musimy trzymać się razem. }
+
+Plh_136 { Damy radę. Jesteśmy dobrą drużyną! }
+
+Plh_137 { Za wolność! Za Jero! }
+
+Plh_138 { Jesteś jednym z najlepszych wojowników! }
+
+Plh_139 { Przyniosłeś nam Boskie Kryształy. }
+
+Plh_140 { Wolność wzywa! }
+
+Plh_130 { Witamy w obozie Ocalałych! }
+
+Plh_132 { Ładna walka! Ale wciąż masz wiele do nauczenia. }
+
+Plh_117 { Przydałby się tu ktoś mądry. }
+
+Plh_161 { *Nic nie widzisz. Nikt ci tu nie pomoże. Jesteś sam.* }
+
+Plh_171 { (zaakceptuj moc swoich wspomnień) }
+
+Plh_201 { (odśwież swoje wspomnienia) }
+
+Plh_74 { *Czujesz, że twoja samotność się rozpuszcza. Moc Bóstw teraz jaśnieje. Gdy znów płynie, postrzegasz nieomylne ciepło z niej emanujące.* }
+
+Plh_55 { *Chwilę później paraliżuje cię wątpliwość. Czy jesteś wystarczająco silny, by stawić czoła Bóstwom? Czujesz się słaby. Widok Bóstw cię przeraża.* }
+
+Plh_75 { *pamiętasz o cnocie odwagi i wszystkich wyzwaniach, z którymi się zmierzyłeś* }
+
+Plh_76 { (rozgląda się dookoła – płacze) }
+
+Plh_122 { $GVAR:EVars_Player.Name$ wygrał! }
+
+Plh_121 { Dobra walka... Z godnym zwycięzcą. }
+
+Plh_163 { POCHWAŁA $GVAR:EVars_Player.Name$! }
+
+Plh_56 { *Twoje wspomnienia Cię ożywiają. Stajesz się świadomy tego, czego doświadczyłeś. Moc Bóstw przypomina teraz delikatny wietrzyk. Ciepło Cię obejmuje.* }
+
+Plh_175 { *Bóstwa teraz czują twoją siłę. A ty wyczuwasz ich wahanie... Bóstwa poddają się tobie. Czujesz się potężny; możesz zrobić cokolwiek zechcesz.* }
+
+Plh_77 { (pamiętasz o cnocie współczucia i chwilach, kiedy mogłeś pomóc słabszym) }
+
+Plh_176 { (zmuszasz Bóstwa do podporządkowania się twojej woli, żądając ich mocy tylko dla siebie) }
+
+Plh_126 { Hej, Cay, bawiłeś się $GVAR:EVars_Player.Name$? }
+
+Plh_164 { Przeżyliśmy dzięki wam. }
+
+Plh_166 { W końcu wróciłem do Georgefarm i mogę tam pracować. }
+
+Plh_167 { Kiedy mieliśmy kłopoty, byliście przy nas! }
+
+Plh_127 { W końcu możemy znowu rąbać drewno! }
+
+Plh_168 { Ja też, ale boli mnie cholerne ramię! }
+
+Plh_169 { Dzięki tobie stan naszej siostry poprawił się. }
+
+Plh_170 { Dziękuję Ci. }
+
+Plh_57 { *Obrazy, które sobie przypominasz, zalewają cię miłością i szczęściem. Czujesz ciepło. I bezpieczeństwo.* }
+
+Plh_58 { *Moc w tobie i moc Bóstw są identyczne. Teraz to rozpoznajesz. Tak jak i one. Spoglądacie na siebie nawzajem — jak przez lustro.* }
+
+Plh_178 { Znalazłeś moje komnaty. Cieszę się. Nareszcie ktoś, kto potrafi zastosować wiedzę, którą zebrałem, wiedzę, której poświęciłem całe życie... }
+
+Plh_179 { Musiałem ukryć moje zapisy, aby nie wpadły w niepowołane ręce. Ktokolwiek je znajdzie, musi być ich godny. Zrozumieć ich znaczenie. Moi ludzie zostali wprowadzeni w błąd i — ale to już inna historia. }
+
+Plh_180 { Ale ty, $GVAR:EVars_Player.Name$, jesteś tutaj. Jesteś tego godny. Kontynuowałeś moje badania, czego ja nie zrobiłem. Zmienisz ten świat. Na lepsze. Wiem to. Żegnaj. }
+
+Plh_60 { (otworzyć oczy) }
+
+Plh_177 { *Kierujesz swoją moc ku Bóstwom... a one ulegają... tobie...* }
+
+Plh_199 { *... Ale tylko na krótko... Potem zbierają całą swoją siłę, przyćmiewają twoją i zmuszają cię do padnięcia na kolana.* }
+
+Plh_203 { *Bóstwa są silniejsze od ciebie.* }
+
+Plh_200 { *Powoli odzyskujesz przytomność...* }
+
+Plh_145 { Bez ciebie nie moglibyśmy skazać Kendricka. }
+
+Plh_144 { Teraz jesteś częścią Nemetonu. Częścią rodziny. }
+
+Plh_147 { Las Primeval jest niebezpieczny. Musimy trzymać się razem. }
+
+Plh_150 { Robimy wszystko dla naszej rodziny. Dla naszych bliskich. }
+
+Plh_148 { Nigdy więcej nie będę się bał. Jestem gotowy walczyć. }
+
+Plh_149 { Wierzę w ciebie, Karotte. I w ciebie też, $GVAR:EVars_Player.Name$! }
+
+Plh_151 { Już wstałeś, Luten! }
+
+Plh_152 { To był cios poniżej pasa! }
+
+Plh_153 { Spokojnie, dzieciaki – nie po to tu jesteśmy. }
+
+Plh_154 { Dzisiaj wszystko kręci się wokół $GVAR:EVars_Player.Name$. Teraz jesteś Strażnikiem Nemetonu! }
+
+Plh_155 { Świętujmy! }
+
+Plh_156 { Oddałeś Nemetonowi wielką przysługę... }
+
+Plh_157 { Nie tylko Nemeton, my wszyscy. }
+
+Plh_158 { Noś ten kamień runiczny z dumą. }
+
+Plh_159 { Oboje to zrobiliśmy. Gradan byłby dumny... }
+
+Plh_64 { Nareszcie jesteśmy! Naczynia runiczne są tuż przed nami. Bóstwa należą do nas! }
+
+Plh_105 { Na koniec, dzięki Bóstwom, mamy wystarczającą moc magiczną... }
+
+Plh_106 { Co — co to jest? }
+
+Plh_0 { Spójrz na to — Deathfog. Rozprzestrzenia się! }
+
+Plh_92 { Mgła Śmierci? }
+
+Plh_11 { Mgła Śmierci prawie dotarła do Nemetonu! }
+
+Plh_12 { Monolity nie są już aktywne! }
+
+Plh_13 { Krąg runiczny... Kiedyś zasilał Monolithy magiczną energią! Połączenie musiało zostać zerwane podczas walki... Teraz mgła nas pochłonie. }
+
+Plh_81 { $GVAR:EVars_Player.Name$, co powinniśmy zrobić?! }
+
+Plh_82 { Musimy przywrócić krąg runiczny! }
+
+Plh_85 { Jakiego rodzaju szkody zadaje Deathfog? }
+
+Plh_15 { To szaleństwo! Potrzebowałbym wieczności, żeby rozszyfrować jego sekrety. Przywracanie wszystkiego — nie — jesteśmy... }
+
+Plh_87 { ... zaginiony. }
+
+Plh_3 { Czy Bóstwa mogą nam w jakiś sposób pomóc? }
+
+Plh_4 { To musi być możliwe, prawda? }
+
+Plh_2 { $GVAR:EVars_Player.Name$... Tak! }
+
+Plh_19 { Mówi się, że mgła pojawiła się, gdy pojmano trzecie Bóstwo. Jeśli Bóstwa są wolne, przegonią mgłę... Być może. }
+
+Plh_88 { To mogłoby zadziałać. MUSI zadziałać. }
+
+Plh_16 { Nemeton — czy to wszystko na nic? Mój brat Jero... }
+
+Plh_20 { Uwalniamy Bóstwa. To nasza jedyna szansa. }
+
+Plh_69 { Ale czytałem, że Dawni bardzo bali się gniewu Bóstw... }
+
+Plh_21 { Potrzebujemy uwięzionych Bóstw. Tylko z nimi będziemy w stanie uratować Nemeton... }
+
+Plh_23 { Musimy uwolnić Bóstwa, albo zginiemy tu i teraz. A potem wszyscy inni w Drova! }
+
+Plh_35 { Molwina! }
+
+Plh_65 { Wszystko na nic... Ponieśliśmy porażkę. }
+
+Plh_36 { Molvina nie może się teraz zdecydować. Musimy to zrobić. Więc? }
+
+Plh_193 { Widziałem moc Divinities na własne oczy. Jeśli ich uwolnimy, zniszczą całą Drovę. Jestem tego pewien. }
+
+Plh_33 { Ale przetrwalibyśmy! W przeciwnym razie pochłonęłaby nas Mgła Śmierci! }
+
+Plh_24 { Musimy zniszczyć naczynia runiczne. Chodźmy! Nie ma czasu do stracenia! }
+
+Plh_25 { Znalazłem coś — w komnatach ostatniego przywódcy Bygones... }
+
+Plh_208 { Cholera, powinniśmy byli posłuchać Olafa. Może on i jego Ruin Raiders znaleźliby rozwiązanie. }
+
+Plh_207 { Nie mamy czasu na rozczulanie się nad sobą. Musimy zniszczyć naczynia runiczne. Chodźmy! }
+
+Plh_102 { To nasza ostatnia szansa. ZROBIJ TO! }
+
+Plh_101 { Musimy również uwolnić Potężnego Dzika. }
+
+Plh_34 { Mam ze sobą Potężnego Dzika... }
+
+Plh_66 { $GVAR:EVars_Player.Name$, ty bierzesz Mighty Boar. Reszta z nas się rozproszy — po jednym! }
+
+Plh_103 { Musimy to zrobić. Teraz! }
+
+Plh_26 { O czym mówisz? }
+
+Plh_28 { Drivaniusz skonstruował hełm, który umożliwiał mu komunikowanie się z bóstwami. }
+
+Plh_190 { Komunikować się z Bóstwami? Co dobrego to da? }
+
+Plh_195 { Może uda mi się przebłagać Bóstwa? }
+
+Plh_191 { Spróbuję. To nasza najlepsza szansa. }
+
+Plh_204 { Nie mam pojęcia, ale nikt inny nie wpadł na lepszy pomysł! }
+
+Plh_27 { Mam nadzieję, że wiesz, co robisz, $GVAR:EVars_Player.Name$... Ale spróbuj. Co jeszcze możemy zrobić? }
+
+Plh_29 { Umieść Dzika pośrodku nich i — postaraj się zachować spokój. }
+
+Plh_70 { Potrzebuję naczynia runicznego Dzika — już nawiązałem z nim kontakt. }
+
+Plh_100 { To prawda. Ale nie mamy wyboru. Jak wielki gniew skierują na nas Bóstwa, nie możemy wiedzieć. Ale w Mgle Śmierci na pewno zginiemy. }
+
+Plh_14 { Musimy szybko przywrócić krąg runiczny. W ten sposób możemy utrzymać mgłę na dystans! }
+
+Plh_86 { Zniszczy wszystko. Nas. Całe życie. Monolity trzymały to na dystans przez cały ten czas. To już koniec. Wszystko się skończyło. }
+
+Plh_90 { Nareszcie zrobione! Mamy to... }
+
+Plh_91 { Spójrz na to! Coś jest nie tak! Deathfog! }
+
+Plh_67 { Deathfog prawie dotarł do Nemetonu. Molvina... Co powinniśmy zrobić?! }
+
+Plh_1 { Co się stało? Czy Monoliths... }
+
+Plh_80 { Molvina... co teraz? }
+
+Plh_50 { *Sięgasz po naczynie z runami. Lewa ręka dotyka runy prawdy, prawa runy dobroci.* }
+
+Plh_51 { *Bierzesz głęboki oddech i skupiasz się na mocy, która leży między twoimi dłońmi.* }
+
+Plh_52 { *Relaksujesz się i wydychasz...* }
+
+Plh_8 { *Nagle ogarnia cię niepojęta furia. Wszystkie twoje mięśnie się napinają, serce wali jak młot kowalski, pulsując w całym ciele, a oddech wyrywa się jak z miecha.* }
+
+Plh_37 { (odpowiadaj na gniew, zaciskaj mocniej, krzycz) }
+
+Plh_39 { (postaraj się zachować spokój) }
+
+Plh_40 { *Gniew jest przytłaczający. Czujesz gorący strumień boskiej mocy pędzący przez twoje ramiona i ciało.* }
+
+Plh_43 { *Myśli zalewają twój umysł, rozprzestrzeniają się i cię przytłaczają.* }
+
+Plh_44 { *Wszystkie chwile, w których czułeś się bezsilny — kiedy ty lub inni zostaliście skrzywdzeni...* }
+
+Plh_45 { *Wyzwania, którym nie mogłeś sprostać. Chwile, kiedy nienawidziłeś siebie, świata i samego życia...* }
+
+Plh_46 { *Nie możesz przestać myśleć o tym, jak bezlitośnie skrzywdzono naturę i jej mieszkańców...* }
+
+Plh_47 { *Jedna myśl staje się coraz większa, aż cię pochłonie. Jesteś z powrotem w Lesie Pierwotnym, na polanie z pierwszym drzewem. Czujesz pochodzenie gniewu...* }
+
+Plh_48 { *Potężny Dzik stoi przed tobą, a wokół niego rozrzucone są niezliczone martwe dziki i prosięta. Stworzenie czuje się bezradne, słabe i pełne niepojętej wściekłości, gdy zostaje wciągnięte do naczynia w twoich rękach.* }
+
+Plh_196 { *Ciemność zapada ci w oczy* }
+
+Plh_49 { *Kiedy twoje zmysły słabną, czujesz palące gorąco między dłońmi i niekończący się krzyk wydobywający się z twojego gardła, a potem — cisza...* }
+
+Plh_61 { $GVAR:EVars_Player.Name$, czy ty to zrobiłeś? Moc boskości po prostu z ciebie promieniowała! }
+
+Plh_184 { To wszystko było takie dziwne... Ja... nie wiem, co się stało. }
+
+Plh_185 { Co się stało? Musiałeś się czegoś nauczyć! Co teraz zrobimy? }
+
+Plh_187 { Musimy zniszczyć statki! }
+
+Plh_78 { Słyszałeś! Zniszcz statki! $GVAR:EVars_Player.Name$, bierzesz Mighty Boar! }
+
+Plh_62 { Stało się. Bóstwa mi ufają. Zniszczcie naczynia. }
+
+Plh_63 { Darwin... Bóstwa spoczywają w USA. Musimy je uwolnić, teraz! }
+
+Plh_71 { Mombert, Bóstwa spoczywają w USA. Musimy je uwolnić, teraz! }
+
+Plh_42 { *Gniew jest przytłaczający. Czujesz gorący strumień boskiej mocy pędzący przez twoje ramiona i ciało.* }
+
+Plh_17 { Czy możemy użyć Divinities, aby wrócić do naszej ojczyzny? Czy nadal możemy uciec? }
+
+Plh_18 { Ja — nie mam pojęcia. Nie mogę wiedzieć tego od razu... Najpierw muszę rozgryźć, jak to działa. }
+
+Plh_111 { To możliwe... Ale będzie nas to kosztować wszystko. Może jest inna możliwość — lepsza... }
+
+Plh_110 { Jero, co powinniśmy zrobić? }
+
+Plh_112 { Jeśli uwolnimy Bóstwa, wszystko pójdzie na marne. Nigdy nie będziemy mogli wrócić do domu... }
+
+Plh_113 { Ale jeśli nic nie zrobimy, na pewno umrzemy. }
+
+Plh_114 { Musimy ich puścić. Przynajmniej nasze życie zostanie oszczędzone. }
+
+Plh_107 { Deathfog prawie dotarł do Nemetonu — pochłonie wszystko. Jero — co powinniśmy zrobić?! }
+

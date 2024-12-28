@@ -1,0 +1,166 @@
+Plh_24 { Chcę pożyczyć kilka monet. }
+
+Plh_57 { Chcę uregulować swoje długi. }
+
+Plh_104 { Już nic ci nie jestem winien. (uśmiech) }
+
+Plh_25 { Ile? }
+
+Plh_26 { Naprawdę dużo potrzebuję. }
+
+Plh_27 { Tylko kilka. }
+
+Plh_28 { Szczerze mówiąc, w tej chwili nie potrzebuję żadnych monet. }
+
+Plh_58 { Następnie przekaż monety get$GVAR:QuestVars_Debt_Config.HighAmountWithInterest$. }
+
+Plh_98 { Aż tyle?! }
+
+Plh_66 { Proszę, weź je. (Daj $GVAR:QuestVars_Debt_Config.HighAmountWithInterest$ monet) }
+
+Plh_62 { Och, nie mam tego teraz przy sobie. Przyniosę ci to później. }
+
+Plh_99 { Jeśli ci się nie podoba, nie powinieneś był pożyczać. Dość gadania. Pokaż mi pieniądze! }
+
+Plh_63 { Świetnie. Miło robić z tobą interesy. *uśmiecha się* }
+
+Plh_64 { Lepiej. I zrób to zwięźle. Nie chcesz mieć ze mną żadnych kłopotów, uwierz mi. }
+
+Plh_59 { Następnie przekaż monety get$GVAR:QuestVars_Debt_Config.LowAmountWithInterest$. }
+
+Plh_100 { To prawie dwa razy tyle! Lichwa! }
+
+Plh_61 { Proszę, weź je. (oddaj monety $GVAR:QuestVars_Debt_Config.LowAmountWithInterest$) }
+
+Plh_101 { O tak? Jeśli ci się nie podoba, to nie powinieneś był niczego pożyczać! Uwierz mi, nie chcesz się znaleźć na mojej złej stronie. }
+
+Plh_105 { Co? Twoje imię jest napisane na mojej liście. Dużymi, czarnymi literami... *grzebie w swoim stole* }
+
+Plh_106 { Lista... Miałem ją tutaj! Gdzie ona poszła?! }
+
+Plh_108 { Jak powiedziałem: nie ma dowodów, nie ma długu! }
+
+Plh_109 { *zgrzyta zębami* Jeśli dowiesz się, że masz z tym COŚ wspólnego, to czeka cię mnóstwo cierpienia, mój przyjacielu. Wtedy będziesz żałować, że jakiś rozpruwacz NAPRAWDĘ cię nie rozszarpał! }
+
+Plh_70 { Mam nadzieję, że tym razem Eugen sprowadzi wszystkich bezpiecznie z powrotem. Lindon jest jednym z moich najlepszych klientów. }
+
+Plh_71 { Jeśli Lindon nie wróci, zostanę z jego długiem. }
+
+Plh_72 { Przysięgam, że jeśli umrze, to go zabiję. }
+
+Plh_73 { Do cholery! Gdzie jest Lindon? }
+
+Plh_75 { On... Nie dał rady. }
+
+Plh_76 { Lindon nie żyje. Bóstwo go dopadło. }
+
+Plh_77 { Nie!? To... to nie może być! On nie może jeszcze umrzeć! }
+
+Plh_78 { Pożyczył ode mnie masę monet. I PRAWIE zawsze wszystko oddawał. Teraz muszę znaleźć innego frajera... }
+
+Plh_80 { Ta cholerna Boskość. }
+
+Plh_79 { Ten facet nadal jest mi winien DUŻO monet. Nigdy więcej ich nie zobaczę. }
+
+Plh_74 { To bzdura. Lindon... Ty draniu. }
+
+Plh_4 { *ignoruje cię i chodzi tam i z powrotem* }
+
+Plh_95 { Hej, zabierzcie ręce z mojego biurka! }
+
+Plh_7 { *mierzy cię wzrokiem i krzywi się* Nie musisz nic mówić. Masz to wypisane na twarzy. Dużo czy mało? }
+
+Plh_5 { ... o czym mówisz? }
+
+Plh_6 { Bardzo. }
+
+Plh_8 { Kilka. }
+
+Plh_9 { Jestem Friedel, pożyczkodawca monet. Jesteś tutaj, ponieważ prawdopodobnie potrzebujesz monet. }
+
+Plh_10 { Po prostu się rozglądałem. }
+
+Plh_11 { Ile monet możesz mi pożyczyć? }
+
+Plh_19 { Już to zrobiłeś. Potrzebujesz monet teraz czy nie? }
+
+Plh_16 { Zależy, ile chcesz być winien staremu dobremu Friedelowi. }
+
+Plh_17 { Potrzebuję dużo monet. }
+
+Plh_18 { Potrzebuję tylko kilku monet. }
+
+Plh_68 { Nie potrzebuję teraz żadnych monet. }
+
+Plh_69 { To przestań marnować mój czas. }
+
+Plh_12 { Otrzymasz ode mnie $GVAR:QuestVars_Debt_Config.LowAmount$ monet. Ani więcej, ani mniej. }
+
+Plh_23 { *Friedel otwiera jedną z szuflad swojego biurka. Wyciąga listę i kładzie ją przed tobą* Proszę, podpisz. }
+
+Plh_54 { (podpisać) }
+
+Plh_55 { Zmieniłem zdanie. Nie chcę pożyczać żadnych monet. }
+
+Plh_97 { *Podpisujesz, Friedel daje ci monety i uśmiecha się ironicznie* }
+
+Plh_30 { No więc, nasza sprawa dobiegła końca. *szybko chowa listę do szuflady* }
+
+Plh_14 { Chcę odzyskać moje monety w ciągu maksymalnie trzech dni. Nie później. I zdecydowanie radzę, żebyś oddał mi je na czas. }
+
+Plh_56 { Jeśli nie chcesz niczego pożyczać, to przestań marnować mój czas. }
+
+Plh_13 { Proszę. $GVAR:QuestVars_Debt_Config.HighAmount$ monet. To powinno wystarczyć. }
+
+Plh_111 { Powaliłeś Snake'a. Nie dostaniesz ode mnie ani jednej monety! Spadaj! }
+
+Plh_22 { Ile potrzebujesz? }
+
+Plh_103 { Moja lista dłużników! Do cholery! }
+
+Plh_29 { Pamiętaj... Jesteś mi coś winien. }
+
+Plh_81 { *Widzisz starannie zorganizowany stół, z papierami starannie ułożonymi; niektóre są otwarte, inne zwinięte razem.* }
+
+Plh_82 { (przeglądać papiery na stole) }
+
+Plh_83 { (otwórz górną szufladę) }
+
+Plh_90 { (otwórz dolną szufladę) }
+
+Plh_84 { *Dokumenty wyglądają jak umowa. Na dole jest linia na podpis, a na górze kilka linii szczegółowo opisujących warunki umowy.* }
+
+Plh_85 { *W szufladzie znajdziesz zużytą fajkę, niewielką ilość rdzawego mchu i garść monet.* }
+
+Plh_86 { (weź Rustmoss i monety) }
+
+Plh_87 { (zamknij szufladę) }
+
+Plh_89 { *Szybko chowasz przedmioty do kieszeni.* }
+
+Plh_91 { *Pergamin zawierający listę od razu przyciąga wzrok. Wymieniono tam szereg nazwisk i nominałów monet.* }
+
+Plh_92 { (weź listę) }
+
+Plh_112 { Kilian powiedział, że twoim obowiązkiem jest uczynienie ruin miejscem nadającym się do zamieszkania. }
+
+Plh_113 { Spłać dług, to porozmawiamy. }
+
+Plh_114 { Chciałbym lepsze łóżko. (oddaj $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Bed$ monety) }
+
+Plh_115 { Chciałbym stół warsztatowy. (oddaj $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Workbench$ monet) }
+
+Plh_116 { Chciałbym dymarnię. (oddaj $GVAR:QuestVars_FavourOfCraftsmenCarpenters_Config.Housing_Price_Smith$ monety) }
+
+Plh_118 { Ach, czy Kilian tak mówi? Dopiero co tu przybyłeś, a już masz swój własny dom. Ale skoro Kilian tak mówi, to musi być prawda, prawda? }
+
+Plh_119 { Jeśli masz monety, mogę ci pomóc. }
+
+Plh_120 { Wygląda dobrze. Zajmę się tym. Powinno być dostarczone jutro. }
+
+Plh_121 { Moja lista! To nie może się dziać! Ktoś musiał ją ukraść! }
+
+Plh_122 { A co z monetami? Mogę pożyczyć? }
+
+Plh_123 { Bez mojej listy nie mogę udzielić żadnych pożyczek. Do cholery. }
+

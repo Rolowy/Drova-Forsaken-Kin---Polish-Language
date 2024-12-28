@@ -1,0 +1,42 @@
+Entry_Created { Nowy wpis do dziennika }
+
+Entry_Updated { Dziennik zaktualizowany }
+
+OthersUpdated { +$JOURNAL:Inne$ Różne }
+
+Tab_Quests_Finished { Zakończony }
+
+Tab_Quests_Running { Aktualny }
+
+Tab_Letters { Beletrystyka }
+
+Group_Bandits { Najeźdźcy ruin }
+
+Group_Nemeton { Nemeton }
+
+Group_RuinCamp { Pozostałości }
+
+Group_Tavern { Tawerna }
+
+Group_Woodcamp { Drwal }
+
+Group_World { Świat }
+
+Group_Unsorted { Nieposortowane }
+
+Group_Magielager { Schronienie }
+
+Group_RedTower { Czerwona Wieża }
+
+Group_Mine { Dół }
+
+Group_MainQuest { Główne zadanie }
+
+Group_Dungeon_Library { Biblioteka }
+
+Group_Dungeon_City { Miasto w Puszczy Pierwotnej }
+
+Group_Dungeon_Auwald { Wzgórze w lesie łęgowym }
+
+Group_TreasureMaps { Mapy skarbów }
+

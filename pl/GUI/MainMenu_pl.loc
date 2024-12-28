@@ -1,0 +1,18 @@
+NewGame { Nowa gra }
+
+LoadGame { Załaduj grę }
+
+Continue { Kontynuować }
+
+Options { Opcje }
+
+QuitGame { Zrezygnować }
+
+StartGame { Start }
+
+Back { Z powrotem }
+
+Credits { Kredyty }
+
+reset_binding_texst { W łatce 1.1.0 przerobiliśmy konfigurację elementów sterujących. Oznaczało to, że musieliśmy zresetować bieżące przypisanie elementów sterujących. Jeśli dokonałeś jakichkolwiek zmian w elementach sterujących, będziesz musiał je ustawić ponownie.<br>Baw się dobrze z Drova! }
+

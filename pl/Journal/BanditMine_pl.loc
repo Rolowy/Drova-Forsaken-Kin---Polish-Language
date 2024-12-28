@@ -1,0 +1,56 @@
+Title { Zaginiony }
+
+Entry_Main_01 { Jeden z pracowników Georga zaginął, facet o imieniu Hasso. Chciał tylko na chwilę odwiedzić Headless Ripper Inn, ale nigdy nie wrócił. }
+
+Entry_Main_02 { W obozie Remnants Kora tęskni za swoim przyjacielem Baltusem. Miał zamiar pójść na piwo do Headless Ripper Inn, ale nigdy nie wrócił. }
+
+Entry_Main_03 { W obozie na południe od Ocalałych Pwyll tęskni za swoim przyjacielem Windem, który zmierzał do gospody Pod Bezgłowym Rozpruwaczem. }
+
+Entry_Main_04 { Kilku ludzi z tawerny zaginęło. Podobno kobieta z brązowymi włosami i blizną ma z tym coś wspólnego. }
+
+Entry_Main_04_01 { Podobno Hasso opuścił tawernę w nocy i udał się w kierunku Georgefarm. }
+
+Entry_OutSideFoundGuys { Grupa ludzi była przetrzymywana w kopalni na wrzosowisku. Poprosili mnie, abym pomógł im uciec stamtąd. }
+
+Entry_Main_05 { Zostałem schwytany. Wszystkie moje rzeczy zniknęły. To ten sam los, który spotkał Hasso i kilka innych zaginionych osób. }
+
+Entry_Main_06 { Bez pomocy innych wydostanie się stąd będzie trudne. Powinienem się z nimi sprzymierzyć. }
+
+Entry_Day1_01 { Moja głowa brzęczy... Ludzie tutaj czegoś szukają, a my mamy to dla nich wykopać. Hasso mówi, że powinienem pójść z nim. I cokolwiek zrobię, lepiej nie każę strażnikom czekać. }
+
+Entry_Day1_02 { Rozmawiałem z szefem porywaczy. Hasso i ja mamy oczyścić drogę. Ciekawe, czego szukają? }
+
+Entry_Day1_03 { Lanzo kazał mi usunąć gruzy. Dopiero jak skończę, pozwolą mi się położyć. A jutro będziemy kontynuować. }
+
+Entry_Day2_01 { Dzień 2: Nadal musimy oczyścić skały i gruzy. Czy to będzie trwało wiecznie? }
+
+Entry_Day2_02 { Hasso i ja odkopaliśmy pokój Bygones. Czy może być w nim coś interesującego? }
+
+Entry_Day2_03 { Odkryliśmy starą komnatę, ale w tej chwili pojawił się strażnik. Na dziś już koniec i powinienem się położyć. }
+
+Entry_Day3_01 { Dzień 3: Kończy nam się jedzenie. Zostałem obarczony zadaniem zdobycia go i zaniesienia Brunowi. Przynajmniej to zmiana rutyny... }
+
+Entry_Day3_02 { Bruna chce, żebym zdobył $GVAR:BanditMineBrutus_Config.CountMushrooms$ pospolite grzyby. Tam, gdzie rosną, powinny być też digpigi. Trochę mięsa na pewno nie zaszkodzi. }
+
+Entry_Day3_03 { Lanzo pobił Brunę. Teraz nie może już gotować... Więc, naturalnie, ja mam przygotować jutrzejsze jedzenie. }
+
+Entry_Day3_04 { Zrobione... W końcu zrobione na dziś... W końcu czas się położyć... }
+
+Entry_Day4_01 { Dzień 4: Wygląda na to, że jesteśmy całkiem blisko tego, czego szukamy. Zaraz coś przekąszę, a potem wracam do pracy. Może nas stąd wypuszczą, jak już coś znajdziemy. }
+
+Entry_Day4_01_1 { Musimy tylko uprzątnąć trochę gruzu i wtedy powinniśmy móc zobaczyć nasz cel. }
+
+Entry_Day4_02 { Strażnicy mają swój artefakt i teraz nie będą nas już potrzebować. Jeśli uda mi się przekonać Winda i Brunę, żeby wyszli razem — i jeśli jakoś uda nam się dotrzeć do zbrojowni — będziemy mogli uciec. }
+
+Entry_Main_08 { Wiatr wieje. }
+
+Entry_Main_09 { Muszę jakoś dostać się do zbrojowni. Bruna powiedziała, że ​​powinnam powiedzieć Mali, żeby jej pomogła, więc zostawi zbrojownię bez ochrony. }
+
+Entry_Main_09_1 { Bruna jest w środku. }
+
+Entry_Main_010 { No i zaczynamy. Wszyscy na raz. Czeka nas wolność! }
+
+Entry_Main_GoodEnd { Udało mi się uratować wszystkich i wydostać ich z tej jaskini. Jesteśmy wolni! }
+
+Entry_Main_KilledFawini { Fawini mnie zaatakowała, ale udało mi się obronić. Bełkotała coś o tym, że chcą mnie zabrać na wrzosowisko. Może powinnam rozejrzeć się po tym wrzosowisku. }
+
